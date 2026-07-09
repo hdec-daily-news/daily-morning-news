@@ -72,12 +72,7 @@
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_09_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
       "title": "하이닉스 '7배 뭉칫돈' 잭팟…최태원, 나스닥 '오프닝 벨' 울린다",

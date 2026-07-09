@@ -8,8 +8,15 @@
 
 주의: 이 스크립트는 개발 환경(네트워크 차단 샌드박스)에서 실사 테스트를 하지 못한 상태로 작성됨.
 네이버 뉴스 페이지 DOM 구조(선택자)가 실제와 다를 수 있으니, 첫 GitHub Actions 실행 결과 이미지를
-확인하고 CANDIDATE_SELECTORS / 캡쳐 로직을 보정해야 한다. 인포그래픽 판별 휴리스틱
-(INFOGRAPHIC_CAPTION_KEYWORDS / INFOGRAPHIC_ASPECT_RATIO)도 실제 이미지 결과를 보고 조정 필요.
+확인하고 CANDIDATE_SELECTORS / 캡쳐 로직을 보정해야 한다.
+
+인포그래픽 판별 휴리스틱 보정 이력:
+- 2026-07-09 최초 실행에서 세로형 비율만으로 판별 → 아파트 항공사진(부동산 기사)이 오탐됨
+  (실제 캡쳐 파일로 검증: flat_color_ratio ≈ 0.0009, 배경색이 거의 없어 사진임이 명확)
+  → 캡션 키워드가 없을 때는 세로형 비율 + 단색 배경 비중(_flat_color_ratio)을 함께 요구하도록 보정.
+  합성 인포그래픽 샘플로는 flat_color_ratio ≈ 0.81로 임계값(0.22)을 여유 있게 통과함을 확인.
+- 여전히 실제 네이버 인포그래픽 이미지로는 검증 못한 상태이므로, 앞으로 오탐/누락 사례가
+  보이면 INFOGRAPHIC_FLAT_COLOR_RATIO / INFOGRAPHIC_ASPECT_RATIO를 조정할 것.
 """
 import asyncio
 import json
@@ -19,6 +26,7 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
+from PIL import Image
 from playwright.async_api import async_playwright
 
 from collect_links import get_window, in_window, date_label
@@ -44,10 +52,12 @@ LIST_LINK_SELECTORS = [
 HEADER_SELECTORS = ["#ct .media_end_head", "#title_area", ".media_end_head"]
 BODY_SELECTORS = ["#dic_area", "#articleBodyContents", "#newsct_article"]
 
-# 인포그래픽/차트 판별용: 캡션(이미지 설명)에 이 키워드가 있으면 인포그래픽으로 간주
+# 인포그래픽/차트 판별용: 캡션(이미지 설명)에 이 키워드가 있으면 인포그래픽으로 간주 (단독으로도 확정 신호)
 INFOGRAPHIC_CAPTION_KEYWORDS = ["인포그래픽", "그래픽", "자료:", "자료=", "차트", "표=", "©그래픽", "일러스트"]
-# 세로로 긴 이미지(가로 대비 세로 비율)도 인포그래픽일 가능성이 높음 (여러 데이터 블록을 위아래로 쌓은 형태)
+# 캡션에 키워드가 없을 때 보조로 쓰는 조건: 세로로 긴 이미지 + 단색 배경 비중이 높음
+# (일반 사진은 색이 다양해서 최빈색 비중이 낮고, 인포그래픽/차트는 흰색·회색 배경이 넓게 깔려 최빈색 비중이 높다)
 INFOGRAPHIC_ASPECT_RATIO = 1.15
+INFOGRAPHIC_FLAT_COLOR_RATIO = 0.22
 INFOGRAPHIC_MIN_WIDTH = 300
 
 
@@ -157,17 +167,35 @@ async def _image_caption(img):
         return ""
 
 
-def _looks_like_infographic(width, height, caption):
-    if caption and any(kw in caption for kw in INFOGRAPHIC_CAPTION_KEYWORDS):
-        return True
-    if width >= INFOGRAPHIC_MIN_WIDTH and height / max(width, 1) >= INFOGRAPHIC_ASPECT_RATIO:
-        return True
-    return False
+def _flat_color_ratio(path, max_dim=80):
+    """이미지 축소본에서 가장 흔한 색이 차지하는 비율. 인포그래픽/차트는 단색 배경이
+    넓게 깔려 이 값이 높고, 일반 사진(인물/풍경/건물 등)은 색이 다양해 낮다."""
+    try:
+        im = Image.open(path).convert("RGB")
+        im.thumbnail((max_dim, max_dim))
+        colors = im.getcolors(maxcolors=1_000_000)
+        if not colors:
+            return 0.0
+        total = im.width * im.height
+        most_common = max(colors, key=lambda c: c[0])[0]
+        return most_common / total
+    except Exception:
+        return 0.0
+
+
+def _caption_says_infographic(caption):
+    return bool(caption) and any(kw in caption for kw in INFOGRAPHIC_CAPTION_KEYWORDS)
+
+
+def _shape_says_infographic(width, height):
+    return width >= INFOGRAPHIC_MIN_WIDTH and height / max(width, 1) >= INFOGRAPHIC_ASPECT_RATIO
 
 
 async def capture_infographics(body, out_prefix):
     """기사 본문 내 이미지들을 훑어 인포그래픽/차트로 보이는 것만 별도 파일로 저장한다.
-    실제 <img> 엘리먼트를 그대로 스크린샷하므로 원본 화질을 그대로 유지한다."""
+    실제 <img> 엘리먼트를 그대로 스크린샷하므로 원본 화질을 그대로 유지한다.
+    캡션에 인포그래픽 키워드가 있으면 확정, 없으면 세로형 비율 + 단색 배경 비중을 함께 봐서
+    일반 사진(부동산/인물 항공샷 등)이 오탐되는 것을 줄인다."""
     if not body:
         return []
     saved = []
@@ -177,12 +205,16 @@ async def capture_infographics(body, out_prefix):
         if not box or box["width"] < 1 or box["height"] < 1:
             continue
         caption = await _image_caption(img)
-        if not _looks_like_infographic(box["width"], box["height"], caption):
+        by_caption = _caption_says_infographic(caption)
+        if not by_caption and not _shape_says_infographic(box["width"], box["height"]):
             continue
         out_path = f"{out_prefix}_{i}.png"
         try:
             await img.screenshot(path=out_path)
         except Exception:
+            continue
+        if not by_caption and _flat_color_ratio(out_path) < INFOGRAPHIC_FLAT_COLOR_RATIO:
+            os.remove(out_path)
             continue
         saved.append({"image": out_path, "caption": caption})
     return saved
