@@ -60,22 +60,37 @@ section h2 { font-size: 18px; border-bottom: 2px solid #2563eb; padding-bottom: 
   gap: 14px;
 }
 .gallery .card {
-  display: block;
   background: #fff;
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
-  text-decoration: none;
   color: #222;
+}
+.gallery .card-thumb {
+  display: block;
+  text-decoration: none;
   -webkit-touch-callout: default;
 }
 .gallery .card img { width: 100%; display: block; }
 .gallery .card span {
   display: block;
   font-size: 12px;
-  padding: 8px;
+  padding: 8px 8px 0;
   line-height: 1.4;
 }
+.gallery .card .dl-btn {
+  display: block;
+  text-align: center;
+  margin: 8px;
+  font-size: 12px;
+  color: #2563eb;
+  background: #eaf0fe;
+  border: 1px solid #c6d7fc;
+  border-radius: 6px;
+  padding: 8px;
+  text-decoration: none;
+}
+.gallery .card .dl-btn:active { background: #d7e3fd; }
 .infographics { margin-top: 24px; }
 .infographics h2 { border-bottom-color: #f59e0b; }
 .infographic-card { border: 2px solid #f59e0b; }

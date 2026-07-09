@@ -20,7 +20,7 @@ TEMPLATE = """<!DOCTYPE html>
 
 <section class="infographics">
   <h2>📊 인포그래픽·차트 ({infographic_count}건)</h2>
-  <p class="hint">이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
+  <p class="hint">"이미지 다운로드"를 누르거나, 이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
   <div class="gallery">
     {infographics_html}
   </div>
@@ -34,7 +34,7 @@ TEMPLATE = """<!DOCTYPE html>
 
 <section class="project2">
   <h2>프로젝트2 — 네이버 메인 뉴스 캡쳐 ({image_count}건)</h2>
-  <p class="hint">이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
+  <p class="hint">"이미지 다운로드"를 누르거나, 이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
   <div class="gallery">
     {gallery_html}
   </div>
@@ -126,17 +126,26 @@ def render_sector(sector):
   </div>"""
 
 
+def _image_card(img, link, label, extra_class=""):
+    img_name = os.path.basename(img)
+    cls = f"card {extra_class}".strip()
+    return (
+        f'    <div class="{cls}">\n'
+        f'      <a class="card-thumb" href="{link}" target="_blank" rel="noopener">'
+        f'<img src="{img}" alt="{label}" loading="lazy"></a>\n'
+        f'      <span>{label}</span>\n'
+        f'      <a class="dl-btn" href="{img}" download="{img_name}">⬇ 이미지 다운로드</a>\n'
+        f'    </div>'
+    )
+
+
 def render_gallery(images):
     cards = []
     for item in images:
         img = item.get("image")
         if not img or not item.get("ok", True):
             continue
-        cards.append(
-            f'    <a class="card" href="{item["link"]}" target="_blank" rel="noopener">'
-            f'<img src="{img}" alt="{item["title"]}" loading="lazy">'
-            f'<span>{item["title"]}</span></a>'
-        )
+        cards.append(_image_card(img, item["link"], item["title"]))
     return "\n".join(cards) or "    <p>캡쳐된 이미지가 없습니다.</p>"
 
 
@@ -148,11 +157,7 @@ def render_infographics(images):
             if not img:
                 continue
             label = info.get("caption") or item.get("title", "")
-            cards.append(
-                f'    <a class="card infographic-card" href="{item["link"]}" target="_blank" rel="noopener">'
-                f'<img src="{img}" alt="{label}" loading="lazy">'
-                f'<span>{label}</span></a>'
-            )
+            cards.append(_image_card(img, item["link"], label, extra_class="infographic-card"))
     return "\n".join(cards) or "    <p>오늘은 인포그래픽/차트가 발견되지 않았습니다.</p>", len(cards)
 
 
