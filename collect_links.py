@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 프로젝트1: 링크+헤드라인 수집
-네이버 뉴스 검색 API로 4개 섹터 기사를 수집하고, 전일 22:00~당일 08:00(KST) 시간필터를 적용한다.
+네이버 뉴스 검색 API로 4개 섹터 기사를 수집하고, 전일 22:00~당일 06:00(KST) 시간필터를 적용한다.
 출력: data/links.json (build_page.py / build_excel.py에서 사용)
 """
 import json
@@ -57,11 +57,11 @@ WEEKDAY_KR = ["월", "화", "수", "목", "금", "토", "일"]
 
 
 def get_window(now=None):
-    """전일 22:00 ~ 당일 08:00 (KST) 윈도우 계산.
-    실행 시각이 08:00 이전이면(당일 08:00이 아직 안 왔으면) 그냥 현재 시각까지로 잘라준다.
+    """전일 22:00 ~ 당일 06:00 (KST) 윈도우 계산.
+    실행 시각이 06:00 이전이면(당일 06:00이 아직 안 왔으면) 그냥 현재 시각까지로 잘라준다.
     """
     now = now or datetime.now(KST)
-    end = now.replace(hour=8, minute=0, second=0, microsecond=0)
+    end = now.replace(hour=6, minute=0, second=0, microsecond=0)
     if now < end:
         end = now
     start = (end - timedelta(days=1)).replace(hour=22, minute=0, second=0, microsecond=0)
