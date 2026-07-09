@@ -63,5 +63,6 @@ python build_page.py
 
 ## 스케줄
 
-`.github/workflows/daily-update.yml` — 매일 23:10 UTC(=08:10 KST) 자동 실행.
-시간 조정하고 싶으면 해당 파일의 `cron` 값을 수정.
+`.github/workflows/daily-update.yml` — 매일 21:03 UTC(=06:03 KST) 자동 실행, 06:30 KST까지 게시 완료 목표.
+뉴스 시간필터는 전일 22:00~당일 06:00(KST). 시간 조정하고 싶으면 해당 파일의 `cron` 값과
+`collect_links.py`의 `get_window()`를 함께 수정.
