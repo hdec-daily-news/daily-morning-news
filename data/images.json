@@ -1,162 +1,167 @@
 {
-  "generated_at": "2026-07-09T15:25:30.894434+09:00",
+  "generated_at": "2026-07-09T15:42:43.144729+09:00",
   "date_label": "7/9(목)",
   "articles": [
     {
-      "title": "李대통령 '한-몽골 비즈니스 포럼' 참석…구자은·장인화 회장 동석",
-      "link": "https://n.news.naver.com/mnews/article/421/0009049447",
+      "title": "정몽규·홍명보·박지성·손흥민까지…문체위 축구협회 청문회 22일 개최",
+      "link": "https://n.news.naver.com/mnews/article/016/0002668034",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "장윤기 사건이 던진 숙제…'보완수사권 폐지' 보완책 고심하는 與",
-      "link": "https://n.news.naver.com/mnews/article/421/0009049785",
+      "title": "민주당 을지로위원회, MBK·메리츠에 ‘홈플러스 파산저지’ 1000억 수혈 요구",
+      "link": "https://n.news.naver.com/mnews/article/016/0002667990",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "종합특검 “수사관이 공소유지”… 법사위 전문위원 “현행법 충돌”",
-      "link": "https://n.news.naver.com/mnews/article/021/0002803539",
+      "title": "與전준위 \"선호투표제, 당헌·당규 위반으로 보기 어려워\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016185589",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "민주 홍기원 “피해자 최소화하는 수준 보완수사권 남겨둘 여지는? 숙의 거쳐야”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012214100",
+      "title": "15년 만에 몽골 '국빈' 방문...오늘 한-몽 정상회담",
+      "link": "https://n.news.naver.com/mnews/article/052/0002376841",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“서남권 반도체 클러스터, 검증의 흔적이 없다”",
-      "link": "https://n.news.naver.com/mnews/article/082/0001389060",
+      "title": "[단독] 이런데도 ‘보완수사권 폐지’ 밀어붙이는 與",
+      "link": "https://n.news.naver.com/mnews/article/005/0001859812",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"미래과학기술 인재 육성한다\"…DGIST·기업은행 맞손 등[대구소식]",
-      "link": "https://n.news.naver.com/mnews/article/003/0014056443",
+      "title": "박홍근 \"추가세수로 미래대응기금 신설…청년·지방인재 투자\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009049607",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "1~5월 나라살림 적자 54.2조…\"반도체로 벌어 고유가 지원금으로 썼다\"",
-      "link": "https://n.news.naver.com/mnews/article/277/0005787684",
+      "title": "종부세 공정시장가액비율 80% 땐 주택분 보유세 10조원 넘는다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006325846",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "서울 아파트값 상승률 소폭 확대…경기 남부 ‘반도체 벨트’ 강세",
-      "link": "https://n.news.naver.com/mnews/article/056/0012214854",
+      "title": "\"미래를 짓는 K건설\"…9일 '2026년 건설의 날' 기념행사",
+      "link": "https://n.news.naver.com/mnews/article/079/0004166468",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "지역 포용금융 확대 나선 금융위…우체국 은행대리업·공동대출 도입",
-      "link": "https://n.news.naver.com/mnews/article/119/0003109764",
+      "title": "\"주택가격 상승으로 시장 심리 개선\"…7월 전국 아파트 입주전망지수 대폭 상승",
+      "link": "https://n.news.naver.com/mnews/article/277/0005787732",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_09_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "고유가 이긴 반도체… IMF, 韓 올해 성장률 가장 크게 올렸다",
-      "link": "https://n.news.naver.com/mnews/article/005/0001859854",
+      "title": "하이닉스 '7배 뭉칫돈' 잭팟…최태원, 나스닥 '오프닝 벨' 울린다",
+      "link": "https://n.news.naver.com/mnews/article/015/0005307970",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'피습 자작극 혐의' 정이한…\"선거 위해 범행 꾸며\" 시인",
-      "link": "https://n.news.naver.com/mnews/article/003/0014056716",
+      "title": "장윤기 사건 수사팀장 구속…'증거 인멸·도주 우려'",
+      "link": "https://n.news.naver.com/mnews/article/047/0002521954",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "기초연금 온라인 신청, 10월부터 편리해진다",
-      "link": "https://n.news.naver.com/mnews/article/014/0005546043",
+      "title": "교육부, 지방대 학생 정원 유연화 추진…'3대 메가 프로젝트 지원'",
+      "link": "https://n.news.naver.com/mnews/article/422/0000883301",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 경북 문경 영강일대 홍수경보 심각단계…범람대비",
-      "link": "https://n.news.naver.com/mnews/article/422/0000883222",
+      "title": "윤석열 '체포방해·계엄 국무회의 하자' 징역 7년 확정",
+      "link": "https://n.news.naver.com/mnews/article/214/0001510621",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대법 “CJ대한통운, 택배노조와 단체교섭 의무 없어”…구법 적용",
-      "link": "https://n.news.naver.com/mnews/article/025/0003536462",
+      "title": "안전은 시스템이었다… 부산교통공사, 재난관리평가 최고등급",
+      "link": "https://n.news.naver.com/mnews/article/277/0005787622",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'윤석열 사건' 첫 대법 판결‥'체포방해' 선고",
-      "link": "https://n.news.naver.com/mnews/article/214/0001510547",
+      "title": "'선처 호소' 다음날 재심 청구‥\"광주가 보여준 품격\" 변수 될까",
+      "link": "https://n.news.naver.com/mnews/article/214/0001510436",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘워시 체제’ 첫 FOMC 의사록 “일부위원, 금리인상 검토 언급”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002668013",
+      "title": "미, 이란 재공습…이란 \"대규모 공격 감행할 것\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000883172",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란 암살시도 우려했나…트럼프 귀국길에 전용기 갈아타",
-      "link": "https://n.news.naver.com/mnews/article/003/0014056372",
+      "title": "트럼프 “이란, 전화 걸어와…합의 간절히 원해”…‘공격 종료 때 늘 하던 방식’",
+      "link": "https://n.news.naver.com/mnews/article/029/0003036223",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미국, 대이란 추가작전 완료…“해안 군사표적 약 90개 타격”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012214825",
+      "title": "\"이란 남부 반다르아바스·시리크에서 연쇄 폭발음\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002376815",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 또 ‘말실수’…이번엔 “일본 이슬람공화국이 미사일 발사”",
-      "link": "https://n.news.naver.com/mnews/article/081/0003659758",
+      "title": "중국, 자국 AI기업에 엔비디아 H200 구매 허용",
+      "link": "https://n.news.naver.com/mnews/article/469/0000941243",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "호르무즈 못 놓는 이란...미국과 무력 충돌 상시화 전망",
-      "link": "https://n.news.naver.com/mnews/article/052/0002376594",
+      "title": "中 6월 CPI 전년비 1% 상승…PPI는 4.1% 상승",
+      "link": "https://n.news.naver.com/mnews/article/008/0005383646",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
