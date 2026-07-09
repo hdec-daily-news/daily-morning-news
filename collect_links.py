@@ -79,22 +79,51 @@ def clean_html(text):
     )
 
 
-def search_naver(query, display=100):
+def search_naver_page(query, start_idx, display=100):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {
         "X-Naver-Client-Id": NAVER_CLIENT_ID,
         "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
     }
-    params = {"query": query, "display": display, "sort": "date"}
+    params = {"query": query, "display": display, "start": start_idx, "sort": "date"}
     r = requests.get(url, headers=headers, params=params, timeout=15)
     r.raise_for_status()
     return r.json().get("items", [])
 
 
-def in_window(pubdate_str, start, end):
+def parse_pubdate(pubdate_str):
     try:
-        dt = parsedate_to_datetime(pubdate_str).astimezone(KST)
+        return parsedate_to_datetime(pubdate_str).astimezone(KST)
     except Exception:
+        return None
+
+
+def search_naver_window(query, window_start, max_start=1000, page_size=100):
+    """검색 결과를 sort=date로 페이지네이션하며, pubDate가 window_start보다
+    오래된 기사가 나오면 더 뒤져봐야 소용없으므로 조기 종료한다.
+    (실행 시각이 늦어져 윈도우 기사가 최신 100건 밖으로 밀려도 안전하게 수집한다.)
+    """
+    items = []
+    start_idx = 1
+    while start_idx <= max_start:
+        try:
+            page = search_naver_page(query, start_idx, page_size)
+        except Exception as e:
+            print(f"[WARN] '{query}' 검색 실패(start={start_idx}): {e}")
+            break
+        if not page:
+            break
+        items.extend(page)
+        oldest_in_page = parse_pubdate(page[-1]["pubDate"])
+        if oldest_in_page and oldest_in_page < window_start:
+            break
+        start_idx += page_size
+    return items
+
+
+def in_window(pubdate_str, start, end):
+    dt = parse_pubdate(pubdate_str)
+    if dt is None:
         return False
     return start <= dt <= end
 
@@ -106,11 +135,8 @@ def collect(now=None):
     for sector in SECTORS:
         articles = []
         for q in sector["queries"]:
-            try:
-                items = search_naver(q)
-            except Exception as e:
-                print(f"[WARN] '{q}' 검색 실패: {e}")
-                continue
+            items = search_naver_window(q, start)
+            print(f"[INFO] '{q}' 검색 결과 {len(items)}건 조회(윈도우 조기종료 포함)")
             for item in items:
                 link = item.get("link") or item.get("originallink")
                 if not link or link in seen_links:
