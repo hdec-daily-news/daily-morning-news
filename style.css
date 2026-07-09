@@ -76,6 +76,9 @@ section h2 { font-size: 18px; border-bottom: 2px solid #2563eb; padding-bottom: 
   padding: 8px;
   line-height: 1.4;
 }
+.infographics { margin-top: 24px; }
+.infographics h2 { border-bottom-color: #f59e0b; }
+.infographic-card { border: 2px solid #f59e0b; }
 .toast {
   position: fixed;
   left: 50%;

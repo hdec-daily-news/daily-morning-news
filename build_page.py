@@ -18,6 +18,14 @@ TEMPLATE = """<!DOCTYPE html>
   <p class="download"><a href="output/latest.xlsx">엑셀 다운로드</a></p>
 </header>
 
+<section class="infographics">
+  <h2>📊 인포그래픽·차트 ({infographic_count}건)</h2>
+  <p class="hint">이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
+  <div class="gallery">
+    {infographics_html}
+  </div>
+</section>
+
 <section class="project1">
   <h2>프로젝트1 — 정치·정당·경제 주요기사</h2>
   <button class="copy-btn copy-all" data-copy-target="copy-all-text" type="button">📋 전체 복사 (카톡용)</button>
@@ -132,6 +140,22 @@ def render_gallery(images):
     return "\n".join(cards) or "    <p>캡쳐된 이미지가 없습니다.</p>"
 
 
+def render_infographics(images):
+    cards = []
+    for item in images:
+        for info in item.get("infographics", []):
+            img = info.get("image")
+            if not img:
+                continue
+            label = info.get("caption") or item.get("title", "")
+            cards.append(
+                f'    <a class="card infographic-card" href="{item["link"]}" target="_blank" rel="noopener">'
+                f'<img src="{img}" alt="{label}" loading="lazy">'
+                f'<span>{label}</span></a>'
+            )
+    return "\n".join(cards) or "    <p>오늘은 인포그래픽/차트가 발견되지 않았습니다.</p>", len(cards)
+
+
 def main():
     with open("data/links.json", encoding="utf-8") as f:
         links_data = json.load(f)
@@ -144,6 +168,7 @@ def main():
     sectors_html = "\n".join(render_sector(s) for s in links_data["sectors"])
     gallery_html = render_gallery(images_data.get("articles", []))
     ok_images = [a for a in images_data.get("articles", []) if a.get("ok", True) and a.get("image")]
+    infographics_html, infographic_count = render_infographics(images_data.get("articles", []))
 
     sector_texts = {f"sector-{s['key']}": sector_copy_text(s) for s in links_data["sectors"]}
     all_text = f"{links_data['date_label']} 일일 정치 주요뉴스\n\n" + "\n\n".join(
@@ -158,6 +183,8 @@ def main():
         sectors_html=sectors_html,
         gallery_html=gallery_html,
         image_count=len(ok_images),
+        infographics_html=infographics_html,
+        infographic_count=infographic_count,
         copy_data_json=json.dumps(copy_data, ensure_ascii=False).replace("</", "<\\/"),
     )
     with open("index.html", "w", encoding="utf-8") as f:
