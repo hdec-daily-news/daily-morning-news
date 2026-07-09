@@ -19,11 +19,13 @@ KST = ZoneInfo("Asia/Seoul")
 # 보안을 위해 코드에 직접 하드코딩하지 않는다. GitHub repo Settings > Secrets and variables > Actions 에
 # NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 를 등록해서 사용한다 (README 참고).
 # 로컬 테스트 시에는 환경변수로 export 하거나 .env 파일(git 추적 제외)을 사용할 것.
-NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "")
-NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
+NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "").strip()
+NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
 
 if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
     print("[WARN] NAVER_CLIENT_ID/SECRET 환경변수가 설정되지 않았습니다. API 호출이 실패할 수 있습니다.")
+else:
+    print(f"[INFO] NAVER_CLIENT_ID 길이={len(NAVER_CLIENT_ID)}, NAVER_CLIENT_SECRET 길이={len(NAVER_CLIENT_SECRET)}")
 
 SECTORS = [
     {"key": "politics_main", "label": "정치 관련 주요기사", "queries": ["정치", "국회", "여야"], "count": 6},
