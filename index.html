@@ -15,26 +15,39 @@
 
 <section class="project1">
   <h2>프로젝트1 — 정치·정당·경제 주요기사</h2>
+  <button class="copy-btn copy-all" data-copy-target="copy-all-text" type="button">📋 전체 복사 (카톡용)</button>
     <div class="sector">
-    <h3>① 정치 관련 주요기사</h3>
+    <div class="sector-head">
+      <h3>① 정치 관련 주요기사</h3>
+      <button class="copy-btn" data-copy-target="sector-politics_main" type="button">복사</button>
+    </div>
     <ul>
     <li class="empty">(해당 시간대 기사 없음)</li>
     </ul>
   </div>
   <div class="sector">
-    <h3>② 더불어민주당 동정</h3>
+    <div class="sector-head">
+      <h3>② 더불어민주당 동정</h3>
+      <button class="copy-btn" data-copy-target="sector-dp" type="button">복사</button>
+    </div>
     <ul>
     <li class="empty">(해당 시간대 기사 없음)</li>
     </ul>
   </div>
   <div class="sector">
-    <h3>③ 국민의힘 동정</h3>
+    <div class="sector-head">
+      <h3>③ 국민의힘 동정</h3>
+      <button class="copy-btn" data-copy-target="sector-ppp" type="button">복사</button>
+    </div>
     <ul>
     <li class="empty">(해당 시간대 기사 없음)</li>
     </ul>
   </div>
   <div class="sector">
-    <h3>④ 경제 동정</h3>
+    <div class="sector-head">
+      <h3>④ 경제 동정</h3>
+      <button class="copy-btn" data-copy-target="sector-economy" type="button">복사</button>
+    </div>
     <ul>
     <li class="empty">(해당 시간대 기사 없음)</li>
     </ul>
@@ -43,6 +56,7 @@
 
 <section class="project2">
   <h2>프로젝트2 — 네이버 메인 뉴스 캡쳐 (20건)</h2>
+  <p class="hint">이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
   <div class="gallery">
         <a class="card" href="https://n.news.naver.com/mnews/article/422/0000883280" target="_blank" rel="noopener"><img src="images/article_01.png" alt="민주당 "검찰 보완수사권이 장윤기 사건 해결방안 아냐"" loading="lazy"><span>민주당 "검찰 보완수사권이 장윤기 사건 해결방안 아냐"</span></a>
     <a class="card" href="https://n.news.naver.com/mnews/article/014/0005545888" target="_blank" rel="noopener"><img src="images/article_02.png" alt="보수 원로 "장동혁 즉각 사퇴하고, 한동훈 당권 도전말라" 서릿발 직언" loading="lazy"><span>보수 원로 "장동혁 즉각 사퇴하고, 한동훈 당권 도전말라" 서릿발 직언</span></a>
@@ -70,5 +84,51 @@
 <footer>
   <p>자동 생성 · Daily Morning News · 매일 GitHub Actions로 갱신</p>
 </footer>
+
+<div id="copy-toast" class="toast" hidden>복사됨!</div>
+<script id="copy-data" type="application/json">{"sector-politics_main": "① 정치 관련 주요기사\n(해당 시간대 기사 없음)", "sector-dp": "② 더불어민주당 동정\n(해당 시간대 기사 없음)", "sector-ppp": "③ 국민의힘 동정\n(해당 시간대 기사 없음)", "sector-economy": "④ 경제 동정\n(해당 시간대 기사 없음)", "copy-all-text": "7/9(목) 일일 정치 주요뉴스\n\n① 정치 관련 주요기사\n(해당 시간대 기사 없음)\n\n② 더불어민주당 동정\n(해당 시간대 기사 없음)\n\n③ 국민의힘 동정\n(해당 시간대 기사 없음)\n\n④ 경제 동정\n(해당 시간대 기사 없음)"}</script>
+<script>
+(function () {
+  var data = JSON.parse(document.getElementById("copy-data").textContent);
+  var toast = document.getElementById("copy-toast");
+  function showToast() {
+    toast.hidden = false;
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(function () { toast.hidden = true; }, 1500);
+  }
+  function fallbackCopy(text) {
+    var ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+    document.body.removeChild(ta);
+    return ok;
+  }
+  document.querySelectorAll(".copy-btn").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var key = btn.getAttribute("data-copy-target");
+      var text = data[key] || "";
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(showToast, function () {
+          if (fallbackCopy(text)) {
+            showToast();
+          } else {
+            alert("복사에 실패했습니다. 아래 텍스트를 직접 선택해 복사해주세요:\n\n" + text);
+          }
+        });
+      } else if (fallbackCopy(text)) {
+        showToast();
+      } else {
+        alert("복사에 실패했습니다. 아래 텍스트를 직접 선택해 복사해주세요:\n\n" + text);
+      }
+    });
+  });
+})();
+</script>
 </body>
 </html>
