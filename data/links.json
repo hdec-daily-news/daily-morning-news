@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-07-09T10:00:00+09:00",
+  "window_start": "2026-07-08T22:00:00+09:00",
+  "window_end": "2026-07-09T08:00:00+09:00",
+  "date_label": "7/9(목)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치"
+      ],
+      "articles": [
+        {
+          "title": "與, 이달 중 메가특구특별법 발의",
+          "link": "https://n.news.naver.com/mnews/article/016/0000000001",
+          "pubDate": "Wed, 09 Jul 2026 07:10:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": []
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": []
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": []
+    }
+  ]
+}

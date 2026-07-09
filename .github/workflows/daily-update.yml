@@ -1,0 +1,50 @@
+name: Daily Morning News Update
+
+on:
+  schedule:
+    # 매일 23:10 UTC = 08:10 KST (전일 22:00~당일 08:00 필터가 끝난 직후 실행)
+    - cron: '10 23 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Collect links (project 1)
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python collect_links.py
+
+      - name: Build Excel (project 1)
+        run: python build_excel.py
+
+      - name: Capture screenshots (project 2)
+        run: python capture_images.py
+
+      - name: Build page
+        run: python build_page.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Daily update $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push

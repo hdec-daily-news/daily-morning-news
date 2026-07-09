@@ -1,0 +1,51 @@
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 16px 60px;
+  color: #222;
+  background: #fafafa;
+}
+header h1 { margin-bottom: 4px; font-size: 24px; }
+header .date { color: #666; font-size: 13px; margin: 0 0 6px; }
+header .download a {
+  display: inline-block;
+  font-size: 13px;
+  color: #fff;
+  background: #2563eb;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+section { margin-top: 32px; }
+section h2 { font-size: 18px; border-bottom: 2px solid #2563eb; padding-bottom: 6px; }
+.sector { margin: 18px 0; }
+.sector h3 { font-size: 15px; margin-bottom: 6px; }
+.sector ul { list-style: none; margin: 0; padding: 0; }
+.sector li { padding: 6px 0; border-bottom: 1px dashed #ddd; font-size: 14px; }
+.sector li a { color: #1a4fb0; text-decoration: none; }
+.sector li a:hover { text-decoration: underline; }
+.sector li.empty { color: #999; font-style: italic; }
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+.gallery .card {
+  display: block;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #222;
+}
+.gallery .card img { width: 100%; display: block; }
+.gallery .card span {
+  display: block;
+  font-size: 12px;
+  padding: 8px;
+  line-height: 1.4;
+}
+footer { margin-top: 48px; font-size: 12px; color: #999; text-align: center; }
