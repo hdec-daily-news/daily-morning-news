@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:05:46.345131+09:00",
+  "generated_at": "2026-07-09T15:16:12.465973+09:00",
   "window_start": "2026-07-08T22:00:00+09:00",
   "window_end": "2026-07-09T08:00:00+09:00",
   "date_label": "7/9(목)",
@@ -12,7 +12,38 @@
         "국회",
         "여야"
       ],
-      "articles": []
+      "articles": [
+        {
+          "title": "7월8일 모닝뉴스 헤드라인",
+          "link": "https://www.radiokorea.com/news/article.php?uid=498847",
+          "pubDate": "Wed, 08 Jul 2026 23:50:00 +0900"
+        },
+        {
+          "title": "조경태 \"국힘 50%가 친윤…내란 옹호 세력 물갈이해야",
+          "link": "https://n.news.naver.com/mnews/article/018/0006325649?sid=100",
+          "pubDate": "Wed, 08 Jul 2026 23:46:00 +0900"
+        },
+        {
+          "title": "[홍태화의 USA 인사이트] 앞으로 4년은 차기 대통령의 ‘외교 예습’ 기...",
+          "link": "https://n.news.naver.com/mnews/article/023/0003986521?sid=103",
+          "pubDate": "Wed, 08 Jul 2026 23:41:00 +0900"
+        },
+        {
+          "title": "원 구성 공회전에도 민주당은 간다…'단독 국회' 본격 가동",
+          "link": "https://n.news.naver.com/mnews/article/119/0003109485?sid=100",
+          "pubDate": "Wed, 08 Jul 2026 23:00:00 +0900"
+        },
+        {
+          "title": "\"재검표\" 이구동성 외쳤지만...절차 두곤 '동상이몽'",
+          "link": "https://n.news.naver.com/mnews/article/052/0002376726?sid=100",
+          "pubDate": "Wed, 08 Jul 2026 22:58:00 +0900"
+        },
+        {
+          "title": "[미리보는 이데일리 신문] 부모님 찬스 없으면 서울 전세도 못산다",
+          "link": "https://n.news.naver.com/mnews/article/018/0006325644?sid=101",
+          "pubDate": "Wed, 08 Jul 2026 22:47:00 +0900"
+        }
+      ]
     },
     {
       "key": "dp",
