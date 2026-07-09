@@ -19,11 +19,30 @@ KST = ZoneInfo("Asia/Seoul")
 # 보안을 위해 코드에 직접 하드코딩하지 않는다. GitHub repo Settings > Secrets and variables > Actions 에
 # NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 를 등록해서 사용한다 (README 참고).
 # 로컬 테스트 시에는 환경변수로 export 하거나 .env 파일(git 추적 제외)을 사용할 것.
-NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "").strip()
-NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
+def _sanitize_key(raw):
+    """헤더 값으로 쓸 수 없는 개행/제어문자를 전부 제거한다(양끝뿐 아니라 중간에 섞여 있어도 제거)."""
+    return re.sub(r"[\r\n\t\x00-\x1f\x7f]", "", raw).strip()
 
-print(f"[INFO] NAVER_CLIENT_ID 비어있음={not NAVER_CLIENT_ID} (길이={len(NAVER_CLIENT_ID)})")
-print(f"[INFO] NAVER_CLIENT_SECRET 비어있음={not NAVER_CLIENT_SECRET} (길이={len(NAVER_CLIENT_SECRET)})")
+
+def _diagnose(name, raw, cleaned):
+    """실제 값은 절대 출력하지 않고, 문제 원인만 안전하게 로그로 남긴다."""
+    flags = []
+    if len(raw) != len(cleaned):
+        flags.append(f"제어문자/개행 {len(raw) - len(cleaned)}자 제거됨")
+    if raw != raw.strip():
+        flags.append("앞뒤 공백 있음")
+    if "\n" in raw or "\r" in raw:
+        flags.append("개행문자 포함")
+    print(f"[INFO] {name} 길이(정제전/후)={len(raw)}/{len(cleaned)} 문제={flags or '없음'}")
+
+
+_RAW_ID = os.environ.get("NAVER_CLIENT_ID", "")
+_RAW_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
+NAVER_CLIENT_ID = _sanitize_key(_RAW_ID)
+NAVER_CLIENT_SECRET = _sanitize_key(_RAW_SECRET)
+
+_diagnose("NAVER_CLIENT_ID", _RAW_ID, NAVER_CLIENT_ID)
+_diagnose("NAVER_CLIENT_SECRET", _RAW_SECRET, NAVER_CLIENT_SECRET)
 if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
     print("[WARN] NAVER_CLIENT_ID/SECRET 환경변수가 설정되지 않았습니다. API 호출이 실패할 수 있습니다.")
 
