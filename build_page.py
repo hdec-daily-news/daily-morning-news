@@ -2,6 +2,7 @@
 """data/links.json + data/images.json → index.html (GitHub Pages 게시용)"""
 import json
 import os
+import zipfile
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="ko">
@@ -15,7 +16,10 @@ TEMPLATE = """<!DOCTYPE html>
 <header>
   <h1>일일 정치 주요뉴스</h1>
   <p class="date">{date_label} · 기준 {window_start} ~ {window_end}</p>
-  <p class="download"><a href="output/latest.xlsx">엑셀 다운로드</a></p>
+  <p class="download">
+    <a href="output/latest.xlsx">엑셀 다운로드</a>
+    <a href="output/images.zip">📦 이미지 전체 일괄 다운로드 ({total_image_count}장)</a>
+  </p>
 </header>
 
 <section class="infographics">
@@ -161,6 +165,24 @@ def render_infographics(images):
     return "\n".join(cards) or "    <p>오늘은 인포그래픽/차트가 발견되지 않았습니다.</p>", len(cards)
 
 
+def build_images_zip(articles, out_path):
+    """캡쳐 이미지 + 인포그래픽을 모두 모아 ZIP 하나로 묶는다 (모바일에서 원탭 일괄 다운로드용)."""
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    count = 0
+    with zipfile.ZipFile(out_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for item in articles:
+            img = item.get("image")
+            if img and item.get("ok", True) and os.path.exists(img):
+                zf.write(img, arcname=os.path.basename(img))
+                count += 1
+            for info in item.get("infographics", []):
+                info_img = info.get("image")
+                if info_img and os.path.exists(info_img):
+                    zf.write(info_img, arcname=f"infographics/{os.path.basename(info_img)}")
+                    count += 1
+    return count
+
+
 def main():
     with open("data/links.json", encoding="utf-8") as f:
         links_data = json.load(f)
@@ -174,6 +196,7 @@ def main():
     gallery_html = render_gallery(images_data.get("articles", []))
     ok_images = [a for a in images_data.get("articles", []) if a.get("ok", True) and a.get("image")]
     infographics_html, infographic_count = render_infographics(images_data.get("articles", []))
+    total_image_count = build_images_zip(images_data.get("articles", []), "output/images.zip")
 
     sector_texts = {f"sector-{s['key']}": sector_copy_text(s) for s in links_data["sectors"]}
     all_text = f"{links_data['date_label']} 일일 정치 주요뉴스\n\n" + "\n\n".join(
@@ -190,6 +213,7 @@ def main():
         image_count=len(ok_images),
         infographics_html=infographics_html,
         infographic_count=infographic_count,
+        total_image_count=total_image_count,
         copy_data_json=json.dumps(copy_data, ensure_ascii=False).replace("</", "<\\/"),
     )
     with open("index.html", "w", encoding="utf-8") as f:
