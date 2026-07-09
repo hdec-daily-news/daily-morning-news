@@ -160,8 +160,21 @@ def date_label(dt):
     return f"{dt.month}/{dt.day}({WEEKDAY_KR[dt.weekday()]})"
 
 
+def _now_override():
+    """테스트/검증용: NOW_OVERRIDE 환경변수(ISO 8601, 예: 2026-07-09T06:05:00+09:00)가 설정되면
+    실제 시각 대신 그 시각 기준으로 윈도우를 계산한다. 실제 스케줄 실행 시에는 설정하지 않는다."""
+    raw = os.environ.get("NOW_OVERRIDE", "").strip()
+    if not raw:
+        return None
+    dt = datetime.fromisoformat(raw)
+    return dt if dt.tzinfo else dt.replace(tzinfo=KST)
+
+
 def main():
-    start, end, data = collect()
+    now = _now_override()
+    if now:
+        print(f"[INFO] NOW_OVERRIDE 적용: {now.isoformat()}")
+    start, end, data = collect(now)
     os.makedirs("data", exist_ok=True)
 
     out = {

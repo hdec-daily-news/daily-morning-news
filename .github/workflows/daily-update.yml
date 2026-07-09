@@ -4,7 +4,12 @@ on:
   schedule:
     # 매일 21:03 UTC = 06:03 KST (전일 22:00~당일 06:00 필터가 끝난 직후 실행, 06:30 완성 목표로 27분 여유)
     - cron: '3 21 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      now_override:
+        description: '테스트용 실행 시각 override (ISO 8601, 예: 2026-07-09T06:05:00+09:00). 비워두면 실제 시각 사용.'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -30,12 +35,15 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python collect_links.py
 
       - name: Build Excel (project 1)
         run: python build_excel.py
 
       - name: Capture screenshots (project 2)
+        env:
+          NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python capture_images.py
 
       - name: Build page

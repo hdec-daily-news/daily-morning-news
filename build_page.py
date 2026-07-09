@@ -18,7 +18,6 @@ TEMPLATE = """<!DOCTYPE html>
   <p class="date">{date_label} · 기준 {window_start} ~ {window_end}</p>
   <p class="download">
     <a href="output/latest.xlsx">엑셀 다운로드</a>
-    <a href="output/images.zip">📦 이미지 전체 일괄 다운로드 ({total_image_count}장)</a>
   </p>
 </header>
 
@@ -37,7 +36,10 @@ TEMPLATE = """<!DOCTYPE html>
 </section>
 
 <section class="project2">
-  <h2>프로젝트2 — 네이버 메인 뉴스 캡쳐 ({image_count}건)</h2>
+  <div class="section-head">
+    <h2>프로젝트2 — 네이버 메인 뉴스 캡쳐 ({image_count}건)</h2>
+    <a class="zip-btn" href="output/images.zip">📦 이미지 전체 일괄 다운로드 ({total_image_count}장)</a>
+  </div>
   <p class="hint">"이미지 다운로드"를 누르거나, 이미지를 길게 눌러 저장한 뒤 카톡으로 보내세요.</p>
   <div class="gallery">
     {gallery_html}

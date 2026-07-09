@@ -25,6 +25,26 @@ header .download a {
 }
 section { margin-top: 32px; }
 section h2 { font-size: 18px; border-bottom: 2px solid #2563eb; padding-bottom: 6px; }
+.section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 6px;
+}
+.section-head h2 { border-bottom: none; padding-bottom: 0; margin: 0; }
+.zip-btn {
+  display: inline-block;
+  font-size: 13px;
+  color: #fff;
+  background: #2563eb;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  white-space: nowrap;
+}
 .hint { color: #666; font-size: 13px; margin: 8px 0 0; }
 .copy-btn {
   font-size: 13px;

@@ -29,7 +29,7 @@ from zoneinfo import ZoneInfo
 from PIL import Image
 from playwright.async_api import async_playwright
 
-from collect_links import get_window, in_window, date_label
+from collect_links import get_window, in_window, date_label, _now_override
 
 KST = ZoneInfo("Asia/Seoul")
 
@@ -221,7 +221,7 @@ async def capture_infographics(body, out_prefix):
 
 
 async def main():
-    start, end = get_window()
+    start, end = get_window(_now_override())
     os.makedirs("images", exist_ok=True)
     os.makedirs("images/infographics", exist_ok=True)
 
