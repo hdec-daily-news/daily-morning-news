@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:23:28.867766+09:00",
+  "generated_at": "2026-07-15T08:48:43.252840+09:00",
   "window_start": "2026-07-14T22:00:00+09:00",
   "window_end": "2026-07-15T06:00:00+09:00",
   "date_label": "7/15(수)",
@@ -14,34 +14,34 @@
       ],
       "articles": [
         {
-          "title": "윤석열 ‘유죄’ 나온 명태균 여론조사…김건희·오세훈에도 영향 미칠...",
+          "title": "[경향신문] 윤석열 ‘유죄’ 나온 명태균 여론조사…김건희·오세훈에도 영향 미칠...",
           "link": "https://n.news.naver.com/mnews/article/032/0003458190?sid=102",
           "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "“집회 오라” 전화 거는 장동혁 측근들, 전화 피하는 의원들",
+          "title": "[중앙일보] “집회 오라” 전화 거는 장동혁 측근들, 전화 피하는 의원들",
           "link": "https://n.news.naver.com/mnews/article/025/0003537661?sid=100",
           "pubDate": "Wed, 15 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "장동혁·정점식, 모처럼 '보완수사권' 한뜻… 한동훈까지 단일대오 움직...",
+          "title": "[한국일보] 장동혁·정점식, 모처럼 '보완수사권' 한뜻… 한동훈까지 단일대오 움직...",
           "link": "https://n.news.naver.com/mnews/article/469/0000942308?sid=100",
           "pubDate": "Wed, 15 Jul 2026 04:31:00 +0900"
         },
         {
-          "title": "송영길 \"정청래, 대선 출마 안 한다? 누가 출마하랬나\"",
-          "link": "https://n.news.naver.com/mnews/article/002/0002448429?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 04:29:00 +0900"
+          "title": "[조선일보] 버티던 정청래, 선호투표 수용… 친명 “동정표 노리고 선회”",
+          "link": "https://n.news.naver.com/mnews/article/023/0003987664?sid=100",
+          "pubDate": "Wed, 15 Jul 2026 00:56:00 +0900"
         },
         {
-          "title": "김민석 \"지난 1년간 당정관계 잘 안 돼, 당대표 자기 정치 때문\"",
-          "link": "https://n.news.naver.com/mnews/article/002/0002448428?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 03:50:00 +0900"
-        },
-        {
-          "title": "오세훈 “서울 주택 행정은…” 李대통령 “그 얘기는 나중에 하시죠”",
+          "title": "[조선일보] 오세훈 “서울 주택 행정은…” 李대통령 “그 얘기는 나중에 하시죠”",
           "link": "https://n.news.naver.com/mnews/article/023/0003987663?sid=100",
           "pubDate": "Wed, 15 Jul 2026 00:56:00 +0900"
+        },
+        {
+          "title": "[문화일보] 박범계 “정청래, 누구보다 사나워…스스로 약자 표현 적절치 않아”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002804698?sid=100",
+          "pubDate": "Tue, 14 Jul 2026 22:27:00 +0900"
         }
       ]
     },
@@ -53,17 +53,17 @@
       ],
       "articles": [
         {
-          "title": "‘조국당과 합당 무산’ 김민석에 화살 돌리는 정청래",
+          "title": "[동아일보] ‘조국당과 합당 무산’ 김민석에 화살 돌리는 정청래",
           "link": "https://n.news.naver.com/mnews/article/020/0003733978?sid=100",
           "pubDate": "Wed, 15 Jul 2026 04:34:00 +0900"
         },
         {
-          "title": "정청래 “보완수사권 존치론 당황”…당 정체성·검찰개혁 강조",
+          "title": "[이데일리] 정청래 “보완수사권 존치론 당황”…당 정체성·검찰개혁 강조",
           "link": "https://n.news.naver.com/mnews/article/018/0006330307?sid=100",
           "pubDate": "Tue, 14 Jul 2026 22:46:00 +0900"
         },
         {
-          "title": "정청래, '보완수사권 일부 존치' 제기에 \"정말 손 많이 가는 당\"",
+          "title": "[뉴스1] 정청래, '보완수사권 일부 존치' 제기에 \"정말 손 많이 가는 당\"",
           "link": "https://n.news.naver.com/mnews/article/421/0009059665?sid=100",
           "pubDate": "Tue, 14 Jul 2026 22:27:00 +0900"
         }
@@ -77,17 +77,17 @@
       ],
       "articles": [
         {
-          "title": "[단독] 장동혁, 경기도당 위원장으로 '최측근' 조광한 띄우기, 당권파 세...",
+          "title": "[한국일보] [단독] 장동혁, 경기도당 위원장으로 '최측근' 조광한 띄우기, 당권파 세...",
           "link": "https://n.news.naver.com/mnews/article/469/0000942299?sid=100",
           "pubDate": "Wed, 15 Jul 2026 04:31:00 +0900"
         },
         {
-          "title": "장동혁, '재선거' 고리로 전국 돌며 지지층 확보 총력…오늘 광주행",
+          "title": "[뉴시스] 장동혁, '재선거' 고리로 전국 돌며 지지층 확보 총력…오늘 광주행",
           "link": "https://n.news.naver.com/mnews/article/003/0014067055?sid=100",
           "pubDate": "Wed, 15 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "오세훈 “부동산 한말씀 드려도 되겠나” 한성숙 “서류로 받겠다”",
+          "title": "[동아일보] 오세훈 “부동산 한말씀 드려도 되겠나” 한성숙 “서류로 받겠다”",
           "link": "https://n.news.naver.com/mnews/article/020/0003733968?sid=100",
           "pubDate": "Wed, 15 Jul 2026 04:33:00 +0900"
         }
@@ -101,18 +101,18 @@
       ],
       "articles": [
         {
-          "title": "[단독]4년 만에 도로 ‘컬러풀 대구’?···도시브랜드 교체에 또 수억...",
+          "title": "[경향신문] [단독]4년 만에 도로 ‘컬러풀 대구’?···도시브랜드 교체에 또 수억...",
           "link": "https://n.news.naver.com/mnews/article/032/0003458192?sid=102",
           "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "수출 4강 '가시권'·소득 5만불 '환율 변수'…잠재성장 3%는 '험로'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009059814?sid=101",
+          "title": "[경향신문] ‘한국 가면 여행가방 가득 화장품’···내수 소비 끌어올린 건 알고...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458196?sid=101",
           "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "\"교사·학생도 경제·금융 알아야\"…서울교육청, 연수·수업 연계",
-          "link": "https://n.news.naver.com/mnews/article/003/0014067116?sid=102",
+          "title": "[머니투데이] 계좌 파랗게 질려도 '월 500만원' 따박따박…폭락장 버틴 50대의 비결",
+          "link": "https://n.news.naver.com/mnews/article/008/0005386148?sid=101",
           "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
         }
       ]
