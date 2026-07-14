@@ -53,6 +53,35 @@ SECTORS = [
     {"key": "economy", "label": "경제 동정", "queries": ["경제"], "count": 3},
 ]
 
+# 선정 기준 스코어링 (과거 사람이 직접 고른 220여 일치 기사 분석 결과 반영, 2026-07-15):
+# - 주요 정치인 실명 발언/충돌 중심 기사 선호
+# - 따옴표 인용구가 제목에 있는 기사 선호 (발언·갈등 프레이밍)
+# - [단독]/[속보]/[종합] 태그 기사 선호
+# - [사설]/[신간]/[오늘의 주요일정] 등 단신·칼럼·안내성 기사는 감점
+NAMED_FIGURES = [
+    "이재명", "오세훈", "정청래", "장동혁", "한동훈", "김민석", "송영길",
+    "안철수", "추경호", "이준석", "우원식", "정점식", "나경원", "한덕수",
+]
+QUOTE_CHARS = ['"', "'", "“", "”", "‘", "’"]
+PRIORITY_TAGS = ["[단독]", "[속보]", "[종합]"]
+LOW_PRIORITY_TAGS = ["[사설]", "[신간]", "[오늘의 주요일정]", "[알림]", "[부고]", "[포토]", "[칼럼]"]
+# 네이버뉴스에 정식 편입된 기사만 채택 (지역/업계 소규모 매체 자동 배제)
+NAVER_NEWS_HOST = "n.news.naver.com"
+
+
+def score_article(title):
+    score = 0
+    if any(fig in title for fig in NAMED_FIGURES):
+        score += 3
+    if any(ch in title for ch in QUOTE_CHARS):
+        score += 2
+    if any(tag in title for tag in PRIORITY_TAGS):
+        score += 2
+    if any(tag in title for tag in LOW_PRIORITY_TAGS):
+        score -= 3
+    return score
+
+
 WEEKDAY_KR = ["월", "화", "수", "목", "금", "토", "일"]
 
 
@@ -141,18 +170,24 @@ def collect(now=None):
                 link = item.get("link") or item.get("originallink")
                 if not link or link in seen_links:
                     continue
+                if NAVER_NEWS_HOST not in link:
+                    continue
                 if not in_window(item["pubDate"], start, end):
                     continue
+                title = clean_html(item["title"])
                 articles.append(
                     {
-                        "title": clean_html(item["title"]),
+                        "title": title,
                         "link": link,
                         "pubDate": item["pubDate"],
+                        "_score": score_article(title),
                     }
                 )
                 seen_links.add(link)
-        articles.sort(key=lambda a: a["pubDate"], reverse=True)
-        result[sector["key"]] = articles[: sector["count"]]
+        articles.sort(key=lambda a: (a["_score"], parse_pubdate(a["pubDate"])), reverse=True)
+        result[sector["key"]] = [
+            {k: v for k, v in a.items() if k != "_score"} for a in articles[: sector["count"]]
+        ]
     return start, end, result
 
 
