@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-10T07:19:13.898241+09:00",
+  "window_start": "2026-07-09T22:00:00+09:00",
+  "window_end": "2026-07-10T06:00:00+09:00",
+  "date_label": "7/10(금)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "노무현재단 이사, 걸그룹에 공개사과 \"일베식 표현 오해\"",
+          "link": "https://n.news.naver.com/mnews/article/437/0000500423?sid=102",
+          "pubDate": "Thu, 09 Jul 2026 23:59:00 +0900"
+        },
+        {
+          "title": "제10대 당진시의회 원 구성 난항",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=709707",
+          "pubDate": "Thu, 09 Jul 2026 23:56:00 +0900"
+        },
+        {
+          "title": "[朝鮮칼럼] 민주당 ‘족보 싸움’ 이후 진짜 위기",
+          "link": "https://n.news.naver.com/mnews/article/023/0003986747?sid=110",
+          "pubDate": "Thu, 09 Jul 2026 23:56:00 +0900"
+        },
+        {
+          "title": "[논설실의 뉴스 읽기] “이공계 위기, 기술로 세상 바꾸겠다는 ‘엔지니...",
+          "link": "https://n.news.naver.com/mnews/article/023/0003986746?sid=110",
+          "pubDate": "Thu, 09 Jul 2026 23:54:00 +0900"
+        },
+        {
+          "title": "[패트롤] 광명시의회-구리시의회-안양시의회-의정부시의회",
+          "link": "https://www.ekn.kr/web/view.php?key=20260709020051080",
+          "pubDate": "Thu, 09 Jul 2026 23:54:00 +0900"
+        },
+        {
+          "title": "[단독] “드라마 키우던 김은숙 작가…꿈청년 키운다”",
+          "link": "https://n.news.naver.com/mnews/article/144/0001125383?sid=103",
+          "pubDate": "Thu, 09 Jul 2026 23:54:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "양대 노총, '성과급 지역화폐 지급' 법안 반대…\"근로기준법 어긋나\"",
+          "link": "https://n.news.naver.com/mnews/article/053/0000059810?sid=102",
+          "pubDate": "Thu, 09 Jul 2026 23:55:00 +0900"
+        },
+        {
+          "title": "정이한 구속에 경찰 겨눈 주진우 \"선거前 알고도 처리 안해\"",
+          "link": "https://n.news.naver.com/mnews/article/079/0004166932?sid=100",
+          "pubDate": "Thu, 09 Jul 2026 23:52:00 +0900"
+        },
+        {
+          "title": "조승래 \"당대표, 선호투표제 선출하려면 당규 개정해야\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009051399?sid=100",
+          "pubDate": "Thu, 09 Jul 2026 23:19:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "[흔들리는 K게임-상] 한국 게임 심장부까지 파고든 중국 자본",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311355",
+          "pubDate": "Thu, 09 Jul 2026 23:06:00 +0900"
+        },
+        {
+          "title": "한·몽 교역 규모, 10억 달러 목표…李 \"양국 관계 황금시대 열자\"",
+          "link": "https://www.ajunews.com/view/20260709165719374",
+          "pubDate": "Thu, 09 Jul 2026 23:02:00 +0900"
+        },
+        {
+          "title": "국민 유격수가 베이징 올림픽을 재현했다…1점 차 만루 위기→병살 유도...",
+          "link": "https://m.sports.naver.com/kbaseball/article/477/0000617422",
+          "pubDate": "Thu, 09 Jul 2026 23:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "[인터뷰] 장세일 영광군수 \"군민 삶 바꾸는 민생 회복이 최우선\"",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3415944",
+          "pubDate": "Thu, 09 Jul 2026 23:54:00 +0900"
+        },
+        {
+          "title": "시흥시 조직개편 인사 단행…국장·과장급 대규모 승진·전보",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=708746",
+          "pubDate": "Thu, 09 Jul 2026 23:53:00 +0900"
+        },
+        {
+          "title": "[기자수첩] 김미경 의장이 내민 협치의 손…수원특례시의회의 새로운 시...",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=708745",
+          "pubDate": "Thu, 09 Jul 2026 23:52:00 +0900"
+        }
+      ]
+    }
+  ]
+}

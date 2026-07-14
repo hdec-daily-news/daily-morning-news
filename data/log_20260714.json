@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-14T06:53:00.898107+09:00",
+  "window_start": "2026-07-13T22:00:00+09:00",
+  "window_end": "2026-07-14T06:00:00+09:00",
+  "date_label": "7/14(화)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "“미국의 건국 250년은 자유가 아닌 학살의 역사…트럼프는 가장 미국적...",
+          "link": "https://n.news.naver.com/mnews/article/033/0000051332?sid=103",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[곽재원의 Now&Future] 4755조의 갈림길… 팹만 키울까, 판을 키울까",
+          "link": "https://www.ajunews.com/view/20260712230832738",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "에이전트 시대에 맞는 원키 게이트웨이 제안 [이승현의 AI 네이티브]",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165715",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[사설] 전임의 간판까지 품은 충남도정, 변화의 시작",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233182",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "\"예산에만 초점…환경 조건 살펴야\" [주민주권 실현 성공 조건]",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233187",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "'개미 지옥' 레버리지 계좌 녹는데…정부 '간담회-회의-보고' 거치는 중",
+          "link": "https://n.news.naver.com/mnews/article/421/0009057313?sid=101",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "'이동재 명예훼손' 혐의 김어준 오늘 1심 선고…검찰, 징역 1년 구형",
+          "link": "https://n.news.naver.com/mnews/article/421/0009057296?sid=102",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "한동훈 “민주당엔 범죄 피해자와 국민이 ‘구더기’인가”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002804419?sid=100",
+          "pubDate": "Tue, 14 Jul 2026 05:52:00 +0900"
+        },
+        {
+          "title": "\"보완수사요구권 강제력 없어…경찰 은폐·부실수사 견제장치 전무\"",
+          "link": "https://n.news.naver.com/mnews/article/018/0006329502?sid=102",
+          "pubDate": "Tue, 14 Jul 2026 05:37:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "'2년 성적표' 받는 5대 은행장… 올 연말 연임 시험대",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165676",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "정이한 ‘음료 피습’ 자작극, 선거 전에 확인한 경찰… 수사 타임라인...",
+          "link": "https://n.news.naver.com/mnews/article/011/0004641216?sid=102",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[사설] 경기도 내 시설물 안전 낙제점…보강 서둘러야",
+          "link": "http://www.kgnews.co.kr/news/article.html?no=903719",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "강경성 코트라 사장 \"청렴은 기본\"… 직원들과 허심탄회 대화",
+          "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42375",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "에코프로 유증, 왜 니켈로 향했나…가격 경쟁력의 '열쇠' [K배터리 원가...",
+          "link": "https://n.news.naver.com/mnews/article/119/0003111036?sid=101",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "다가오는 고시 시한…내년 최저임금, 이르면 오늘 결정",
+          "link": "https://n.news.naver.com/mnews/article/003/0014064411?sid=102",
+          "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

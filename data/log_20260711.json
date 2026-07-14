@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-11T06:58:20.996572+09:00",
+  "window_start": "2026-07-10T22:00:00+09:00",
+  "window_end": "2026-07-11T06:00:00+09:00",
+  "date_label": "7/11(토)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[인터뷰] 김용 \"李대통령, '민주 위기 상황' 빠른 수습 필요성 이심전심...",
+          "link": "https://www.newspim.com/news/view/20260710001333",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "장동혁, 사퇴론 속 '부실 선관위' 고리 장외 행보…당내선 '고립 자초' ...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014060221?sid=100",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[주간 책타래] 평등한 평범 外",
+          "link": "https://n.news.naver.com/mnews/article/310/0000138267?sid=103",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "고양창릉 '전용 모기지' 논란 진화 총력…총리·장관 현장 점검",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384519?sid=101",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "모즈타바, 하메네이 장례식 끝내 불참···암살 위협 속 ‘그림자 통치...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003457432?sid=104",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "80년의 사관학교 시스템, 뒤집는 데 걸린 시간 3개월",
+          "link": "https://n.news.naver.com/mnews/article/053/0000059840?sid=102",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "검찰 보완수사권 폐지 대신 ‘요구권’ 강화…검사가 기록만 봤다면 ‘...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003457433?sid=102",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "박민규, '성과급 지역화폐 지급' 근로기준법 개정안 철회…노동계 반발...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=588317",
+          "pubDate": "Sat, 11 Jul 2026 05:06:00 +0900"
+        },
+        {
+          "title": "파열음 증폭 '선호투표'...계파 갈등 '뇌관'으로",
+          "link": "https://n.news.naver.com/mnews/article/052/0002377952?sid=100",
+          "pubDate": "Sat, 11 Jul 2026 05:03:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "이자 폭탄에 대출 절벽까지…서민들 “버틸 힘이 없다”[주형연의 에구...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003036435?sid=101",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "'월드컵 파급 효과 대박!' 메시에게 인정받고, 신종 학명으로도 남았다...",
+          "link": "https://m.sports.naver.com/worldcup2026/article/343/0000144970",
+          "pubDate": "Sat, 11 Jul 2026 05:42:00 +0900"
+        },
+        {
+          "title": "'초과이윤 재분배' 첫 토론회...주제 힘 빼고 수위 조절",
+          "link": "https://n.news.naver.com/mnews/article/052/0002377953?sid=102",
+          "pubDate": "Sat, 11 Jul 2026 05:05:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "드라마 '김부장'과 아버지에 대하여",
+          "link": "https://www.readersnews.com/news/articleView.html?idxno=200402",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "\"국민들도, 의견 달라\" 李대통령, 23일 부동산 대토론회 '승부수'",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384517?sid=100",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[경력채용] 부광약품, 명문제약, 씨티씨바이오, 펩트론, 삼오제약",
+          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77571",
+          "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

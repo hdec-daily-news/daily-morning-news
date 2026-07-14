@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-15T06:55:07.645221+09:00",
+  "window_start": "2026-07-14T22:00:00+09:00",
+  "window_end": "2026-07-15T06:00:00+09:00",
+  "date_label": "7/15(수)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[인터뷰] 황현선 \"민주당, 합당 원하면 사과부터…아니면 약탈 정치\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009059819?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "\"11년 묶인 담뱃값, 사실상 내린 셈…일회성 아닌 지속 인상\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009059818?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "당신의 ‘생각’은 안녕하신가요[신간]",
+          "link": "https://n.news.naver.com/mnews/article/033/0000051342?sid=103",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[사설] 생활 밀착 공약, 이제는 '실행력'으로 답해야",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233268",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[허정수칼럼] 호남 반도체 논란, 삼성·SK가 답할 차례",
+          "link": "https://n.news.naver.com/mnews/article/293/0000087639?sid=110",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[기자의눈] 제2의 장윤기 사건이 나오지 않으려면",
+          "link": "https://www.ajunews.com/view/20260714031707434",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "대전 원도심 공약 '경제 회복' 초점 [지방의원 공약추적단 시즌2]",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233262",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "‘서울대와 협업(UP)’ 관악S밸리 고도화…“벤처창업도시로 질적 도약...",
+          "link": "https://www.etoday.co.kr/news/view/2603527",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "코인 현물 ETF 밑그림 나왔다…\"김프 없애고 선물시장 도입\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016194810?sid=101",
+          "pubDate": "Wed, 15 Jul 2026 05:55:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "[오늘의 주요일정]사회(7월15일 수요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014067086?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[헐크 이만수의 힘] 아시아 야구의 새로운 지평, 이윤 대표와 함께 걷는...",
+          "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4023002",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "반도체만 잘 나갔다…고용절벽에 꺼낸 '20만 AI 인재' 카드",
+          "link": "https://n.news.naver.com/mnews/article/008/0005386139?sid=101",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "“무역장벽 제거되면 對中 화장품 수출 27% ↑”",
+          "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=329780",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "빚에 쫓기는 위기가구 찾는다…불법사금융 피해 정보 연계",
+          "link": "https://n.news.naver.com/mnews/article/003/0014067095?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[단독]4년 만에 도로 ‘컬러풀 대구’?···도시브랜드 교체에 또 수억...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458192?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

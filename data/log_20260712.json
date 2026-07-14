@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-12T06:44:35.646000+09:00",
+  "window_start": "2026-07-11T22:00:00+09:00",
+  "window_end": "2026-07-12T06:00:00+09:00",
+  "date_label": "7/12(일)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[오늘의 주요일정]사회(7월12일 일요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014060979?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "장동혁, 12일 부산행…'참정권 수호' 장외 여론전 확대",
+          "link": "https://n.news.naver.com/mnews/article/421/0009054111?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "\"두 번째 한강의 기적 이루려면 수출 강국 넘어 생태계 강국 도약해야\"",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384619?sid=104",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "코인이 된 달러 '스테이블코인'…달러 패권 강화할까?",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384620?sid=101",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[시험대 오른 경찰] ④ '공룡경찰' 13만명 누가 견제…국민 영향은",
+          "link": "https://n.news.naver.com/mnews/article/001/0016189112?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "금리 올려도 추락하는 엔화…'1달러=160엔'은 뉴노멀이 되나",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384616?sid=104",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "출연기관 지위부터 체불임금까지…TBS 정상화 '산 넘어 산'",
+          "link": "https://n.news.naver.com/mnews/article/008/0005384613?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "전 檢개혁자문위원들도 與 비판…“보완수사권 폐지되면 장윤기사건 은...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003036466?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 05:20:00 +0900"
+        },
+        {
+          "title": "민주, 오늘 최고위 가능성...'선호투표제' 결론 날까",
+          "link": "https://n.news.naver.com/mnews/article/052/0002378172?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 00:02:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "국힘 “집값·환율 폭등 김용범표 경제성적표…사퇴해야”",
+          "link": "https://n.news.naver.com/mnews/article/029/0003036474?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 05:50:00 +0900"
+        },
+        {
+          "title": "李대통령, 순방 마치고 내치 복귀…업무보고부터 부동산 토론회까지",
+          "link": "https://n.news.naver.com/mnews/article/421/0009054094?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 05:05:00 +0900"
+        },
+        {
+          "title": "한국 상대로도 출전했던 남아공 월드컵 대표, 25세에 요절",
+          "link": "https://m.sports.naver.com/worldcup2026/article/410/0001132183",
+          "pubDate": "Sun, 12 Jul 2026 04:42:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "'전액 현금' 장원영·뷔→'방배 청약' 안유진, 넘사벽 영앤리치 클래스...",
+          "link": "https://m.entertain.naver.com/article/108/0003452259",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "돌아온 외국인…삼성전자 ‘30만원 선’ 회복할까",
+          "link": "https://n.news.naver.com/mnews/article/029/0003036479?sid=101",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[시험대 오른 경찰] ③ 檢보완수사에 드러난 민낯…역량강화·신뢰회복...",
+          "link": "https://n.news.naver.com/mnews/article/001/0016189111?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

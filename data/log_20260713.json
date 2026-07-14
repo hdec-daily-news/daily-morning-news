@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-07-13T06:44:33.277181+09:00",
+  "window_start": "2026-07-12T22:00:00+09:00",
+  "window_end": "2026-07-13T06:00:00+09:00",
+  "date_label": "7/13(월)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "우크라이나 개각 예고…젤렌스키 “정치 전략 바꿔야”",
+          "link": "https://n.news.naver.com/mnews/article/366/0001178644?sid=104",
+          "pubDate": "Sun, 12 Jul 2026 23:47:00 +0900"
+        },
+        {
+          "title": "베네수엘라 '대규모 재건' 시동…주택 2만5천채 공급 추진",
+          "link": "https://n.news.naver.com/mnews/article/001/0016189979?sid=104",
+          "pubDate": "Sun, 12 Jul 2026 23:47:00 +0900"
+        },
+        {
+          "title": "박승원 광명시장, 민주당 최고위원 후보 공식 추대",
+          "link": "http://www.paxetv.com/news/articleView.html?idxno=276946",
+          "pubDate": "Sun, 12 Jul 2026 23:46:00 +0900"
+        },
+        {
+          "title": "사관학교 통합? ROTC는 어쩌고? [가스인라이팅]",
+          "link": "https://n.news.naver.com/mnews/article/088/0001018703?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 23:41:00 +0900"
+        },
+        {
+          "title": "[태평로] 손흥민까지 부른 국회의 습관적 구태",
+          "link": "https://n.news.naver.com/mnews/article/023/0003987176?sid=110",
+          "pubDate": "Sun, 12 Jul 2026 23:39:00 +0900"
+        },
+        {
+          "title": "전북의 3중 소외, 허탈감 … 새만금이야말로 반도체 최적지 [이양승 칼...",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/07/12/2026071200092.html",
+          "pubDate": "Sun, 12 Jul 2026 23:38:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "“아동학대 10명 중 8명 이상 부모로부터...”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002804135?sid=102",
+          "pubDate": "Sun, 12 Jul 2026 23:40:00 +0900"
+        },
+        {
+          "title": "與 '선호투표제' 도입 결정 불발…'전대 룰의 전쟁' 격화일로",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=751283",
+          "pubDate": "Sun, 12 Jul 2026 23:04:00 +0900"
+        },
+        {
+          "title": "“검열 부활 안돼”…이센스, 민주당 ‘혐오 음원 방지법’ 비판",
+          "link": "https://n.news.naver.com/mnews/article/016/0002669168?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 22:49:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "국민정당? 당원중심?...국민의힘 투톱 사이 '엇박자'",
+          "link": "https://n.news.naver.com/mnews/article/052/0002378461?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 23:31:00 +0900"
+        },
+        {
+          "title": "\"면피용 말잔치\" 국민의힘, 李 부동산 대토론회 맹폭",
+          "link": "https://n.news.naver.com/mnews/article/660/0000113027?sid=100",
+          "pubDate": "Sun, 12 Jul 2026 23:01:00 +0900"
+        },
+        {
+          "title": "교육당국, 학생 대상 현금.현물성 지원 '껑충'",
+          "link": "https://www.tbc.co.kr/news/view?pno=20260710093742AE02212&id=208354",
+          "pubDate": "Sun, 12 Jul 2026 23:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "킨텍스, 몽골 전시컨벤션 인프라 구축 나선다",
+          "link": "https://www.joongboo.com/news/articleView.html?idxno=363731228",
+          "pubDate": "Sun, 12 Jul 2026 23:58:00 +0900"
+        },
+        {
+          "title": "신약 개발 경쟁 심화...원숭이 값 상승·국가 선제 지원[클릭, 글로벌 제...",
+          "link": "https://n.news.naver.com/mnews/article/018/0006328694?sid=101",
+          "pubDate": "Sun, 12 Jul 2026 23:57:00 +0900"
+        },
+        {
+          "title": "[朝鮮칼럼] 전남광주시의 반도체 공장이 성공하려면",
+          "link": "https://n.news.naver.com/mnews/article/023/0003987178?sid=110",
+          "pubDate": "Sun, 12 Jul 2026 23:56:00 +0900"
+        }
+      ]
+    }
+  ]
+}
