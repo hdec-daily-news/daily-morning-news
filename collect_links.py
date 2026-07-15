@@ -47,10 +47,10 @@ if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
     print("[WARN] NAVER_CLIENT_ID/SECRET 환경변수가 설정되지 않았습니다. API 호출이 실패할 수 있습니다.")
 
 SECTORS = [
-    {"key": "politics_main", "label": "정치 관련 주요기사", "queries": ["정치", "국회", "여야"], "count": 6},
-    {"key": "dp", "label": "더불어민주당 동정", "queries": ["더불어민주당"], "count": 3},
-    {"key": "ppp", "label": "국민의힘 동정", "queries": ["국민의힘"], "count": 3},
-    {"key": "economy", "label": "경제 동정", "queries": ["경제"], "count": 3},
+    {"key": "politics_main", "label": "정치 관련 주요기사", "queries": ["정치", "국회", "여야"], "count": 8},
+    {"key": "dp", "label": "더불어민주당 동정", "queries": ["더불어민주당"], "count": 5},
+    {"key": "ppp", "label": "국민의힘 동정", "queries": ["국민의힘"], "count": 5},
+    {"key": "economy", "label": "경제 동정", "queries": ["경제"], "count": 5},
 ]
 
 # 선정 기준 스코어링 (과거 사람이 직접 고른 220여 일치 기사 분석 결과 반영, 2026-07-15):
