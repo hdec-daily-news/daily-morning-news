@@ -155,7 +155,7 @@ def render_gallery(images):
     return "\n".join(cards) or "    <p>캡쳐된 이미지가 없습니다.</p>"
 
 
-def render_infographics(images):
+def render_infographics(images, graphics_items):
     cards = []
     for item in images:
         for info in item.get("infographics", []):
@@ -164,11 +164,18 @@ def render_infographics(images):
                 continue
             label = info.get("caption") or item.get("title", "")
             cards.append(_image_card(img, item["link"], label, extra_class="infographic-card"))
+    for g in graphics_items:
+        img = g.get("image")
+        if not img:
+            continue
+        label = f"[{g.get('source', '')}] {g.get('title', '')}".strip()
+        cards.append(_image_card(img, g.get("link", "#"), label, extra_class="infographic-card"))
     return "\n".join(cards) or "    <p>오늘은 인포그래픽/차트가 발견되지 않았습니다.</p>", len(cards)
 
 
-def build_images_zip(articles, out_path):
-    """캡쳐 이미지 + 인포그래픽을 모두 모아 ZIP 하나로 묶는다 (모바일에서 원탭 일괄 다운로드용)."""
+def build_images_zip(articles, graphics_items, out_path):
+    """캡쳐 이미지 + 인포그래픽(기사 내 발견분 + 통신사 그래픽 코너 수집분)을 모두 모아
+    ZIP 하나로 묶는다 (모바일에서 원탭 일괄 다운로드용)."""
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     count = 0
     with zipfile.ZipFile(out_path, "w", zipfile.ZIP_DEFLATED) as zf:
@@ -182,6 +189,11 @@ def build_images_zip(articles, out_path):
                 if info_img and os.path.exists(info_img):
                     zf.write(info_img, arcname=f"infographics/{os.path.basename(info_img)}")
                     count += 1
+        for g in graphics_items:
+            g_img = g.get("image")
+            if g_img and os.path.exists(g_img):
+                zf.write(g_img, arcname=f"graphics/{os.path.basename(g_img)}")
+                count += 1
     return count
 
 
@@ -194,11 +206,20 @@ def main():
         with open("data/images.json", encoding="utf-8") as f:
             images_data = json.load(f)
 
+    graphics_data = {"items": []}
+    if os.path.exists("data/graphics.json"):
+        with open("data/graphics.json", encoding="utf-8") as f:
+            graphics_data = json.load(f)
+
     sectors_html = "\n".join(render_sector(s) for s in links_data["sectors"])
     gallery_html = render_gallery(images_data.get("articles", []))
     ok_images = [a for a in images_data.get("articles", []) if a.get("ok", True) and a.get("image")]
-    infographics_html, infographic_count = render_infographics(images_data.get("articles", []))
-    total_image_count = build_images_zip(images_data.get("articles", []), "output/images.zip")
+    infographics_html, infographic_count = render_infographics(
+        images_data.get("articles", []), graphics_data.get("items", [])
+    )
+    total_image_count = build_images_zip(
+        images_data.get("articles", []), graphics_data.get("items", []), "output/images.zip"
+    )
 
     sector_texts = {f"sector-{s['key']}": sector_copy_text(s) for s in links_data["sectors"]}
     all_text = f"{links_data['date_label']} 일일 정치 주요뉴스\n\n" + "\n\n".join(

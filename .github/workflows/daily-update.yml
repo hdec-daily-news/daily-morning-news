@@ -46,6 +46,11 @@ jobs:
           NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python capture_images.py
 
+      - name: Capture agency graphics (연합뉴스/뉴스1/뉴시스 그래픽 코너)
+        env:
+          NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
+        run: python capture_graphics.py
+
       - name: Build page
         run: python build_page.py
 
