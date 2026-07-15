@@ -54,11 +54,18 @@ BODY_SELECTORS = ["#dic_area", "#articleBodyContents", "#newsct_article"]
 
 # 인포그래픽/차트 판별용: 캡션(이미지 설명)에 이 키워드가 있으면 인포그래픽으로 간주 (단독으로도 확정 신호)
 INFOGRAPHIC_CAPTION_KEYWORDS = ["인포그래픽", "그래픽", "자료:", "자료=", "차트", "표=", "©그래픽", "일러스트"]
-# 캡션에 키워드가 없을 때 보조로 쓰는 조건: 세로로 긴 이미지 + 단색 배경 비중이 높음
-# (일반 사진은 색이 다양해서 최빈색 비중이 낮고, 인포그래픽/차트는 흰색·회색 배경이 넓게 깔려 최빈색 비중이 높다)
-INFOGRAPHIC_ASPECT_RATIO = 1.15
-INFOGRAPHIC_FLAT_COLOR_RATIO = 0.22
 INFOGRAPHIC_MIN_WIDTH = 300
+
+# 캡션에 키워드가 없을 때 보조로 쓰는 조건: 색상 구성이 "차트스러운지" 판별한다.
+# 2026-07-15, 사용자가 직접 수집한 실제 예시 30장(기사 14 / 인포그래픽 16)으로 검증함:
+#   - 세로/가로 비율은 거의 무의미했다 (인포그래픽 16장 중 12장이 오히려 가로/정사각형이었음).
+#   - 반면 "80x80 축소 후 32단계로 양자화한 색상 수/최빈색 비중/상위3색 비중"은 뚜렷하게 갈렸다.
+#     인포그래픽 16장 전부 n_colors<=67, flat>=0.54, top3>=0.72 범위에 들어갔다
+#     (사진은 그라데이션·노이즈 때문에 색이 훨씬 다양해서 이 범위를 벗어난다).
+#   - 그래서 세로 비율 조건은 폐기하고 이 색상 지표로 교체함.
+INFOGRAPHIC_MAX_COLORS = 70
+INFOGRAPHIC_MIN_FLAT_RATIO = 0.50
+INFOGRAPHIC_MIN_TOP3_RATIO = 0.70
 
 
 async def collect_candidate_links(context):
@@ -167,34 +174,47 @@ async def _image_caption(img):
         return ""
 
 
-def _flat_color_ratio(path, max_dim=80):
-    """이미지 축소본에서 가장 흔한 색이 차지하는 비율. 인포그래픽/차트는 단색 배경이
-    넓게 깔려 이 값이 높고, 일반 사진(인물/풍경/건물 등)은 색이 다양해 낮다."""
+def _chart_color_stats(path, max_dim=80, quant=32):
+    """이미지를 80x80으로 축소하고 채널당 32단계로 양자화(JPEG 노이즈 제거)한 뒤
+    (양자화 색상 수, 최빈색 비중, 상위 3색 비중)을 계산한다.
+    인포그래픽/차트는 흰 배경 + 몇 개의 강조색·검은 텍스트로 이뤄져 색이 단순하고,
+    일반 사진(인물/풍경/건물 등)은 그라데이션·질감 때문에 색이 훨씬 다양하다."""
     try:
         im = Image.open(path).convert("RGB")
         im.thumbnail((max_dim, max_dim))
-        colors = im.getcolors(maxcolors=1_000_000)
+        q = im.point(lambda p: (p // quant) * quant)
+        colors = q.getcolors(maxcolors=1_000_000)
         if not colors:
-            return 0.0
-        total = im.width * im.height
-        most_common = max(colors, key=lambda c: c[0])[0]
-        return most_common / total
+            return None
+        total = q.width * q.height
+        colors.sort(key=lambda c: -c[0])
+        flat = colors[0][0] / total
+        top3 = sum(c[0] for c in colors[:3]) / total
+        return len(colors), flat, top3
     except Exception:
-        return 0.0
+        return None
 
 
 def _caption_says_infographic(caption):
     return bool(caption) and any(kw in caption for kw in INFOGRAPHIC_CAPTION_KEYWORDS)
 
 
-def _shape_says_infographic(width, height):
-    return width >= INFOGRAPHIC_MIN_WIDTH and height / max(width, 1) >= INFOGRAPHIC_ASPECT_RATIO
+def _looks_like_chart(path):
+    stats = _chart_color_stats(path)
+    if not stats:
+        return False
+    n_colors, flat, top3 = stats
+    return (
+        n_colors <= INFOGRAPHIC_MAX_COLORS
+        and flat >= INFOGRAPHIC_MIN_FLAT_RATIO
+        and top3 >= INFOGRAPHIC_MIN_TOP3_RATIO
+    )
 
 
 async def capture_infographics(body, out_prefix):
     """기사 본문 내 이미지들을 훑어 인포그래픽/차트로 보이는 것만 별도 파일로 저장한다.
     실제 <img> 엘리먼트를 그대로 스크린샷하므로 원본 화질을 그대로 유지한다.
-    캡션에 인포그래픽 키워드가 있으면 확정, 없으면 세로형 비율 + 단색 배경 비중을 함께 봐서
+    캡션에 인포그래픽 키워드가 있으면 확정, 없으면 양자화 색상 구성(_looks_like_chart)으로
     일반 사진(부동산/인물 항공샷 등)이 오탐되는 것을 줄인다."""
     if not body:
         return []
@@ -202,18 +222,16 @@ async def capture_infographics(body, out_prefix):
     imgs = await body.query_selector_all("img")
     for i, img in enumerate(imgs, start=1):
         box = await img.bounding_box()
-        if not box or box["width"] < 1 or box["height"] < 1:
+        if not box or box["width"] < INFOGRAPHIC_MIN_WIDTH or box["height"] < 1:
             continue
         caption = await _image_caption(img)
         by_caption = _caption_says_infographic(caption)
-        if not by_caption and not _shape_says_infographic(box["width"], box["height"]):
-            continue
         out_path = f"{out_prefix}_{i}.png"
         try:
             await img.screenshot(path=out_path)
         except Exception:
             continue
-        if not by_caption and _flat_color_ratio(out_path) < INFOGRAPHIC_FLAT_COLOR_RATIO:
+        if not by_caption and not _looks_like_chart(out_path):
             os.remove(out_path)
             continue
         saved.append({"image": out_path, "caption": caption})
