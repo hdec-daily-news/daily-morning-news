@@ -27,11 +27,21 @@ from bs4 import BeautifulSoup
 
 from collect_links import get_window, KST, _now_override
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+}
 
 
-def fetch_soup(url):
-    r = requests.get(url, headers=HEADERS, timeout=15)
+def fetch_soup(url, referer=None):
+    headers = dict(HEADERS)
+    if referer:
+        headers["Referer"] = referer
+    r = requests.get(url, headers=headers, timeout=15)
     r.raise_for_status()
     return BeautifulSoup(r.text, "html.parser")
 
@@ -44,7 +54,8 @@ def collect_yna(start, end):
     except Exception as e:
         print(f"[WARN] 연합뉴스 그래픽 목록 로드 실패: {e}")
         return items
-    for a in soup.select("a.img"):
+    candidates = soup.select("a.img")
+    for a in candidates:
         href = a.get("href")
         img = a.select_one("img")
         if not href or not img or not img.get("src"):
@@ -69,6 +80,7 @@ def collect_yna(start, end):
                 "pubdate": dt.isoformat(),
             }
         )
+    print(f"[INFO] 연합뉴스: 목록 후보 {len(candidates)}건 중 윈도우 내 {len(items)}건")
     return items
 
 
@@ -80,6 +92,7 @@ def collect_newsis(start, end):
     except Exception as e:
         print(f"[WARN] 뉴시스 그래픽 목록 로드 실패: {e}")
         return items
+    candidates = soup.select(".thumCont a")
     for li in soup.select("li"):
         a = li.select_one(".thumCont a")
         img = li.select_one(".thumCont img")
@@ -109,6 +122,7 @@ def collect_newsis(start, end):
                 "pubdate": dt.isoformat(),
             }
         )
+    print(f"[INFO] 뉴시스: 목록 후보 {len(candidates)}건 중 윈도우 내 {len(items)}건")
     return items
 
 
@@ -130,11 +144,12 @@ def collect_news1(start, end, now):
     """뉴스1 그래픽뉴스. 상대시간만 제공되어 정밀도가 낮음(참고: 목록 순서상 최신이 위)."""
     items = []
     try:
-        soup = fetch_soup("https://www.news1.kr/photos/graphic")
+        soup = fetch_soup("https://www.news1.kr/photos/graphic", referer="https://www.news1.kr/")
     except Exception as e:
         print(f"[WARN] 뉴스1 그래픽 목록 로드 실패: {e}")
         return items
-    for a in soup.select('a[href^="/photos/"]'):
+    candidates = soup.select('a[href^="/photos/"]')
+    for a in candidates:
         img = a.select_one("img")
         if not img:
             continue
@@ -169,11 +184,22 @@ def collect_news1(start, end, now):
                 "pubdate": dt.isoformat(),
             }
         )
+    print(f"[INFO] 뉴스1: 목록 후보 {len(candidates)}건 중 윈도우 내 {len(items)}건")
     return items
 
 
-def download_image(url, out_path):
-    r = requests.get(url, headers=HEADERS, timeout=20)
+SOURCE_REFERER = {
+    "연합뉴스": "https://www.yna.co.kr/",
+    "뉴시스": "https://www.newsis.com/",
+    "뉴스1": "https://www.news1.kr/",
+}
+
+
+def download_image(url, out_path, referer=None):
+    headers = dict(HEADERS)
+    if referer:
+        headers["Referer"] = referer
+    r = requests.get(url, headers=headers, timeout=20)
     r.raise_for_status()
     with open(out_path, "wb") as f:
         f.write(r.content)
@@ -195,7 +221,7 @@ def main():
         ext = os.path.splitext(urlparse(item["image_url"]).path)[1] or ".jpg"
         out_path = f"images/graphics/{item['source']}_{idx:02d}{ext}"
         try:
-            download_image(item["image_url"], out_path)
+            download_image(item["image_url"], out_path, referer=SOURCE_REFERER.get(item["source"]))
         except Exception as e:
             print(f"[WARN] 다운로드 실패 ({item['source']} {item['title'][:20]}): {e}")
             continue
