@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-07-15T14:27:04.146800+09:00",
+  "window_start": "2026-07-14T22:00:00+09:00",
+  "window_end": "2026-07-15T06:00:00+09:00",
+  "items": [
+    {
+      "source": "연합뉴스",
+      "title": "시간당 최저임금 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260714001400044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/14/GYH2026071400140004400_P1.jpg",
+      "pubdate": "2026-07-14T23:38:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2027년도 최저임금 노사 요구안 변동 추이(종합)",
+      "link": "https://www.yna.co.kr/view/GYH20260714001300044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/07/14/GYH2026071400130004400_P1.jpg",
+      "pubdate": "2026-07-14T23:27:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    }
+  ]
+}
