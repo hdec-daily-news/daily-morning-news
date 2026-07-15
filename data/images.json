@@ -1,162 +1,167 @@
 {
-  "generated_at": "2026-07-15T14:32:44.765297+09:00",
+  "generated_at": "2026-07-15T14:38:40.577304+09:00",
   "date_label": "7/15(수)",
   "articles": [
     {
-      "title": "민주, 전당대회 '선호투표' 도입...'보완수사권 논쟁' 계속",
-      "link": "https://n.news.naver.com/mnews/article/052/0002379213",
+      "title": "송영길 \"정청래, 과거 기억에 李대통령 깔보는 느낌\" 직격",
+      "link": "https://n.news.naver.com/mnews/article/015/0005310186",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "與, 21일부터 예비경선...당대표·최고위원 후보 각각 3명, 8명 압축",
-      "link": "https://n.news.naver.com/mnews/article/666/0000115319",
+      "title": "한동훈 복당에 제동 건 안철수... 복잡한 '포스트 장동혁' 셈법",
+      "link": "https://n.news.naver.com/mnews/article/047/0002522490",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "진영승 합참의장 취임 후 첫 방미…한미일 합참의장 회의 참석",
-      "link": "https://n.news.naver.com/mnews/article/021/0002804914",
+      "title": "이재명 대통령 \"국내 주식시장 불안한데, MSCI 왜 안 되나\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790301",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘보완수사권 예외적 허용’ 개정안 발의 홍기원 “단 한 명이라도 억울한 피해자 생긴다면 성공한 개혁이랄 수 있나” [스팟+터뷰]",
-      "link": "https://n.news.naver.com/mnews/article/032/0003458186",
+      "title": "선호투표제 도입, 정 \"할 말 많지만\" 수용…청년최고위원 도입 무산에 김·송·고 친청계 비판 한목소리",
+      "link": "https://n.news.naver.com/mnews/article/437/0000501105",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“보수 희생시키며 사익 앞세워”…권영세, 장동혁에 “사퇴해야” 촉구",
-      "link": "https://n.news.naver.com/mnews/article/009/0005707732",
+      "title": "與 청년최고위원제 도입 부결에…金 \"집단적 자기정치\" 宋 \"반대로 가는 정치\"",
+      "link": "https://n.news.naver.com/mnews/article/119/0003111292",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "온라인 부정결제 원천 차단…금감원·업계 '대응협의체' 구성",
-      "link": "https://n.news.naver.com/mnews/article/421/0009061103",
+      "title": "공정위, 석유화학 구조재편 ‘대산 1호’ 기업결합 심의 개시",
+      "link": "https://n.news.naver.com/mnews/article/016/0002670673",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대한항공, '2026 대한민국 드론·UAM 박람회' 참가",
-      "link": "https://n.news.naver.com/mnews/article/277/0005790388",
+      "title": "대한항공, UAM 신호등까지...기술력 선도",
+      "link": "https://n.news.naver.com/mnews/article/014/0005548487",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "LG전자, 임직원 브랜드 가치 체험 행사… 류재철 “작은 실천이 경쟁력 만든다”",
-      "link": "https://n.news.naver.com/mnews/article/366/0001179318",
+      "title": "\"전면전이 뭔지 보여주마\" 현대차 노조, 16일 파업 수위 격상 예고",
+      "link": "https://n.news.naver.com/mnews/article/421/0009059216",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한국은행 금리 인상 전야…예금자는 웃고 ‘영끌족’은 운다",
-      "link": "https://n.news.naver.com/mnews/article/005/0001861060",
+      "title": "HLB 그룹株, '리보세라닙' FDA 불발 사유 해소에 무더기 '上'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014067458",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_09_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "구리스크랩 위장수출 막는다…고철도 수출신고 의무화",
-      "link": "https://n.news.naver.com/mnews/article/001/0016195937",
+      "title": "6월 취업자 수 6만3000명 증가…청년층 고용률 26개월 연속 하락(상보)",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790070",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "전남·광주 직업계고 \"AI·반도체 기술인재 양성 속도 낸다\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009059279",
+      "title": "부산경찰청 간부급 경찰관, 미성년자 성범죄 입건",
+      "link": "https://n.news.naver.com/mnews/article/052/0002379729",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'잠실 시위 현장 중국 경찰' AI로 허위 영상 제작·유포 40대 유튜버",
-      "link": "https://n.news.naver.com/mnews/article/421/0009060210",
+      "title": "‘26표 차’ 부산시의원 북구1 선거구 23일 재검표…민주당 후보 당선무효 소청",
+      "link": "https://n.news.naver.com/mnews/article/025/0003537724",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "운문댐 가뭄 '심각' 단계…낙동강·금호강 대체공급 확대",
-      "link": "https://n.news.naver.com/mnews/article/018/0006330563",
+      "title": "장윤기 부실수사 수면 위…“성범죄 연결 말라” 지시·피해자 사전 인지 정황도 확인",
+      "link": "https://n.news.naver.com/mnews/article/666/0000115324",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "인권위 \"퀴어영화제 대관 취소는 차별\"…대학에 재발방지 권고",
-      "link": "https://n.news.naver.com/mnews/article/448/0000627011",
+      "title": "대법, 김건희 '도이치모터스 주가조작 등' 선고 24일로 연기",
+      "link": "https://n.news.naver.com/mnews/article/055/0001372667",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "피해 여고생 모른다던 장윤기, 휴대전화서 인지 정황 발견",
-      "link": "https://n.news.naver.com/mnews/article/055/0001372695",
+      "title": "‘오송 참사 3주기’ 유가족·생존자 “충북도·청주시 사과하고 최고 책임자 처벌해야”",
+      "link": "https://n.news.naver.com/mnews/article/032/0003458261",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 \"이란과 대화했다…내주까지 합의 안되면 발전소 공격\"",
-      "link": "https://n.news.naver.com/mnews/article/055/0001372580",
+      "title": "트럼프 \"내주까지 합의안되면 이란 발전소 공격…두들겨 맞아야\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016195232",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘전기 먹는 하마 싫다’… 뉴욕주, 데이터센터 급제동",
-      "link": "https://n.news.naver.com/mnews/article/021/0002804903",
+      "title": "워시 美 연준 의장 “높은 물가 절대 불용”... 금리 인하 신중론 급부상",
+      "link": "https://n.news.naver.com/mnews/article/366/0001179241",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프, 호르무즈 통행료 징수 철회는 “중동 요청 때문”",
-      "link": "https://n.news.naver.com/mnews/article/081/0003661298",
+      "title": "봉쇄된 호르무즈의 ‘숨통’ 셔틀선도 이란 공격 위협 직면",
+      "link": "https://n.news.naver.com/mnews/article/032/0003458223",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미국, 대이란 해상봉쇄 재개…\"군함 20척·군용기 수백대 동원\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000501190",
+      "title": "워런 버핏, 게이츠재단 기부 20년만에 중단하기로",
+      "link": "https://n.news.naver.com/mnews/article/014/0005548261",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美연준 워시 “CPI 둔화로 모자라...인플레 용납 안 할 것”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004641724",
+      "title": "\"트럼프 회사, 상무부 조사대상 韓기업에 수십억원 받아\" NYT",
+      "link": "https://n.news.naver.com/mnews/article/003/0014067043",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
