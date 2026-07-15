@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T09:09:09.833076+09:00",
+  "generated_at": "2026-07-15T14:26:13.416063+09:00",
   "window_start": "2026-07-14T22:00:00+09:00",
   "window_end": "2026-07-15T06:00:00+09:00",
   "date_label": "7/15(수)",
@@ -14,34 +14,34 @@
       ],
       "articles": [
         {
-          "title": "[경향신문] 윤석열 ‘유죄’ 나온 명태균 여론조사…김건희·오세훈에도 영향 미칠...",
-          "link": "https://n.news.naver.com/mnews/article/032/0003458190?sid=102",
-          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+          "title": "[서울신문] 민주 “즉각 재검표”… 국힘 “특검 먼저” “병행” 갈려",
+          "link": "https://n.news.naver.com/mnews/article/081/0003661217?sid=100",
+          "pubDate": "Wed, 15 Jul 2026 05:02:00 +0900"
         },
         {
-          "title": "[중앙일보] “집회 오라” 전화 거는 장동혁 측근들, 전화 피하는 의원들",
-          "link": "https://n.news.naver.com/mnews/article/025/0003537661?sid=100",
+          "title": "[중앙일보] “盧 퇴임후 재수사 없게 해달라” 靑민정실 요구, 檢은 거부했다",
+          "link": "https://n.news.naver.com/mnews/article/025/0003537658?sid=102",
           "pubDate": "Wed, 15 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "[한국일보] 장동혁·정점식, 모처럼 '보완수사권' 한뜻… 한동훈까지 단일대오 움직...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000942308?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 04:31:00 +0900"
+          "title": "[동아일보] 與 “투표지 247만장 즉각 재검표” 野 “특검 우선”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003734017?sid=102",
+          "pubDate": "Wed, 15 Jul 2026 04:36:00 +0900"
         },
         {
-          "title": "[조선일보] 오세훈 “서울 주택 행정은…” 李대통령 “그 얘기는 나중에 하시죠”",
-          "link": "https://n.news.naver.com/mnews/article/023/0003987663?sid=100",
+          "title": "[조선일보] 국힘 소속 특위 위원장 “재검표를”… 국힘 특위 위원들은 “특검이 먼...",
+          "link": "https://n.news.naver.com/mnews/article/023/0003987666?sid=100",
           "pubDate": "Wed, 15 Jul 2026 00:56:00 +0900"
         },
         {
-          "title": "[조선일보] 버티던 정청래, 선호투표 수용… 친명 “동정표 노리고 선회”",
-          "link": "https://n.news.naver.com/mnews/article/023/0003987664?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 00:56:00 +0900"
+          "title": "[뉴스1] 與 \"즉각 재검표\"…野는 \"특검과 병행\"·\"특검 먼저\" 두 갈래(종합2보)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009059721?sid=100",
+          "pubDate": "Tue, 14 Jul 2026 23:56:00 +0900"
         },
         {
-          "title": "[문화일보] 박범계 “정청래, 누구보다 사나워…스스로 약자 표현 적절치 않아”",
-          "link": "https://n.news.naver.com/mnews/article/021/0002804698?sid=100",
-          "pubDate": "Tue, 14 Jul 2026 22:27:00 +0900"
+          "title": "[연합뉴스] 선관위 국조 '재검표' 합의 불발…與 \"즉각\"·국힘 \"특검 우선\"(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016194717?sid=100",
+          "pubDate": "Tue, 14 Jul 2026 22:54:00 +0900"
         }
       ]
     },
@@ -51,23 +51,7 @@
       "queries": [
         "더불어민주당"
       ],
-      "articles": [
-        {
-          "title": "[동아일보] ‘조국당과 합당 무산’ 김민석에 화살 돌리는 정청래",
-          "link": "https://n.news.naver.com/mnews/article/020/0003733978?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 04:34:00 +0900"
-        },
-        {
-          "title": "[이데일리] 정청래 “보완수사권 존치론 당황”…당 정체성·검찰개혁 강조",
-          "link": "https://n.news.naver.com/mnews/article/018/0006330307?sid=100",
-          "pubDate": "Tue, 14 Jul 2026 22:46:00 +0900"
-        },
-        {
-          "title": "[뉴스1] 정청래, '보완수사권 일부 존치' 제기에 \"정말 손 많이 가는 당\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009059665?sid=100",
-          "pubDate": "Tue, 14 Jul 2026 22:27:00 +0900"
-        }
-      ]
+      "articles": []
     },
     {
       "key": "ppp",
@@ -75,23 +59,7 @@
       "queries": [
         "국민의힘"
       ],
-      "articles": [
-        {
-          "title": "[한국일보] [단독] 장동혁, 경기도당 위원장으로 '최측근' 조광한 띄우기, 당권파 세...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000942299?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 04:31:00 +0900"
-        },
-        {
-          "title": "[뉴시스] 장동혁, '재선거' 고리로 전국 돌며 지지층 확보 총력…오늘 광주행",
-          "link": "https://n.news.naver.com/mnews/article/003/0014067055?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 05:00:00 +0900"
-        },
-        {
-          "title": "[동아일보] 오세훈 “부동산 한말씀 드려도 되겠나” 한성숙 “서류로 받겠다”",
-          "link": "https://n.news.naver.com/mnews/article/020/0003733968?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 04:33:00 +0900"
-        }
-      ]
+      "articles": []
     },
     {
       "key": "economy",
@@ -99,23 +67,7 @@
       "queries": [
         "경제"
       ],
-      "articles": [
-        {
-          "title": "[경향신문] [단독]4년 만에 도로 ‘컬러풀 대구’?···도시브랜드 교체에 또 수억...",
-          "link": "https://n.news.naver.com/mnews/article/032/0003458192?sid=102",
-          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
-        },
-        {
-          "title": "[뉴시스] \"교사·학생도 경제·금융 알아야\"…서울교육청, 연수·수업 연계",
-          "link": "https://n.news.naver.com/mnews/article/003/0014067116?sid=102",
-          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
-        },
-        {
-          "title": "[뉴스1] 수출 4강 '가시권'·소득 5만불 '환율 변수'…잠재성장 3%는 '험로'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009059814?sid=101",
-          "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
-        }
-      ]
+      "articles": []
     }
   ]
 }
