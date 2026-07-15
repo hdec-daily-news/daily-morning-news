@@ -1,162 +1,177 @@
 {
-  "generated_at": "2026-07-15T08:49:28.434846+09:00",
+  "generated_at": "2026-07-15T09:09:57.967204+09:00",
   "date_label": "7/15(수)",
   "articles": [
     {
-      "title": "민주당 최고위, 당대표 선거 '선호투표제' 도입…'청년 최고위원'은 부결",
-      "link": "https://n.news.naver.com/mnews/article/057/0001958464",
+      "title": "與홍기원 ‘보완수사권 일부 존치’ 법안발의…민주당 11명 공동발의",
+      "link": "https://n.news.naver.com/mnews/article/009/0005707116",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "북 \"왕후닝 이끄는 중국 당정 대표단, 15~17일 방북\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002379201",
+      "title": "선관위 국조 '재검표 시기' 공방…與 \"즉각\"·국힘 \"특검 우선\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016193211",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "與 11명 '보완수사 일부 존치' 법안 발의 \"최소 안전장치\"…李 \"요란한 개혁 성과 어려워\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000626837",
+      "title": "李대통령 “목소리 키우고 삿대질한다고 개혁 잘되는 것 아냐”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003537465",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령, 국무회의 말미 오세훈에 발언 기회…\"재개발·재건축 지연 대책 보고해달라\"(종합)",
-      "link": "https://n.news.naver.com/mnews/article/003/0014065834",
+      "title": "오세훈 ‘부동산 발언’하려 했지만…한성숙 “서류로 받겠다”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012217705",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "민경욱, 부정선거 강연 중 쓰러져…“의식불명 상태·뇌병변 의심”",
-      "link": "https://n.news.naver.com/mnews/article/025/0003537644",
+      "title": "'초고가주택 기준 30억' 댓글 설문 결과에 … 李 \"너무 가혹\"",
+      "link": "https://n.news.naver.com/mnews/article/009/0005707518",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령, 英 앤 공주 접견…\"엘리자베스 여왕 들른 안동, 내 고향\"",
-      "link": "https://n.news.naver.com/mnews/article/008/0005386055",
+      "title": "SK하이닉스 미 ADR 9.3% 급락…공모가 소폭 웃돌아",
+      "link": "https://n.news.naver.com/mnews/article/422/0000884779",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "최태원 \"AI 활용 비용 낮춰야…美투자자·파트너와 함께할 것\"",
-      "link": "https://n.news.naver.com/mnews/article/079/0004168434",
+      "title": "\"현금 부자들만 집 살 수 있나요?\"…새 부동산 정책 논의 전 대출 옥죄는 금융권[금융현미경]",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790007",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "유학간 SK하이닉스 27% 올랐다… 코스피 반등 시동? [이런국장 저런주식]",
-      "link": "https://n.news.naver.com/mnews/article/011/0004641701",
+      "title": "삼성SDI, 데이터센터용 UPS 배터리 화재 안전 인증[배터리 온에어]",
+      "link": "https://n.news.naver.com/mnews/article/293/0000087590",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "동대문구, 여름철 수산물 원산지 특별점검…청량리수산시장 등 집중 점검",
-      "link": "https://n.news.naver.com/mnews/article/021/0002804740",
+      "title": "경남농관원, 휴가철 축산물 원산지 집중 단속 외[여기는 진주]",
+      "link": "https://n.news.naver.com/mnews/article/056/0012217981",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "오세훈, 국무회의선 서면 제출…오후엔 부동산 8대 과제 발표[뉴스1PICK]",
-      "link": "https://n.news.naver.com/mnews/article/421/0009059214",
+      "title": "동네 사랑방이었는데…홈플러스 문화센터 폐강에 강사·주민 \"날벼락\"",
+      "link": "https://n.news.naver.com/mnews/article/008/0005385864",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "법원, '학폭재판 노쇼' 손배소 화해권고…유족 전부 승소 취지",
-      "link": "https://n.news.naver.com/mnews/article/001/0016194500",
+      "title": "시민참여단 46% “강력·중대·반복 범죄에 한해 촉법소년 연령 낮춰야”",
+      "link": "https://n.news.naver.com/mnews/article/022/0004142985",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_11_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "50대 여성이 몰던 벤츠 인도로 돌진, 30대 보행자 사망",
-      "link": "https://n.news.naver.com/mnews/article/087/0001205014",
+      "title": "'피해자보호' 잘해 표창 받은 경찰이 장윤기 범죄증거는 감춰",
+      "link": "https://n.news.naver.com/mnews/article/437/0000501107",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "동탄2신도시 부정청약 58명 수사…4명 검찰송치·3명 입건",
-      "link": "https://n.news.naver.com/mnews/article/008/0005385844",
+      "title": "경찰, '장윤기 사건' 수사 확대…전 광산서장·형사과장 입건",
+      "link": "https://n.news.naver.com/mnews/article/008/0005385784",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "아파트 엘리베이터에 갇히고...인천 영종도 정전으로 2만5000가구 피해",
-      "link": "https://n.news.naver.com/mnews/article/023/0003987477",
+      "title": "노경필 신임 법원행정처장 취임…\"AI 사법 시스템 구축, 재판 부담 완화\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005789711",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "종합특검, 심우정 전 검찰총장 구속영장 청구…내란 가담 혐의",
-      "link": "https://n.news.naver.com/mnews/article/656/0000181445",
+      "title": "1500원 아이스크림 먹은 발달장애인 2명 특수절도 송치 논란(종합)",
+      "link": "https://n.news.naver.com/mnews/article/003/0014064941",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "우크라·유럽 9개국, '러시아 탄도미사일 방어 연합' 구축",
-      "link": "https://n.news.naver.com/mnews/article/448/0000626510",
+      "title": "워런 버핏, 게이츠재단 기부 20년만에 중단…게이츠와 거리두기",
+      "link": "https://n.news.naver.com/mnews/article/001/0016194785",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “16일 저녁 대국민 연설”…이란 관련 발언 주목",
-      "link": "https://n.news.naver.com/mnews/article/025/0003537392",
+      "title": "트럼프 \"이란과 대화…다음주까지 합의 없으면 발전소·교량 공격\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006330412",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"북한 핵실험 탐지 연구 중국계 미국인, 20개월간 구금 중\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002379092",
+      "title": "트럼프 “16일 저녁 대국민 연설”…‘對이란 추가대응’ 메시지 주목[1일1트]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002669722",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"미국이 에너지 위협\"‥소용돌이치는 중동",
-      "link": "https://n.news.naver.com/mnews/article/214/0001511482",
+      "title": "“산업혁명보다 강한 AI 격변”… 경제-AI리더들 “당장 행동해야”",
+      "link": "https://n.news.naver.com/mnews/article/020/0003733975",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_19_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "트럼프, 의회에 '이란전 재개' 통보…일주일 만에 이란 군시설 300곳 폭격",
-      "link": "https://n.news.naver.com/mnews/article/014/0005547746",
+      "title": "'트럼프의 외교 참모' 그레이엄…공화당 분열 속 후임 주목",
+      "link": "https://n.news.naver.com/mnews/article/277/0005789829",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
