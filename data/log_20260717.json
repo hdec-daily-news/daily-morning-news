@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-07-17T07:00:50.751253+09:00",
+  "window_start": "2026-07-16T22:00:00+09:00",
+  "window_end": "2026-07-17T06:00:00+09:00",
+  "date_label": "7/17(금)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[노컷뉴스] 송영길·김용 전대 출마 자격 '빨간불'…17일 재논의",
+          "link": "https://n.news.naver.com/mnews/article/079/0004169350?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 05:01:00 +0900"
+        },
+        {
+          "title": "[한국일보] 여전히 \"재선거\"만 외치는 장동혁... 당내서도 등 돌렸다",
+          "link": "https://n.news.naver.com/mnews/article/469/0000942767?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 04:30:00 +0900"
+        },
+        {
+          "title": "[동아일보] 강성층 결집 밀착하는 정청래-유시민… 친명 “대통령을 적으로 만들어...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003734554?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:42:00 +0900"
+        },
+        {
+          "title": "[뉴스1] '후보 자격 논란' 송영길·김용 \"검찰 탄압, 예외 사유\"…與, 17일 재논의",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064683?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:39:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] 與최고위, '친명' 송영길·김용 후보 자격 격론…친청계 반대(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016200022?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:45:00 +0900"
+        },
+        {
+          "title": "[문화일보] “張, 내게 싸움 걸어 어떻게든 연명…대꾸할 필요 못 느껴” 한동훈의...",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805251?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:28:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 與 심야 최고위 '송영길·김용 출마 자격' 심사…17일에 재논의(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064680?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:24:00 +0900"
+        },
+        {
+          "title": "[한겨레] ‘복당 6개월 미만’ 송영길 전대 출마 불가?…민주 심야 최고위 결론 ...",
+          "link": "https://n.news.naver.com/mnews/article/028/0002814521?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:20:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "[YTN] 송영길 \"유시민 충정 이해하나 악담은 맞지 않아\"",
+          "link": "https://n.news.naver.com/mnews/article/052/0002380692?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 04:02:00 +0900"
+        },
+        {
+          "title": "[뉴시스] 김민석 \"송영길·김용 후보등록 허용해야…충분한 예외 사유\"",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072366?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:42:00 +0900"
+        },
+        {
+          "title": "[뉴시스] '출마자격 도마' 송영길·김용 \"檢탄압 피해자를 배제? 전대 정당성 의...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072365?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:31:00 +0900"
+        },
+        {
+          "title": "[뉴시스] 강득구 \"송영길에 '6개월 전 입당' 기준 지나치게 기계적…헌신 생각해...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072363?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:07:00 +0900"
+        },
+        {
+          "title": "[중앙일보] ‘복당 6개월 미만’ 송영길, 출마 제동?…與, 심야 최고위원 소집",
+          "link": "https://n.news.naver.com/mnews/article/025/0003538198?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:01:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "[문화일보] [속보]보완수사권 ‘유지’ 55.4% ‘폐지’ 30.8%-리서치웰",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805248?sid=100",
+          "pubDate": "Thu, 16 Jul 2026 23:19:00 +0900"
+        },
+        {
+          "title": "[경향신문] “왜 고정형으로 안 했을까”···영끌·빚투족 비상, 금리 0.5%p 오르면...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458735?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[서울신문] ‘국민성장펀드 1호’ 신안우이 해상풍력 첫 삽… 국내 공급망 ‘바람’...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662035?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:04:00 +0900"
+        },
+        {
+          "title": "[서울신문] “종부세, 주택 수 아닌 가액 부과” “양도세, 보유보다 거주 기간”…...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003661986?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:01:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 백악관 \"美, 이란 해상 재봉쇄에 미군 1만명·항모 2척 투입\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064688?sid=104",
+          "pubDate": "Fri, 17 Jul 2026 04:29:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "[이데일리] [속보]AI 투자 회의론에 반도체주 '와르르'…나스닥 1.5% 급락",
+          "link": "https://n.news.naver.com/mnews/article/018/0006332055?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:24:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 5년 전 2%의 유혹…돌아온 '혼합형 금리 폭탄'[금리인상 후폭풍]①",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064724?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[경향신문] 손재주 없다던 남편 직업은 ‘외과의사’···가사노동 ‘머릿속 알람...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458741?sid=103",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[머니투데이] \"챗GPT·클로드 크레딧 쏩니다\"…AI 업체들 '공짜 토큰' 출혈 전쟁, 왜?",
+          "link": "https://n.news.naver.com/mnews/article/008/0005387286?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[헤럴드경제] 금리·최저임금 인상에 중동 전쟁마저 격화…하반기 소상공인 덮칠 ‘다...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002671470?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

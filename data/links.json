@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T06:55:57.078171+09:00",
-  "window_start": "2026-07-15T22:00:00+09:00",
-  "window_end": "2026-07-16T06:00:00+09:00",
-  "date_label": "7/16(목)",
+  "generated_at": "2026-07-17T07:00:50.751253+09:00",
+  "window_start": "2026-07-16T22:00:00+09:00",
+  "window_end": "2026-07-17T06:00:00+09:00",
+  "date_label": "7/17(금)",
   "sectors": [
     {
       "key": "politics_main",
@@ -14,44 +14,44 @@
       ],
       "articles": [
         {
-          "title": "[뉴스1] \"국무회의부터 당내 회동까지\"…오세훈, 민선9기 광폭 행보",
-          "link": "https://n.news.naver.com/mnews/article/421/0009062205?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[노컷뉴스] 송영길·김용 전대 출마 자격 '빨간불'…17일 재논의",
+          "link": "https://n.news.naver.com/mnews/article/079/0004169350?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[노컷뉴스] 정청래·김민석, 오송 3주기 추모 '따로'…등록 하루 앞 충청 당심 공략",
-          "link": "https://n.news.naver.com/mnews/article/079/0004168932?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 05:01:00 +0900"
+          "title": "[한국일보] 여전히 \"재선거\"만 외치는 장동혁... 당내서도 등 돌렸다",
+          "link": "https://n.news.naver.com/mnews/article/469/0000942767?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 04:30:00 +0900"
         },
         {
-          "title": "[서울신문] 유시민 “李, 실패로 끝날 것”… 송영길은 ‘鄭 공천 후회’ 낙태 비유",
-          "link": "https://n.news.naver.com/mnews/article/081/0003661600?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 05:01:00 +0900"
+          "title": "[동아일보] 강성층 결집 밀착하는 정청래-유시민… 친명 “대통령을 적으로 만들어...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003734554?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:42:00 +0900"
         },
         {
-          "title": "[중앙일보] 오세훈과 밥 먹고, 한동훈과 모임…국힘 아슬아슬 ‘눈치작전’",
-          "link": "https://n.news.naver.com/mnews/article/025/0003537936?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 05:00:00 +0900"
+          "title": "[뉴스1] '후보 자격 논란' 송영길·김용 \"검찰 탄압, 예외 사유\"…與, 17일 재논의",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064683?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:39:00 +0900"
         },
         {
-          "title": "[동아일보] 장동혁 홀로 외치는 “전면 재선거”… 국힘 대변인 논평 346건에선 ‘0...",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734325?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 04:34:00 +0900"
+          "title": "[연합뉴스] 與최고위, '친명' 송영길·김용 후보 자격 격론…친청계 반대(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016200022?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:45:00 +0900"
         },
         {
-          "title": "[동아일보] 송영길 “먼저 의원된 정청래, 대통령 깔봐” 2007년 명청관계까지 ‘파...",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734324?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 04:34:00 +0900"
+          "title": "[문화일보] “張, 내게 싸움 걸어 어떻게든 연명…대꾸할 필요 못 느껴” 한동훈의...",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805251?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:28:00 +0900"
         },
         {
-          "title": "[한국일보] 김민석 \"민주 대통합\", 정청래 \"강력한 개혁\" … 與 '3인 3색' 노선 경쟁",
-          "link": "https://n.news.naver.com/mnews/article/469/0000942539?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 04:31:00 +0900"
+          "title": "[뉴스1] 與 심야 최고위 '송영길·김용 출마 자격' 심사…17일에 재논의(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064680?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:24:00 +0900"
         },
         {
-          "title": "[조선일보] 송영길 “채상병 사건 연루자 추가 고발”",
-          "link": "https://n.news.naver.com/mnews/article/023/0003987908?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 00:56:00 +0900"
+          "title": "[한겨레] ‘복당 6개월 미만’ 송영길 전대 출마 불가?…민주 심야 최고위 결론 ...",
+          "link": "https://n.news.naver.com/mnews/article/028/0002814521?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:20:00 +0900"
         }
       ]
     },
@@ -63,29 +63,29 @@
       ],
       "articles": [
         {
-          "title": "[중앙일보] “의원들이 날 안 좋아해” 또 나왔다, 정청래 1년 전 전략 소환",
-          "link": "https://n.news.naver.com/mnews/article/025/0003537944?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 05:00:00 +0900"
+          "title": "[YTN] 송영길 \"유시민 충정 이해하나 악담은 맞지 않아\"",
+          "link": "https://n.news.naver.com/mnews/article/052/0002380692?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 04:02:00 +0900"
         },
         {
-          "title": "[경향신문] 유시민 ‘이재명 대통령 필연적 실패’ 발언에 민주당 “저주와 다르지...",
-          "link": "https://n.news.naver.com/mnews/article/032/0003458454?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 22:27:00 +0900"
+          "title": "[뉴시스] 김민석 \"송영길·김용 후보등록 허용해야…충분한 예외 사유\"",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072366?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:42:00 +0900"
         },
         {
-          "title": "[조선일보] 정청래, 오송 참사 3주기 헌화",
-          "link": "https://n.news.naver.com/mnews/article/023/0003987904?sid=100",
-          "pubDate": "Thu, 16 Jul 2026 00:56:00 +0900"
+          "title": "[뉴시스] '출마자격 도마' 송영길·김용 \"檢탄압 피해자를 배제? 전대 정당성 의...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072365?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:31:00 +0900"
         },
         {
-          "title": "[경향신문] “신고할 테면 해봐”…직장내괴롭힘금지법 7년, ‘5인 미만’이란 갑질...",
-          "link": "https://n.news.naver.com/mnews/article/032/0003458459?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[뉴시스] 강득구 \"송영길에 '6개월 전 입당' 기준 지나치게 기계적…헌신 생각해...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014072363?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 01:07:00 +0900"
         },
         {
-          "title": "[SBS] \"한라산 백록담 들어가 물 떠먹기도…불법 탐방 근절해야\"",
-          "link": "https://n.news.naver.com/mnews/article/055/0001372896?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 05:50:00 +0900"
+          "title": "[중앙일보] ‘복당 6개월 미만’ 송영길, 출마 제동?…與, 심야 최고위원 소집",
+          "link": "https://n.news.naver.com/mnews/article/025/0003538198?sid=100",
+          "pubDate": "Fri, 17 Jul 2026 00:01:00 +0900"
         }
       ]
     },
@@ -97,29 +97,29 @@
       ],
       "articles": [
         {
-          "title": "[KBS] 국힘 장동혁 대표 광주서 ‘재선거 촉구’ 집회 참석",
-          "link": "https://n.news.naver.com/mnews/article/056/0012219067?sid=100",
-          "pubDate": "Wed, 15 Jul 2026 22:05:00 +0900"
+          "title": "[문화일보] [속보]보완수사권 ‘유지’ 55.4% ‘폐지’ 30.8%-리서치웰",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805248?sid=100",
+          "pubDate": "Thu, 16 Jul 2026 23:19:00 +0900"
         },
         {
-          "title": "[노컷뉴스] [단독]수사감찰 대상 경찰 급증…장윤기 전에도 '증거인멸' 4건",
-          "link": "https://n.news.naver.com/mnews/article/079/0004168929?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 05:01:00 +0900"
+          "title": "[경향신문] “왜 고정형으로 안 했을까”···영끌·빚투족 비상, 금리 0.5%p 오르면...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458735?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[뉴스1] '文 정부 블랙리스트' 조명균 전 통일장관 오늘 대법 선고",
-          "link": "https://n.news.naver.com/mnews/article/421/0009062214?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[서울신문] ‘국민성장펀드 1호’ 신안우이 해상풍력 첫 삽… 국내 공급망 ‘바람’...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662035?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:04:00 +0900"
         },
         {
-          "title": "[서울신문] 대출 금리 0.25% 포인트 오르면 가계 이자 연 3조3000억 ‘눈덩이’",
-          "link": "https://n.news.naver.com/mnews/article/081/0003661647?sid=101",
-          "pubDate": "Thu, 16 Jul 2026 05:04:00 +0900"
+          "title": "[서울신문] “종부세, 주택 수 아닌 가액 부과” “양도세, 보유보다 거주 기간”…...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003661986?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[한겨레] “다 해놓은 수사 뺏길라”…경찰, 중수청 ‘사건 이첩요구권’ 견제 본...",
-          "link": "https://n.news.naver.com/mnews/article/028/0002814321?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 05:02:00 +0900"
+          "title": "[뉴스1] 백악관 \"美, 이란 해상 재봉쇄에 미군 1만명·항모 2척 투입\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064688?sid=104",
+          "pubDate": "Fri, 17 Jul 2026 04:29:00 +0900"
         }
       ]
     },
@@ -131,29 +131,29 @@
       ],
       "articles": [
         {
-          "title": "[더팩트] 오세훈표 '야간경제' 시동…관광·상권 살리기 시험대",
-          "link": "https://n.news.naver.com/mnews/article/629/0000516524?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 00:01:00 +0900"
+          "title": "[이데일리] [속보]AI 투자 회의론에 반도체주 '와르르'…나스닥 1.5% 급락",
+          "link": "https://n.news.naver.com/mnews/article/018/0006332055?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 05:24:00 +0900"
         },
         {
-          "title": "[동아일보] [단독]“신입 대신 AI 쓴다” 韓주요 IT기업 20대 신규채용 43% 감소",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734311?sid=102",
-          "pubDate": "Thu, 16 Jul 2026 04:34:00 +0900"
+          "title": "[뉴스1] 5년 전 2%의 유혹…돌아온 '혼합형 금리 폭탄'[금리인상 후폭풍]①",
+          "link": "https://n.news.naver.com/mnews/article/421/0009064724?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[경향신문] ‘청년 일자리’에 재정 쏟았지만 ‘6개월 인턴’으론 안돼…“기업이...",
-          "link": "https://n.news.naver.com/mnews/article/032/0003458458?sid=101",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[경향신문] 손재주 없다던 남편 직업은 ‘외과의사’···가사노동 ‘머릿속 알람...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003458741?sid=103",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[뉴시스] '사필귀정' 황우석 최고과학기술인상 박탈…학계 \"22년 걸릴 일인가\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014069771?sid=105",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[머니투데이] \"챗GPT·클로드 크레딧 쏩니다\"…AI 업체들 '공짜 토큰' 출혈 전쟁, 왜?",
+          "link": "https://n.news.naver.com/mnews/article/008/0005387286?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[연합뉴스TV] [현생탐구] \"이 촉감 못 참죠\"…'손맛' 찾아 동대문 말랑이 거리로",
-          "link": "https://n.news.naver.com/mnews/article/422/0000885583?sid=101",
-          "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900"
+          "title": "[헤럴드경제] 금리·최저임금 인상에 중동 전쟁마저 격화…하반기 소상공인 덮칠 ‘다...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002671470?sid=101",
+          "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900"
         }
       ]
     }
