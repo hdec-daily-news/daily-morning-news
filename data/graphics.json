@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-07-17T07:01:39.392040+09:00",
-  "window_start": "2026-07-16T22:00:00+09:00",
-  "window_end": "2026-07-17T06:00:00+09:00",
-  "items": [
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 단일종목 레버리지 상품 보완방완 주요 내용",
-      "link": "https://www.news1.kr/photos/8012934",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/16/8012934/no_water.jpg",
-      "pubdate": "2026-07-17T04:01:39.392040+09:00",
-      "image": "images/graphics/뉴스1_01.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8012565",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/16/8012565/no_water.jpg",
-      "pubdate": "2026-07-17T01:01:39.392040+09:00",
-      "image": "images/graphics/뉴스1_02.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 16일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8012520",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/16/8012520/no_water.jpg",
-      "pubdate": "2026-07-17T01:01:39.392040+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] '아기 야말' 목욕시켜 준 메시…19년 전 인연, 월드컵 결승 격돌",
-      "link": "https://www.news1.kr/photos/8012467",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/16/8012467/no_water.jpg",
-      "pubdate": "2026-07-17T01:01:39.392040+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 국군사관학교 창설 계획",
-      "link": "https://www.news1.kr/photos/8012155",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/16/8012155/no_water.jpg",
-      "pubdate": "2026-07-17T00:01:39.392040+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    }
-  ]
+  "generated_at": "2026-07-18T06:49:37.631686+09:00",
+  "window_start": "2026-07-17T22:00:00+09:00",
+  "window_end": "2026-07-18T06:00:00+09:00",
+  "items": []
 }
