@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-07-19T06:45:54.079256+09:00",
+  "window_start": "2026-07-18T22:00:00+09:00",
+  "window_end": "2026-07-19T06:00:00+09:00",
+  "date_label": "7/19(일)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[뉴시스] 與당권주자 메시지 경쟁 치열…김민석 '국정', 송영길 '실행', 정청래 '...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014073763?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] 임만균 서울시의장 \"오세훈 시정 견제 강하게, 협력은 적극적으로\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201448?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+        },
+        {
+          "title": "[세계일보] 오세훈 ‘여론조사비 대납’ 의혹 22일 선고…주요 쟁점은?",
+          "link": "https://n.news.naver.com/mnews/article/022/0004144030?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:35:00 +0900"
+        },
+        {
+          "title": "[디지털타임스] 김민석 ‘적임론’·정청래 ‘동정론’·송영길 ‘정면돌파’… 첫 주말...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037511?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:10:00 +0900"
+        },
+        {
+          "title": "[노컷뉴스] '尹체포방해' 나경원·김기현 부른 종합특검…성과 있을까",
+          "link": "https://n.news.naver.com/mnews/article/079/0004169562?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:01:00 +0900"
+        },
+        {
+          "title": "[디지털타임스] ‘친장동혁’ 조광한, 경기도당위원장 선거 출마 번복…“생각접어”",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037510?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] \"대안도 방법도 없다\"…반장동혁, 張체제 사실상 방치 기류",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201432?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
+        },
+        {
+          "title": "[더팩트] [인터뷰] '비대위원장' 자처 조경태 \"장동혁 대신 덧셈정치…한동훈 즉...",
+          "link": "https://n.news.naver.com/mnews/article/629/0000517007?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "[경향신문] 정청래 “어머니 저는 어떡해야 하나요···만나는 사람마다 ‘괜찮냐...",
+          "link": "https://n.news.naver.com/mnews/article/033/0000051388?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 22:46:00 +0900"
+        },
+        {
+          "title": "[KBS] 대전 찾은 김민석 전 총리 “당 바로 잡을 시점”",
+          "link": "https://n.news.naver.com/mnews/article/056/0012220627?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 22:04:00 +0900"
+        },
+        {
+          "title": "[더팩트] 채상병 순직 3주기…'첫 구속영장 기각' 특검 수사 고비",
+          "link": "https://n.news.naver.com/mnews/article/629/0000517008?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
+        },
+        {
+          "title": "[YTN] 후보등록 마친 민주 당권주자들...본격 당심 행보",
+          "link": "https://n.news.naver.com/mnews/article/052/0002381274?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 23:32:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "[뉴시스] \"대출 숨통 틔워달라\" 분출…난제 직면한 정부[부동산 새판 짜기③]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014073765?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] [일문일답] 서울시의장 \"한강버스, 출퇴근용 고집할지 운영 방향 따져야...",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201451?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+        },
+        {
+          "title": "[헤럴드경제] ‘190억 빚’ 임채무, 이번엔 발달장애인 위해 나선다",
+          "link": "https://n.news.naver.com/mnews/article/016/0002671773?sid=103",
+          "pubDate": "Sat, 18 Jul 2026 22:09:00 +0900"
+        },
+        {
+          "title": "[매일경제] 8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005708987?sid=103",
+          "pubDate": "Sat, 18 Jul 2026 22:05:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] 이달 원화 절상률 주요국 1위…원/엔 1년8개월 만에 최저",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201440?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 05:51:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "[머니투데이] 스테이블코인 '싫어요', 토큰화 '좋아요'…블록체인 활용에 다른 시각,...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005387538?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[디지털타임스] 코웨이, 렌털 계정 1200만 눈앞…‘계정 경제’ 독주 굳힌다",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037521?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 북한 '텅스텐 특수'…중국 수출 규제로 '반사이익' 누려",
+          "link": "https://n.news.naver.com/mnews/article/421/0009066230?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[파이낸셜뉴스] \"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005549616?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] 검찰도 '부동산 투기와 전쟁'…전국에 전담검사 지정·엄정 대응",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201447?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+        }
+      ]
+    }
+  ]
+}

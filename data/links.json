@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T06:48:46.063912+09:00",
-  "window_start": "2026-07-17T22:00:00+09:00",
-  "window_end": "2026-07-18T06:00:00+09:00",
-  "date_label": "7/18(토)",
+  "generated_at": "2026-07-19T06:45:54.079256+09:00",
+  "window_start": "2026-07-18T22:00:00+09:00",
+  "window_end": "2026-07-19T06:00:00+09:00",
+  "date_label": "7/19(일)",
   "sectors": [
     {
       "key": "politics_main",
@@ -14,44 +14,44 @@
       ],
       "articles": [
         {
-          "title": "[뉴시스] 길어지는 장동혁 거취 공방…국힘 내부 張 '장외 정치' 두고 우려도",
-          "link": "https://n.news.naver.com/mnews/article/003/0014073196?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[뉴시스] 與당권주자 메시지 경쟁 치열…김민석 '국정', 송영길 '실행', 정청래 '...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014073763?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[뉴스1] 안철수·이준석 협공에 장동혁 '쐐기'…식어가는 한동훈 복당론",
-          "link": "https://n.news.naver.com/mnews/article/421/0009065701?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[연합뉴스] 임만균 서울시의장 \"오세훈 시정 견제 강하게, 협력은 적극적으로\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201448?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
         },
         {
-          "title": "[동아일보] 제헌절 경축식 불참 장동혁 “재선거” 장외정치",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734733?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 01:43:00 +0900"
+          "title": "[세계일보] 오세훈 ‘여론조사비 대납’ 의혹 22일 선고…주요 쟁점은?",
+          "link": "https://n.news.naver.com/mnews/article/022/0004144030?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:35:00 +0900"
         },
         {
-          "title": "[동아일보] 與전대 송영길-김용 후보자격 시비 11시간만에 “예외적 허용” 봉합",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734730?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 01:43:00 +0900"
+          "title": "[디지털타임스] 김민석 ‘적임론’·정청래 ‘동정론’·송영길 ‘정면돌파’… 첫 주말...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037511?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:10:00 +0900"
         },
         {
-          "title": "[중앙일보] ‘자격미달’ 송영길 전대 출마 허용, 4년 전 박지현은 불허",
-          "link": "https://n.news.naver.com/mnews/article/353/0000056087?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 01:04:00 +0900"
+          "title": "[노컷뉴스] '尹체포방해' 나경원·김기현 부른 종합특검…성과 있을까",
+          "link": "https://n.news.naver.com/mnews/article/079/0004169562?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[조선일보] 오세훈 “정부, 청년 투전판 내몰고 빚 탕감 생색”",
-          "link": "https://n.news.naver.com/mnews/article/023/0003988261?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 00:50:00 +0900"
+          "title": "[디지털타임스] ‘친장동혁’ 조광한, 경기도당위원장 선거 출마 번복…“생각접어”",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037510?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "[더팩트] 오세훈 1심 선고 앞둔 서울시…\"관심 갖지만 동요 없어\"",
-          "link": "https://n.news.naver.com/mnews/article/629/0000516952?sid=102",
-          "pubDate": "Sat, 18 Jul 2026 00:01:00 +0900"
+          "title": "[연합뉴스] \"대안도 방법도 없다\"…반장동혁, 張체제 사실상 방치 기류",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201432?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "[YTN] 송영길·김용 '예외 허용' 논란... 제헌절 경축식 '불참' 장동혁",
-          "link": "https://n.news.naver.com/mnews/article/052/0002380943?sid=100",
-          "pubDate": "Fri, 17 Jul 2026 22:57:00 +0900"
+          "title": "[더팩트] [인터뷰] '비대위원장' 자처 조경태 \"장동혁 대신 덧셈정치…한동훈 즉...",
+          "link": "https://n.news.naver.com/mnews/article/629/0000517007?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
         }
       ]
     },
@@ -63,29 +63,24 @@
       ],
       "articles": [
         {
-          "title": "[중앙일보] “하룻밤 만에 3억8000만원 쏟아졌다”…정청래 후원금 ‘폭발’",
-          "link": "https://n.news.naver.com/mnews/article/025/0003538343?sid=100",
-          "pubDate": "Fri, 17 Jul 2026 22:08:00 +0900"
+          "title": "[경향신문] 정청래 “어머니 저는 어떡해야 하나요···만나는 사람마다 ‘괜찮냐...",
+          "link": "https://n.news.naver.com/mnews/article/033/0000051388?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 22:46:00 +0900"
         },
         {
-          "title": "[동아일보] “檢 보완수사권 유지” 61%, “전면 폐지” 23%",
-          "link": "https://n.news.naver.com/mnews/article/020/0003734734?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 01:43:00 +0900"
+          "title": "[KBS] 대전 찾은 김민석 전 총리 “당 바로 잡을 시점”",
+          "link": "https://n.news.naver.com/mnews/article/056/0012220627?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 22:04:00 +0900"
         },
         {
-          "title": "[조선일보] 검찰 보완수사권 61%가 “유지해야”",
-          "link": "https://n.news.naver.com/mnews/article/023/0003988272?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 00:58:00 +0900"
+          "title": "[더팩트] 채상병 순직 3주기…'첫 구속영장 기각' 특검 수사 고비",
+          "link": "https://n.news.naver.com/mnews/article/629/0000517008?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
         },
         {
-          "title": "[중앙일보] 구청장 직속 재건축 팀 만들고 주택 정책 ‘1호 결재’…규제 완화는 과...",
-          "link": "https://n.news.naver.com/mnews/article/353/0000056083?sid=101",
-          "pubDate": "Sat, 18 Jul 2026 00:55:00 +0900"
-        },
-        {
-          "title": "[KBS] 민주당 대표 후보들, 등록 마감 후 첫 주말…지역 당심 다잡기",
-          "link": "https://n.news.naver.com/mnews/article/056/0012220415?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 01:00:00 +0900"
+          "title": "[YTN] 후보등록 마친 민주 당권주자들...본격 당심 행보",
+          "link": "https://n.news.naver.com/mnews/article/052/0002381274?sid=100",
+          "pubDate": "Sat, 18 Jul 2026 23:32:00 +0900"
         }
       ]
     },
@@ -97,29 +92,29 @@
       ],
       "articles": [
         {
-          "title": "[국민일보] [임보혁 기자의 ‘예며들다’] 다섯 달란트와 한 달란트",
-          "link": "https://n.news.naver.com/mnews/article/005/0001861669?sid=110",
-          "pubDate": "Sat, 18 Jul 2026 03:07:00 +0900"
+          "title": "[뉴시스] \"대출 숨통 틔워달라\" 분출…난제 직면한 정부[부동산 새판 짜기③]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014073765?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[국민일보] “나무 심기는 선교”… 사막화 몽골을 푸르게 푸르게",
-          "link": "https://n.news.naver.com/mnews/article/005/0001861664?sid=103",
-          "pubDate": "Sat, 18 Jul 2026 03:02:00 +0900"
+          "title": "[연합뉴스] [일문일답] 서울시의장 \"한강버스, 출퇴근용 고집할지 운영 방향 따져야...",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201451?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
         },
         {
-          "title": "[중앙일보] “서 회장도 박 노인도 67년 전 만난 샤일록이 낳았죠”",
-          "link": "https://n.news.naver.com/mnews/article/353/0000056049?sid=102",
-          "pubDate": "Sat, 18 Jul 2026 00:02:00 +0900"
+          "title": "[헤럴드경제] ‘190억 빚’ 임채무, 이번엔 발달장애인 위해 나선다",
+          "link": "https://n.news.naver.com/mnews/article/016/0002671773?sid=103",
+          "pubDate": "Sat, 18 Jul 2026 22:09:00 +0900"
         },
         {
-          "title": "[TV조선] [티조챗] 李대통령 언급한 낙태약 '미프진' 뭐길래…도입 놓고 공방 왜...",
-          "link": "https://n.news.naver.com/mnews/article/448/0000627600?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 00:01:00 +0900"
+          "title": "[매일경제] 8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005708987?sid=103",
+          "pubDate": "Sat, 18 Jul 2026 22:05:00 +0900"
         },
         {
-          "title": "[서울신문] “축구인들, 반성하고 각성해야”…기성용, 월드컵 조기 탈락에 쓴소리",
-          "link": "https://n.news.naver.com/mnews/article/081/0003662207?sid=102",
-          "pubDate": "Fri, 17 Jul 2026 23:24:00 +0900"
+          "title": "[연합뉴스] 이달 원화 절상률 주요국 1위…원/엔 1년8개월 만에 최저",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201440?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 05:51:00 +0900"
         }
       ]
     },
@@ -131,29 +126,29 @@
       ],
       "articles": [
         {
-          "title": "[머니투데이] [단독]'17조+α' AI 투자 몰리는 솔라시도..삼성 외 6곳 검토",
-          "link": "https://n.news.naver.com/mnews/article/008/0005387433?sid=101",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[머니투데이] 스테이블코인 '싫어요', 토큰화 '좋아요'…블록체인 활용에 다른 시각,...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005387538?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[뉴스1] 中초원 살린 현대차, 경제도 잡아…\"도시 떠난 주민이 돌아왔다\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009065695?sid=104",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[디지털타임스] 코웨이, 렌털 계정 1200만 눈앞…‘계정 경제’ 독주 굳힌다",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037521?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[조선일보] [인터뷰] 전광우 \"정년 연장, 재고용 방식으로 가면 청년층과 충돌 없어...",
-          "link": "https://n.news.naver.com/mnews/article/053/0000060015?sid=102",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[뉴스1] 북한 '텅스텐 특수'…중국 수출 규제로 '반사이익' 누려",
+          "link": "https://n.news.naver.com/mnews/article/421/0009066230?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[중앙일보] 농심 이어 오뚜기도 품었다…‘신선한 라면’ 맛볼 수 있는 이곳",
-          "link": "https://n.news.naver.com/mnews/article/025/0003538366?sid=102",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[파이낸셜뉴스] \"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005549616?sid=101",
+          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[중앙일보] ‘차관급’ 광주특별시 부시장…2명 뽑는데 400건 추천 몰렸다",
-          "link": "https://n.news.naver.com/mnews/article/025/0003538364?sid=102",
-          "pubDate": "Sat, 18 Jul 2026 06:00:00 +0900"
+          "title": "[연합뉴스] 검찰도 '부동산 투기와 전쟁'…전국에 전담검사 지정·엄정 대응",
+          "link": "https://n.news.naver.com/mnews/article/001/0016201447?sid=102",
+          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
         }
       ]
     }

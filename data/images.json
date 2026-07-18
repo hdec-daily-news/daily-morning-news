@@ -1,162 +1,172 @@
 {
-  "generated_at": "2026-07-18T06:49:37.363670+09:00",
-  "date_label": "7/18(토)",
+  "generated_at": "2026-07-19T06:46:41.009987+09:00",
+  "date_label": "7/19(일)",
   "articles": [
     {
-      "title": "민주당 최고위, '후보 자격 논란' 송영길·김용에 출마 허용 결정",
-      "link": "https://n.news.naver.com/mnews/article/088/0001019506",
+      "title": "李대통령 \"농업보조금 늘려야\"…송미령 \"한국, 선진국보다 적어\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016201111",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_01_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "정점식 \"제헌절 껍데기가 아닌 '토론과 합의' 정신 기려야\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001512279",
+      "title": "안철수 이어 이준석과도…한동훈 야권과 잇단 충돌",
+      "link": "https://n.news.naver.com/mnews/article/021/0002805354",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李 \"민주주의 지킨 12월3일 '국민주권의 날'로\"",
-      "link": "https://n.news.naver.com/mnews/article/009/0005708856",
+      "title": "김민석 ‘적임론’·정청래 ‘동정론’·송영길 ‘정면돌파’… 첫 주말 총력전",
+      "link": "https://n.news.naver.com/mnews/article/029/0003037511",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "육해공사 통합 사관학교… 교수 절반은 민간인으로",
-      "link": "https://n.news.naver.com/mnews/article/020/0003734561",
+      "title": "김민석 \"정신 차리고 당 바로잡아야…'바통 터치' 필요\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000886365",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "봉하마을 참배한 김민석 “오판으로 18년 야인…머리 숙여 다시 사과”",
-      "link": "https://n.news.naver.com/mnews/article/028/0002814603",
+      "title": "방북 中 대표단, 원산갈마관광지구 참관…환대 속 귀국길",
+      "link": "https://n.news.naver.com/mnews/article/422/0000886200",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "뉴욕증시 반도체 주식 매도세 지속 일제 하락…나스닥 1.40%↓",
-      "link": "https://n.news.naver.com/mnews/article/003/0014073186",
+      "title": "국민성장펀드 1호 '신안우이 해상풍력' 첫삽…바람소득 시동[하반기 에너지②]",
+      "link": "https://n.news.naver.com/mnews/article/003/0014073205",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘2천억 수혈’로 회생 불씨 살린 홈플… 물류 중단·고객 이탈 ‘숙제’",
-      "link": "https://n.news.naver.com/mnews/article/005/0001861541",
+      "title": "한화 필리조선소, 미국 미사일시험 계측선 수주...'골든돔' 참여",
+      "link": "https://n.news.naver.com/mnews/article/014/0005549572",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "최태원 “하이닉스 주식, 들고 있으면 우상향 간다”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003734644",
+      "title": "공모가도 무너졌다…스페이스X, 상장 한 달만에 시총 1500조 증발",
+      "link": "https://n.news.naver.com/mnews/article/277/0005791336",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "과학 유튜버 궤도 \"AI 시대, 인간의 경쟁력은 판단과 검증\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005311163",
+      "title": "뉴욕증시, 반도체 매도세에 하락…나스닥 1.4%↓",
+      "link": "https://n.news.naver.com/mnews/article/277/0005791337",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘피자부터 게임·화학까지’…무신사, 경계 없는 ‘이색 협업’ 눈길",
-      "link": "https://n.news.naver.com/mnews/article/009/0005708753",
+      "title": "“화면비 4대3에 출고가 280만원”…갤럭시 폴더블폰 이렇게 나온다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004642643",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "심우정 전 검찰총장 영장 기각‥\"소명 부족\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001512215",
+      "title": "쿠팡, 인천 물류센터 화재 공식 사과…\"주민 지원·조사 적극 협조\"",
+      "link": "https://n.news.naver.com/mnews/article/119/0003112523",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘나는 절로’ 커플 첫 출산 소식에…“오늘부터 반야심경 암송”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003734694",
+      "title": "서해안고속도로 화성휴게소 승용차 화재...차량 전소",
+      "link": "https://n.news.naver.com/mnews/article/052/0002381252",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "장윤기 사건 수사팀장 \"징계 두려워 보완 기회 놓쳐\"…정부, 유착 끊을 순환인사 도입",
-      "link": "https://n.news.naver.com/mnews/article/448/0000627415",
+      "title": "\"아버지 집 사드릴 것\"…복권 1·2등 동시 당첨된 사연",
+      "link": "https://n.news.naver.com/mnews/article/018/0006332249",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_13_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "\"비명소리\" 신고에 경찰 다녀갔지만…의정부 일가족 참극",
-      "link": "https://n.news.naver.com/mnews/article/015/0005311167",
+      "title": "전국 호우특보 모두 해제...비 그친 사이 다시 폭염",
+      "link": "https://n.news.naver.com/mnews/article/023/0003988315",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대관령 4터널 화재, 1시간만에 완진…강릉 방향 전면통제",
-      "link": "https://n.news.naver.com/mnews/article/020/0003734650",
+      "title": "“악어, 네가 왜 거기서 나와?”… 여주 소양천서 50cm 크기 포획",
+      "link": "https://n.news.naver.com/mnews/article/023/0003988302",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "러 \"드론 납품 작년대비 2배 이상…적에 우위 확보\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016200892",
+      "title": "결승전에 캐나다 산불 연기?…트럼프 \"추가 관세 매길 것\"",
+      "link": "https://n.news.naver.com/mnews/article/057/0001959179",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "뇌-컴퓨터 연결장치 이식 성공…“중국서 세계 첫 사례”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002671460",
+      "title": "“중국탓” 트럼프, 대선개입 공세에도 무덤덤한 中…속내는?[1일1트]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002671725",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"피의 복수\" 이란, 美 보복 타격…호르무즈 긴장 '최고조'",
-      "link": "https://n.news.naver.com/mnews/article/015/0005311148",
+      "title": "한배 탔던 애플·오픈AI…이젠 '소송 전쟁'",
+      "link": "https://n.news.naver.com/mnews/article/215/0001259125",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "산불 연기 걷히는 뉴저지...월드컵 결승전 '이상 무'",
-      "link": "https://n.news.naver.com/mnews/article/052/0002381024",
+      "title": "아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"",
+      "link": "https://n.news.naver.com/mnews/article/055/0001373376",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "상하이서 '세계인공지능대회' 개막…중국 AI·로봇 성과 한자리에",
-      "link": "https://n.news.naver.com/mnews/article/055/0001373301",
+      "title": "[속보]영국 새 총리에 ‘온건 좌파’ 앤디 버넘···스타머 후임 확정, 20일 공식 취임",
+      "link": "https://n.news.naver.com/mnews/article/032/0003458827",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
