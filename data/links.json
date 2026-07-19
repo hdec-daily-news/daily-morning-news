@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T06:45:54.079256+09:00",
-  "window_start": "2026-07-18T22:00:00+09:00",
-  "window_end": "2026-07-19T06:00:00+09:00",
-  "date_label": "7/19(일)",
+  "generated_at": "2026-07-20T06:48:07.587575+09:00",
+  "window_start": "2026-07-19T22:00:00+09:00",
+  "window_end": "2026-07-20T06:00:00+09:00",
+  "date_label": "7/20(월)",
   "sectors": [
     {
       "key": "politics_main",
@@ -14,44 +14,44 @@
       ],
       "articles": [
         {
-          "title": "[뉴시스] 與당권주자 메시지 경쟁 치열…김민석 '국정', 송영길 '실행', 정청래 '...",
-          "link": "https://n.news.naver.com/mnews/article/003/0014073763?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[데일리안] 장동혁 리더십 위기 속 '친장'의 명암…결집·이탈 기류 동시에",
+          "link": "https://n.news.naver.com/mnews/article/119/0003112671?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[연합뉴스] 임만균 서울시의장 \"오세훈 시정 견제 강하게, 협력은 적극적으로\"",
-          "link": "https://n.news.naver.com/mnews/article/001/0016201448?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+          "title": "[경향신문] ‘일주일 유예’ 김건희 24일 대법 선고…오세훈·최태원까지 법조계 슈...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003459095?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[세계일보] 오세훈 ‘여론조사비 대납’ 의혹 22일 선고…주요 쟁점은?",
-          "link": "https://n.news.naver.com/mnews/article/022/0004144030?sid=102",
-          "pubDate": "Sun, 19 Jul 2026 05:35:00 +0900"
+          "title": "[연합뉴스TV] [뉴스초점] 민주, 전대 '기탁금' 논란…장동혁, 연휴 내내 장외정치",
+          "link": "https://n.news.naver.com/mnews/article/422/0000886658?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:53:00 +0900"
         },
         {
-          "title": "[디지털타임스] 김민석 ‘적임론’·정청래 ‘동정론’·송영길 ‘정면돌파’… 첫 주말...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003037511?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 05:10:00 +0900"
+          "title": "[디지털타임스] 김민석, “위장한 反明분열주의·신천지와의 대회전” 선언",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037677?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:30:00 +0900"
         },
         {
-          "title": "[노컷뉴스] '尹체포방해' 나경원·김기현 부른 종합특검…성과 있을까",
-          "link": "https://n.news.naver.com/mnews/article/079/0004169562?sid=102",
-          "pubDate": "Sun, 19 Jul 2026 05:01:00 +0900"
+          "title": "[노컷뉴스] 정청래의 '언더독' 전략…매번 '지는척' 이기는 방법",
+          "link": "https://n.news.naver.com/mnews/article/079/0004169704?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[디지털타임스] ‘친장동혁’ 조광한, 경기도당위원장 선거 출마 번복…“생각접어”",
-          "link": "https://n.news.naver.com/mnews/article/029/0003037510?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
+          "title": "[서울신문] ‘장외 정치’ 외줄 타는 장동혁… 부정선거 주장·강성 지지층 밀착 행...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662367?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[연합뉴스] \"대안도 방법도 없다\"…반장동혁, 張체제 사실상 방치 기류",
-          "link": "https://n.news.naver.com/mnews/article/001/0016201432?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 05:00:00 +0900"
+          "title": "[디지털타임스] 장동혁 “제헌절은 올공데이”… 안철수 “괴물 없고 국민 있더라”",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037673?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:00:00 +0900"
         },
         {
-          "title": "[더팩트] [인터뷰] '비대위원장' 자처 조경태 \"장동혁 대신 덧셈정치…한동훈 즉...",
-          "link": "https://n.news.naver.com/mnews/article/629/0000517007?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
+          "title": "[한국일보] 박지현은 탈락, 송영길은 예외… 대통령까지 움직인 민주당 '불공정' 논...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000943071?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 04:30:00 +0900"
         }
       ]
     },
@@ -63,24 +63,29 @@
       ],
       "articles": [
         {
-          "title": "[경향신문] 정청래 “어머니 저는 어떡해야 하나요···만나는 사람마다 ‘괜찮냐...",
-          "link": "https://n.news.naver.com/mnews/article/033/0000051388?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 22:46:00 +0900"
+          "title": "[동아일보] 김민석, 李 고향 안동서 ‘명심’ 강조… 정청래 “이해찬 부인이 후원...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003734927?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 04:32:00 +0900"
         },
         {
-          "title": "[KBS] 대전 찾은 김민석 전 총리 “당 바로 잡을 시점”",
-          "link": "https://n.news.naver.com/mnews/article/056/0012220627?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 22:04:00 +0900"
+          "title": "[문화일보] 張, 李대통령에 “김민석은 자기 편이라 믿나…착각도 유분수” 비난",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805525?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 22:41:00 +0900"
         },
         {
-          "title": "[더팩트] 채상병 순직 3주기…'첫 구속영장 기각' 특검 수사 고비",
-          "link": "https://n.news.naver.com/mnews/article/629/0000517008?sid=102",
-          "pubDate": "Sun, 19 Jul 2026 00:01:00 +0900"
+          "title": "[KBS] 김민석·송영길 부산서 당심 공략…21일 예비경선",
+          "link": "https://n.news.naver.com/mnews/article/056/0012220835?sid=100",
+          "pubDate": "Sun, 19 Jul 2026 22:12:00 +0900"
         },
         {
-          "title": "[YTN] 후보등록 마친 민주 당권주자들...본격 당심 행보",
-          "link": "https://n.news.naver.com/mnews/article/052/0002381274?sid=100",
-          "pubDate": "Sat, 18 Jul 2026 23:32:00 +0900"
+          "title": "[디지털타임스] “당직·공직선거 구별 못 하나”… 李대통령, 국힘 ‘당무개입’ 비판...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003037686?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] \"독일·일본은 검사 수사 안한다?…직접 수사권에 수사 지휘도\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016202441?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 05:55:00 +0900"
         }
       ]
     },
@@ -92,29 +97,29 @@
       ],
       "articles": [
         {
-          "title": "[뉴시스] \"대출 숨통 틔워달라\" 분출…난제 직면한 정부[부동산 새판 짜기③]",
-          "link": "https://n.news.naver.com/mnews/article/003/0014073765?sid=101",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[뉴시스] '안보실 인사개입' 윤재순·임종득 오늘 재판 마무리…특검 구형",
+          "link": "https://n.news.naver.com/mnews/article/003/0014074763?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[연합뉴스] [일문일답] 서울시의장 \"한강버스, 출퇴근용 고집할지 운영 방향 따져야...",
-          "link": "https://n.news.naver.com/mnews/article/001/0016201451?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+          "title": "[뉴스1] 반도체 호황이 부른 통화 긴축 유턴…내수·서민경제 '3高 직격탄'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009067267?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[헤럴드경제] ‘190억 빚’ 임채무, 이번엔 발달장애인 위해 나선다",
-          "link": "https://n.news.naver.com/mnews/article/016/0002671773?sid=103",
-          "pubDate": "Sat, 18 Jul 2026 22:09:00 +0900"
+          "title": "[뉴스1] 삼전닉스 레버리지 4개월만에 '졸속 출시'…환율 못 잡고 주가 반토막",
+          "link": "https://n.news.naver.com/mnews/article/421/0009067270?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[매일경제] 8천만원車, 한국선 ‘반값’ 3천만원대...‘세계 최고’ 극찬받은 현대...",
-          "link": "https://n.news.naver.com/mnews/article/009/0005708987?sid=103",
-          "pubDate": "Sat, 18 Jul 2026 22:05:00 +0900"
+          "title": "[연합뉴스TV] 이 대통령, 당무개입 野 비판에 \"최소한 상식 갖춰야\"",
+          "link": "https://n.news.naver.com/mnews/article/422/0000886645?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 05:24:00 +0900"
         },
         {
-          "title": "[연합뉴스] 이달 원화 절상률 주요국 1위…원/엔 1년8개월 만에 최저",
-          "link": "https://n.news.naver.com/mnews/article/001/0016201440?sid=101",
-          "pubDate": "Sun, 19 Jul 2026 05:51:00 +0900"
+          "title": "[서울신문] 檢 “보완수사하라” 6만건 돌려보냈는데… 경찰 미제도 10만건",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662370?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 05:01:00 +0900"
         }
       ]
     },
@@ -126,29 +131,29 @@
       ],
       "articles": [
         {
-          "title": "[머니투데이] 스테이블코인 '싫어요', 토큰화 '좋아요'…블록체인 활용에 다른 시각,...",
-          "link": "https://n.news.naver.com/mnews/article/008/0005387538?sid=101",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[연합뉴스] 한경협 류진 \"신산업 규제 '안 되는 것 빼고 다 되는' 식으로\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016202449?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[디지털타임스] 코웨이, 렌털 계정 1200만 눈앞…‘계정 경제’ 독주 굳힌다",
-          "link": "https://n.news.naver.com/mnews/article/029/0003037521?sid=101",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[뉴시스] 류진 한경협 회장 \"반도체 호황 이후 대비해야…규제 시스템 재설계 필...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014074751?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[뉴스1] 북한 '텅스텐 특수'…중국 수출 규제로 '반사이익' 누려",
-          "link": "https://n.news.naver.com/mnews/article/421/0009066230?sid=100",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[뉴스1] 류진 \"4대 그룹 복귀 위해 끝까지 노력…좋을 때 물러나고 싶다\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009067241?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[파이낸셜뉴스] \"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세...",
-          "link": "https://n.news.naver.com/mnews/article/014/0005549616?sid=101",
-          "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900"
+          "title": "[연합뉴스] '뷰 맛집' 입소문에 서울시청 하늘전망대 개방 2주간 7천명 발길",
+          "link": "https://n.news.naver.com/mnews/article/001/0016202457?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[연합뉴스] 검찰도 '부동산 투기와 전쟁'…전국에 전담검사 지정·엄정 대응",
-          "link": "https://n.news.naver.com/mnews/article/001/0016201447?sid=102",
-          "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+          "title": "[뉴시스] 내년 2월 임기만료 한경협 류진 회장 \"4대그룹 회장단 복귀 공약 지킬 것...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014074755?sid=101",
+          "pubDate": "Mon, 20 Jul 2026 06:00:00 +0900"
         }
       ]
     }
