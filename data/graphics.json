@@ -1,39 +1,47 @@
 {
-  "generated_at": "2026-07-20T06:48:57.703805+09:00",
-  "window_start": "2026-07-19T22:00:00+09:00",
-  "window_end": "2026-07-20T06:00:00+09:00",
+  "generated_at": "2026-07-21T06:58:43.607414+09:00",
+  "window_start": "2026-07-20T22:00:00+09:00",
+  "window_end": "2026-07-21T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "인천 쿠팡물류센터 화재·붕괴 위험",
-      "link": "https://www.yna.co.kr/view/GYH20260719001000044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/07/19/GYH2026071900100004401_P1.jpg",
-      "pubdate": "2026-07-19T23:53:00+09:00",
+      "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언",
+      "link": "https://www.yna.co.kr/view/GYH20260720001200044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/07/20/GYH2026072000120004401_P1.jpg",
+      "pubdate": "2026-07-20T22:16:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요 일정(20~24일)",
-      "link": "https://www.news1.kr/photos/8014962",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/19/8014962/no_water.jpg",
-      "pubdate": "2026-07-20T01:48:57.703805+09:00",
+      "title": "[그래픽] 메자닌 구조 물류센터 화재 취약성",
+      "link": "https://www.news1.kr/photos/8016885",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016885/no_water.jpg",
+      "pubdate": "2026-07-21T02:58:43.607414+09:00",
       "image": "images/graphics/뉴스1_02.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 북중미 월드컵 득점 순위(19일 기준)",
-      "link": "https://www.news1.kr/photos/8014946",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/19/8014946/no_water.jpg",
-      "pubdate": "2026-07-20T00:48:57.703805+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8016615",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016615/no_water.jpg",
+      "pubdate": "2026-07-21T00:58:43.607414+09:00",
       "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 2분기 '대졸 실업자' 48만명 5년 만에 최대…20·30대가 64%",
-      "link": "https://www.news1.kr/photos/8014853",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/19/8014853/no_water.jpg",
-      "pubdate": "2026-07-19T23:48:57.703805+09:00",
+      "title": "[오늘의 증시] 7월 20일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8016612",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016612/no_water.jpg",
+      "pubdate": "2026-07-21T00:58:43.607414+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] '무적함대' 귀환…스페인, 21세기 첫 월드컵 2회 우승",
+      "link": "https://www.news1.kr/photos/8016110",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016110/no_water.jpg",
+      "pubdate": "2026-07-20T22:58:43.607414+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }
