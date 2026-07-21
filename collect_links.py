@@ -15,6 +15,12 @@ import requests
 
 KST = ZoneInfo("Asia/Seoul")
 
+# 링크 단축 (2026-07-21 요청): 모바일에서 naver.me처럼 짧게 보이길 원했으나, naver.me는
+# 네이버 개인 계정 로그인 필요 + 일일 100개 제한이 있는 개인용 서비스라 자동화 불가능함을
+# 확인. 대신 로그인 불필요한 공개 단축 서비스(is.gd)로 대체. 문제 생기면 아래 스위치만
+# False로 바꾸면 즉시 원본 긴 링크로 롤백된다(코드 되돌릴 필요 없음).
+SHORTEN_LINKS = True
+
 # 네이버 뉴스 검색 API 키
 # 보안을 위해 코드에 직접 하드코딩하지 않는다. GitHub repo Settings > Secrets and variables > Actions 에
 # NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 를 등록해서 사용한다 (README 참고).
@@ -320,6 +326,36 @@ def date_label(dt):
     return f"{dt.month}/{dt.day}({WEEKDAY_KR[dt.weekday()]})"
 
 
+def shorten_url(url, timeout=8):
+    """is.gd 공개 API로 링크를 단축한다. 실패하면 원본 링크를 그대로 반환한다
+    (모바일 카톡 전달용으로 짧게 보이길 원하지만, 실패해도 산출물이 깨지면 안 되므로 안전 폴백)."""
+    try:
+        r = requests.get(
+            "https://is.gd/create.php",
+            params={"format": "simple", "url": url},
+            timeout=timeout,
+        )
+        r.raise_for_status()
+        short = r.text.strip()
+        if short.startswith("http") and "is.gd/" in short:
+            return short
+        print(f"[WARN] 링크 단축 실패({url[:50]}): {short[:80]}")
+    except Exception as e:
+        print(f"[WARN] 링크 단축 실패({url[:50]}): {e}")
+    return url
+
+
+def shorten_sector_links(sectors):
+    """선정된 기사(최대 23건/일)에 대해서만 단축을 시도한다. 각 기사는 'link'(단축본,
+    화면 표시/카톡 복사용)와 'long_link'(원본, 롤백/디버깅용)를 함께 가진다."""
+    for sector in sectors:
+        for a in sector["articles"]:
+            long_link = a["link"]
+            a["long_link"] = long_link
+            a["link"] = shorten_url(long_link) if SHORTEN_LINKS else long_link
+    return sectors
+
+
 def _now_override():
     """테스트/검증용: NOW_OVERRIDE 환경변수(ISO 8601, 예: 2026-07-09T06:05:00+09:00)가 설정되면
     실제 시각 대신 그 시각 기준으로 윈도우를 계산한다. 실제 스케줄 실행 시에는 설정하지 않는다."""
@@ -347,6 +383,7 @@ def main():
             for s in SECTORS
         ],
     }
+    shorten_sector_links(out["sectors"])
     with open("data/links.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
