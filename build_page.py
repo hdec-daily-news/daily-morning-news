@@ -99,16 +99,20 @@ TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
-SECTOR_ICON = {"politics_main": "①", "dp": "②", "ppp": "③", "economy": "④"}
-
-
-def sector_copy_text(sector):
-    icon = SECTOR_ICON.get(sector["key"], "")
-    lines = [f"{icon} {sector['label']}"]
+# 사람이 직접 쓰던 양식(example/briefings/*.txt)과 동일하게 맞춘다(2026-07-22):
+# "■ {섹터명} {날짜}"는 첫 섹터(정치)에만 붙고, 이후 섹터는 날짜 없이 "■ {섹터명}"만 쓴다.
+# 기사는 "[언론사] 헤드라인" 다음 줄에 링크, 기사와 기사 사이에 빈 줄 하나.
+def sector_copy_text(sector, date_label=None):
+    header = f"■ {sector['label']}"
+    if date_label:
+        header += f" {date_label}"
+    lines = [header, ""]
     if sector["articles"]:
         for a in sector["articles"]:
-            lines.append(f"- {a['title']}")
-            lines.append(f"  {a['link']}")
+            lines.append(a["title"])
+            lines.append(a["link"])
+            lines.append("")
+        lines.pop()
     else:
         lines.append("(해당 시간대 기사 없음)")
     return "\n".join(lines)
@@ -119,11 +123,10 @@ def render_sector(sector):
     lis = "\n".join(
         f'    <li><a href="{a["link"]}" target="_blank" rel="noopener">{a["title"]}</a></li>' for a in items
     ) or '    <li class="empty">(해당 시간대 기사 없음)</li>'
-    icon = SECTOR_ICON.get(sector["key"], "")
     key = sector["key"]
     return f"""  <div class="sector">
     <div class="sector-head">
-      <h3>{icon} {sector['label']}</h3>
+      <h3>■ {sector['label']}</h3>
       <button class="copy-btn" data-copy-target="sector-{key}" type="button">복사</button>
     </div>
     <ul>
@@ -221,10 +224,13 @@ def main():
         images_data.get("articles", []), graphics_data.get("items", []), "output/images.zip"
     )
 
-    sector_texts = {f"sector-{s['key']}": sector_copy_text(s) for s in links_data["sectors"]}
-    all_text = f"{links_data['date_label']} 일일 정치 주요뉴스\n\n" + "\n\n".join(
-        sector_copy_text(s) for s in links_data["sectors"]
-    )
+    sectors = links_data["sectors"]
+    date_label = links_data["date_label"]
+    sector_texts_list = [
+        sector_copy_text(s, date_label=date_label if i == 0 else None) for i, s in enumerate(sectors)
+    ]
+    sector_texts = {f"sector-{s['key']}": text for s, text in zip(sectors, sector_texts_list)}
+    all_text = "\n\n".join(sector_texts_list)
     copy_data = dict(sector_texts, **{"copy-all-text": all_text})
 
     html = TEMPLATE.format(
