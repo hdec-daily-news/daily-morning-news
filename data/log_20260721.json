@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-07-21T06:57:57.620251+09:00",
+  "window_start": "2026-07-20T22:00:00+09:00",
+  "window_end": "2026-07-21T06:00:00+09:00",
+  "date_label": "7/21(화)",
+  "sectors": [
+    {
+      "key": "politics_main",
+      "label": "정치 관련 주요기사",
+      "queries": [
+        "정치",
+        "국회",
+        "여야"
+      ],
+      "articles": [
+        {
+          "title": "[중앙일보] [단독] 이재명표 ‘공공 의대’ 최소 967억…위치는 이곳 가능성",
+          "link": "https://n.news.naver.com/mnews/article/025/0003538911?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900"
+        },
+        {
+          "title": "[서울신문] 비당권파 시·도당위원장 대거 포진… 장동혁 ‘우군’이 없다",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662717?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 05:02:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 선고 하루 앞 오세훈 '정치 운명' 공방 격화…시정·대권 행보 기로",
+          "link": "https://n.news.naver.com/mnews/article/421/0009069297?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900"
+        },
+        {
+          "title": "[동아일보] 김민석 “반명 분열주의 심판해야”… 정청래 “집토끼 나가면 총선 불...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003735255?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 04:33:00 +0900"
+        },
+        {
+          "title": "[머니투데이] 국힘 윤리위, 주중 회의 연다… 장동혁發 '징계 내전' 본격화",
+          "link": "https://n.news.naver.com/mnews/article/008/0005388317?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 04:05:00 +0900"
+        },
+        {
+          "title": "[국민일보] “가치실종” vs “주류의식”… 순혈주의에 숨막힌 이재명의 길",
+          "link": "https://n.news.naver.com/mnews/article/005/0001862096?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 02:04:00 +0900"
+        },
+        {
+          "title": "[문화일보] ‘호남 민심’ 구애 나선 김민석 아내 이태린 여사",
+          "link": "https://n.news.naver.com/mnews/article/021/0002805798?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 00:59:00 +0900"
+        },
+        {
+          "title": "[YTN] 첫 합동연설회서 '표심 전쟁'...정청래 집중 견제",
+          "link": "https://n.news.naver.com/mnews/article/052/0002382075?sid=100",
+          "pubDate": "Mon, 20 Jul 2026 23:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "label": "더불어민주당 동정",
+      "queries": [
+        "더불어민주당"
+      ],
+      "articles": [
+        {
+          "title": "[경향신문] [단독]잠실 시위 현장 업무에 ‘긴급 심리지원’ 받은 경찰 19명…법적...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003459333?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[경향신문] [속보]‘관저 이전 조작 감사’ 유병호 구속···법원 “증거인멸 염려...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003459327?sid=102",
+          "pubDate": "Mon, 20 Jul 2026 23:36:00 +0900"
+        },
+        {
+          "title": "[연합뉴스TV] 리얼미터 \"이 대통령 지지도 48.4%…소폭 하락\"",
+          "link": "https://n.news.naver.com/mnews/article/422/0000887036?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 05:40:00 +0900"
+        },
+        {
+          "title": "[노컷뉴스] 수사권 폐지해도 남는 '檢기소독점'…독일의 견제장치는?",
+          "link": "https://n.news.naver.com/mnews/article/079/0004170139?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900"
+        },
+        {
+          "title": "[연합뉴스] 與, '보완수사권 폐지' 놓고 전문가 정책의총…\"논의 심화\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016204711?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "ppp",
+      "label": "국민의힘 동정",
+      "queries": [
+        "국민의힘"
+      ],
+      "articles": [
+        {
+          "title": "[한국일보] [단독] 종합특검, '관저 사전답사' 김건희·윤한홍·21그램 동선 포착…...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000943376?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 04:31:00 +0900"
+        },
+        {
+          "title": "[노컷뉴스] 오세훈, 부동산 대토론회 참석 불발…김용범 회동으로 갈음",
+          "link": "https://n.news.naver.com/mnews/article/079/0004170138?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900"
+        },
+        {
+          "title": "[세계일보] 李, 분당 아파트 매각… 野 “17억 근저당 꼼수거래”",
+          "link": "https://n.news.naver.com/mnews/article/022/0004144547?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 05:26:00 +0900"
+        },
+        {
+          "title": "[뉴스1] 꺼지지 않는 신용대출 증가세…\"고점 물린 개미들, 상환 여유도 없어\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009069329?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 05:15:00 +0900"
+        },
+        {
+          "title": "[한국일보] \"대구 핵심시설 품은 도시철도 4호선... 재검토는 다각도로, 추진은 속도...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000943387?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "label": "경제 동정",
+      "queries": [
+        "경제"
+      ],
+      "articles": [
+        {
+          "title": "[서울신문] [단독] 경찰 ‘순환인사 확대’ 반발 확산… 직협, 집회·수사경과 반납...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003662721?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 05:02:00 +0900"
+        },
+        {
+          "title": "[한국일보] [단독] '쿠팡이츠'서 온 팀장님, 전 회사 자료로 '땡겨요' 만들었나",
+          "link": "https://n.news.naver.com/mnews/article/469/0000943384?sid=102",
+          "pubDate": "Tue, 21 Jul 2026 04:31:00 +0900"
+        },
+        {
+          "title": "[동아일보] [단독]주력사업 부진에… 돈 안되는 ‘미래 먹거리’ 손턴다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003735202?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 00:31:00 +0900"
+        },
+        {
+          "title": "[뉴시스] \"지금 안 사면 늦는다\"…전세난이 키운 서울 집값 악순환",
+          "link": "https://n.news.naver.com/mnews/article/003/0014077149?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[머니투데이] '저가 공세' 중국 보고 있나...AI 올라탄 'K철강', 수출액 들썩",
+          "link": "https://n.news.naver.com/mnews/article/008/0005388350?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
+        }
+      ]
+    }
+  ]
+}

@@ -1,79 +1,47 @@
 {
-  "generated_at": "2026-07-15T14:38:40.825872+09:00",
-  "window_start": "2026-07-14T22:00:00+09:00",
-  "window_end": "2026-07-15T06:00:00+09:00",
+  "generated_at": "2026-07-21T06:58:43.607414+09:00",
+  "window_start": "2026-07-20T22:00:00+09:00",
+  "window_end": "2026-07-21T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "시간당 최저임금 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260714001400044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/14/GYH2026071400140004400_P1.jpg",
-      "pubdate": "2026-07-14T23:38:00+09:00",
+      "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언",
+      "link": "https://www.yna.co.kr/view/GYH20260720001200044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/07/20/GYH2026072000120004401_P1.jpg",
+      "pubdate": "2026-07-20T22:16:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "2027년도 최저임금 노사 요구안 변동 추이(종합)",
-      "link": "https://www.yna.co.kr/view/GYH20260714001300044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/07/14/GYH2026071400130004400_P1.jpg",
-      "pubdate": "2026-07-14T23:27:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
       "source": "뉴스1",
-      "title": "[그래픽] 2027 최저임금 노사 수정안",
-      "link": "https://www.news1.kr/photos/8008450",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008450/no_water.jpg",
-      "pubdate": "2026-07-15T02:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8008421",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008421/no_water.jpg",
-      "pubdate": "2026-07-15T02:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 14일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8008180",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008180/no_water.jpg",
-      "pubdate": "2026-07-15T01:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
+      "title": "[그래픽] 메자닌 구조 물류센터 화재 취약성",
+      "link": "https://www.news1.kr/photos/8016885",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016885/no_water.jpg",
+      "pubdate": "2026-07-21T02:58:43.607414+09:00",
+      "image": "images/graphics/뉴스1_02.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8008174",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008174/no_water.jpg",
-      "pubdate": "2026-07-15T01:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
+      "link": "https://www.news1.kr/photos/8016615",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016615/no_water.jpg",
+      "pubdate": "2026-07-21T00:58:43.607414+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 강력범죄 촉법소년 만 14세→13세로…\"중1도 처벌\"",
-      "link": "https://www.news1.kr/photos/8007858",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8007858/no_water.jpg",
-      "pubdate": "2026-07-15T00:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
+      "title": "[오늘의 증시] 7월 20일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8016612",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016612/no_water.jpg",
+      "pubdate": "2026-07-21T00:58:43.607414+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 경제성장률 전망",
-      "link": "https://www.news1.kr/photos/8008070",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008070/no_water.jpg",
-      "pubdate": "2026-07-15T00:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 소비자물가 전망",
-      "link": "https://www.news1.kr/photos/8008043",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/14/8008043/no_water.jpg",
-      "pubdate": "2026-07-15T00:38:40.825872+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
+      "title": "[오늘의 그래픽] '무적함대' 귀환…스페인, 21세기 첫 월드컵 2회 우승",
+      "link": "https://www.news1.kr/photos/8016110",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/20/8016110/no_water.jpg",
+      "pubdate": "2026-07-20T22:58:43.607414+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }
