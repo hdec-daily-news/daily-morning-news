@@ -15,11 +15,13 @@ import requests
 
 KST = ZoneInfo("Asia/Seoul")
 
-# 링크 단축 (2026-07-21): TinyURL 등 범용 단축 서비스는 사용자가 원치 않아 롤백함(2026-07-21).
-# naver.me 자체는 네이버 개인 계정 로그인 + 일일 100개 제한이 있는 개인용 서비스라 완전
-# 자동화가 불가능함을 확인했음 — 아래에서 대안(비로그인 방식) 시도 중. 문제 생기면 이
-# 스위치만 False로 유지하면 즉시 원본 긴 링크로 돌아간다(코드 되돌릴 필요 없음).
-SHORTEN_LINKS = False
+# 링크 단축 (2026-07-21 최종 방식): 외부 단축 서비스(TinyURL 등)와 naver.me(로그인 필요)는
+# 둘 다 배제하고, 네이버 도메인을 유지한 채 URL 자체를 줄인다.
+#   1) "?sid=100" 같은 쿼리스트링은 목록 화면 UI용 카테고리 정보일 뿐 기사 식별과 무관해서 제거
+#   2) "/mnews/article/{office}/{id}" → "/article/{office}/{id}" (mnews/ 6글자 제거, 같은
+#      기사로 정상 연결되는지 실제 요청으로 검증한 뒤에만 사용, 실패 시 원본 mnews 링크로 폴백)
+# 문제 생기면 이 스위치만 False로 유지하면 즉시 원본 긴 링크로 돌아간다(코드 되돌릴 필요 없음).
+SHORTEN_LINKS = True
 
 # 네이버 뉴스 검색 API 키
 # 보안을 위해 코드에 직접 하드코딩하지 않는다. GitHub repo Settings > Secrets and variables > Actions 에
@@ -326,25 +328,33 @@ def date_label(dt):
     return f"{dt.month}/{dt.day}({WEEKDAY_KR[dt.weekday()]})"
 
 
+MNEWS_PATTERN = re.compile(r"^https://n\.news\.naver\.com/mnews/article/(\d+)/(\d+)")
+
+
 def shorten_url(url, timeout=8):
-    """공개 단축 API로 링크를 단축한다. 실패하면 원본 링크를 그대로 반환한다
-    (모바일 카톡 전달용으로 짧게 보이길 원하지만, 실패해도 산출물이 깨지면 안 되므로 안전 폴백).
-    is.gd가 GitHub Actions IP에서 'database insert failed'로 전량 실패해서(2026-07-21 실측)
-    TinyURL로 교체함. TinyURL도 막히면 원본 링크 폴백으로 자연히 안전하게 유지된다."""
-    try:
-        r = requests.get(
-            "https://tinyurl.com/api-create.php",
-            params={"url": url},
-            timeout=timeout,
-        )
-        r.raise_for_status()
-        short = r.text.strip()
-        if short.startswith("http") and "tinyurl.com/" in short:
-            return short
-        print(f"[WARN] 링크 단축 실패({url[:50]}): {short[:80]}")
-    except Exception as e:
-        print(f"[WARN] 링크 단축 실패({url[:50]}): {e}")
-    return url
+    """네이버 도메인을 유지한 채 URL을 줄인다. 외부 단축 서비스나 로그인이 필요한 naver.me는
+    쓰지 않는다(2026-07-21 요청). 실패하면 원본 링크를 그대로 반환한다.
+
+    1) 쿼리스트링(?sid=100 등)은 목록 화면 카테고리 표시용 UI 정보일 뿐 기사 식별과 무관하므로
+       그냥 제거한다(검증 불필요, 항상 안전).
+    2) "/mnews/article/{office}/{id}" → "/article/{office}/{id}"로 줄여보고, 실제 요청을 보내
+       진짜 그 기사로 연결되는지 확인한 뒤에만 사용한다. 검증 실패 시 mnews 경로로 폴백한다."""
+    no_query = url.split("?", 1)[0]
+    m = MNEWS_PATTERN.match(no_query)
+    if not m:
+        return no_query
+    office_id, article_id = m.group(1), m.group(2)
+    candidate = f"https://n.news.naver.com/article/{office_id}/{article_id}"
+    marker = f"/article/{office_id}/{article_id}"
+    for method in (requests.head, requests.get):
+        try:
+            r = method(candidate, timeout=timeout, allow_redirects=True)
+            if r.status_code == 200 and marker in r.url:
+                return candidate
+        except Exception:
+            continue
+    print(f"[WARN] 축약 URL 검증 실패({candidate}), 원본으로 폴백")
+    return no_query
 
 
 def shorten_sector_links(sectors):
