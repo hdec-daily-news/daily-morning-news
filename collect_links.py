@@ -327,17 +327,19 @@ def date_label(dt):
 
 
 def shorten_url(url, timeout=8):
-    """is.gd 공개 API로 링크를 단축한다. 실패하면 원본 링크를 그대로 반환한다
-    (모바일 카톡 전달용으로 짧게 보이길 원하지만, 실패해도 산출물이 깨지면 안 되므로 안전 폴백)."""
+    """공개 단축 API로 링크를 단축한다. 실패하면 원본 링크를 그대로 반환한다
+    (모바일 카톡 전달용으로 짧게 보이길 원하지만, 실패해도 산출물이 깨지면 안 되므로 안전 폴백).
+    is.gd가 GitHub Actions IP에서 'database insert failed'로 전량 실패해서(2026-07-21 실측)
+    TinyURL로 교체함. TinyURL도 막히면 원본 링크 폴백으로 자연히 안전하게 유지된다."""
     try:
         r = requests.get(
-            "https://is.gd/create.php",
-            params={"format": "simple", "url": url},
+            "https://tinyurl.com/api-create.php",
+            params={"url": url},
             timeout=timeout,
         )
         r.raise_for_status()
         short = r.text.strip()
-        if short.startswith("http") and "is.gd/" in short:
+        if short.startswith("http") and "tinyurl.com/" in short:
             return short
         print(f"[WARN] 링크 단축 실패({url[:50]}): {short[:80]}")
     except Exception as e:
