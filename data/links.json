@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T17:25:43.673304+09:00",
-  "window_start": "2026-07-20T22:00:00+09:00",
-  "window_end": "2026-07-21T06:00:00+09:00",
-  "date_label": "7/21(화)",
+  "generated_at": "2026-07-22T07:01:42.974355+09:00",
+  "window_start": "2026-07-21T22:00:00+09:00",
+  "window_end": "2026-07-22T06:00:00+09:00",
+  "date_label": "7/22(수)",
   "sectors": [
     {
       "key": "politics_main",
@@ -14,52 +14,52 @@
       ],
       "articles": [
         {
-          "title": "[YTN] 정점식-이준석 오찬 회동...대여투쟁 공조 논의 전망",
-          "link": "https://n.news.naver.com/mnews/article/052/0002382094?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 00:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/052/0002382094?sid=100"
+          "title": "[연합뉴스] '명태균 여론조사 대납 의혹' 오세훈 시장, 오늘 1심 선고",
+          "link": "https://tinyurl.com/287f5y34",
+          "pubDate": "Wed, 22 Jul 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/001/0016207102?sid=102"
         },
         {
-          "title": "[서울신문] 여야, 원 구성은 뒷전… 종합특검 연장법 상정에 ‘필버’ 충돌",
-          "link": "https://n.news.naver.com/mnews/article/081/0003662718?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 05:02:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/081/0003662718?sid=100"
+          "title": "[서울경제] 오세훈 운명의 날…‘여론조사 비용 대납 의혹’ 오늘 1심 선고",
+          "link": "https://tinyurl.com/2d72joxa",
+          "pubDate": "Wed, 22 Jul 2026 05:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/011/0004643754?sid=102"
         },
         {
-          "title": "[중앙일보] “씰 데 없는 소리 하고 있어!” YS 욱하게 한 초선 MB 질문",
-          "link": "https://n.news.naver.com/mnews/article/025/0003538908?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/025/0003538908?sid=100"
+          "title": "[뉴스1] 오세훈 '명태균 여론조사비 대납' 1심 오늘 선고",
+          "link": "https://tinyurl.com/24fwrxdg",
+          "pubDate": "Wed, 22 Jul 2026 05:30:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/421/0009071466?sid=102"
         },
         {
-          "title": "[뉴스1] '종합특검 연장법' 오늘 국회 통과 전망…野 필리버스터, 與 종결 대응",
-          "link": "https://n.news.naver.com/mnews/article/421/0009069322?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/421/0009069322?sid=100"
+          "title": "[디지털타임스] ‘여론조사비 대납 의혹’ 오세훈, 22일 1심 선고…녹화 중계도 진행",
+          "link": "https://tinyurl.com/29fk8nam",
+          "pubDate": "Wed, 22 Jul 2026 05:10:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/029/0003038158?sid=102"
         },
         {
-          "title": "[동아일보] 후반기 국회 시작부터 충돌… 민주 “특검 연장” 국힘 ‘필버’ 맞불",
-          "link": "https://n.news.naver.com/mnews/article/020/0003735258?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 04:33:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/020/0003735258?sid=100"
+          "title": "[연합뉴스TV] '여론조사 대납 의혹' 오세훈…오늘 법원 첫 판단",
+          "link": "https://tinyurl.com/28l5s8gl",
+          "pubDate": "Wed, 22 Jul 2026 05:09:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/422/0000887462?sid=102"
         },
         {
-          "title": "[머니투데이] 원구성도 못한채 강대강 대치… 후반기 첫 본회의부터 '필버'",
-          "link": "https://n.news.naver.com/mnews/article/008/0005388302?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 04:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/008/0005388302?sid=100"
+          "title": "[TV조선] '여론조사비 대납' 오세훈 오늘 1심 선고…구형은 징역 1년 6개월",
+          "link": "https://tinyurl.com/2xl3a63w",
+          "pubDate": "Wed, 22 Jul 2026 03:29:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/448/0000628394?sid=102"
         },
         {
-          "title": "[YTN] 종합특검 연장법 '필버' 대치...오늘 통과 불투명?",
-          "link": "https://n.news.naver.com/mnews/article/052/0002382121?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 01:14:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/052/0002382121?sid=100"
+          "title": "[KBS] 오세훈 ‘여론조사비 대납’ 오늘 선고…징역 1년 6개월 구형",
+          "link": "https://tinyurl.com/2akb6zvb",
+          "pubDate": "Wed, 22 Jul 2026 01:03:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/056/0012222492?sid=102"
         },
         {
-          "title": "[서울경제] [기자의 눈] 단일종목 레버리지가 소환한 ‘라임의 추억’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004643312?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 00:08:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/011/0004643312?sid=101"
+          "title": "[YTN] '여론조사 대납' 오세훈 오늘 1심 선고...징역 1년 6개월 구형",
+          "link": "https://tinyurl.com/2c97xfjd",
+          "pubDate": "Wed, 22 Jul 2026 01:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/052/0002382665?sid=102"
         }
       ]
     },
@@ -69,7 +69,38 @@
       "queries": [
         "더불어민주당"
       ],
-      "articles": []
+      "articles": [
+        {
+          "title": "[서울신문] 정청래 차량 파손에 ‘신천지 개입설’까지… 선 넘는 與전대",
+          "link": "https://tinyurl.com/234dhhj2",
+          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003663208?sid=100"
+        },
+        {
+          "title": "[노컷뉴스] 김민석은 왜 '신천지'를 언급할까…숨겨진 전략은",
+          "link": "https://tinyurl.com/2yyrxdhg",
+          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/079/0004170634?sid=100"
+        },
+        {
+          "title": "[뉴시스] 오세훈 오늘 '여론조사비 대납 혐의' 1심 선고…구형 징역 1년6개월",
+          "link": "https://tinyurl.com/29c62tnq",
+          "pubDate": "Wed, 22 Jul 2026 05:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/003/0014079773?sid=102"
+        },
+        {
+          "title": "[뉴시스] 與 전대, 김민석·정청래 충돌 격화…'反明' 설전에 '4년 전 이 대통령 ...",
+          "link": "https://tinyurl.com/257xylkl",
+          "pubDate": "Wed, 22 Jul 2026 05:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/003/0014079777?sid=100"
+        },
+        {
+          "title": "[동아일보] 김민석, ‘신천지 전대 개입설’ 제기… 정청래 “황당한 네거티브”",
+          "link": "https://tinyurl.com/23z47owj",
+          "pubDate": "Wed, 22 Jul 2026 04:34:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/020/0003735590?sid=100"
+        }
+      ]
     },
     {
       "key": "ppp",
@@ -77,7 +108,38 @@
       "queries": [
         "국민의힘"
       ],
-      "articles": []
+      "articles": [
+        {
+          "title": "[머니투데이] '명태균 여론조사 대납' 오세훈 1심 선고… 구형은 징역 1년6개월",
+          "link": "https://tinyurl.com/27geucsw",
+          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/008/0005388961?sid=102"
+        },
+        {
+          "title": "[디지털타임스] “배우자가 무슨 역할 했나”…우원식 해외출장 14회 모두 동행·82억 집...",
+          "link": "https://tinyurl.com/2ar6z653",
+          "pubDate": "Wed, 22 Jul 2026 02:50:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/029/0003038151?sid=100"
+        },
+        {
+          "title": "[JIBS] \"노인 비하, 당게 한동훈 따라갈 수 없다\" 발언 장예찬 무혐의.. 張 \"검...",
+          "link": "https://tinyurl.com/25rj3g7u",
+          "pubDate": "Wed, 22 Jul 2026 00:20:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/661/0000080295?sid=100"
+        },
+        {
+          "title": "[더팩트] '장동혁 사퇴론' 동력 상실?…잠잠해진 진짜 이유는",
+          "link": "https://tinyurl.com/25x4nydt",
+          "pubDate": "Wed, 22 Jul 2026 00:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/629/0000517842?sid=100"
+        },
+        {
+          "title": "[더팩트] '강경 징계' 역풍 기대한 한동훈?…국힘, '본보기 카드' 무게 두나",
+          "link": "https://tinyurl.com/2b7u8dzk",
+          "pubDate": "Wed, 22 Jul 2026 00:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/629/0000517843?sid=100"
+        }
+      ]
     },
     {
       "key": "economy",
@@ -91,34 +153,34 @@
       ],
       "articles": [
         {
-          "title": "[이데일리] [속보]뉴욕증시 또 하락…'중동 불안'에 빅테크 실적 경계감까지",
-          "link": "https://n.news.naver.com/mnews/article/018/0006333457?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 05:13:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/018/0006333457?sid=101"
+          "title": "[한국일보] 코스닥 역주행에 커지는 '상폐 공포'... 이재명 취임 전으로 회귀",
+          "link": "https://tinyurl.com/2233pfz9",
+          "pubDate": "Wed, 22 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/469/0000943610?sid=101"
         },
         {
-          "title": "[뉴시스] 1500원대 무너진 원·달러…强달러 여지는 '여전'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014077136?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014077136?sid=101"
+          "title": "[이데일리] [단독]'따릉이 정보유출' 대형사고에도…서울시설공단 이사장 연임 논란",
+          "link": "https://tinyurl.com/2adfrvoj",
+          "pubDate": "Wed, 22 Jul 2026 05:52:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/018/0006334250?sid=100"
         },
         {
-          "title": "[뉴시스] 日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
-          "link": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
-          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105"
+          "title": "[동아일보] [단독]노벨상 교수 “AI發 생산성 향상, 고용 창출까진 시차… 충격 불...",
+          "link": "https://tinyurl.com/2c7ge29f",
+          "pubDate": "Wed, 22 Jul 2026 04:34:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/020/0003735595?sid=102"
         },
         {
-          "title": "[디지털타임스] 美 42개 주서 ‘AI 데이터 센터’ 반대 시위…“전기·물 사용량 높여 부...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003037916?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/029/0003037916?sid=101"
+          "title": "[국민일보] [단독] “AI로 2030 다시 잡아라”… ‘국민 첫 차’ 아반떼 재시동",
+          "link": "https://tinyurl.com/24asyqgm",
+          "pubDate": "Wed, 22 Jul 2026 02:06:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/005/0001862350?sid=101"
         },
         {
-          "title": "[뉴시스] V자 반등 기대했는데 'L자' 늪?…다시 떠오르는 '박스피' 우려",
-          "link": "https://n.news.naver.com/mnews/article/003/0014077142?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014077142?sid=101"
+          "title": "[더팩트] [단독] \"김일성 품, 진정한 조국\"…조총련 의장 자서전 입수",
+          "link": "https://tinyurl.com/29afggds",
+          "pubDate": "Wed, 22 Jul 2026 00:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/629/0000517840?sid=100"
         }
       ]
     }
