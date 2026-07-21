@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:21:52.144533+09:00",
+  "generated_at": "2026-07-21T16:33:53.281925+09:00",
   "window_start": "2026-07-20T22:00:00+09:00",
   "window_end": "2026-07-21T06:00:00+09:00",
   "date_label": "7/21(화)",
@@ -13,11 +13,6 @@
         "여야"
       ],
       "articles": [
-        {
-          "title": "[연합뉴스TV] 다시 거세진 장맛비…수도권 출근길 '물폭탄' 주의보 [7월 21일 AI PICK]",
-          "link": "https://n.news.naver.com/mnews/article/422/0000887028?sid=100",
-          "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900"
-        },
         {
           "title": "[YTN] 정점식-이준석 오찬 회동...대여투쟁 공조 논의 전망",
           "link": "https://n.news.naver.com/mnews/article/052/0002382094?sid=100",
@@ -39,11 +34,6 @@
           "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900"
         },
         {
-          "title": "[노컷뉴스] \"오롯이 시민의 마음으로\"…장정순 용인시의회 의장의 '시민 정치'",
-          "link": "https://n.news.naver.com/mnews/article/079/0004170142?sid=102",
-          "pubDate": "Tue, 21 Jul 2026 05:01:00 +0900"
-        },
-        {
           "title": "[동아일보] 후반기 국회 시작부터 충돌… 민주 “특검 연장” 국힘 ‘필버’ 맞불",
           "link": "https://n.news.naver.com/mnews/article/020/0003735258?sid=100",
           "pubDate": "Tue, 21 Jul 2026 04:33:00 +0900"
@@ -52,6 +42,16 @@
           "title": "[머니투데이] 원구성도 못한채 강대강 대치… 후반기 첫 본회의부터 '필버'",
           "link": "https://n.news.naver.com/mnews/article/008/0005388302?sid=100",
           "pubDate": "Tue, 21 Jul 2026 04:00:00 +0900"
+        },
+        {
+          "title": "[YTN] 종합특검 연장법 '필버' 대치...오늘 통과 불투명?",
+          "link": "https://n.news.naver.com/mnews/article/052/0002382121?sid=100",
+          "pubDate": "Tue, 21 Jul 2026 01:14:00 +0900"
+        },
+        {
+          "title": "[서울경제] [기자의 눈] 단일종목 레버리지가 소환한 ‘라임의 추억’",
+          "link": "https://n.news.naver.com/mnews/article/011/0004643312?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 00:08:00 +0900"
         }
       ]
     },
@@ -88,24 +88,24 @@
           "pubDate": "Tue, 21 Jul 2026 05:13:00 +0900"
         },
         {
+          "title": "[뉴시스] 1500원대 무너진 원·달러…强달러 여지는 '여전'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014077136?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
+        },
+        {
+          "title": "[뉴시스] 日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
+          "link": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
+        },
+        {
           "title": "[디지털타임스] 美 42개 주서 ‘AI 데이터 센터’ 반대 시위…“전기·물 사용량 높여 부...",
           "link": "https://n.news.naver.com/mnews/article/029/0003037916?sid=101",
           "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
         },
         {
-          "title": "[이데일리] 중동 전운에 숨죽인 뉴욕증시…빅테크 실적 시즌 '시험대' [월스트리트...",
-          "link": "https://n.news.naver.com/mnews/article/018/0006333472?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 05:52:00 +0900"
-        },
-        {
-          "title": "[이데일리] \"AI 투자 증가세 꺾여\"…\"성장률 둔화와 피크아웃 구분해야\"",
-          "link": "https://n.news.naver.com/mnews/article/018/0006333461?sid=101",
-          "pubDate": "Tue, 21 Jul 2026 05:32:00 +0900"
-        },
-        {
-          "title": "[서울경제] AI 투자 경쟁의 그림자…미국 빅테크 ‘숨은 빚’ 2455조원",
-          "link": "https://n.news.naver.com/mnews/article/011/0004643324?sid=104",
-          "pubDate": "Tue, 21 Jul 2026 05:31:00 +0900"
+          "title": "[뉴시스] V자 반등 기대했는데 'L자' 늪?…다시 떠오르는 '박스피' 우려",
+          "link": "https://n.news.naver.com/mnews/article/003/0014077142?sid=101",
+          "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900"
         }
       ]
     }
