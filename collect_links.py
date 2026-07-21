@@ -76,7 +76,11 @@ NAMED_FIGURES = [
     "이재명", "오세훈", "정청래", "장동혁", "한동훈", "김민석", "송영길",
     "안철수", "추경호", "이준석", "우원식", "정점식", "나경원", "한덕수",
 ]
-# IT/빅테크/증권/환율/금융/AI 관련 기사는 놓치기 쉬워서 가점을 준다(2026-07-15 요청 반영)
+# IT/빅테크/증권/환율/금융/AI 관련 기사는 "econony 5건 중 최소 1건은 보장"하는 방식으로 다룬다
+# (경제 동정에 별도 스코어 가점을 줬더니 4일치 사람이 직접 고른 예시(example/briefings/)와
+# 대조해보니 AI/빅테크 뉴스가 5건을 통째로 잠식해버렸다 — 실제 사람 선택은 부동산/금리/코스피/
+# 환율이 핵심이고 AI는 "가끔 있으면 좋은" 보조 주제였다. 2026-07-21 예시로 확인 후 가점 제거,
+# 아래 rank_with_topic_quota()로 "최소 1건 보장"만 남김.)
 TECH_FINANCE_KEYWORDS = [
     "AI", "인공지능", "빅테크", "반도체", "증권", "환율", "금융", "통화",
     "코스피", "코스닥", "엔비디아", "삼성전자", "SK하이닉스",
@@ -84,6 +88,12 @@ TECH_FINANCE_KEYWORDS = [
 QUOTE_CHARS = ['"', "'", "“", "”", "‘", "’"]
 PRIORITY_TAGS = ["[단독]", "[속보]", "[종합]"]
 LOW_PRIORITY_TAGS = ["[사설]", "[신간]", "[오늘의 주요일정]", "[알림]", "[부고]", "[포토]", "[칼럼]"]
+# 정치 섹터에 섞여 들어온 오탐 사례(2026-07-21 실제 결과로 확인): 날씨/교통 특보, 지역
+# 의회(시·군·구·도의회) 단신은 "정치" 키워드에 걸리지만 실질적 국가 정치 뉴스가 아니다.
+NEGATIVE_KEYWORDS = [
+    "장맛비", "폭염특보", "호우", "태풍", "물폭탄", "주의보", "AI PICK",
+    "시의회", "군의회", "구의회", "도의회",
+]
 # 네이버뉴스에 정식 편입된 기사만 채택 (지역/업계 소규모 매체 자동 배제)
 NAVER_NEWS_HOST = "n.news.naver.com"
 
@@ -151,8 +161,6 @@ def score_article(title):
     score = 0
     if any(fig in title for fig in NAMED_FIGURES):
         score += 3
-    if any(kw in title for kw in TECH_FINANCE_KEYWORDS):
-        score += 2
     if any(ch in title for ch in QUOTE_CHARS):
         score += 2
     if any(tag in title for tag in PRIORITY_TAGS):
@@ -160,6 +168,28 @@ def score_article(title):
     if any(tag in title for tag in LOW_PRIORITY_TAGS):
         score -= 3
     return score
+
+
+def rank_with_topic_quota(articles, count, topic_keywords=None, min_topic_slots=0):
+    """점수순 상위 count건을 뽑되, topic_keywords에 해당하는 기사가 min_topic_slots건
+    미만이면 최고점 topic 기사로 최하위 비-topic 슬롯 하나를 교체해 최소 보장한다.
+    (economy 섹터: AI/빅테크가 "가끔 있으면 좋은" 보조 주제이지 전체를 잠식하면 안 됨.)"""
+    ranked = sorted(articles, key=lambda a: (a["_score"], parse_pubdate(a["pubDate"])), reverse=True)
+    top = ranked[:count]
+    if not topic_keywords or min_topic_slots <= 0:
+        return top
+    is_topic = lambda a: any(kw in a["title"] for kw in topic_keywords)
+    if sum(1 for a in top if is_topic(a)) >= min_topic_slots:
+        return top
+    top_links = {a["link"] for a in top}
+    topic_candidates = [a for a in ranked if is_topic(a) and a["link"] not in top_links]
+    if not topic_candidates:
+        return top
+    for i in range(len(top) - 1, -1, -1):
+        if not is_topic(top[i]):
+            top[i] = topic_candidates[0]
+            break
+    return top
 
 
 WEEKDAY_KR = ["월", "화", "수", "목", "금", "토", "일"]
@@ -260,6 +290,9 @@ def collect(now=None):
                 if not in_window(item["pubDate"], start, end):
                     continue
                 raw_title = clean_html(item["title"])
+                # 날씨/교통 특보, 지역 의회 단신은 어느 섹터에서도 유효하지 않으므로 하드 제외.
+                if any(kw in raw_title for kw in NEGATIVE_KEYWORDS):
+                    continue
                 # politics_main은 가장 포괄적인 쿼리라서 정당 브랜드가 뚜렷한 기사는
                 # 각 정당 섹터로 보내고 여기서는 제외한다.
                 if key == "politics_main" and any(kw in raw_title for kw in PARTY_EXCLUDE_KEYWORDS):
@@ -274,8 +307,9 @@ def collect(now=None):
                     }
                 )
                 seen_links.add(link)
-        articles.sort(key=lambda a: (a["_score"], parse_pubdate(a["pubDate"])), reverse=True)
-        result[key] = [{k: v for k, v in a.items() if k != "_score"} for a in articles[: sector["count"]]]
+        topic_kw = TECH_FINANCE_KEYWORDS if key == "economy" else None
+        top = rank_with_topic_quota(articles, sector["count"], topic_keywords=topic_kw, min_topic_slots=1)
+        result[key] = [{k: v for k, v in a.items() if k != "_score"} for a in top]
     return start, end, result
 
 
