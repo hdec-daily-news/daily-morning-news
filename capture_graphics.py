@@ -29,6 +29,19 @@ from playwright.async_api import async_playwright
 
 from collect_links import get_window, KST, _now_override
 
+# 통신사 그래픽 코너는 스포츠 경기 결과·연예 소식 등 정치/경제와 무관한 그래픽도 함께
+# 올라온다. 이 프로젝트 범위(CLAUDE.md: 정치·정당·경제·IT·빅테크·금융 등)와 무관한
+# 항목은 제외한다(2026-07-21, "저런게 개연성 있고 연관성 있도록" 요청 반영).
+EXCLUDE_TOPIC_KEYWORDS = [
+    "월드컵", "축구", "야구", "농구", "배구", "올림픽", "스포츠", "리그",
+    "연예", "아이돌", "드라마", "영화", "예능", "가수", "배우",
+]
+
+
+def is_relevant_topic(title):
+    return not any(kw in title for kw in EXCLUDE_TOPIC_KEYWORDS)
+
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -229,7 +242,12 @@ def main():
     all_items += collect_yna(start, end)
     all_items += collect_newsis(start, end)
     all_items += collect_news1(start, end, now)
-    print(f"[INFO] 윈도우({start}~{end}) 내 통신사 그래픽 후보 {len(all_items)}건 발견")
+    before_topic_filter = len(all_items)
+    all_items = [it for it in all_items if is_relevant_topic(it["title"])]
+    print(
+        f"[INFO] 윈도우({start}~{end}) 내 통신사 그래픽 후보 {before_topic_filter}건 발견 "
+        f"(스포츠/연예 제외 후 {len(all_items)}건)"
+    )
 
     saved = []
     for idx, item in enumerate(all_items, start=1):
