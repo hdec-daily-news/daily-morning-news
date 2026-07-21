@@ -50,8 +50,22 @@ SECTORS = [
     {"key": "politics_main", "label": "정치 관련 주요기사", "queries": ["정치", "국회", "여야"], "count": 8},
     {"key": "dp", "label": "더불어민주당 동정", "queries": ["더불어민주당"], "count": 5},
     {"key": "ppp", "label": "국민의힘 동정", "queries": ["국민의힘"], "count": 5},
-    {"key": "economy", "label": "경제 동정", "queries": ["경제"], "count": 5},
+    {
+        "key": "economy",
+        "label": "경제 동정",
+        "queries": ["경제", "증권", "환율", "AI", "빅테크"],
+        "count": 5,
+    },
 ]
+
+# 처리(수집) 순서: 정당 특화 섹터(dp/ppp)와 경제를 먼저 채워서 관련 기사를 선점하게 하고,
+# 가장 포괄적인 politics_main을 마지막에 채운다 (2026-07-15, 정치 섹터에 정당 뉴스가
+# 섞여 들어가는 문제 수정 — "정치"/"국회"/"여야" 쿼리가 너무 넓어서 먼저 처리하면
+# 정당/경제 관련 기사까지 다 politics_main이 선점해버렸음).
+PROCESS_ORDER = ["dp", "ppp", "economy", "politics_main"]
+
+# politics_main에는 정당 브랜드가 뚜렷한 기사를 넣지 않는다 (해당 정당 섹터로 가야 함)
+PARTY_EXCLUDE_KEYWORDS = ["더불어민주당", "국민의힘"]
 
 # 선정 기준 스코어링 (과거 사람이 직접 고른 220여 일치 기사 분석 결과 반영, 2026-07-15):
 # - 주요 정치인 실명 발언/충돌 중심 기사 선호
@@ -61,6 +75,11 @@ SECTORS = [
 NAMED_FIGURES = [
     "이재명", "오세훈", "정청래", "장동혁", "한동훈", "김민석", "송영길",
     "안철수", "추경호", "이준석", "우원식", "정점식", "나경원", "한덕수",
+]
+# IT/빅테크/증권/환율/금융/AI 관련 기사는 놓치기 쉬워서 가점을 준다(2026-07-15 요청 반영)
+TECH_FINANCE_KEYWORDS = [
+    "AI", "인공지능", "빅테크", "반도체", "증권", "환율", "금융", "통화",
+    "코스피", "코스닥", "엔비디아", "삼성전자", "SK하이닉스",
 ]
 QUOTE_CHARS = ['"', "'", "“", "”", "‘", "’"]
 PRIORITY_TAGS = ["[단독]", "[속보]", "[종합]"]
@@ -132,6 +151,8 @@ def score_article(title):
     score = 0
     if any(fig in title for fig in NAMED_FIGURES):
         score += 3
+    if any(kw in title for kw in TECH_FINANCE_KEYWORDS):
+        score += 2
     if any(ch in title for ch in QUOTE_CHARS):
         score += 2
     if any(tag in title for tag in PRIORITY_TAGS):
@@ -220,7 +241,9 @@ def collect(now=None):
     start, end = get_window(now)
     result = {}
     seen_links = set()
-    for sector in SECTORS:
+    sectors_by_key = {s["key"]: s for s in SECTORS}
+    for key in PROCESS_ORDER:
+        sector = sectors_by_key[key]
         articles = []
         for q in sector["queries"]:
             items = search_naver_window(q, start)
@@ -236,7 +259,12 @@ def collect(now=None):
                     continue
                 if not in_window(item["pubDate"], start, end):
                     continue
-                title = f"[{press}] {clean_html(item['title'])}"
+                raw_title = clean_html(item["title"])
+                # politics_main은 가장 포괄적인 쿼리라서 정당 브랜드가 뚜렷한 기사는
+                # 각 정당 섹터로 보내고 여기서는 제외한다.
+                if key == "politics_main" and any(kw in raw_title for kw in PARTY_EXCLUDE_KEYWORDS):
+                    continue
+                title = f"[{press}] {raw_title}"
                 articles.append(
                     {
                         "title": title,
@@ -247,9 +275,7 @@ def collect(now=None):
                 )
                 seen_links.add(link)
         articles.sort(key=lambda a: (a["_score"], parse_pubdate(a["pubDate"])), reverse=True)
-        result[sector["key"]] = [
-            {k: v for k, v in a.items() if k != "_score"} for a in articles[: sector["count"]]
-        ]
+        result[key] = [{k: v for k, v in a.items() if k != "_score"} for a in articles[: sector["count"]]]
     return start, end, result
 
 
