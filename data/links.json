@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T08:54:36.117021+09:00",
-  "window_start": "2026-07-21T22:00:00+09:00",
-  "window_end": "2026-07-22T06:00:00+09:00",
-  "date_label": "7/22(수)",
+  "generated_at": "2026-07-23T07:02:18.917587+09:00",
+  "window_start": "2026-07-22T22:00:00+09:00",
+  "window_end": "2026-07-23T06:00:00+09:00",
+  "date_label": "7/23(목)",
   "sectors": [
     {
       "key": "politics_main",
@@ -14,52 +14,52 @@
       ],
       "articles": [
         {
-          "title": "[연합뉴스] '명태균 여론조사 대납 의혹' 오세훈 시장, 오늘 1심 선고",
-          "link": "https://n.news.naver.com/article/001/0016207102",
-          "pubDate": "Wed, 22 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/001/0016207102?sid=102"
+          "title": "[연합뉴스TV] '여론조사 대납' 오세훈 1심 당선무효형…벌금 1천만원",
+          "link": "https://n.news.naver.com/article/422/0000887871",
+          "pubDate": "Thu, 23 Jul 2026 05:07:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/422/0000887871?sid=102"
         },
         {
-          "title": "[서울경제] 오세훈 운명의 날…‘여론조사 비용 대납 의혹’ 오늘 1심 선고",
-          "link": "https://n.news.naver.com/article/011/0004643754",
-          "pubDate": "Wed, 22 Jul 2026 05:31:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/011/0004643754?sid=102"
+          "title": "[중앙일보] “100% 투표” vs “아프다”…김민석·정청래의 ‘깜깜이 당심’ 공략...",
+          "link": "https://n.news.naver.com/article/025/0003539514",
+          "pubDate": "Thu, 23 Jul 2026 05:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/025/0003539514?sid=100"
         },
         {
-          "title": "[뉴스1] 오세훈 '명태균 여론조사비 대납' 1심 오늘 선고",
-          "link": "https://n.news.naver.com/article/421/0009071466",
-          "pubDate": "Wed, 22 Jul 2026 05:30:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/421/0009071466?sid=102"
+          "title": "[조선일보] 오세훈 ‘여론조사 대납’ 1심서 시장직 상실형",
+          "link": "https://n.news.naver.com/article/023/0003989127",
+          "pubDate": "Thu, 23 Jul 2026 00:55:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/023/0003989127?sid=102"
         },
         {
-          "title": "[디지털타임스] ‘여론조사비 대납 의혹’ 오세훈, 22일 1심 선고…녹화 중계도 진행",
-          "link": "https://n.news.naver.com/article/029/0003038158",
-          "pubDate": "Wed, 22 Jul 2026 05:10:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/029/0003038158?sid=102"
+          "title": "[조선일보] 오세훈 \"1심 판결 중대한 오류…상급심서 바로잡힐 것\"",
+          "link": "https://n.news.naver.com/article/053/0000060134",
+          "pubDate": "Thu, 23 Jul 2026 00:30:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/053/0000060134?sid=100"
         },
         {
-          "title": "[연합뉴스TV] '여론조사 대납 의혹' 오세훈…오늘 법원 첫 판단",
-          "link": "https://n.news.naver.com/article/422/0000887462",
-          "pubDate": "Wed, 22 Jul 2026 05:09:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/422/0000887462?sid=102"
+          "title": "[SBS] '여론조사 대납' 오세훈 1심 '시장직 상실형' 선고",
+          "link": "https://n.news.naver.com/article/055/0001374645",
+          "pubDate": "Thu, 23 Jul 2026 00:16:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/055/0001374645?sid=102"
         },
         {
-          "title": "[TV조선] '여론조사비 대납' 오세훈 오늘 1심 선고…구형은 징역 1년 6개월",
-          "link": "https://n.news.naver.com/article/448/0000628394",
-          "pubDate": "Wed, 22 Jul 2026 03:29:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/448/0000628394?sid=102"
+          "title": "[MBC] 오세훈 벌금 '1천만 원'‥서울시장직 '상실형'",
+          "link": "https://n.news.naver.com/article/214/0001513316",
+          "pubDate": "Thu, 23 Jul 2026 00:06:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/214/0001513316?sid=102"
         },
         {
-          "title": "[KBS] 오세훈 ‘여론조사비 대납’ 오늘 선고…징역 1년 6개월 구형",
-          "link": "https://n.news.naver.com/article/056/0012222492",
-          "pubDate": "Wed, 22 Jul 2026 01:03:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/056/0012222492?sid=102"
+          "title": "[KBS] “나경원에 패하자 명태균 찾았다”…오세훈 주장 모두 배척",
+          "link": "https://n.news.naver.com/article/056/0012223316",
+          "pubDate": "Wed, 22 Jul 2026 22:53:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/056/0012223316?sid=102"
         },
         {
-          "title": "[YTN] '여론조사 대납' 오세훈 오늘 1심 선고...징역 1년 6개월 구형",
-          "link": "https://n.news.naver.com/article/052/0002382665",
-          "pubDate": "Wed, 22 Jul 2026 01:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/052/0002382665?sid=102"
+          "title": "[KBS] 오세훈 1심 벌금 1천만 원…“명태균 여론조사 대납 인정”",
+          "link": "https://n.news.naver.com/article/056/0012223315",
+          "pubDate": "Wed, 22 Jul 2026 22:50:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/056/0012223315?sid=102"
         }
       ]
     },
@@ -71,34 +71,34 @@
       ],
       "articles": [
         {
-          "title": "[한겨레] 우원식 “민주당, 양극화 토론 한번을 안 해…중산층·서민 정당 맞나”",
-          "link": "https://n.news.naver.com/article/028/0002815160",
-          "pubDate": "Wed, 22 Jul 2026 05:02:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/028/0002815160?sid=100"
+          "title": "[서울신문] 유시민 “어물전 썩은 내” 김민석 “헛예언은 필패”",
+          "link": "https://n.news.naver.com/article/081/0003663741",
+          "pubDate": "Thu, 23 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003663741?sid=100"
         },
         {
-          "title": "[서울신문] 정청래 차량 파손에 ‘신천지 개입설’까지… 선 넘는 與전대",
-          "link": "https://n.news.naver.com/article/081/0003663208",
-          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/081/0003663208?sid=100"
+          "title": "[동아일보] 송영길 “신천지, 내게도 접근” 정청래 “전대 개입 근거 밝혀라”",
+          "link": "https://n.news.naver.com/article/020/0003735899",
+          "pubDate": "Thu, 23 Jul 2026 04:34:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/020/0003735899?sid=100"
         },
         {
-          "title": "[노컷뉴스] 김민석은 왜 '신천지'를 언급할까…숨겨진 전략은",
-          "link": "https://n.news.naver.com/article/079/0004170634",
-          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/079/0004170634?sid=100"
+          "title": "[한국일보] 정청래 \"10년 만에 가장 분노\"... 연일 '신천지 설' 띄우는 김민석에 경...",
+          "link": "https://n.news.naver.com/article/469/0000943817",
+          "pubDate": "Thu, 23 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/469/0000943817?sid=100"
         },
         {
-          "title": "[뉴시스] 與 전대, 김민석·정청래 충돌 격화…'反明' 설전에 '4년 전 이 대통령 ...",
-          "link": "https://n.news.naver.com/article/003/0014079777",
-          "pubDate": "Wed, 22 Jul 2026 05:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014079777?sid=100"
+          "title": "[한국일보] \"여당 무죄·야당 유죄\" 오세훈 선고에 당혹스러운 야권... 보수 '구심점...",
+          "link": "https://n.news.naver.com/article/469/0000943822",
+          "pubDate": "Thu, 23 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/469/0000943822?sid=100"
         },
         {
-          "title": "[뉴시스] 오세훈 오늘 '여론조사비 대납 혐의' 1심 선고…구형 징역 1년6개월",
-          "link": "https://n.news.naver.com/article/003/0014079773",
-          "pubDate": "Wed, 22 Jul 2026 05:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014079773?sid=102"
+          "title": "[JIBS] 국힘 '李 근저당' 공세.. 민주 \"장동혁 6채는?\" 역공",
+          "link": "https://n.news.naver.com/article/661/0000080369",
+          "pubDate": "Thu, 23 Jul 2026 01:02:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/661/0000080369?sid=100"
         }
       ]
     },
@@ -110,34 +110,34 @@
       ],
       "articles": [
         {
-          "title": "[머니투데이] 오세훈, 여론조사 대납 1심 선고 '운명의 날'…구형은 '시장직 박탈형'",
-          "link": "https://n.news.naver.com/article/008/0005388961",
-          "pubDate": "Wed, 22 Jul 2026 05:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/008/0005388961?sid=102"
+          "title": "[연합뉴스TV] \"오세훈, 여론조사 의뢰할 동기 있어\"…명태균 진술 인정",
+          "link": "https://n.news.naver.com/article/422/0000887873",
+          "pubDate": "Thu, 23 Jul 2026 05:10:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/422/0000887873?sid=102"
         },
         {
-          "title": "[디지털타임스] “배우자가 무슨 역할 했나”…우원식 해외출장 14회 모두 동행·82억 집...",
-          "link": "https://n.news.naver.com/article/029/0003038151",
-          "pubDate": "Wed, 22 Jul 2026 02:50:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/029/0003038151?sid=100"
+          "title": "[노컷뉴스] 윤석열·오세훈 유죄…'명태균 게이트' 법원 판단 공통점",
+          "link": "https://n.news.naver.com/article/079/0004171092",
+          "pubDate": "Thu, 23 Jul 2026 05:02:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/079/0004171092?sid=102"
         },
         {
-          "title": "[JIBS] \"노인 비하, 당게 한동훈 따라갈 수 없다\" 발언 장예찬 무혐의.. 張 \"검...",
-          "link": "https://n.news.naver.com/article/661/0000080295",
-          "pubDate": "Wed, 22 Jul 2026 00:20:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/661/0000080295?sid=100"
+          "title": "[노컷뉴스] \"올 것이 왔다\"…오세훈 1심 당선무효형에 국힘 '술렁'",
+          "link": "https://n.news.naver.com/article/079/0004171089",
+          "pubDate": "Thu, 23 Jul 2026 05:02:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/079/0004171089?sid=100"
         },
         {
-          "title": "[더팩트] '장동혁 사퇴론' 동력 상실?…잠잠해진 진짜 이유는",
-          "link": "https://n.news.naver.com/article/629/0000517842",
-          "pubDate": "Wed, 22 Jul 2026 00:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/629/0000517842?sid=100"
+          "title": "[서울신문] “장동혁 단순 비판, 징계 대상 아냐”… 국힘 윤리위 ‘정적 견제’ 논...",
+          "link": "https://n.news.naver.com/article/081/0003663738",
+          "pubDate": "Thu, 23 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003663738?sid=100"
         },
         {
-          "title": "[더팩트] '강경 징계' 역풍 기대한 한동훈?…국힘, '본보기 카드' 무게 두나",
-          "link": "https://n.news.naver.com/article/629/0000517843",
-          "pubDate": "Wed, 22 Jul 2026 00:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/629/0000517843?sid=100"
+          "title": "[서울신문] ‘여론조사비 대납’ 1심, 오세훈 벌금 1000만원",
+          "link": "https://n.news.naver.com/article/081/0003663730",
+          "pubDate": "Thu, 23 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003663730?sid=102"
         }
       ]
     },
@@ -153,34 +153,34 @@
       ],
       "articles": [
         {
-          "title": "[한국일보] 코스닥 역주행에 커지는 '상폐 공포'... 이재명 취임 전으로 회귀",
-          "link": "https://n.news.naver.com/article/469/0000943610",
-          "pubDate": "Wed, 22 Jul 2026 04:31:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/469/0000943610?sid=101"
+          "title": "[뉴스1] 'G3·야간경제' 시험대 오른 오세훈…15년 전엔 사퇴 뒤 사업 제동",
+          "link": "https://n.news.naver.com/article/421/0009073865",
+          "pubDate": "Thu, 23 Jul 2026 05:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/421/0009073865?sid=102"
         },
         {
-          "title": "[이데일리] [단독]'따릉이 정보유출'에도…서울시설공단 이사장 연임 논란",
-          "link": "https://n.news.naver.com/article/018/0006334250",
-          "pubDate": "Wed, 22 Jul 2026 05:52:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/018/0006334250?sid=100"
+          "title": "[한국일보] 오세훈 '사법 리스크', 서울 재개발도 흔들까... '재건축·야간경제' 등...",
+          "link": "https://n.news.naver.com/article/469/0000943823",
+          "pubDate": "Thu, 23 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/469/0000943823?sid=102"
         },
         {
-          "title": "[동아일보] [단독]노벨상 교수 “AI發 생산성 향상, 고용 창출까진 시차… 충격 불...",
-          "link": "https://n.news.naver.com/article/020/0003735595",
-          "pubDate": "Wed, 22 Jul 2026 04:34:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/020/0003735595?sid=102"
+          "title": "[경향신문] [단독]“미프진 구해요” 댓글에 달린 ‘이곳’…법 사라진 곳에 쏟아진...",
+          "link": "https://n.news.naver.com/article/032/0003459838",
+          "pubDate": "Thu, 23 Jul 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/032/0003459838?sid=102"
         },
         {
-          "title": "[머니투데이] [광화문]이재명 정부의 부동산 클라이맥스",
-          "link": "https://n.news.naver.com/article/008/0005388944",
-          "pubDate": "Wed, 22 Jul 2026 04:15:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/008/0005388944?sid=101"
+          "title": "[한겨레] [단독] ‘인천공항 최장 구금’ 피해자 난민신청 6년 만에 ‘체류 허가...",
+          "link": "https://n.news.naver.com/article/028/0002815341",
+          "pubDate": "Thu, 23 Jul 2026 05:02:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/028/0002815341?sid=102"
         },
         {
-          "title": "[머니투데이] \"하녀처럼 부리던 여교사 구타\" 췌장 파열→사망...종교인 탈 쓴 악마 짓...",
-          "link": "https://n.news.naver.com/article/008/0005388976",
-          "pubDate": "Wed, 22 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/008/0005388976?sid=102"
+          "title": "[뉴시스] 4대 금융, 실적 시즌 개막…'가계대출 빗장'에도 11조 순익 전망",
+          "link": "https://n.news.naver.com/article/003/0014082510",
+          "pubDate": "Thu, 23 Jul 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/003/0014082510?sid=101"
         }
       ]
     }

@@ -1,47 +1,63 @@
 {
-  "generated_at": "2026-07-22T08:55:26.781446+09:00",
-  "window_start": "2026-07-21T22:00:00+09:00",
-  "window_end": "2026-07-22T06:00:00+09:00",
+  "generated_at": "2026-07-23T07:03:18.461066+09:00",
+  "window_start": "2026-07-22T22:00:00+09:00",
+  "window_end": "2026-07-23T06:00:00+09:00",
   "items": [
     {
-      "source": "뉴스1",
-      "title": "[그래픽] 신진서vs카타고(KataGo) 대국 결과",
-      "link": "https://www.news1.kr/photos/8018712",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/21/8018712/no_water.jpg",
-      "pubdate": "2026-07-22T02:55:26.781446+09:00",
-      "image": "images/graphics/뉴스1_01.jpg"
+      "source": "연합뉴스",
+      "title": "삼성전자 갤럭시 Z 폴드8·울트라·플립8 공개",
+      "link": "https://www.yna.co.kr/view/GYH20260722001200044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/07/22/GYH2026072200120004401_P1.jpg",
+      "pubdate": "2026-07-22T22:00:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "뉴스1",
-      "title": "[그래픽] 제천~영월 고속도로 착공",
-      "link": "https://www.news1.kr/photos/8018648",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/21/8018648/no_water.jpg",
-      "pubdate": "2026-07-22T01:55:26.781446+09:00",
-      "image": "images/graphics/뉴스1_02.jpg"
+      "source": "뉴시스",
+      "title": "삼성, 갤럭시Z 폴드8·울트라·플립8 공개…28일 사전 예약",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260722_0002192619&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/22/NISI20260722_0002192619_web.jpg?rnd=20260722221000",
+      "pubdate": "2026-07-22T22:10:00+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
     },
     {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 후티, 사우디 해상 봉쇄 선언…중동 석유 바닷길 비상",
-      "link": "https://www.news1.kr/photos/8018348",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/21/8018348/no_water.jpg",
-      "pubdate": "2026-07-22T00:55:26.781446+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
+      "source": "뉴시스",
+      "title": "삼성, 갤워치 울트라2·워치9 공개",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260722_0002192608&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/22/NISI20260722_0002192608_web.jpg?rnd=20260722220500",
+      "pubdate": "2026-07-22T22:05:00+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8018428",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/21/8018428/no_water.jpg",
-      "pubdate": "2026-07-22T00:55:26.781446+09:00",
+      "link": "https://www.news1.kr/photos/8020407",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020407/no_water.jpg",
+      "pubdate": "2026-07-23T01:03:18.461066+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 21일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8018427",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/21/8018427/no_water.jpg",
-      "pubdate": "2026-07-22T00:55:26.781446+09:00",
+      "title": "[오늘의 증시] 7월 22일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8020403",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020403/no_water.jpg",
+      "pubdate": "2026-07-23T01:03:18.461066+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] '여론조사비 대납' 오세훈 서울시장, 1심 선고까지",
+      "link": "https://www.news1.kr/photos/8019367",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8019367/no_water.jpg",
+      "pubdate": "2026-07-23T01:03:18.461066+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] '명태균 여론조사' 주요인물 재판결과",
+      "link": "https://www.news1.kr/photos/8020395",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020395/no_water.jpg",
+      "pubdate": "2026-07-23T01:03:18.461066+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     }
   ]
 }
