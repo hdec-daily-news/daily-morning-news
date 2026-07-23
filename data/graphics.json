@@ -1,63 +1,47 @@
 {
-  "generated_at": "2026-07-23T07:03:18.461066+09:00",
-  "window_start": "2026-07-22T22:00:00+09:00",
-  "window_end": "2026-07-23T06:00:00+09:00",
+  "generated_at": "2026-07-24T07:03:19.878677+09:00",
+  "window_start": "2026-07-23T22:00:00+09:00",
+  "window_end": "2026-07-24T06:00:00+09:00",
   "items": [
     {
-      "source": "연합뉴스",
-      "title": "삼성전자 갤럭시 Z 폴드8·울트라·플립8 공개",
-      "link": "https://www.yna.co.kr/view/GYH20260722001200044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/07/22/GYH2026072200120004401_P1.jpg",
-      "pubdate": "2026-07-22T22:00:00+09:00",
-      "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "삼성, 갤럭시Z 폴드8·울트라·플립8 공개…28일 사전 예약",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260722_0002192619&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/22/NISI20260722_0002192619_web.jpg?rnd=20260722221000",
-      "pubdate": "2026-07-22T22:10:00+09:00",
-      "image": "images/graphics/뉴시스_02.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "삼성, 갤워치 울트라2·워치9 공개",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260722_0002192608&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/22/NISI20260722_0002192608_web.jpg?rnd=20260722220500",
-      "pubdate": "2026-07-22T22:05:00+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 22대 국회 후반기 상임위원장",
+      "link": "https://www.news1.kr/photos/8022736",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022736/no_water.jpg",
+      "pubdate": "2026-07-24T02:03:19.878677+09:00",
+      "image": "images/graphics/뉴스1_01.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8020407",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020407/no_water.jpg",
-      "pubdate": "2026-07-23T01:03:18.461066+09:00",
+      "title": "[그래픽] 경북 경산 사동 아파트 관리사무소 화재 상황 재구성",
+      "link": "https://www.news1.kr/photos/8022697",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022697/no_water.jpg",
+      "pubdate": "2026-07-24T02:03:19.878677+09:00",
+      "image": "images/graphics/뉴스1_02.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 코스피 코스닥(7월 23일)",
+      "link": "https://www.news1.kr/photos/8022554",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022554/no_water.jpg",
+      "pubdate": "2026-07-24T01:03:19.878677+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 졸업 이후 미취업 청년 기간별 비중 추이",
+      "link": "https://www.news1.kr/photos/8022373",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022373/no_water.jpg",
+      "pubdate": "2026-07-24T00:03:19.878677+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 22일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8020403",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020403/no_water.jpg",
-      "pubdate": "2026-07-23T01:03:18.461066+09:00",
+      "title": "[오늘의 그래픽] 美 '강제노동 관세' 초읽기…15% 상한 사수 관건",
+      "link": "https://www.news1.kr/photos/8022268",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022268/no_water.jpg",
+      "pubdate": "2026-07-24T00:03:19.878677+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] '여론조사비 대납' 오세훈 서울시장, 1심 선고까지",
-      "link": "https://www.news1.kr/photos/8019367",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8019367/no_water.jpg",
-      "pubdate": "2026-07-23T01:03:18.461066+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] '명태균 여론조사' 주요인물 재판결과",
-      "link": "https://www.news1.kr/photos/8020395",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/22/8020395/no_water.jpg",
-      "pubdate": "2026-07-23T01:03:18.461066+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
     }
   ]
 }
