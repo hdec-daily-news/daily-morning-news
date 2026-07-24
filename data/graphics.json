@@ -1,47 +1,39 @@
 {
-  "generated_at": "2026-07-24T07:03:19.878677+09:00",
-  "window_start": "2026-07-23T22:00:00+09:00",
-  "window_end": "2026-07-24T06:00:00+09:00",
+  "generated_at": "2026-07-25T07:02:51.510470+09:00",
+  "window_start": "2026-07-24T22:00:00+09:00",
+  "window_end": "2026-07-25T06:00:00+09:00",
   "items": [
     {
       "source": "뉴스1",
-      "title": "[그래픽] 22대 국회 후반기 상임위원장",
-      "link": "https://www.news1.kr/photos/8022736",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022736/no_water.jpg",
-      "pubdate": "2026-07-24T02:03:19.878677+09:00",
+      "title": "[그래픽] '세기의 이혼' 최태원·노소영, 결혼에서 파기환송심까지",
+      "link": "https://www.news1.kr/photos/8024003",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024003/no_water.jpg",
+      "pubdate": "2026-07-25T01:02:51.510470+09:00",
       "image": "images/graphics/뉴스1_01.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 경북 경산 사동 아파트 관리사무소 화재 상황 재구성",
-      "link": "https://www.news1.kr/photos/8022697",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022697/no_water.jpg",
-      "pubdate": "2026-07-24T02:03:19.878677+09:00",
+      "title": "[오늘의 증시] 7월 24일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8024270",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024270/no_water.jpg",
+      "pubdate": "2026-07-25T01:02:51.510470+09:00",
       "image": "images/graphics/뉴스1_02.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(7월 23일)",
-      "link": "https://www.news1.kr/photos/8022554",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022554/no_water.jpg",
-      "pubdate": "2026-07-24T01:03:19.878677+09:00",
+      "title": "[그래픽] 최태원 회장 ·노소영 관장 '세기의 이혼' 재판 결과",
+      "link": "https://www.news1.kr/photos/8024151",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024151/no_water.jpg",
+      "pubdate": "2026-07-25T01:02:51.510470+09:00",
       "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 졸업 이후 미취업 청년 기간별 비중 추이",
-      "link": "https://www.news1.kr/photos/8022373",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022373/no_water.jpg",
-      "pubdate": "2026-07-24T00:03:19.878677+09:00",
+      "title": "[오늘의 그래픽] 단일종목 레버리지 거래 31일부터 '현금잔고 3000만원' 꼭!",
+      "link": "https://www.news1.kr/photos/8024072",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024072/no_water.jpg",
+      "pubdate": "2026-07-25T00:02:51.510470+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 美 '강제노동 관세' 초읽기…15% 상한 사수 관건",
-      "link": "https://www.news1.kr/photos/8022268",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/23/8022268/no_water.jpg",
-      "pubdate": "2026-07-24T00:03:19.878677+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }
