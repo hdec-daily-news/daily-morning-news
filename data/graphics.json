@@ -1,39 +1,15 @@
 {
-  "generated_at": "2026-07-25T07:02:51.510470+09:00",
-  "window_start": "2026-07-24T22:00:00+09:00",
-  "window_end": "2026-07-25T06:00:00+09:00",
+  "generated_at": "2026-07-26T06:52:52.151673+09:00",
+  "window_start": "2026-07-25T22:00:00+09:00",
+  "window_end": "2026-07-26T06:00:00+09:00",
   "items": [
     {
       "source": "뉴스1",
-      "title": "[그래픽] '세기의 이혼' 최태원·노소영, 결혼에서 파기환송심까지",
-      "link": "https://www.news1.kr/photos/8024003",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024003/no_water.jpg",
-      "pubdate": "2026-07-25T01:02:51.510470+09:00",
+      "title": "[그래픽] 한미 기업 투자·협력 계획 및 이재명 대통령 샌프란시스코 AI 선언 주요 발언",
+      "link": "https://www.news1.kr/photos/8025302",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/25/8025302/no_water.jpg",
+      "pubdate": "2026-07-26T03:52:52.151673+09:00",
       "image": "images/graphics/뉴스1_01.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 24일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8024270",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024270/no_water.jpg",
-      "pubdate": "2026-07-25T01:02:51.510470+09:00",
-      "image": "images/graphics/뉴스1_02.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 최태원 회장 ·노소영 관장 '세기의 이혼' 재판 결과",
-      "link": "https://www.news1.kr/photos/8024151",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024151/no_water.jpg",
-      "pubdate": "2026-07-25T01:02:51.510470+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 단일종목 레버리지 거래 31일부터 '현금잔고 3000만원' 꼭!",
-      "link": "https://www.news1.kr/photos/8024072",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/24/8024072/no_water.jpg",
-      "pubdate": "2026-07-25T00:02:51.510470+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
     }
   ]
 }
