@@ -1,39 +1,47 @@
 {
-  "generated_at": "2026-07-27T06:57:16.352596+09:00",
-  "window_start": "2026-07-26T22:00:00+09:00",
-  "window_end": "2026-07-27T06:00:00+09:00",
+  "generated_at": "2026-07-28T07:03:58.658010+09:00",
+  "window_start": "2026-07-27T22:00:00+09:00",
+  "window_end": "2026-07-28T06:00:00+09:00",
   "items": [
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8025956",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/26/8025956/no_water.jpg",
-      "pubdate": "2026-07-27T01:57:16.352596+09:00",
+      "link": "https://www.news1.kr/photos/8027634",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027634/no_water.jpg",
+      "pubdate": "2026-07-28T02:03:58.658010+09:00",
       "image": "images/graphics/뉴스1_01.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요일정(27~1일)",
-      "link": "https://www.news1.kr/photos/8025952",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/26/8025952/no_water.jpg",
-      "pubdate": "2026-07-27T01:57:16.352596+09:00",
+      "title": "[오늘의 증시] 7월 27일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8027537",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027537/no_water.jpg",
+      "pubdate": "2026-07-28T01:03:58.658010+09:00",
       "image": "images/graphics/뉴스1_02.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 연령별 주택 보유율",
-      "link": "https://www.news1.kr/photos/8025649",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/26/8025649/no_water.jpg",
-      "pubdate": "2026-07-27T01:57:16.352596+09:00",
+      "title": "[그래픽] 尹 혐의별 재판 현황",
+      "link": "https://www.news1.kr/photos/8027406",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027406/no_water.jpg",
+      "pubdate": "2026-07-28T00:03:58.658010+09:00",
       "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] '검정고시 출신' 서울대 합격자 역대 최다…톱10大 824명",
-      "link": "https://www.news1.kr/photos/8025879",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/26/8025879/no_water.jpg",
-      "pubdate": "2026-07-27T00:57:16.352596+09:00",
+      "title": "[그래픽] 20대 대선부터 윤석열 전 대통령 공직선거법 1심 선고까지",
+      "link": "https://www.news1.kr/photos/8027405",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027405/no_water.jpg",
+      "pubdate": "2026-07-28T00:03:58.658010+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 月건보료 상·하한 인상…최저 2만2000원~최고 612만원",
+      "link": "https://www.news1.kr/photos/8026943",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8026943/no_water.jpg",
+      "pubdate": "2026-07-27T23:03:58.658010+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }
