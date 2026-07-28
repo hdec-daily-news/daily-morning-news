@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:21:15.262935+09:00",
+  "generated_at": "2026-07-28T16:32:39.920630+09:00",
   "window_start": "2026-07-27T22:00:00+09:00",
   "window_end": "2026-07-28T06:00:00+09:00",
   "date_label": "7/28(화)",
@@ -26,13 +26,6 @@
           "pubDate": "",
           "coverage": 5,
           "long_link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009"
-        },
-        {
-          "title": "[서울신문] 경찰, 아동 성매매 혐의 최영중 전 청주시의원 구속영장",
-          "link": "https://www.seoul.co.kr/news/society/2026/07/28/20260728500157",
-          "pubDate": "",
-          "coverage": 5,
-          "long_link": "https://www.seoul.co.kr/news/society/2026/07/28/20260728500157"
         },
         {
           "title": "[동아일보] 與 전대 첫날 온라인 투표 먹통…“충북 권리당원 참여 차질”",
@@ -63,11 +56,18 @@
           "long_link": "https://www.mt.co.kr/politics/2026/07/28/2026072813283328554?STAND=MT"
         },
         {
-          "title": "[경향신문] 사설 윤석열 선거법 징역형, 대선 후보의 거짓말 엄중 단죄 마땅하다",
-          "link": "https://www.khan.co.kr/article/202607271810001/?nv=stand",
+          "title": "[문화일보] “국회로 돌아가겠다, 당장”… 정성호, 이미 세달 전 사의 표명했다",
+          "link": "https://www.munhwa.com/article/11605444",
           "pubDate": "",
           "coverage": 2,
-          "long_link": "https://www.khan.co.kr/article/202607271810001/?nv=stand"
+          "long_link": "https://www.munhwa.com/article/11605444"
+        },
+        {
+          "title": "[중앙일보] 김부선 “주저없이 ‘알정찍’”∙∙∙정청래 공개 지지 나섰다",
+          "link": "https://www.joongang.co.kr/article/25448760",
+          "pubDate": "",
+          "coverage": 1,
+          "long_link": "https://www.joongang.co.kr/article/25448760"
         }
       ],
       "source_note": "newsstand 언론사 편집 메인 기반, 부족분은 검색 API 보충"
@@ -136,6 +136,6 @@
     "method": "newsstand_cards",
     "picked": 8,
     "merged_total": 8,
-    "updated_at": "2026-07-28T16:21:25.093334+09:00"
+    "updated_at": "2026-07-28T16:32:51.250557+09:00"
   }
 }
