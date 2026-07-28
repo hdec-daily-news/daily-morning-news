@@ -109,47 +109,6 @@
   },
   {
     "presses": [
-      "KBS",
-      "MBC",
-      "SBS",
-      "경향신문",
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "검·경 충돌에 민주당까지 가세했던···'미성년자 성매수 혐의' 최영중 전 청주시의원에 구속영장 신청",
-        "link": "https://www.khan.co.kr/article/202607281424011/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "경찰, 아동 성매매 혐의 최영중 전 청주시의원 구속영장",
-        "link": "https://www.seoul.co.kr/news/society/2026/07/28/20260728500157",
-        "score": 0
-      },
-      {
-        "press": "SBS",
-        "title": "'아동 성매매 혐의' 최영중 전 청주시의원 경찰 구속영장 신청",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678487&plink=STAND&cooper=NAVER",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "경찰, 아동 성매매 혐의 최영중 전 청주시의원 구속영장 신청",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622061",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "경찰, 미성년자 성매수 혐의 최영중 전 청주시의원 구속영장 신청",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6840608_36918.html",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
       "동아일보",
       "서울신문",
       "조선일보"
@@ -243,21 +202,21 @@
   },
   {
     "presses": [
-      "YTN",
-      "경향신문"
+      "MBC",
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "사설 윤석열 선거법 징역형, 대선 후보의 거짓말 엄중 단죄 마땅하다",
-        "link": "https://www.khan.co.kr/article/202607271810001/?nv=stand",
-        "score": 0
+        "press": "문화일보",
+        "title": "“국회로 돌아가겠다, 당장”… 정성호, 이미 세달 전 사의 표명했다",
+        "link": "https://www.munhwa.com/article/11605444",
+        "score": 2
       },
       {
-        "press": "YTN",
-        "title": "윤 선거법 징역형 집유…잠시 뒤 위증 재판 시작",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202607281348487989_005.html",
-        "score": 0
+        "press": "MBC",
+        "title": "\"정성호 법무장관 무기력감 느꼈을 듯‥사의 반려됐으면\" [외전인터뷰]",
+        "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6840635_36974.html",
+        "score": 2
       }
     ]
   },
@@ -341,19 +300,6 @@
   },
   {
     "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "장동혁 \"당대표 배제한 공천, 당원 완전히 무시하는 것\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6840602_36911.html",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
       "뉴스1"
     ],
     "articles": [
@@ -406,19 +352,6 @@
   },
   {
     "presses": [
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "콜롬비아 대통령 당선자 “취임 첫날 쿠바·니카라과와 단교할 것”",
-        "link": "https://www.hani.co.kr/arti/international/america/1270246.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
       "경향신문"
     ],
     "articles": [
@@ -465,19 +398,6 @@
         "press": "세계일보",
         "title": "北, '전승절 73주년' 대대적 행사…김정은, 주애와 공연 관람",
         "link": "https://www.segye.com/newsView/20260728502397",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "“국회로 돌아가겠다, 당장”… 정성호, 이미 세달 전 사의 표명했다",
-        "link": "https://www.munhwa.com/article/11605444",
         "score": 2
       }
     ]
@@ -690,8 +610,8 @@
     "articles": [
       {
         "press": "YTN",
-        "title": "법사소위, 형소법·선관위 특검법 논의…국힘, 회의 복귀 여부 관심",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202607281458170387_005.html",
+        "title": "윤 선거법 징역형 집유…잠시 뒤 위증 재판 시작",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202607281348487989_005.html",
         "score": 0
       }
     ]
