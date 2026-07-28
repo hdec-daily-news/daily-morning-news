@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 프로젝트2 보강: 통신사(연합뉴스/뉴스1/뉴시스) 그래픽 전용 코너에서
-전일 22:00~당일 06:00(KST) 윈도우에 올라온 인포그래픽을 원본 화질로 직접 수집한다.
+전일 15:00~당일 06:00(KST) 윈도우에 올라온 인포그래픽을 원본 화질로 직접 수집한다.
 
 배경(2026-07-15, 사용자 제보): 기사 본문 안에서 인포그래픽을 찾는 capture_images.py의
 이미지 분류 로직과 별개로, 이 통신사들은 인포그래픽만 모아두는 전용 코너를 운영한다.
@@ -9,6 +9,13 @@
 - 연합뉴스 https://www.yna.co.kr/graphic/index
 - 뉴스1   https://www.news1.kr/photos/graphic
 - 뉴시스  https://www.newsis.com/pho/gralist/?cid=pho
+
+윈도우 폭 변경 이력(2026-07-28): 처음엔 프로젝트1(기사)과 같은 22:00~06:00(8시간)을 그대로
+재사용했는데, 실측 결과 뉴시스는 5일 연속 0건, 연합뉴스도 5일 중 2일만 1건씩 잡히는 등
+사실상 놓치고 있었음이 드러남 — 통신사 그래픽은 기사와 달리 낮 시간대에도 꾸준히
+올라오므로, 밤 시간대만 보는 8시간 창으로는 턱없이 부족했다. 원래 요청("전날 것 다
+캡쳐")대로 전일 15:00부터로 넓혀서 커버리지를 늘림. 기사(프로젝트1)는 "최신 뉴스"가
+목적이라 22:00~06:00을 그대로 유지 — 그래픽 전용으로 별도 윈도우 함수를 둔다.
 
 주의: requests+BeautifulSoup으로 정적 HTML을 파싱한다(Playwright 없이 가벼운 스크래핑).
 셀렉터는 Claude Browser로 실제 페이지 DOM을 직접 확인해서 작성했지만, 사이트 개편 시
@@ -27,7 +34,17 @@ import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
-from collect_links import get_window, KST, _now_override
+from collect_links import KST, _now_override
+
+
+def get_graphics_window(now):
+    """그래픽 전용 윈도우: 전일 15:00 ~ 당일 06:00 (KST). 실행 시각이 06:00 이전이면
+    현재 시각까지로 잘라준다(collect_links.get_window와 동일한 규칙, 시작 시각만 다름)."""
+    end = now.replace(hour=6, minute=0, second=0, microsecond=0)
+    if now < end:
+        end = now
+    start = (end - timedelta(days=1)).replace(hour=15, minute=0, second=0, microsecond=0)
+    return start, end
 
 # 통신사 그래픽 코너는 스포츠 경기 결과·연예 소식 등 정치/경제와 무관한 그래픽도 함께
 # 올라온다. 이 프로젝트 범위(CLAUDE.md: 정치·정당·경제·IT·빅테크·금융 등)와 무관한
@@ -235,7 +252,7 @@ def download_image(url, out_path, referer=None):
 
 def main():
     now = _now_override() or datetime.now(KST)
-    start, end = get_window(now)
+    start, end = get_graphics_window(now)
     os.makedirs("images/graphics", exist_ok=True)
 
     all_items = []
