@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:11:17.471572+09:00",
+  "generated_at": "2026-07-28T16:21:15.262935+09:00",
   "window_start": "2026-07-27T22:00:00+09:00",
   "window_end": "2026-07-28T06:00:00+09:00",
   "date_label": "7/28(화)",
@@ -14,52 +14,60 @@
       ],
       "articles": [
         {
-          "title": "[중앙일보] 김부선 “주저없이 ‘알정찍’”∙∙∙정청래 공개 지지 나섰다",
-          "link": "https://www.joongang.co.kr/article/25448760?utm_source=navernewsstand&utm_medium=referral&utm_campaign=leftbottom4_newsstand&utm_content=260728",
+          "title": "[동아일보] 조정식 “현직 대통령 연임, 국민 선택 문제…내년이 개헌 적기”",
+          "link": "https://www.donga.com/news/NewsStand/article/all/20260728/134378282/1",
           "pubDate": "",
-          "long_link": "https://www.joongang.co.kr/article/25448760?utm_source=navernewsstand&utm_medium=referral&utm_campaign=leftbottom4_newsstand&utm_content=260728"
+          "coverage": 7,
+          "long_link": "https://www.donga.com/news/NewsStand/article/all/20260728/134378282/1"
         },
         {
-          "title": "[동아일보] 장동혁 “부동산 지옥에 사는 국민, 이 정권 지옥으로 보낼 것”",
-          "link": "https://www.donga.com/news/NewsStand/article/all/20260728/134379395/1?utm_source=newsstand&utm_medium=referral&utm_campaign=main3",
+          "title": "[서울신문] 통영시장 선거 재검표 ‘표차 44→38표’…강석주 당선 유지",
+          "link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009",
           "pubDate": "",
-          "long_link": "https://www.donga.com/news/NewsStand/article/all/20260728/134379395/1?utm_source=newsstand&utm_medium=referral&utm_campaign=main3"
+          "coverage": 5,
+          "long_link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009"
         },
         {
-          "title": "[한겨레] 장동혁 “임기 연장 개헌 시도 땐 남은 임기 못 채울 것”",
-          "link": "https://www.hani.co.kr/arti/politics/politics_general/1270320.html?utm_source=naver&utm_medium=referral&utm_campaign=newsstand&utm_term=t2&utm_content=20260728",
+          "title": "[서울신문] 경찰, 아동 성매매 혐의 최영중 전 청주시의원 구속영장",
+          "link": "https://www.seoul.co.kr/news/society/2026/07/28/20260728500157",
           "pubDate": "",
-          "long_link": "https://www.hani.co.kr/arti/politics/politics_general/1270320.html?utm_source=naver&utm_medium=referral&utm_campaign=newsstand&utm_term=t2&utm_content=20260728"
+          "coverage": 5,
+          "long_link": "https://www.seoul.co.kr/news/society/2026/07/28/20260728500157"
         },
         {
-          "title": "[국민일보] 정점식 “권영진 선처 바라” 했지만…”책임 물어야” 쪼개진 국힘",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000103&code=61111111&sid1=pol&cp=nv2",
+          "title": "[동아일보] 與 전대 첫날 온라인 투표 먹통…“충북 권리당원 참여 차질”",
+          "link": "https://www.donga.com/news/NewsStand/article/all/20260728/134377773/2",
           "pubDate": "",
-          "long_link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000103&code=61111111&sid1=pol&cp=nv2"
+          "coverage": 3,
+          "long_link": "https://www.donga.com/news/NewsStand/article/all/20260728/134377773/2"
         },
         {
-          "title": "[국민일보] 한동훈, ‘보완수사 폐지’ 반대 필리버스터 검토…국힘 공조 이뤄질까",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000107&code=61111111&sid1=pol&cp=nv2",
+          "title": "[국민일보] [단독] “檢, 수사 못하는데 파견검사는 가능한가” 선관위 특검 난맥상",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030172407&code=61111111&sid1=pol",
           "pubDate": "",
-          "long_link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000107&code=61111111&sid1=pol&cp=nv2"
+          "coverage": 2,
+          "long_link": "https://www.kmib.co.kr/article/view.asp?arcid=0030172407&code=61111111&sid1=pol"
         },
         {
-          "title": "[서울신문] 홍준표 “윤석열·한동훈 데려와 보수 망친 자들, 이제 책임져라”",
-          "link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500197?wlog_sub=svt_006",
+          "title": "[문화일보] 4개월 전 ‘신천지, 민주당도 가입’ 진술 확보했지만…밍기적 합수본",
+          "link": "https://www.munhwa.com/article/11605394",
           "pubDate": "",
-          "long_link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500197?wlog_sub=svt_006"
+          "coverage": 2,
+          "long_link": "https://www.munhwa.com/article/11605394"
         },
         {
-          "title": "[서울신문] 정청래, 충청권 투표 첫날 세종行…“이해찬 정신 계승할 것”",
-          "link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500123?wlog_sub=svt_006",
+          "title": "[머니투데이] \"영원한 우정\" 李대통령, 룰라 만나고 상파울루行…양국 기업인 '총출동'",
+          "link": "https://www.mt.co.kr/politics/2026/07/28/2026072813283328554?STAND=MT",
           "pubDate": "",
-          "long_link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500123?wlog_sub=svt_006"
+          "coverage": 2,
+          "long_link": "https://www.mt.co.kr/politics/2026/07/28/2026072813283328554?STAND=MT"
         },
         {
-          "title": "[MBC] 김민석 \"근거 없이 대통령 비난하면, 짚을 건 짚겠다\"",
-          "link": "https://imnews.imbc.com/news/2026/politics/article/6840617_36911.html",
+          "title": "[경향신문] 사설 윤석열 선거법 징역형, 대선 후보의 거짓말 엄중 단죄 마땅하다",
+          "link": "https://www.khan.co.kr/article/202607271810001/?nv=stand",
           "pubDate": "",
-          "long_link": "https://imnews.imbc.com/news/2026/politics/article/6840617_36911.html"
+          "coverage": 2,
+          "long_link": "https://www.khan.co.kr/article/202607271810001/?nv=stand"
         }
       ],
       "source_note": "newsstand 언론사 편집 메인 기반, 부족분은 검색 API 보충"
@@ -128,6 +136,6 @@
     "method": "newsstand_cards",
     "picked": 8,
     "merged_total": 8,
-    "updated_at": "2026-07-28T16:11:28.544097+09:00"
+    "updated_at": "2026-07-28T16:21:25.093334+09:00"
   }
 }
