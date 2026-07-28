@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:32:39.920630+09:00",
+  "generated_at": "2026-07-28T16:50:47.634400+09:00",
   "window_start": "2026-07-27T22:00:00+09:00",
   "window_end": "2026-07-28T06:00:00+09:00",
   "date_label": "7/28(화)",
@@ -17,14 +17,14 @@
           "title": "[동아일보] 조정식 “현직 대통령 연임, 국민 선택 문제…내년이 개헌 적기”",
           "link": "https://www.donga.com/news/NewsStand/article/all/20260728/134378282/1",
           "pubDate": "",
-          "coverage": 7,
+          "coverage": 8,
           "long_link": "https://www.donga.com/news/NewsStand/article/all/20260728/134378282/1"
         },
         {
           "title": "[서울신문] 통영시장 선거 재검표 ‘표차 44→38표’…강석주 당선 유지",
           "link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009",
           "pubDate": "",
-          "coverage": 5,
+          "coverage": 4,
           "long_link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009"
         },
         {
@@ -35,18 +35,18 @@
           "long_link": "https://www.donga.com/news/NewsStand/article/all/20260728/134377773/2"
         },
         {
+          "title": "[문화일보] 4개월 전 ‘신천지, 민주당도 가입’ 진술 확보했지만…밍기적 합수본",
+          "link": "https://www.munhwa.com/article/11605394",
+          "pubDate": "",
+          "coverage": 3,
+          "long_link": "https://www.munhwa.com/article/11605394"
+        },
+        {
           "title": "[국민일보] [단독] “檢, 수사 못하는데 파견검사는 가능한가” 선관위 특검 난맥상",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030172407&code=61111111&sid1=pol",
           "pubDate": "",
           "coverage": 2,
           "long_link": "https://www.kmib.co.kr/article/view.asp?arcid=0030172407&code=61111111&sid1=pol"
-        },
-        {
-          "title": "[문화일보] 4개월 전 ‘신천지, 민주당도 가입’ 진술 확보했지만…밍기적 합수본",
-          "link": "https://www.munhwa.com/article/11605394",
-          "pubDate": "",
-          "coverage": 2,
-          "long_link": "https://www.munhwa.com/article/11605394"
         },
         {
           "title": "[머니투데이] \"영원한 우정\" 李대통령, 룰라 만나고 상파울루行…양국 기업인 '총출동'",
@@ -136,6 +136,6 @@
     "method": "newsstand_cards",
     "picked": 8,
     "merged_total": 8,
-    "updated_at": "2026-07-28T16:32:51.250557+09:00"
+    "updated_at": "2026-07-28T16:51:00.485389+09:00"
   }
 }

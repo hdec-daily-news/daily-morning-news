@@ -1,47 +1,111 @@
 {
-  "generated_at": "2026-07-28T16:33:37.531788+09:00",
-  "window_start": "2026-07-27T22:00:00+09:00",
+  "generated_at": "2026-07-28T16:51:46.943411+09:00",
+  "window_start": "2026-07-27T15:00:00+09:00",
   "window_end": "2026-07-28T06:00:00+09:00",
   "items": [
+    {
+      "source": "연합뉴스",
+      "title": "성·연령별 고위험음주율 변화",
+      "link": "https://www.yna.co.kr/view/GYH20260727000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/07/27/GYH2026072700050004400_P1.jpg",
+      "pubdate": "2026-07-27T21:51:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중국 반도체 기업 CXMT 개요",
+      "link": "https://www.yna.co.kr/view/GYH20260727000400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/07/27/GYH2026072700040004400_P1.jpg",
+      "pubdate": "2026-07-27T21:27:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "거주자 외화예금 1133.3억 달러…전월比 10.8억↑",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260727_0002196334&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/27/NISI20260727_0002196334_web.jpg?rnd=20260727163602",
+      "pubdate": "2026-07-27T16:36:02+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "尹 공직선거법 위반 1심 징역형 집유…확정시 397억 반환",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260727_0002196243&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/27/NISI20260727_0002196243_web.jpg?rnd=20260727163542",
+      "pubdate": "2026-07-27T16:35:42+09:00",
+      "image": "images/graphics/뉴시스_04.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "30~50대 남성 2명 중 1명 '폭음'…여성 30대 이상 증가",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260727_0002196938&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/27/NISI20260727_0002196938_web.jpg?rnd=20260727163514",
+      "pubdate": "2026-07-27T16:35:14+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
+    },
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
       "link": "https://www.news1.kr/photos/8027634",
       "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027634/no_water.jpg",
-      "pubdate": "2026-07-28T01:33:37.531788+09:00",
-      "image": "images/graphics/뉴스1_01.jpg"
+      "pubdate": "2026-07-28T01:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[오늘의 증시] 7월 27일 코스피 코스닥",
       "link": "https://www.news1.kr/photos/8027537",
       "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027537/no_water.jpg",
-      "pubdate": "2026-07-28T01:33:37.531788+09:00",
-      "image": "images/graphics/뉴스1_02.jpg"
+      "pubdate": "2026-07-28T00:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 尹 혐의별 재판 현황",
       "link": "https://www.news1.kr/photos/8027406",
       "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027406/no_water.jpg",
-      "pubdate": "2026-07-28T00:33:37.531788+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
+      "pubdate": "2026-07-27T23:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 20대 대선부터 윤석열 전 대통령 공직선거법 1심 선고까지",
       "link": "https://www.news1.kr/photos/8027405",
       "image_url": "https://image.news1.kr/system/photos/2026/7/27/8027405/no_water.jpg",
-      "pubdate": "2026-07-28T00:33:37.531788+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
+      "pubdate": "2026-07-27T23:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[오늘의 그래픽] 月건보료 상·하한 인상…최저 2만2000원~최고 612만원",
       "link": "https://www.news1.kr/photos/8026943",
       "image_url": "https://image.news1.kr/system/photos/2026/7/27/8026943/no_water.jpg",
-      "pubdate": "2026-07-27T23:33:37.531788+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
+      "pubdate": "2026-07-27T23:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 서해선 운정역 연장 사업",
+      "link": "https://www.news1.kr/photos/8026794",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8026794/no_water.jpg",
+      "pubdate": "2026-07-27T20:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8026258",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8026258/no_water.jpg",
+      "pubdate": "2026-07-27T17:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8026256",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/27/8026256/no_water.jpg",
+      "pubdate": "2026-07-27T17:51:46.943411+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }

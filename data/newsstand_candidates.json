@@ -3,6 +3,7 @@
     "presses": [
       "국민일보",
       "노컷뉴스",
+      "뉴스1",
       "동아일보",
       "문화일보",
       "서울신문",
@@ -29,12 +30,6 @@
         "score": 2
       },
       {
-        "press": "한겨레",
-        "title": "장동혁 “이 대통령 임기 연장 개헌 시도 땐 남은 임기 못 채울 것”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1270320.html",
-        "score": 5
-      },
-      {
         "press": "국민일보",
         "title": "K-Pick 국회의장 “개헌 골든타임…대통령 연임 문제, 국민 선택”",
         "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000116&code=61111111&sid1=pol",
@@ -53,6 +48,18 @@
         "score": 2
       },
       {
+        "press": "뉴스1",
+        "title": "조 의장 \"내년 개헌 논의 본궤도……",
+        "link": "https://www.news1.kr/politics/assembly/6241249",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "조정식 \"대통령 연임은 국민 선택\"",
+        "link": "https://www.nocutnews.co.kr/news/6554471",
+        "score": 2
+      },
+      {
         "press": "노컷뉴스",
         "title": "국힘, '대통령 연임, 국민 선택 문제'에 \"정권 연장 군불\"",
         "link": "https://www.nocutnews.co.kr/news/6554610",
@@ -68,7 +75,6 @@
   },
   {
     "presses": [
-      "노컷뉴스",
       "문화일보",
       "서울신문",
       "세계일보",
@@ -97,12 +103,6 @@
         "press": "서울신문",
         "title": "통영시장 선거 재검표 ‘표차 44→38표’…강석주 당선 유지",
         "link": "https://www.seoul.co.kr/news/politics/2026/07/28/20260728500009",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "5 전한길도 참관했지만…통영시장 재검표 '44표→38표차' 이변 없었다",
-        "link": "https://www.nocutnews.co.kr/news/6554123",
         "score": 2
       }
     ]
@@ -136,6 +136,33 @@
   },
   {
     "presses": [
+      "경향신문",
+      "문화일보",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "신천지 “민주당도 가입해라”…합수본, 4개월 전 간부 진술 확보",
+        "link": "https://www.hani.co.kr/arti/society/society_general/1270284.html",
+        "score": 2
+      },
+      {
+        "press": "경향신문",
+        "title": "합수본, “신천지 민주당 가입 독려” 진술받고도 미입건···‘여권 봐주기’ 비판에 “혐의 없어”",
+        "link": "https://www.khan.co.kr/article/202607281615011/?nv=stand",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "4개월 전 ‘신천지, 민주당도 가입’ 진술 확보했지만…밍기적 합수본",
+        "link": "https://www.munhwa.com/article/11605394",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
       "MBC",
       "국민일보"
     ],
@@ -150,26 +177,6 @@
         "press": "MBC",
         "title": "경찰, 3대 특검 인계 사건 수사 마무리‥'선상파티' 등 16건 송치",
         "link": "https://imnews.imbc.com/news/2026/society/article/6840589_36918.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "신천지 “민주당도 가입해라”…합수본, 4개월 전 간부 진술 확보",
-        "link": "https://www.hani.co.kr/arti/society/society_general/1270284.html",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "4개월 전 ‘신천지, 민주당도 가입’ 진술 확보했지만…밍기적 합수본",
-        "link": "https://www.munhwa.com/article/11605394",
         "score": 2
       }
     ]
@@ -344,6 +351,19 @@
     "articles": [
       {
         "press": "한겨레",
+        "title": "‘패스트트랙 기간 330→90일 단축’ 국회법, 운영위 소위 통과",
+        "link": "https://www.hani.co.kr/arti/politics/assembly/1270340.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
         "title": "올공 봉쇄로 체육단체 업무 차질 장기화…“국회에 조속 해결 촉구”",
         "link": "https://www.hani.co.kr/arti/society/society_general/1270288.html",
         "score": 2
@@ -463,6 +483,32 @@
         "press": "노컷뉴스",
         "title": "탄핵 이어 당선 무효형까지…尹, 헌정사 초유 '불명예 2관왕' 되나",
         "link": "https://www.nocutnews.co.kr/news/6554047",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "머니투데이"
+    ],
+    "articles": [
+      {
+        "press": "머니투데이",
+        "title": "\"상납 문화에 질렸다\"...직접 지뢰 해체하며 철책 넘은 북한군",
+        "link": "https://www.mt.co.kr/society/2026/07/28/2026072811460513603?STAND=MT",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "종합특검, 이종섭 전 국방장관 첫 소환…‘순직해병 사건’ 방첩사 개입 의혹",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622130",
         "score": 2
       }
     ]
