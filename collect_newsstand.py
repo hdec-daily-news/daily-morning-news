@@ -110,6 +110,14 @@ POLITICS_KEYWORDS = [
     "민주당", "국민의힘",  # 후보에는 올리되 pick 단계에서 정당 섹터 중복 규칙 적용
 ]
 
+# 정치 후보에서 하드 제외 (3차 테스트 실측 오탐, 2026-07-28):
+# - "사설"/"칼럼": 카드에서는 [사설] 대괄호가 벗겨져 와서 태그 감점이 안 걸림
+# - 지방 기초의원(시·군·구의원) 사건사고: "의원" 키워드에 걸리지만 사회면 뉴스
+POLITICS_EXCLUDE_PATTERNS = [
+    "사설", "칼럼", "오피니언", "만평",
+    "시의원", "군의원", "구의원", "도의원",
+]
+
 UI_TEXT_PATTERNS = [
     "구독", "전체보기", "뉴스스탠드", "로그인", "바로가기", "이전", "다음",
     "펼쳐보기", "설정", "도움말", "공지", "언론사 편집", "기사보기", "언론사보기",
@@ -246,6 +254,8 @@ def pick_politics(candidates, links_data, count):
             continue
         # 정당 브랜드가 뚜렷한 기사는 dp/ppp 섹터 소관 (collect_links.py와 동일 규칙)
         if any(kw in title for kw in PARTY_EXCLUDE_KEYWORDS):
+            continue
+        if any(kw in title for kw in POLITICS_EXCLUDE_PATTERNS):
             continue
         if c["link"] in existing_links or title in existing_titles or title in seen_titles:
             continue
