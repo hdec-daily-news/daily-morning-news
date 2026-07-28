@@ -38,6 +38,11 @@ jobs:
           NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python collect_links.py
 
+      - name: Collect newsstand politics (project 1, politics_main 대체)
+        env:
+          NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
+        run: python collect_newsstand.py
+
       - name: Build Excel (project 1)
         run: python build_excel.py
 

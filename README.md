@@ -48,6 +48,14 @@ git push -u origin main
 첫 Actions 실행 후 `images/` 폴더의 캡쳐 이미지를 확인하고, 캡쳐 범위가 어긋나면
 `HEADER_SELECTORS`, `BODY_SELECTORS`, `LIST_LINK_SELECTORS`, clip 계산 로직을 조정해야 한다.
 
+`collect_newsstand.py`(2026-07-28 추가, politics_main을 뉴스스탠드 언론사 편집 메인으로 대체)는
+1차 실행 디버그 덤프 분석으로 실제 구조를 확인해 재작성했다: 뉴스스탠드 언론사 카드는
+`newsstand.naver.com/include/page/{oid}.html` 형태의 독립 정적 페이지(iframe 소스)이므로
+주요 언론사 oid별로 requests로 직접 가져와 파싱한다(브라우저 불필요).
+정치 기사 4건 미만이면 교체하지 않고 기존 검색 API 결과를 유지하며(안전 폴백),
+그 경우 `data/newsstand_debug.html`에 카드 HTML이 저장되므로 그걸 보고
+`looks_like_headline`/`extract_card_headlines`를 보정할 것. `NEWSSTAND=0`으로 즉시 비활성화 가능.
+
 ## 로컬 테스트
 
 ```powershell

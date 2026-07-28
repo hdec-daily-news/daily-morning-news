@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:03:00.642735+09:00",
+  "generated_at": "2026-07-28T16:21:15.262935+09:00",
   "window_start": "2026-07-27T22:00:00+09:00",
   "window_end": "2026-07-28T06:00:00+09:00",
   "date_label": "7/28(화)",
@@ -14,52 +14,52 @@
       ],
       "articles": [
         {
-          "title": "[뉴스1] '튜더 왕조의 설계자' 토머스 크롬웰 처형 [김정한의 역사&오늘]",
-          "link": "https://n.news.naver.com/article/421/0009082113",
+          "title": "[더팩트] 내분 '외부'로 돌리는 장동혁…'당원 권한 강화' 돌파구 될까",
+          "link": "https://n.news.naver.com/article/629/0000519461",
+          "pubDate": "Tue, 28 Jul 2026 00:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/629/0000519461?sid=100"
+        },
+        {
+          "title": "[뉴스1] 李 대통령이 띄운 임신중지약…하반기 복지위 '뜨거운 감자'",
+          "link": "https://n.news.naver.com/article/421/0009082119",
           "pubDate": "Tue, 28 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/421/0009082113?sid=110"
+          "long_link": "https://n.news.naver.com/mnews/article/421/0009082119?sid=105"
         },
         {
-          "title": "[머니투데이] [유효상 칼럼] 왜 국민연금은 '고래의 딜레마(The Whale's Dilemma)'에 빠졌...",
-          "link": "https://n.news.naver.com/article/008/0005391781",
-          "pubDate": "Tue, 28 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/008/0005391781?sid=110"
+          "title": "[서울신문] 민주 “혈세 397억 반드시 회수”… 국힘 “434억 걸린 李 재판 재개”",
+          "link": "https://n.news.naver.com/article/081/0003665127",
+          "pubDate": "Tue, 28 Jul 2026 05:01:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003665127?sid=100"
         },
         {
-          "title": "[세계일보] 성남시장 “정부 부동산 정책은 ‘규제 일변도’”",
-          "link": "https://n.news.naver.com/article/022/0004146385",
-          "pubDate": "Tue, 28 Jul 2026 05:56:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/022/0004146385?sid=102"
+          "title": "[동아일보] 경남 진주 ‘발전공기업 통합 본사’ 유치전 참전",
+          "link": "https://n.news.naver.com/article/020/0003736917",
+          "pubDate": "Tue, 28 Jul 2026 04:32:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/020/0003736917?sid=102"
         },
         {
-          "title": "[데일리안] 베를린 퀴어축제 테러 충격…독일 극우당 '반사이익’",
-          "link": "https://n.news.naver.com/article/119/0003115471",
-          "pubDate": "Tue, 28 Jul 2026 05:41:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/119/0003115471?sid=104"
+          "title": "[한국일보] 與 '필리버스터·패스트트랙' 개정 착수… \"다수당 독주, 헌법 정신 훼손...",
+          "link": "https://n.news.naver.com/article/469/0000944718",
+          "pubDate": "Tue, 28 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/469/0000944718?sid=100"
         },
         {
-          "title": "[뉴시스] \"자유는 공짜 아냐\" 6·25 정전 73주년에 美 추모행렬",
-          "link": "https://n.news.naver.com/article/003/0014091642",
-          "pubDate": "Tue, 28 Jul 2026 05:36:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014091642?sid=104"
+          "title": "[동아일보] 충남 여야의원 “발전통합본사 유치” 촉구",
+          "link": "https://n.news.naver.com/article/020/0003736895",
+          "pubDate": "Tue, 28 Jul 2026 04:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/020/0003736895?sid=102"
         },
         {
-          "title": "[서울경제] 트럼프 “美, 금리 내리면 12% 성장 가능...워시는 훌륭한데 이사들이 정...",
-          "link": "https://n.news.naver.com/article/011/0004645793",
-          "pubDate": "Tue, 28 Jul 2026 05:19:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/011/0004645793?sid=104"
+          "title": "[YTN] \"이번 주 처리\" 속도전에 국힘 격앙...또 필버 정국?",
+          "link": "https://n.news.naver.com/article/052/0002385357",
+          "pubDate": "Tue, 28 Jul 2026 01:44:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/052/0002385357?sid=100"
         },
         {
-          "title": "[서울신문] [세종로의 아침] ‘바퀴벌레’의 힘",
-          "link": "https://n.news.naver.com/article/081/0003665199",
-          "pubDate": "Tue, 28 Jul 2026 05:12:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/081/0003665199?sid=110"
-        },
-        {
-          "title": "[서울신문] ‘IS 추종’ 독일 테러 용의자 사살… “극단주의 경계”",
-          "link": "https://n.news.naver.com/article/081/0003665141",
-          "pubDate": "Tue, 28 Jul 2026 05:02:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/081/0003665141?sid=104"
+          "title": "[SBS] \"새 술은 새 부대에\" 또 사의…청와대는 \"사실 아냐\"",
+          "link": "https://n.news.naver.com/article/055/0001375816",
+          "pubDate": "Tue, 28 Jul 2026 00:24:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/055/0001375816?sid=100"
         }
       ]
     },
@@ -69,38 +69,7 @@
       "queries": [
         "더불어민주당"
       ],
-      "articles": [
-        {
-          "title": "[조선일보] 패싸움 양상으로 가는 ‘팀 김민석’ vs ‘팀 정청래’",
-          "link": "https://n.news.naver.com/article/023/0003989959",
-          "pubDate": "Tue, 28 Jul 2026 00:50:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/023/0003989959?sid=100"
-        },
-        {
-          "title": "[더팩트] '일반 선거인의 인상' 윤석열 유죄 결정적…이재명 판결도 관통",
-          "link": "https://n.news.naver.com/article/629/0000519455",
-          "pubDate": "Tue, 28 Jul 2026 00:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/629/0000519455?sid=102"
-        },
-        {
-          "title": "[더팩트] 내분 '외부'로 돌리는 장동혁…'당원 권한 강화' 돌파구 될까",
-          "link": "https://n.news.naver.com/article/629/0000519461",
-          "pubDate": "Tue, 28 Jul 2026 00:01:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/629/0000519461?sid=100"
-        },
-        {
-          "title": "[중앙일보] 정청래 “조국혁신당과 통합했어야…합당했다면 서울시장 이겼을 것”",
-          "link": "https://n.news.naver.com/article/025/0003540488",
-          "pubDate": "Mon, 27 Jul 2026 23:40:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/025/0003540488?sid=100"
-        },
-        {
-          "title": "[뉴시스] 정청래 \"조국혁신당과 합당했다면 서울시장 이겼을 것\"",
-          "link": "https://n.news.naver.com/article/003/0014091416",
-          "pubDate": "Mon, 27 Jul 2026 22:25:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/003/0014091416?sid=100"
-        }
-      ]
+      "articles": []
     },
     {
       "key": "ppp",
@@ -108,38 +77,7 @@
       "queries": [
         "국민의힘"
       ],
-      "articles": [
-        {
-          "title": "[동아일보] ‘장외 정치’ 이어 ‘선거소청 정치’ 나선 장동혁",
-          "link": "https://n.news.naver.com/article/020/0003736939",
-          "pubDate": "Tue, 28 Jul 2026 04:33:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/020/0003736939?sid=100"
-        },
-        {
-          "title": "[중앙일보] [사진] 국힘 시한폭탄 권영진, 정점식에 ‘멱살’ 사과",
-          "link": "https://n.news.naver.com/article/025/0003540553",
-          "pubDate": "Tue, 28 Jul 2026 00:22:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/025/0003540553?sid=100"
-        },
-        {
-          "title": "[뉴스1] 李 대통령이 띄운 임신중지약…하반기 복지위 '뜨거운 감자'",
-          "link": "https://n.news.naver.com/article/421/0009082119",
-          "pubDate": "Tue, 28 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/421/0009082119?sid=105"
-        },
-        {
-          "title": "[중앙일보] [단독] 빚 연체기록 전부 지워줬더니…6명 중 1명 올해 또 연체했다",
-          "link": "https://n.news.naver.com/article/025/0003540584",
-          "pubDate": "Tue, 28 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/025/0003540584?sid=101"
-        },
-        {
-          "title": "[이데일리] 괴롭힘 신고해도 64%는 '주의'로 끝…피해자만 웁니다",
-          "link": "https://n.news.naver.com/article/018/0006337863",
-          "pubDate": "Tue, 28 Jul 2026 05:52:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/018/0006337863?sid=102"
-        }
-      ]
+      "articles": []
     },
     {
       "key": "economy",
@@ -153,34 +91,34 @@
       ],
       "articles": [
         {
-          "title": "[한겨레] [단독] “6살 소녀 파괴한 SNS ‘설계된 중독’ 입증…메타·구글에 승소...",
-          "link": "https://n.news.naver.com/article/028/0002816003",
-          "pubDate": "Tue, 28 Jul 2026 05:02:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/028/0002816003?sid=102"
-        },
-        {
-          "title": "[동아일보] [단독]“두더지 심기보다 사람 빼가기… 1명 가면 기업비밀 다 따라가”",
-          "link": "https://n.news.naver.com/article/020/0003736966",
-          "pubDate": "Tue, 28 Jul 2026 04:35:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/020/0003736966?sid=101"
-        },
-        {
-          "title": "[동아일보] [단독]배터리 인재를 건설사에 고용, ‘커리어 세탁’ 뒤 기술 빼가",
-          "link": "https://n.news.naver.com/article/020/0003736970",
-          "pubDate": "Tue, 28 Jul 2026 04:35:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/020/0003736970?sid=101"
-        },
-        {
-          "title": "[이데일리] [속보]李대통령 “브라질과 방산·항공우주·핵심 광물·디지털경제미래...",
-          "link": "https://n.news.naver.com/article/018/0006337832",
-          "pubDate": "Tue, 28 Jul 2026 02:06:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/018/0006337832?sid=100"
-        },
-        {
-          "title": "[MBC] 소비자 심리 3개월 연속 개선‥\"반도체 수출 호조·임금 상승 기대\"",
-          "link": "https://n.news.naver.com/article/214/0001514242",
+          "title": "[뉴시스] \"믿을 건 실적 뿐\"…역대급 성적표로 반등 모멘텀 잡을까",
+          "link": "https://n.news.naver.com/article/003/0014091671",
           "pubDate": "Tue, 28 Jul 2026 06:00:00 +0900",
-          "long_link": "https://n.news.naver.com/mnews/article/214/0001514242?sid=101"
+          "long_link": "https://n.news.naver.com/mnews/article/003/0014091671?sid=101"
+        },
+        {
+          "title": "[데일리안] AI 투자 늘린 빅테크, 주가는 급락…\"시장이 장기 가치를 과소평가\"",
+          "link": "https://n.news.naver.com/article/119/0003115472",
+          "pubDate": "Tue, 28 Jul 2026 05:50:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/119/0003115472?sid=104"
+        },
+        {
+          "title": "[서울경제] 사우디 핵협상 뒤엔 트럼프 가족?…NYT “트럼프, 원전에 이해충돌 논란...",
+          "link": "https://n.news.naver.com/article/011/0004645802",
+          "pubDate": "Tue, 28 Jul 2026 05:31:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/011/0004645802?sid=104"
+        },
+        {
+          "title": "[뉴스1] 엔비디아 5% 급락…'순환금융' 우려에 SK하닉 ADR 7% 넘게 후퇴",
+          "link": "https://n.news.naver.com/article/421/0009082077",
+          "pubDate": "Tue, 28 Jul 2026 05:21:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/421/0009082077?sid=101"
+        },
+        {
+          "title": "[서울신문] 한화오션 2분기 영업익 7361억… 98% 뛰어 분기 ‘최대 실적’",
+          "link": "https://n.news.naver.com/article/081/0003665183",
+          "pubDate": "Tue, 28 Jul 2026 05:05:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003665183?sid=101"
         }
       ]
     }
