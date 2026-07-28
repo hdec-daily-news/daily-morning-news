@@ -48,6 +48,13 @@ git push -u origin main
 첫 Actions 실행 후 `images/` 폴더의 캡쳐 이미지를 확인하고, 캡쳐 범위가 어긋나면
 `HEADER_SELECTORS`, `BODY_SELECTORS`, `LIST_LINK_SELECTORS`, clip 계산 로직을 조정해야 한다.
 
+`collect_newsstand.py`(2026-07-28 추가, politics_main을 뉴스스탠드 언론사 편집 메인으로 대체)도
+같은 이유로 실제 뉴스스탠드 DOM을 보지 못한 채 작성됐다. 특정 셀렉터에 의존하지 않고
+"페이지의 모든 앵커 → 헤드라인처럼 보이는 텍스트 + 주요 언론사 도메인" 휴리스틱으로 추출하며,
+정치 기사 4건 미만이면 교체하지 않고 기존 검색 API 결과를 유지한다(안전 폴백).
+그 경우 `data/newsstand_debug.html`에 페이지 전체가 저장되므로 그걸 보고
+`looks_like_headline`/`extract_candidates`를 보정할 것. `NEWSSTAND=0` 환경변수로 즉시 비활성화 가능.
+
 ## 로컬 테스트
 
 ```powershell
