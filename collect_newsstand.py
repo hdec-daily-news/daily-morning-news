@@ -42,13 +42,15 @@ from collect_links import (
 
 CARD_URL = "https://newsstand.naver.com/include/page/{oid}.html"
 DEBUG_HTML_PATH = "data/newsstand_debug.html"
+CANDIDATES_PATH = "data/newsstand_candidates.json"  # 클러스터링 튜닝용 후보 전체 로그
 # 뉴스스탠드 픽이 이 건수 미만이면 교체하지 않고 기존 검색 API 결과 유지
 MIN_REQUIRED = 4
 # 한 언론사가 politics_main을 잠식하지 않도록 언론사당 최대 채택 수 제한
 MAX_PER_PRESS = 2
 
-# politics_main 소스로 쓸 종합지/방송/통신사와 뉴스스탠드 카드 코드(=네이버뉴스 oid).
-# 경제지는 economy 섹터 소관이므로 여기서는 제외한다.
+# politics_main 소스로 쓸 언론사와 뉴스스탠드 카드 코드(=네이버뉴스 oid).
+# 휴먼 브리핑(example/briefings/) 정치 섹터에 실제 인용된 언론사 기준으로 구성
+# (이데일리/디지털타임스/머니투데이는 경제지지만 휴먼 정치픽에 자주 등장해 포함).
 PRESS_OIDS = {
     "023": "조선일보",
     "025": "중앙일보",
@@ -66,11 +68,27 @@ PRESS_OIDS = {
     "079": "노컷뉴스",
     "119": "데일리안",
     "629": "더팩트",
+    "018": "이데일리",
+    "029": "디지털타임스",
+    "008": "머니투데이",
     "052": "YTN",
     "055": "SBS",
     "056": "KBS",
     "214": "MBC",
 }
+
+# 휴먼 브리핑 4일치(example/briefings/)의 언론사 인용 빈도 순위(2026-07-28 집계).
+# 같은 이슈(클러스터)를 여러 언론사가 다뤘을 때 이 순서 앞쪽 언론사 기사를 대표로 뽑는다.
+# 목록에 없는 언론사는 맨 뒤 취급.
+PREFERRED_PRESS_ORDER = [
+    "중앙일보", "동아일보", "이데일리", "서울신문", "세계일보", "조선일보",
+    "뉴스1", "한국일보", "더팩트", "뉴시스", "데일리안", "노컷뉴스",
+    "디지털타임스", "국민일보", "문화일보", "머니투데이",
+]
+_PRESS_RANK = {p: i for i, p in enumerate(PREFERRED_PRESS_ORDER)}
+
+# 링크에서 제거해도 기사 식별에 지장 없는 추적용 파라미터 (utm_* 는 접두사 매칭)
+TRACKING_PARAM_KEYS = {"wlog_sub", "cp", "ref", "source", "sc_src", "OutUrl"}
 
 HEADERS = {
     "User-Agent": (
@@ -85,9 +103,10 @@ HEADERS = {
 # "정치 기사" 판별 키워드. 언론사 메인 카드에는 정치 외 기사도 섞여 있으므로
 # 제목에 아래 키워드(또는 NAMED_FIGURES 실명)가 있어야 politics_main 후보로 삼는다.
 POLITICS_KEYWORDS = [
-    "대통령", "국회", "여야", "정당", "총리", "장관", "청와대", "靑", "與", "野",
+    "대통령", "국회", "여야", "여당", "야당", "정당", "총리", "장관", "청와대", "靑", "與", "野",
     "특검", "선관위", "선거", "재검표", "개헌", "국정", "탄핵", "계엄", "전당대회",
     "당대표", "원내", "의원", "북한", "北", "한미", "안보", "외교", "국방", "파병",
+    "국무회의", "필리버스터", "개각", "여의도",
     "민주당", "국민의힘",  # 후보에는 올리되 pick 단계에서 정당 섹터 중복 규칙 적용
 ]
 
@@ -161,9 +180,56 @@ def collect_headlines():
     return candidates, first_html
 
 
+def strip_tracking(url):
+    """utm_* 등 추적용 쿼리 파라미터만 제거한다 (기사 식별 파라미터는 보존)."""
+    from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+    parts = urlsplit(url)
+    if not parts.query:
+        return url
+    kept = [
+        (k, v)
+        for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if not k.startswith("utm_") and k not in TRACKING_PARAM_KEYS
+    ]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), ""))
+
+
+_TOKEN_RE = re.compile(r"[가-힣A-Za-z0-9]{2,}")
+_STOPWORDS = {"기자", "단독", "속보", "종합", "영상", "포토", "인터뷰", "오늘", "내일"}
+
+
+def title_tokens(title):
+    t = re.sub(r"\[[^\]]*\]", " ", title)  # [단독] 등 태그 제거
+    return {w for w in _TOKEN_RE.findall(t) if w not in _STOPWORDS}
+
+
+def cluster_candidates(items):
+    """제목 토큰이 2개 이상 겹치면 같은 이슈로 묶는다(그리디).
+    반환: 클러스터 리스트(각각 기사 dict 리스트)."""
+    clusters = []
+    for it in items:
+        toks = it["_tokens"]
+        for cl in clusters:
+            if any(len(toks & other["_tokens"]) >= 2 for other in cl):
+                cl.append(it)
+                break
+        else:
+            clusters.append([it])
+    return clusters
+
+
+def press_rank(press):
+    return _PRESS_RANK.get(press, len(PREFERRED_PRESS_ORDER))
+
+
 def pick_politics(candidates, links_data, count):
-    """정치 기사만 골라 스코어순 상위 count건을 반환한다. 다른 섹터 기존 기사와
-    중복 제거, 언론사당 MAX_PER_PRESS건 제한(한 언론사 잠식 방지)."""
+    """정치 기사만 골라 이슈 클러스터 단위로 추려낸다.
+
+    선정 원리(2026-07-28, 휴먼픽 방식 반영):
+    1) 같은 이슈를 메인에 건 언론사 수가 많은 클러스터 우선 ("종합해서 추려내기")
+    2) 클러스터 대표 기사는 휴먼 브리핑 인용 빈도 순위(PREFERRED_PRESS_ORDER) 앞 언론사로
+    3) 키워드 스코어는 동순위 타이브레이커로만 사용
+    """
     existing_links = set()
     existing_titles = set()
     for s in links_data["sectors"]:
@@ -172,7 +238,7 @@ def pick_politics(candidates, links_data, count):
             existing_links.add(art["link"])
             existing_titles.add(re.sub(r"^\[[^\]]+\]\s*", "", art["title"]))
 
-    scored = []
+    filtered = []
     seen_titles = set()
     for c in candidates:
         title = c["title"]
@@ -184,27 +250,55 @@ def pick_politics(candidates, links_data, count):
         if c["link"] in existing_links or title in existing_titles or title in seen_titles:
             continue
         seen_titles.add(title)
-        display_title = f"[{c['press']}] {title}"
-        scored.append(
+        filtered.append(
             {
                 "press": c["press"],
-                "title": display_title,
-                "link": c["link"],
-                "pubDate": "",  # 카드에는 발행 시각이 없음 (언론사가 '지금' 걸어둔 메인)
-                "_score": score_article(display_title),
+                "title": title,
+                "link": strip_tracking(c["link"]),
+                "_score": score_article(title),
+                "_tokens": title_tokens(title),
             }
         )
-    scored.sort(key=lambda a: a["_score"], reverse=True)  # 동점 시 카드 순서 유지(stable)
+
+    clusters = cluster_candidates(filtered)
+    # 클러스터 정렬: (커버 언론사 수 ↓, 최고 키워드 스코어 ↓) — 등장 순서는 stable로 유지
+    clusters.sort(
+        key=lambda cl: (len({a["press"] for a in cl}), max(a["_score"] for a in cl)),
+        reverse=True,
+    )
 
     picked, per_press = [], {}
-    for a in scored:
-        if per_press.get(a["press"], 0) >= MAX_PER_PRESS:
+    for cl in clusters:
+        # 대표 기사: 선호 언론사 순위 → 키워드 스코어 순
+        reps = sorted(cl, key=lambda a: (press_rank(a["press"]), -a["_score"]))
+        rep = next((a for a in reps if per_press.get(a["press"], 0) < MAX_PER_PRESS), None)
+        if rep is None:
             continue
-        per_press[a["press"]] = per_press.get(a["press"], 0) + 1
-        picked.append({k: v for k, v in a.items() if k != "press"})
+        per_press[rep["press"]] = per_press.get(rep["press"], 0) + 1
+        picked.append(
+            {
+                "title": f"[{rep['press']}] {rep['title']}",
+                "link": rep["link"],
+                "pubDate": "",  # 카드에는 발행 시각이 없음 (언론사가 '지금' 걸어둔 메인)
+                "coverage": len({a["press"] for a in cl}),
+            }
+        )
         if len(picked) >= count:
             break
-    return picked
+    return picked, clusters
+
+
+def dump_candidates(clusters, path=CANDIDATES_PATH):
+    """클러스터링 결과 전체를 저장한다 (휴먼픽과 대조해 기준을 보정하기 위한 로그)."""
+    out = [
+        {
+            "presses": sorted({a["press"] for a in cl}),
+            "articles": [{"press": a["press"], "title": a["title"], "link": a["link"], "score": a["_score"]} for a in cl],
+        }
+        for cl in clusters
+    ]
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
 
 
 def merge_into_links(links_data, picked):
@@ -244,7 +338,10 @@ def main():
     politics_count = next(
         (len(s["articles"]) or 8 for s in links_data["sectors"] if s["key"] == "politics_main"), 8
     )
-    picked = pick_politics(candidates, links_data, politics_count)
+    picked, clusters = pick_politics(candidates, links_data, politics_count)
+    os.makedirs("data", exist_ok=True)
+    dump_candidates(clusters)
+    print(f"[INFO] 정치 이슈 클러스터 {len(clusters)}개 (전체 후보 로그: {CANDIDATES_PATH})")
 
     if len(picked) < MIN_REQUIRED:
         if first_html:
