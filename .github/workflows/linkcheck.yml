@@ -1,7 +1,12 @@
 name: Link Check (one-off)
 
 on:
-  workflow_dispatch: {}
+  push:
+    branches:
+      - 'claude/**'
+    paths:
+      - 'scripts/linkcheck.py'
+      - '.github/workflows/linkcheck.yml'
 
 jobs:
   linkcheck:
