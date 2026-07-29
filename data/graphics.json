@@ -1,159 +1,95 @@
 {
-  "generated_at": "2026-07-29T07:01:38.668947+09:00",
-  "window_start": "2026-07-28T15:00:00+09:00",
-  "window_end": "2026-07-29T06:00:00+09:00",
+  "generated_at": "2026-07-30T06:58:32.702293+09:00",
+  "window_start": "2026-07-29T15:00:00+09:00",
+  "window_end": "2026-07-30T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "한반도 폭염 원인",
-      "link": "https://www.yna.co.kr/view/GYH20260728000800044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800080004400_P1.jpg",
-      "pubdate": "2026-07-28T19:31:00+09:00",
+      "title": "단일종목 레버리지 상품 관련 추가 규제 방안",
+      "link": "https://www.yna.co.kr/view/GYH20260729001000044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900100004400_P1.jpg",
+      "pubdate": "2026-07-29T22:43:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2027년도 기준 중위소득",
-      "link": "https://www.yna.co.kr/view/GYH20260728000700044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800070004400_P1.jpg",
-      "pubdate": "2026-07-28T17:59:00+09:00",
+      "title": "한국형 전투기 KF-21 체계개발 완료",
+      "link": "https://www.yna.co.kr/view/GYH20260729000900044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900090004401_P1.jpg",
+      "pubdate": "2026-07-29T21:18:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "자살 긴급대응 강화 방안 체계도",
-      "link": "https://www.yna.co.kr/view/GYH20260728000600044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800060004400_P1.jpg",
-      "pubdate": "2026-07-28T17:37:00+09:00",
+      "title": "'검사 보완수사권 폐지' 형사소송법 개정안 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260729000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900080004400_P1.jpg",
+      "pubdate": "2026-07-29T20:44:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "일본 구마모토현 지진 발생",
-      "link": "https://www.yna.co.kr/view/GYH20260728000500044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800050004400_P1.jpg",
-      "pubdate": "2026-07-28T17:09:00+09:00",
+      "title": "29일 주요 지역 최고기온",
+      "link": "https://www.yna.co.kr/view/GYH20260729000700044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900070004402_P1.jpg",
+      "pubdate": "2026-07-29T16:59:00+09:00",
       "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "고령자 1인 가구 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260728000400044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800040004400_P1.jpg",
-      "pubdate": "2026-07-28T15:31:00+09:00",
-      "image": "images/graphics/연합뉴스_05.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "스페인 마드리드 서부·프랑스 남서부 산불 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260728000300044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/28/GYH2026072800030004400_P1.jpg",
-      "pubdate": "2026-07-28T15:13:00+09:00",
-      "image": "images/graphics/연합뉴스_06.jpg"
-    },
-    {
       "source": "뉴시스",
-      "title": "日 규슈 구마모토서 규모 7.1 지진",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260728_0002198339&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/28/NISI20260728_0002198339_web.jpg?rnd=20260728181700",
-      "pubdate": "2026-07-28T18:17:00+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "생산연령인구 줄고 고령인구 비중 20% 넘어",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260728_0002197826&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/28/NISI20260728_0002197826_web.jpg?rnd=20260728150514",
-      "pubdate": "2026-07-28T15:05:14+09:00",
-      "image": "images/graphics/뉴시스_08.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "폭염에 온열질환자 1399명…하루새 72명↑·사망 2명",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260728_0002197981&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/28/NISI20260728_0002197981_web.jpg?rnd=20260728150450",
-      "pubdate": "2026-07-28T15:04:50+09:00",
-      "image": "images/graphics/뉴시스_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 일본 규슈 구마모토현 규모 7.1 강진",
-      "link": "https://www.news1.kr/photos/8029902",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029902/no_water.jpg",
-      "pubdate": "2026-07-29T03:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
+      "title": "이틀 연속 '서킷'에 코스피 5600선 후퇴",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260729_0002199392&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/29/NISI20260729_0002199392_web.jpg?rnd=20260729173516",
+      "pubdate": "2026-07-29T17:35:16+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8029841",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029841/no_water.jpg",
-      "pubdate": "2026-07-29T02:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
+      "link": "https://www.news1.kr/photos/8032007",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8032007/no_water.jpg",
+      "pubdate": "2026-07-30T02:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 포항 보릿돌교 붕괴",
-      "link": "https://www.news1.kr/photos/8029823",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029823/no_water.jpg",
-      "pubdate": "2026-07-29T02:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
+      "title": "[그래픽] 출생아 수 추이",
+      "link": "https://www.news1.kr/photos/8031746",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031746/no_water.jpg",
+      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 역대 서킷브레이커 발동 현황",
-      "link": "https://www.news1.kr/photos/8029757",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029757/no_water.jpg",
-      "pubdate": "2026-07-29T02:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
+      "title": "[오늘의 증시] 7월 29일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8031749",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031749/no_water.jpg",
+      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8029688",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029688/no_water.jpg",
-      "pubdate": "2026-07-29T01:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_14.jpg"
+      "link": "https://www.news1.kr/photos/8031742",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031742/no_water.jpg",
+      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의증시] 7월28일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8029678",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029678/no_water.jpg",
-      "pubdate": "2026-07-29T01:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_15.jpg"
+      "title": "[오늘의 그래픽] \"해외 가기 전 꼭 확인\"…동남아 뎅기열·홍역 주의",
+      "link": "https://www.news1.kr/photos/8031576",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031576/no_water.jpg",
+      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 주2회 '맥주 3캔' 폭음 여성, 30대 이상 전 연령서 늘었다",
-      "link": "https://www.news1.kr/photos/8029604",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8029604/no_water.jpg",
-      "pubdate": "2026-07-29T01:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_16.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 2025 인구주택총조사 결과-주택",
-      "link": "https://www.news1.kr/photos/8028603",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8028603/no_water.jpg",
-      "pubdate": "2026-07-28T21:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_17.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 2025 인구주택총조사 결과-가구",
-      "link": "https://www.news1.kr/photos/8028667",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8028667/no_water.jpg",
-      "pubdate": "2026-07-28T21:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_18.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 2025 인구주택총조사 결과-인구",
-      "link": "https://www.news1.kr/photos/8028728",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/28/8028728/no_water.jpg",
-      "pubdate": "2026-07-28T21:01:38.668947+09:00",
-      "image": "images/graphics/뉴스1_19.jpg"
+      "title": "[그래픽] SK하이닉스 실적 추이",
+      "link": "https://www.news1.kr/photos/8030392",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8030392/no_water.jpg",
+      "pubdate": "2026-07-29T17:58:32.702293+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
 }
