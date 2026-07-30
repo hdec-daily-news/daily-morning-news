@@ -1,66 +1,71 @@
 {
-  "generated_at": "2026-07-30T06:58:32.454860+09:00",
-  "date_label": "7/30(목)",
+  "generated_at": "2026-07-31T07:04:40.448747+09:00",
+  "date_label": "7/31(금)",
   "articles": [
     {
-      "title": "김용범·브라질 부통령, 양국 경제협력 전담…희토류 협력받는다",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665663",
+      "title": "\"50억 기부 약속은 지켰나?\" 정몽규 급당황 \"어‥ 어‥\" [현장영상]",
+      "link": "https://n.news.naver.com/mnews/article/214/0001514881",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "형소법, 지선뒤 '檢개혁 경쟁'에 물살…진통끝 與당론→법사위 통과",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086652",
+      "title": "국회, 오늘 '보완수사권 폐지법안' 필리버스터 종결 표결",
+      "link": "https://n.news.naver.com/mnews/article/052/0002386909",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정청래 “李 대통령 조작기소 특검에 공소취소 권한 부여, 재검토”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646652",
+      "title": "곪아터진 축협, “고대카르텔·빵집면접·법인카드·기부금금약속 불이행.....졸속사업 등 어지러울 정도”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002677599",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국회(7월30일 목요일)[오늘의 주요일정]",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096859",
+      "title": "한국계 첫 여성 주한 미국대사 '미셸 스틸' 입국…“한미동맹 강화에 최선”[뉴스1PICK]",
+      "link": "https://n.news.naver.com/mnews/article/421/0009089046",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "與 형소법 최종안 보니…TF안에 없던 '공소기각 사유' 막판 끼워넣기",
-      "link": "https://n.news.naver.com/mnews/article/448/0000630232",
+      "title": "\"부동산 세제 세밀하게\"… 與, 당정협의서 우려 전달",
+      "link": "https://n.news.naver.com/mnews/article/009/0005714607",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“차체 키우고 안전·효율 강화”…현대차, 신형 아반떼 ‘테크 데이’ 개최",
-      "link": "https://n.news.naver.com/mnews/article/009/0005713903",
+      "title": "삼성·SK, 2분기에만 150조 벌었다... \"반도체 부족 2028년까지 간다\"",
+      "link": "https://n.news.naver.com/mnews/article/047/0002524170",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_06_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "이억원 “대출규제 완화, 집값만 자극…주거사다리 더 멀어진다”",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541029",
+      "title": "설 연휴·축제·왕사남 효과… 인구감소지역 생활인구 62만 명 증가",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945346",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“빅테크 더 많은 메모리 요청…장기공급계약으로 성장성 확보” [SK하이닉스 2분기 영업익 60조]",
-      "link": "https://n.news.naver.com/mnews/article/016/0002676739",
+      "title": "반도체 팔아 하루 1조씩 번 삼성…“美 테일러 2공장 착공, HBM 점유율 늘릴 것”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003541328",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
@@ -68,105 +73,114 @@
         {
           "image": "images/infographics/article_08_2.png",
           "caption": ""
+        },
+        {
+          "image": "images/infographics/article_08_3.png",
+          "caption": ""
         }
       ]
     },
     {
-      "title": "구윤철 “가상자산 과세 내년 시행…필요 시 제도 보완”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646465",
+      "title": "\"워시, 행동으로 보여달라\"... 9월엔 금리인상 카드 꺼낼까",
+      "link": "https://n.news.naver.com/mnews/article/052/0002386893",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "단일종목 레버리지 더 죈다…“개인별 투자한도 설정해 총량관리”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677047",
+      "title": "[단독]삼전닉스, 임원 평가-사원 채용때 ‘AI 능력’ 본다",
+      "link": "https://n.news.naver.com/mnews/article/020/0003737836",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_10_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "‘계엄 정당화’ 메시지 의혹 김태효 전 안보실 1차장 구속 기소",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646607",
+      "title": "해수부, 고수온 위기경보 '심각 Ⅰ단계' 발령",
+      "link": "https://n.news.naver.com/mnews/article/018/0006340186",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_11_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "검찰총장 대행 \"보완수사권 폐지 깊은 우려‥진실 은폐·국민 피해 부담\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001514562",
+      "title": "\"정치논리 아닌 법리로\"…형사법 교수 62인, 檢보완수사권 폐지 규탄",
+      "link": "https://n.news.naver.com/mnews/article/018/0006340166",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘미성년 교제 의혹’ 김수현, 아동복지법 위반 무혐의",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147020",
+      "title": "2명 중 1명은 이별 전후 가정폭력 경험…여성 29%는 스토킹 피해",
+      "link": "https://n.news.naver.com/mnews/article/056/0012228175",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "122년 만의 최고 더위… 푄현상에 부산·양산 기록적 폭염",
-      "link": "https://n.news.naver.com/mnews/article/082/0001391887",
+      "title": "‘미성년자 성매수 혐의’ 최영중 전 시의원 구속",
+      "link": "https://n.news.naver.com/mnews/article/449/0000354970",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_14_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "또 택시비 안내고 지구대서 주취 난동, 알고보니 3선 시의원",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541153",
+      "title": "서울시, 부실시공 막는 '공정 촬영' 점검…영세 현장 지원 검토",
+      "link": "https://n.news.naver.com/mnews/article/421/0009089536",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "일본 강진에 완성차·반도체 공장 이틀째 ‘스톱’… 여진 가능성 촉각 곤두",
-      "link": "https://n.news.naver.com/mnews/article/022/0004146921",
+      "title": "러, 우크라 키이우에 탄도미사일 공격…최소 1명 사망",
+      "link": "https://n.news.naver.com/mnews/article/056/0012228149",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "진도 7.1 덮친 구마모토...쇼핑몰 붕괴에 수십명 갇혀",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646180",
+      "title": "미국 6월 개인소비지출(PCE) 전월 대비 -0.1%...인플레이션 둔화 흐름",
+      "link": "https://n.news.naver.com/mnews/article/023/0003990556",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "화웨이 그림자 짙은 中 DUV 자립…실체는 '아이성나'",
-      "link": "https://n.news.naver.com/mnews/article/018/0006338627",
+      "title": "서유럽 산불 안정화...대피 주민 귀가·비상사태 해제",
+      "link": "https://n.news.naver.com/mnews/article/052/0002386880",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "연준, 5연속 금리 동결…3.50∼3.75% 유지",
-      "link": "https://n.news.naver.com/mnews/article/009/0005714102",
+      "title": "사우디 참전에 이집트 첫 피격까지… 넓어지는 중동 전선[줌인]",
+      "link": "https://n.news.naver.com/mnews/article/366/0001183101",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'후지모리의 딸' 게이코, 페루 첫 여성 대통령 취임",
-      "link": "https://n.news.naver.com/mnews/article/014/0005554266",
+      "title": "록히드마틴, 586억 달러 규모 패트리엇 생산 계약 수주",
+      "link": "https://n.news.naver.com/mnews/article/001/0016224749",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,

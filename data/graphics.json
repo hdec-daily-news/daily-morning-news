@@ -1,95 +1,151 @@
 {
-  "generated_at": "2026-07-30T06:58:32.702293+09:00",
-  "window_start": "2026-07-29T15:00:00+09:00",
-  "window_end": "2026-07-30T06:00:00+09:00",
+  "generated_at": "2026-07-31T07:04:40.723258+09:00",
+  "window_start": "2026-07-30T15:00:00+09:00",
+  "window_end": "2026-07-31T06:00:00+09:00",
   "items": [
     {
-      "source": "연합뉴스",
-      "title": "단일종목 레버리지 상품 관련 추가 규제 방안",
-      "link": "https://www.yna.co.kr/view/GYH20260729001000044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900100004400_P1.jpg",
-      "pubdate": "2026-07-29T22:43:00+09:00",
-      "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국형 전투기 KF-21 체계개발 완료",
-      "link": "https://www.yna.co.kr/view/GYH20260729000900044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900090004401_P1.jpg",
-      "pubdate": "2026-07-29T21:18:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'검사 보완수사권 폐지' 형사소송법 개정안 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260729000800044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900080004400_P1.jpg",
-      "pubdate": "2026-07-29T20:44:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "29일 주요 지역 최고기온",
-      "link": "https://www.yna.co.kr/view/GYH20260729000700044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/07/29/GYH2026072900070004402_P1.jpg",
-      "pubdate": "2026-07-29T16:59:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
+      "source": "뉴시스",
+      "title": "폭염에 온열질환자 1638명…하루새 76명↑·사망 2명",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260730_0002200498&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/30/NISI20260730_0002200498_web.jpg?rnd=20260730173235",
+      "pubdate": "2026-07-30T17:32:35+09:00",
+      "image": "images/graphics/뉴시스_01.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "이틀 연속 '서킷'에 코스피 5600선 후퇴",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260729_0002199392&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/07/29/NISI20260729_0002199392_web.jpg?rnd=20260729173516",
-      "pubdate": "2026-07-29T17:35:16+09:00",
+      "title": "건설업, 올 상반기만 2092곳 폐업…12년 만에 최다",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260730_0002200463&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/30/NISI20260730_0002200463_web.jpg?rnd=20260730165038",
+      "pubdate": "2026-07-30T16:50:38+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "공정시장가액비율 올리나…80% 땐 보유세 반포자이 3178만원",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260730_0002200316&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/30/NISI20260730_0002200316_web.jpg?rnd=20260730160142",
+      "pubdate": "2026-07-30T16:01:42+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "15억 이하로 몰린 수요…중랑구 상승률 10년만에 최고",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260730_0002199983&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/30/NISI20260730_0002199983_web.jpg?rnd=20260730152648",
+      "pubdate": "2026-07-30T15:26:48+09:00",
+      "image": "images/graphics/뉴시스_04.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "한화그룹 김동관, 4년 만에 수석부회장 승진",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260730_0002200247&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/07/30/NISI20260730_0002200247_web.jpg?rnd=20260730152632",
+      "pubdate": "2026-07-30T15:26:32+09:00",
       "image": "images/graphics/뉴시스_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8032007",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8032007/no_water.jpg",
-      "pubdate": "2026-07-30T02:58:32.702293+09:00",
+      "title": "[그래픽] 원·달러 환율 추이",
+      "link": "https://www.news1.kr/photos/8034291",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8034291/no_water.jpg",
+      "pubdate": "2026-07-31T03:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 출생아 수 추이",
-      "link": "https://www.news1.kr/photos/8031746",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031746/no_water.jpg",
-      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "title": "[오늘의 증시] 7월 30일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8033878",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033878/no_water.jpg",
+      "pubdate": "2026-07-31T01:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 7월 29일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8031749",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031749/no_water.jpg",
-      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8033880",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033880/no_water.jpg",
+      "pubdate": "2026-07-31T01:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8031742",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031742/no_water.jpg",
-      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "title": "[오늘의 그래픽] 낮엔 40도, 새벽엔 30도 육박…24시간 '극한 폭염'",
+      "link": "https://www.news1.kr/photos/8033750",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033750/no_water.jpg",
+      "pubdate": "2026-07-31T01:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] \"해외 가기 전 꼭 확인\"…동남아 뎅기열·홍역 주의",
-      "link": "https://www.news1.kr/photos/8031576",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8031576/no_water.jpg",
-      "pubdate": "2026-07-30T00:58:32.702293+09:00",
+      "title": "[그래픽] 온열질환 예방 건강수칙",
+      "link": "https://www.news1.kr/photos/8033605",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033605/no_water.jpg",
+      "pubdate": "2026-07-31T00:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] SK하이닉스 실적 추이",
-      "link": "https://www.news1.kr/photos/8030392",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/29/8030392/no_water.jpg",
-      "pubdate": "2026-07-29T17:58:32.702293+09:00",
+      "title": "[그래픽] 단일종목 레버리지 관련 규제 내용",
+      "link": "https://www.news1.kr/photos/8033551",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033551/no_water.jpg",
+      "pubdate": "2026-07-31T00:04:40.723258+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 서울 남녀공학 전환 대상 학교",
+      "link": "https://www.news1.kr/photos/8033461",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033461/no_water.jpg",
+      "pubdate": "2026-07-30T23:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 건설사 시공능력평가 상위 20위 현황",
+      "link": "https://www.news1.kr/photos/8032640",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8032640/no_water.jpg",
+      "pubdate": "2026-07-30T21:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8033075",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033075/no_water.jpg",
+      "pubdate": "2026-07-30T21:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8033072",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8033072/no_water.jpg",
+      "pubdate": "2026-07-30T21:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_15.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 삼성전자 분기별 실적 추이",
+      "link": "https://www.news1.kr/photos/8032585",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8032585/no_water.jpg",
+      "pubdate": "2026-07-30T18:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_16.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 13호 태풍 돌핀 예상 진로",
+      "link": "https://www.news1.kr/photos/8032555",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8032555/no_water.jpg",
+      "pubdate": "2026-07-30T18:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_17.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 한·미 기준금리 추이",
+      "link": "https://www.news1.kr/photos/8032441",
+      "image_url": "https://image.news1.kr/system/photos/2026/7/30/8032441/no_water.jpg",
+      "pubdate": "2026-07-30T17:04:40.723258+09:00",
+      "image": "images/graphics/뉴스1_18.jpg"
     }
   ]
 }
