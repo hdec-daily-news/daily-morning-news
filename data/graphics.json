@@ -1,87 +1,15 @@
 {
-  "generated_at": "2026-08-01T07:10:57.677685+09:00",
-  "window_start": "2026-07-31T15:00:00+09:00",
-  "window_end": "2026-08-01T06:00:00+09:00",
+  "generated_at": "2026-08-02T06:53:28.936655+09:00",
+  "window_start": "2026-08-01T15:00:00+09:00",
+  "window_end": "2026-08-02T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "남부지방 가뭄 위험 댐 저수율 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260731000700044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/07/31/GYH2026073100070004400_P1.jpg",
-      "pubdate": "2026-07-31T16:10:00+09:00",
+      "title": "역대 일 최고기온",
+      "link": "https://www.yna.co.kr/view/GYH20260801000500044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/01/GYH2026080100050004402_P1.jpg",
+      "pubdate": "2026-08-01T15:01:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "남북 경제성장률 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260731000600044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/07/31/GYH2026073100060004400_P1.jpg",
-      "pubdate": "2026-07-31T15:28:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8035796",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035796/no_water.jpg",
-      "pubdate": "2026-08-01T02:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 코스피 역대 상승률 순위",
-      "link": "https://www.news1.kr/photos/8035677",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035677/no_water.jpg",
-      "pubdate": "2026-08-01T01:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 역대 일최고기온 지역 순위",
-      "link": "https://www.news1.kr/photos/8035689",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035689/no_water.jpg",
-      "pubdate": "2026-08-01T01:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8035675",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035675/no_water.jpg",
-      "pubdate": "2026-08-01T01:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의증시] 7월31일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8035671",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035671/no_water.jpg",
-      "pubdate": "2026-08-01T01:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 병원 옮겨도 CT·MRI 새로 안 찍는다…QR로 공유",
-      "link": "https://www.news1.kr/photos/8035346",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8035346/no_water.jpg",
-      "pubdate": "2026-07-31T23:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 산업활동 증감 추이",
-      "link": "https://www.news1.kr/photos/8034930",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8034930/no_water.jpg",
-      "pubdate": "2026-07-31T19:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 미국 경제성장률 추이",
-      "link": "https://www.news1.kr/photos/8034699",
-      "image_url": "https://image.news1.kr/system/photos/2026/7/31/8034699/no_water.jpg",
-      "pubdate": "2026-07-31T17:10:57.677685+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
     }
   ]
 }
