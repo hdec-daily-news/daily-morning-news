@@ -1,175 +1,162 @@
 {
-  "generated_at": "2026-08-02T06:53:28.679386+09:00",
-  "date_label": "8/2(일)",
+  "generated_at": "2026-08-03T06:53:20.679139+09:00",
+  "date_label": "8/3(월)",
   "articles": [
     {
-      "title": "인니 대통령 \"이 대통령이 방북 의향 물어\"...청 \"협력 방안 모색\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002387602",
+      "title": "충청은 김민석, 부·울·경은 정청래…‘1승 1패’ 주고받은 민주당 전당대회",
+      "link": "https://n.news.naver.com/mnews/article/032/0003461843",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한동훈 \"당대표 자의적 공천이 '좀비 정치' 야기\"",
-      "link": "https://n.news.naver.com/mnews/article/014/0005555836",
+      "title": "국민의힘, ‘보완수사 폐지’ 연일 공세…“헌법소원 심판 나설 것”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012229730",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "아이폰·맥북 사용자 ‘비상’ … “가상자산 탈취 노린 북한 해킹 조직, 악성코드 유포 중”",
-      "link": "https://n.news.naver.com/mnews/article/021/0002808437",
+      "title": "햇빛소득마을 1차 86곳 선정…2차에는 617곳 몰려",
+      "link": "https://n.news.naver.com/mnews/article/018/0006342347",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령 “韓, ‘셰일 오일’ 수출국 아르헨티나 주목”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002678116",
+      "title": "한 총리, 범부처 폭염대응 당부…\"냉방·안전수칙 점검\"",
+      "link": "https://n.news.naver.com/mnews/article/374/0000525048",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석, '與대표 첫 경선' 충청 당원투표서 정청래에 박빙 승리(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016228470",
+      "title": "1375조 AI 협력·남미 광물 확보… 李대통령, ‘역대 최장’ 순방 완료",
+      "link": "https://n.news.naver.com/mnews/article/029/0003040264",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "최태원 이어 노태문도…주가 변동성에 ‘책임경영’ 깃발 든 반도체 수장들",
-      "link": "https://n.news.naver.com/mnews/article/009/0005715204",
+      "title": "최윤범 \"글로벌 핵심광물 플랫폼기업 도약\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316462",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "코스피 출렁이고 집값 뛰고…7월도 가계대출 늘었다",
-      "link": "https://n.news.naver.com/mnews/article/011/0004647503",
+      "title": "명품·외국인덕에 백화점 7월에도 '호황'",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715593",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'韓·美 조선동맹' 닻 올랐다…1500억 달러 '마스가' 본궤도 [K조선 역대급 실적②]",
-      "link": "https://n.news.naver.com/mnews/article/003/0014102416",
+      "title": "9월부터 KTX·SRT 통합…요금 10% 내리고 운행·좌석 확대",
+      "link": "https://n.news.naver.com/mnews/article/437/0000504140",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "금융위, ‘개인정보 유출’ 롯데카드에 1.5개월 업무정지",
-      "link": "https://n.news.naver.com/mnews/article/029/0003040052",
+      "title": "정의선 회장, 튀르키예 공장에서 아이오닉3 점검",
+      "link": "https://n.news.naver.com/mnews/article/052/0002387777",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "부산 미분양 아파트 석 달째 8천 가구 넘어",
-      "link": "https://n.news.naver.com/mnews/article/056/0012229647",
+      "title": "\"홈쇼핑에서 집 사세요\"…LG전자 모듈러주택 국내 첫 방송판매",
+      "link": "https://n.news.naver.com/mnews/article/001/0016228623",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "경산 아파트 방화 희생자 3명...입주민 대표 사망",
-      "link": "https://n.news.naver.com/mnews/article/660/0000114326",
+      "title": "경남 양산 최고 41.6도 '극한 더위'…온열질환자 72명 늘어 누적 1781명",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091968",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"휴가철 불금 딱 한 잔만 했다가\"...전국 음주운전 320건 적발",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945651",
+      "title": "텔레그램서 판치는 마약, 상반기 2178명 적발…경찰 온라인 유통망과 전면전",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715394",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"옷장 소리 시끄러워\"…같은 병실 환자 찔러 살해한 70대",
-      "link": "https://n.news.naver.com/mnews/article/018/0006342220",
+      "title": "'체감 35도' 찜통더위에 열대야…전남·경상권은 '극단적 더위'[오늘날씨]",
+      "link": "https://n.news.naver.com/mnews/article/421/0009092965",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "종합특검, '관저 의혹' 윤한홍 의원 9시간 피의자 조사",
-      "link": "https://n.news.naver.com/mnews/article/277/0005797591",
+      "title": "온열질환자, 열흘새 2배…질병청 “생명 위협하는 더위”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002816826",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 양산 기온 41.6도…‘역대 최고기온’ 또 경신",
-      "link": "https://n.news.naver.com/mnews/article/029/0003040082",
+      "title": "폭염 고위험 어르신 하루 2차례 안부…안전확인 강화",
+      "link": "https://n.news.naver.com/mnews/article/003/0014103596",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "호르무즈해협 입구서 유조선 겨냥 공격·폭발 잇따라(종합)",
-      "link": "https://n.news.naver.com/mnews/article/421/0009091745",
+      "title": "트럼프 “이란 공격 취소” 발표…‘신속한 합의’ 조건부 제시",
+      "link": "https://n.news.naver.com/mnews/article/011/0004647676",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"인판티노, FIFA 회장으로 부적절\"…영국 총리, 국가 정상으론 첫 직격",
-      "link": "https://n.news.naver.com/mnews/article/055/0001377271",
+      "title": "우주 떠돌던 스페이스X 잔해, 달 충돌 예정…새 크레이터 생길 듯",
+      "link": "https://n.news.naver.com/mnews/article/277/0005797622",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'164→157엔' 日 연이틀 개입..배후엔 美베센트?",
-      "link": "https://n.news.naver.com/mnews/article/014/0005555897",
+      "title": "‘모로코 이주민’ 5만명 귀갓길… ‘친이민 스페인’에 EU 외교갈등",
+      "link": "https://n.news.naver.com/mnews/article/081/0003666842",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_18_2.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_18_3.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_18_4.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "트럼프 \"사법피해자기금 재추진\"...측근 법무장관 인준 압박",
-      "link": "https://n.news.naver.com/mnews/article/052/0002387705",
+      "title": "\"트럼프의 이란 공격 취소, 이스라엘은 까맣게 몰랐다\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016229609",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“美·이, 주말 이란 에너지 시설 공습 검토”…중동 긴장 재고조",
-      "link": "https://n.news.naver.com/mnews/article/658/0000151123",
+      "title": "모스크바 고급식당서 폭탄 테러…러 공군총사령관 표적설(종합)",
+      "link": "https://n.news.naver.com/mnews/article/421/0009092804",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,

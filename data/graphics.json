@@ -1,15 +1,119 @@
 {
-  "generated_at": "2026-08-02T06:53:28.936655+09:00",
-  "window_start": "2026-08-01T15:00:00+09:00",
-  "window_end": "2026-08-02T06:00:00+09:00",
+  "generated_at": "2026-08-03T06:53:20.914962+09:00",
+  "window_start": "2026-08-02T15:00:00+09:00",
+  "window_end": "2026-08-03T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "역대 일 최고기온",
-      "link": "https://www.yna.co.kr/view/GYH20260801000500044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/01/GYH2026080100050004402_P1.jpg",
-      "pubdate": "2026-08-01T15:01:00+09:00",
+      "title": "인도네시아 여객선 화재 발생",
+      "link": "https://www.yna.co.kr/view/GYH20260802000700044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200070004400_P1.jpg",
+      "pubdate": "2026-08-02T20:00:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주요 도시 고가주택 가격 상승률",
+      "link": "https://www.yna.co.kr/view/GYH20260802000600044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200060004400_P1.jpg",
+      "pubdate": "2026-08-02T18:26:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2일 주요 지역 최고기온",
+      "link": "https://www.yna.co.kr/view/GYH20260802000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200050004400_P1.jpg",
+      "pubdate": "2026-08-02T18:01:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KTX·SRT 통합 운영",
+      "link": "https://www.yna.co.kr/view/GYH20260802000400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200040004400_P1.jpg",
+      "pubdate": "2026-08-02T17:14:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지역별 농업용수 저수율 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260802000300044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200030004400_P1.jpg",
+      "pubdate": "2026-08-02T16:48:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "열사병 환자 수 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260802000200044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200020004400_P1.jpg",
+      "pubdate": "2026-08-02T16:13:00+09:00",
+      "image": "images/graphics/연합뉴스_06.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경남 양산 극한폭염 주요 원인",
+      "link": "https://www.yna.co.kr/view/GYH20260802000100044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200010004400_P1.jpg",
+      "pubdate": "2026-08-02T15:57:00+09:00",
+      "image": "images/graphics/연합뉴스_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 지역별 농업용수 저수율 현황",
+      "link": "https://www.news1.kr/photos/8037393",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037393/no_water.jpg",
+      "pubdate": "2026-08-03T02:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 온열질환자 발생 현황",
+      "link": "https://www.news1.kr/photos/8037351",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037351/no_water.jpg",
+      "pubdate": "2026-08-03T01:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 역대 일최고기온 지역 순위",
+      "link": "https://www.news1.kr/photos/8037348",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037348/no_water.jpg",
+      "pubdate": "2026-08-03T01:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요일정(3~8일)",
+      "link": "https://www.news1.kr/photos/8037242",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037242/no_water.jpg",
+      "pubdate": "2026-08-03T00:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 소상공인·전통시장 경기동향",
+      "link": "https://www.news1.kr/photos/8037237",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037237/no_water.jpg",
+      "pubdate": "2026-08-03T00:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 양산 닷새째 40도 폭염…고기압·푄·분지가 만든 '한증막'",
+      "link": "https://www.news1.kr/photos/8037151",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037151/no_water.jpg",
+      "pubdate": "2026-08-02T23:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 13호 태풍 돌핀 예상 진로",
+      "link": "https://www.news1.kr/photos/8036830",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8036830/no_water.jpg",
+      "pubdate": "2026-08-02T18:53:20.914962+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
     }
   ]
 }

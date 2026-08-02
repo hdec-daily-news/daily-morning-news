@@ -4,15 +4,11 @@
       "KBS",
       "MBC",
       "SBS",
-      "YTN",
       "경향신문",
-      "국민일보",
-      "노컷뉴스",
-      "뉴시스",
-      "머니투데이",
+      "뉴스1",
+      "동아일보",
+      "문화일보",
       "서울신문",
-      "세계일보",
-      "이데일리",
       "조선일보",
       "중앙일보",
       "한겨레"
@@ -20,306 +16,220 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "김민석, 대표 경선 기선제압… 정청래 고향 충청 승리",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/01/676KGCBVYVH65ASCOVCDCN7UZQ/",
+        "title": "부·울·경은 정청래 승리… 충청 합쳐 김민석에 역전",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/02/NUK5U4JJ4VCVBF3OKG5RAUFGSQ/",
         "score": 3
       },
       {
         "press": "중앙일보",
-        "title": "김민석, 충청 승리∙∙∙정청래와 0.45%p 초접전",
-        "link": "https://www.joongang.co.kr/article/25450076",
+        "title": "부울경 정청래 승리∙∙∙엎치락 뒤치락 與전대",
+        "link": "https://www.joongang.co.kr/article/25450193",
         "score": 3
       },
       {
-        "press": "한겨레",
-        "title": "김민석, ‘정청래 고향’ 충청서 깜짝 승리…“변화·혁신 보여준 결과” 자평",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1270965.html",
-        "score": 5
-      },
-      {
-        "press": "한겨레",
-        "title": "김민석, 민주 전대 충청 순회경선 1위…정청래에 303표 차 박빙승",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1270961.html",
-        "score": 3
-      },
-      {
-        "press": "경향신문",
-        "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
-        "link": "https://www.khan.co.kr/article/202608012054001/?nv=stand",
-        "score": 5
-      },
-      {
-        "press": "국민일보",
-        "title": "김민석, 정청래 꺾고 당대표 경선 첫날 1위",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030193675&code=61111111&sid1=pol",
-        "score": 3
-      },
-      {
-        "press": "세계일보",
-        "title": "김민석, ‘정청래 고향’ 충청서 ‘0.44%p’ 차 박빙 승리",
-        "link": "https://www.segye.com/newsView/20260801511015",
-        "score": 5
-      },
-      {
-        "press": "서울신문",
-        "title": "김민석, 민주 충청 첫 경선서 ‘박빙 승리’…2위 정청래",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/01/20260801500033",
-        "score": 5
-      },
-      {
-        "press": "서울신문",
-        "title": "[르포] 폭염 속 민주당 충청 경선…지지자도 ‘친명·친청’ 갈려 응원",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/01/20260801500028",
+        "press": "동아일보",
+        "title": "충청 金-부울경 鄭 ‘1위’… 與 전대 첫주부터 접전",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260803/134409677/2",
         "score": 2
       },
       {
-        "press": "뉴시스",
-        "title": "김민석 연승? 정청래 역전? 오늘 부·울·경 경선",
-        "link": "https://www.newsis.com/view/NISX20260801_0003732749",
+        "press": "한겨레",
+        "title": "정청래, 부울경·충청 합산 박빙 1위…김민석에 0.99%p 앞서",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271077.html",
         "score": 3
       },
       {
-        "press": "노컷뉴스",
-        "title": "김민석, '정청래 고향' 충청서 與당대표 첫 경선 승리",
-        "link": "https://www.nocutnews.co.kr/news/6556873",
+        "press": "한겨레",
+        "title": "충청 김민석·부울경 정청래 엎치락뒤치락…초반부터 초박빙",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271083.html",
+        "score": 3
+      },
+      {
+        "press": "한겨레",
+        "title": "정청래 “한 번 배신하면 또 배신”…김민석 “민주당 적자 돌아와”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271061.html",
         "score": 5
       },
       {
-        "press": "이데일리",
-        "title": "충청 경선, '충남 아들' 제치고 김민석 1위…金 \"국민들, 혁신 기대\"(종합)",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B00ns&sgb=E&newsid=03214406645543056",
+        "press": "경향신문",
+        "title": "충청은 김민석, 부·울·경은 정청래···‘1승 1패’ 주고받은 민주당 전당대회",
+        "link": "https://www.khan.co.kr/article/202608022030001/?nv=stand",
         "score": 5
       },
       {
-        "press": "머니투데이",
-        "title": "김민석, 與충청권 경선서 박빙 승리…최고위원은 '친청' 최민희 1위",
-        "link": "https://www.mt.co.kr/politics/2026/08/01/2026080117400471202?STAND=MT",
+        "press": "문화일보",
+        "title": "‘노무현 사위’ 곽상언, “노무현 정치 왜곡말라” 정청래 김민석 저격",
+        "link": "https://www.munhwa.com/article/11606654",
         "score": 5
       },
       {
-        "press": "YTN",
-        "title": "'밀린다던' 김민석, 박빙 승리…'명청갈등' 통했나?",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608012305491621_005.html",
-        "score": 5
+        "press": "문화일보",
+        "title": "정청래, 민주 당대표 경선 부울경 당원투표서 1위…김민석 연승 저지",
+        "link": "https://www.munhwa.com/article/11606663",
+        "score": 3
+      },
+      {
+        "press": "서울신문",
+        "title": "충청은 김민석, 부울경은 정청래…민주 순회경선 초반 접전",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/03/20260803001006",
+        "score": 3
+      },
+      {
+        "press": "뉴스1",
+        "title": "정청래, 부울경서 승리해 김민석 연승 저지……",
+        "link": "https://www.news1.kr/politics/assembly/6246701",
+        "score": 3
       },
       {
         "press": "SBS",
-        "title": "김민석, 충청 경선서 박빙 승리…정청래와 0.44%p",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685800&plink=STAND&cooper=NAVER",
+        "title": "민주당 부울경 순회 경선서 정청래 1위…득표율 46.6%",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686604&plink=STAND&cooper=NAVER",
         "score": 3
       },
       {
         "press": "KBS",
-        "title": "막 오른 민주당 ‘차기 당권’ 순회 경선…충청권에서 김민석 박빙 승리",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626131",
+        "title": "부·울·경은 정청래 1위…‘박빙’ 판세에 민주당 전대 과열",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626377",
         "score": 5
       },
       {
         "press": "MBC",
-        "title": "민주당 충청권 경선서 김민석·정청래 초박빙‥金 0.4%p 차 우세",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841741_37004.html",
+        "title": "정청래, PK서 46.64%로 승리‥1-2위 역전",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841866_37004.html",
         "score": 3
       }
     ]
   },
   {
     "presses": [
-      "경향신문",
-      "국민일보",
-      "노컷뉴스",
-      "세계일보",
+      "KBS",
+      "YTN",
+      "뉴스1",
+      "서울신문",
+      "이데일리",
       "한겨레"
     ],
     "articles": [
       {
         "press": "한겨레",
-        "title": "유시민 “이 대통령과 전우애 있지만…영원히 함께 갈 수는 없어”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1270962.html",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "유시민 “이 대통령 비평했더니 날 자폭테러범 묘사···전우애 있지만 내 할말 하는 게 중요”",
-        "link": "https://www.khan.co.kr/article/202608011843001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "유시민 “李대통령 비평했더니 폭탄 두른 ‘자폭 테러범’처럼 묘사”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000478&code=61111511&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "유시민 \"李대통령과 전우애…그렇다고 영원히 함께 갈 수 없어\"",
-        "link": "https://www.segye.com/newsView/20260801509431",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "유시민 \"이 대통령과 전우애 있지만 표현이 더 중요\"",
-        "link": "https://www.nocutnews.co.kr/news/6556862",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "2 유시민 \"이 대통령과 전우애 있지만 표현이 더 중요\"",
-        "link": "https://www.nocutnews.co.kr/news/6556862",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "SBS",
-      "노컷뉴스",
-      "동아일보",
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "“재선거” 논란 이수지 “재정비 시간 갖겠다”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260801/134405249/2",
-        "score": 2
+        "title": "이 대통령, 귀국 당일 부동산·주식 점검회의 주재한다",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271084.html",
+        "score": 0
       },
       {
         "press": "서울신문",
-        "title": "이수지, 결국 직접 사과… ‘재선거 요구 조롱’ 논란 18일만 자필 사과문 올려",
-        "link": "https://www.seoul.co.kr/news/society/2026/08/01/20260801500012",
+        "title": "李대통령 오늘 귀국하자마자 부동산·증시 점검회의",
+        "link": "https://www.seoul.co.kr/news/politics/president/2026/08/03/20260803006003",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "'내치 산적' 李대통령 오늘 귀국…靑서 부동산·…",
+        "link": "https://www.news1.kr/politics/president/6246617",
         "score": 2
       },
       {
-        "press": "노컷뉴스",
-        "title": "'재선거' 민원인 풍자…이수지, 자필 사과 \"불편드려 죄송\"",
-        "link": "https://www.nocutnews.co.kr/news/6556845",
+        "press": "뉴스1",
+        "title": "'내치 산적' 李대통령 오늘 귀국…靑…",
+        "link": "https://www.news1.kr/politics/president/6246617",
         "score": 2
       },
       {
-        "press": "SBS",
-        "title": "\"재선거\" 악성 민원인 장면에…\"제 불찰\" 이수지 사과문",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685752&plink=STAND&cooper=NAVER",
+        "press": "이데일리",
+        "title": "부동산·증시·보완수사권…순방 마친 李대통령의 고민",
+        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B00ns&sgb=E&newsid=01607206645543712",
+        "score": 0
+      },
+      {
+        "press": "YTN",
+        "title": "귀국 직후 부동산·증시 점검…국정 복귀 '속도'",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608030216578300_005.html",
         "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "이 대통령 미국·남미 3개국 순방 마치고 귀국…업무보고 재개",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626488",
+        "score": 0
       }
     ]
   },
   {
     "presses": [
       "YTN",
-      "국민일보",
-      "조선일보"
+      "경향신문",
+      "뉴스1",
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "국힘 \"레버리지 ETF 참사 국정조사 추진… 김용범 경질해야\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/01/ZRYJ6DFPNJE65IMNVQPFVKN6NM/",
+        "press": "경향신문",
+        "title": "서영교 “‘7대 범죄’ 전건송치 도입, 10월 내 마무리”···민주당, 3일 형소법 개정안 대국민 보고회",
+        "link": "https://www.khan.co.kr/article/202608021817001/?nv=stand",
         "score": 2
       },
       {
-        "press": "국민일보",
-        "title": "국힘 “‘레버리지 ETF 참사’ 개미만 울려…국정조사 추진”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030193163&code=61141111&sid1=eco",
+        "press": "서울신문",
+        "title": "與 “7대 범죄 전건송치 새달 도입”…野 “李 거부권 요구·헌법소원 추진”",
+        "link": "https://www.seoul.co.kr/news/politics/congress/2026/08/03/20260803004001",
         "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "세제개편안·레버리지 보완책 주목 국무회의서 형소법 개정안 의결할듯",
+        "link": "https://www.news1.kr/politics/president/6246617",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "여야, 형소법 개정 여론전…與 대국민 보고, …",
+        "link": "https://www.news1.kr/politics/assembly/6246552",
+        "score": 0
       },
       {
         "press": "YTN",
-        "title": "'레버리지 ETF', 민주당도 선 긋기?…국힘은 국정조사 압박",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608020101024178_005.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "문화일보",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "2025 대선·2024 총선서도… 선관위, 투표자 수 고쳤다",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/01/4AQD4DN6FBDTHD77EH3XLG4NY4/",
+        "title": "이번 주 국무회의 처리 VS 거부권 요구 청와대 앞 회의",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608030126271434_005.html",
         "score": 0
-      },
-      {
-        "press": "국민일보",
-        "title": "지난 대선 81건·2024 총선 65건…선관위의 투표자 수 수정 건수",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000456&code=61111511&sid1=pol",
-        "score": 0
-      },
-      {
-        "press": "문화일보",
-        "title": "‘65표를 0표로?’…선관위, 작년 대선 때도 투표자수 81건 수정",
-        "link": "https://www.munhwa.com/article/11606562",
-        "score": 2
       }
     ]
   },
   {
     "presses": [
-      "경향신문",
-      "동아일보",
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "국힘, 모레 靑앞서 최고위…“보완수사권 폐지법 국민 분노 전달”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260801/134405289/1",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "“보완수사권 폐지 형소법, 국민이 얼마나 분노하는지 알릴 것”···국힘, 3일 청와대 앞 현장최고위",
-        "link": "https://www.khan.co.kr/article/202608011311001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "‘檢 보완수사권 폐지’에 與 이언주 “몹시 유감”…곽상언은 반대표",
-        "link": "https://www.segye.com/newsView/20260801509540",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
+      "조선일보",
       "한겨레"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "이 대통령-밀레이 정상회담 “내년부터 아르헨티나산 원유 수입…리튬도 공동투자”",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1270936.html",
+        "press": "조선일보",
+        "title": "\"盧 검수완박 추진 안해\" 곽상언, 與 '노무현 팔이' 일갈",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/02/KTBV6FPD6FCJVNQK3GLU4NEBHM/",
         "score": 2
       },
       {
-        "press": "국민일보",
-        "title": "靑 “아르헨 원유 내년부터 수입…이중과세방지협정 타결”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030191490&code=61111111&sid1=pol",
+        "press": "한겨레",
+        "title": "‘노무현 사위’ 곽상언 “노 전 대통령, 검수완박 추진한 적 없다”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271052.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "경향신문",
-      "국민일보"
+      "문화일보",
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "“할 일: 엔 50~100억 달러 매수” 미 재무장관 메모 노출···엔저 방어 개입 정황",
-        "link": "https://www.khan.co.kr/article/202608011603001/?nv=stand",
-        "score": 2
+        "press": "중앙일보",
+        "title": "박근혜, 울산서 국힘 의원들과 만찬∙∙∙메시지?",
+        "link": "https://www.joongang.co.kr/article/25450204",
+        "score": 0
       },
       {
-        "press": "국민일보",
-        "title": "“엔화 100억달러 매수” 美재무장관 메모 노출…日외환시장 개입했나",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000481&code=61131211&sid1=int",
+        "press": "문화일보",
+        "title": "박근혜, 울산서 영남 의원 등과 만찬 회동…“당 어려워졌지만”",
+        "link": "https://www.munhwa.com/article/11606673",
         "score": 2
       }
     ]
@@ -327,33 +237,40 @@
   {
     "presses": [
       "노컷뉴스",
-      "서울신문"
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "서울신문",
-        "title": "靑 “호르무즈 해협, 우리가 할 수 있는 영역에 대해 타진 중”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/01/20260801500002",
+        "press": "한겨레",
+        "title": "이 대통령 ‘AI공급망·핵심광물·통상협력’ 3대축 순방 마무리",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271076.html",
         "score": 2
       },
       {
         "press": "노컷뉴스",
-        "title": "靑 \"호르무즈서 할수 있는 영역에 대해 美와 협의 중\"",
-        "link": "https://www.nocutnews.co.kr/news/6556819",
-        "score": 2
+        "title": "李대통령 7박11일 순방 결산…AI·광물·무역협정 3대 성과",
+        "link": "https://www.nocutnews.co.kr/news/6557058",
+        "score": 0
       }
     ]
   },
   {
     "presses": [
-      "국민일보"
+      "국민일보",
+      "서울신문"
     ],
     "articles": [
       {
         "press": "국민일보",
-        "title": "한동훈 “이 악법으로 이익 보는 사람은 범죄자들과 李대통령”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000463&code=61121311&sid1=soc",
-        "score": 5
+        "title": "최민희, 상대 후보 비아냥 ‘눈살’… 최고위원 선거도 치열한 수싸움",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785659956&code=11121100&sid1=pol",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "서미화 與최고위원 후보 “사회적 약자까지 살피는 모두의 민주당 만들 것”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/03/20260803005002",
+        "score": 2
       }
     ]
   },
@@ -372,105 +289,14 @@
   },
   {
     "presses": [
-      "YTN"
-    ],
-    "articles": [
-      {
-        "press": "YTN",
-        "title": "장동혁, '연임' 시도?…징계 시도·의원 평가에 '시큰둥'",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608020510307471_005.html",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "충청에서 김민석이 이겼다… 2위 정청래, 3위 송영길",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260801/134405540/1",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "충청경선…김민석45.08%·정청래44.63%",
-        "link": "https://www.munhwa.com/article/11606549",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "\"남대문시장 추억 새록새록\" 美대사, 발로 뛰며 현장 외교",
-        "link": "https://www.chosun.com/international/us/2026/08/01/7L6VX7B2GNDIXMNFXENE4LP3DI/",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "북한강과 임진강이 합쳐진다면 [주성하의 ‘北토크’]",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260730/134391537/1",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "‘민주당 유일 반대’ 곽상언 “보완수사 폐지, 국민 고통 보이는데 찬성 못해”···이언주 “몹시 유감”",
-        "link": "https://www.khan.co.kr/article/202608011429001/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "‘30대 엔지니어’ 국방장관",
-        "link": "https://www.khan.co.kr/article/202607301956005/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
       "국민일보"
     ],
     "articles": [
       {
         "press": "국민일보",
-        "title": "홍준표 “李대통령,강성 지지층만 바라보면 파탄…국정 운영 바꿔야”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000476&code=61111511&sid1=pol",
-        "score": 2
+        "title": "[단독] 특검 재판, 휴정기 반납했지만 10건 중 6건 ‘6·3·3’ 기한 넘겨",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785657970&code=11131900&sid1=soc",
+        "score": 4
       }
     ]
   },
@@ -481,73 +307,21 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "형소법 여론전 격화…與 '대국민 보고…",
-        "link": "https://www.news1.kr/politics/assembly/6246151",
-        "score": 2
+        "title": "동포 간담회 발언하는 이재명 대통령",
+        "link": "https://www.news1.kr/photos/8037466",
+        "score": 3
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "韓총리, 유흥식 추기경과 오찬…\"…",
-        "link": "https://www.news1.kr/politics/president/6246177",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "4 민주당 충남도당, '정몽규 문자' 윤용근 의원에 \"도민 앞에 사과해야\"",
-        "link": "https://www.nocutnews.co.kr/news/6556868",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "李대통령 \"동포사회 각별히 지원\" 요청…부에노스아이레스 시장 면담",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B07ns&sgb=E&newsid=03191446645543056",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "YTN"
-    ],
-    "articles": [
-      {
-        "press": "YTN",
-        "title": "형소법 개정안, 이번 주 국무회의 통과 전망…거부권 대신 '보완책'",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608020011431220_005.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "미국·남미 순방 마무리‥청와대 \"AI 중심축, 핵심 공급망 강화\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841738_37004.html",
+        "press": "중앙일보",
+        "title": "증거도 못쓰는 ‘사실 확인권’∙∙∙경찰 견제된다는 與",
+        "link": "https://www.joongang.co.kr/article/25450263",
         "score": 2
       }
     ]
@@ -559,21 +333,151 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "[윤영관] 글로벌 외교냐, 로컬 외교냐?",
-        "link": "https://www.joongang.co.kr/article/25449968",
+        "title": "“‘이 뉴스’ 뜨면 반도체 매도” 여의도 제갈량의 폭로",
+        "link": "https://www.joongang.co.kr/article/25450256",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "李, ‘보완수사권 폐지’ 거부권 행사 안할듯…與 “190건 후속입법”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260803/134409408/2",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "“한·미간 도전 과제 과소평가 안돼”…스틸, 쿠팡·안보 등 갈등관리 피력",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785657714&code=11121100&sid1=pol",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "세계일보"
+    ],
+    "articles": [
+      {
+        "press": "세계일보",
+        "title": "과반 없이 끝난 與 초반 경선…승부 가를 '선호투표제' 주목",
+        "link": "https://www.segye.com/newsView/20260803501789",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보"
+    ],
+    "articles": [
+      {
+        "press": "문화일보",
+        "title": "“쇄신 안보여” 국힘, 지지율 25→21%…선거 전 수준 곤두박질",
+        "link": "https://www.munhwa.com/article/11606574",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "“장관급인데 연봉 0원, 차량 거절” 박진영 “난 진보도 보수도 아냐”",
+        "link": "https://www.seoul.co.kr/news/life/pop-culture/2026/08/02/20260802500019",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "靑 \"호르무즈서 할수 있는 영역에 대해 美와 협의 중\"",
+        "link": "https://www.nocutnews.co.kr/news/6556819",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "靑, 北 추가파병 가능성에 \"안보리 결의 위배…중단돼야\"",
+        "link": "https://www.nocutnews.co.kr/news/6556817",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "'이 대통령 판례' 펴든 윤석열…다른 판례가 부메랑",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608022332159563_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "美 큰손마저 지갑 닫았다… 중간선거 앞 민주당 자금난",
+        "link": "https://www.chosun.com/international/us/2026/08/03/KGNCXOUUDREZNEBLJWFL5UQD6Q/",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "경향신문"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "[인터랙티브] 의원님은 수주왕? 지자체 계약정보를 한 곳에서 확인하세요",
-        "link": "https://www.khan.co.kr/article/202606290600181/?nv=stand",
+        "press": "동아일보",
+        "title": "네이비실 北침투작전 실패…美, 보도 기자에 소환장",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260802/134409101/2",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴시스"
+    ],
+    "articles": [
+      {
+        "press": "뉴시스",
+        "title": "국힘 지도부 靑 결집…보완수사권 폐지법 규탄",
+        "link": "https://www.newsis.com/view/NISX20260802_0003733076",
         "score": 0
       }
     ]
@@ -585,34 +489,8 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "與, 부·울·경 순회 경선 결과 주목…충청과 …",
-        "link": "https://www.news1.kr/politics/assembly/6246217",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "李대통령, 아르헨 동포 초청 만찬 간담회 개최",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B06ns&sgb=E&newsid=03194726645543056",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "KBS"
-    ],
-    "articles": [
-      {
-        "press": "KBS",
-        "title": "세우타 이민자 사태, 외교갈등으로 확산…스페인 고립",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626124",
+        "title": "아바스 아라그치 이란 외무장관이 호르무즈 해협 개방과 관련한 절충안에 합의하…",
+        "link": "https://www.news1.kr/world/middleeast-africa/6246647",
         "score": 0
       }
     ]
