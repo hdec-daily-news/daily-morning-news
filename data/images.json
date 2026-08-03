@@ -1,166 +1,171 @@
 {
-  "generated_at": "2026-08-03T06:53:20.679139+09:00",
-  "date_label": "8/3(월)",
+  "generated_at": "2026-08-04T07:06:08.017296+09:00",
+  "date_label": "8/4(화)",
   "articles": [
     {
-      "title": "충청은 김민석, 부·울·경은 정청래…‘1승 1패’ 주고받은 민주당 전당대회",
-      "link": "https://n.news.naver.com/mnews/article/032/0003461843",
+      "title": "李대통령, 순방 직후 2차 업무보고 재개…4일 산업부·노동부",
+      "link": "https://n.news.naver.com/mnews/article/029/0003040256",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국민의힘, ‘보완수사 폐지’ 연일 공세…“헌법소원 심판 나설 것”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012229730",
+      "title": "李대통령 지지율 취임 후 최저…3주 연속 하락 45.9%",
+      "link": "https://n.news.naver.com/mnews/article/005/0001864573",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "햇빛소득마을 1차 86곳 선정…2차에는 617곳 몰려",
-      "link": "https://n.news.naver.com/mnews/article/018/0006342347",
+      "title": "軍, '실탄 미장착'·'무인기 소동' 논란의 1군단장 직무배제",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316715",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한 총리, 범부처 폭염대응 당부…\"냉방·안전수칙 점검\"",
-      "link": "https://n.news.naver.com/mnews/article/374/0000525048",
+      "title": "[속보] 정청래, 민주당 대표 부울경 순회경선서 김민석에 2.8%p 차 앞서",
+      "link": "https://n.news.naver.com/mnews/article/654/0000193140",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "1375조 AI 협력·남미 광물 확보… 李대통령, ‘역대 최장’ 순방 완료",
-      "link": "https://n.news.naver.com/mnews/article/029/0003040264",
+      "title": "청와대 달려간 국힘... 장동혁 \"李, 형소법 거부 안 하면 탄핵 요구 커질 것\"",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945860",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "최윤범 \"글로벌 핵심광물 플랫폼기업 도약\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005316462",
+      "title": "모건스탠리 \"한국 증시 9,000 간다...지금이 기회\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002388157",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "명품·외국인덕에 백화점 7월에도 '호황'",
-      "link": "https://n.news.naver.com/mnews/article/009/0005715593",
+      "title": "“AI 반도체 거품론 왜 나오는거죠?”…D램·낸드 가격 또 역대 최고",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715991",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "9월부터 KTX·SRT 통합…요금 10% 내리고 운행·좌석 확대",
-      "link": "https://n.news.naver.com/mnews/article/437/0000504140",
+      "title": "中 체리車, KGM에 1100억 투자… “신차 넘어 전략적 협력”",
+      "link": "https://n.news.naver.com/mnews/article/366/0001183891",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정의선 회장, 튀르키예 공장에서 아이오닉3 점검",
-      "link": "https://n.news.naver.com/mnews/article/052/0002387777",
+      "title": "\"내년까지 절세 물량 나와도, 이후엔 매물 잠김 가능성\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316874",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"홈쇼핑에서 집 사세요\"…LG전자 모듈러주택 국내 첫 방송판매",
-      "link": "https://n.news.naver.com/mnews/article/001/0016228623",
+      "title": "'주가 누르기' 꼼수 철퇴…적발 땐 주식평가액 30% 높여 세금[2026세법]",
+      "link": "https://n.news.naver.com/mnews/article/001/0016231577",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "경남 양산 최고 41.6도 '극한 더위'…온열질환자 72명 늘어 누적 1781명",
-      "link": "https://n.news.naver.com/mnews/article/421/0009091968",
+      "title": "통영 60대 여성 살해 55일째 미궁… 116건 제보에도 신원 특정 못 해",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945899",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "텔레그램서 판치는 마약, 상반기 2178명 적발…경찰 온라인 유통망과 전면전",
-      "link": "https://n.news.naver.com/mnews/article/009/0005715394",
+      "title": "학년 오를수록 흡연·음주 늘고, 운동 줄어…청소년 건강 '빨간불'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316951",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'체감 35도' 찜통더위에 열대야…전남·경상권은 '극단적 더위'[오늘날씨]",
-      "link": "https://n.news.naver.com/mnews/article/421/0009092965",
+      "title": "오늘 광주·대구·부산 39도, 서울 37도…무서운 숫자의 극한 더위",
+      "link": "https://n.news.naver.com/mnews/article/028/0002816851",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "온열질환자, 열흘새 2배…질병청 “생명 위협하는 더위”",
-      "link": "https://n.news.naver.com/mnews/article/028/0002816826",
+      "title": "고발당한 김용범 정책실장…“단일종목 레버리지 ETF 도입 검토 지시”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003541930",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "폭염 고위험 어르신 하루 2차례 안부…안전확인 강화",
-      "link": "https://n.news.naver.com/mnews/article/003/0014103596",
+      "title": "차량 위치·집 비밀번호까지 넘겼다…‘장윤기 사건’ 경찰 2명 기소",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715997",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “이란 공격 취소” 발표…‘신속한 합의’ 조건부 제시",
-      "link": "https://n.news.naver.com/mnews/article/011/0004647676",
+      "title": "\"트럼프의 엔화부양, 미 국채금리·대미투자 관리 셈법\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002388498",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "우주 떠돌던 스페이스X 잔해, 달 충돌 예정…새 크레이터 생길 듯",
-      "link": "https://n.news.naver.com/mnews/article/277/0005797622",
+      "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격",
+      "link": "https://n.news.naver.com/mnews/article/001/0016231724",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘모로코 이주민’ 5만명 귀갓길… ‘친이민 스페인’에 EU 외교갈등",
-      "link": "https://n.news.naver.com/mnews/article/081/0003666842",
+      "title": "인도네시아 여객선 화재…5명 사망·41명 실종, 225명 구조",
+      "link": "https://n.news.naver.com/mnews/article/014/0005556155",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"트럼프의 이란 공격 취소, 이스라엘은 까맣게 몰랐다\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016229609",
+      "title": "이주민 난입 사태에 고립된 스페인 총리… EU가 등 돌린 이유는",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945906",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "모스크바 고급식당서 폭탄 테러…러 공군총사령관 표적설(종합)",
-      "link": "https://n.news.naver.com/mnews/article/421/0009092804",
+      "title": "중국 AI, 가성비로 美빅테크 맹추격",
+      "link": "https://n.news.naver.com/mnews/article/018/0006343354",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_20_1.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }

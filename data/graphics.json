@@ -1,119 +1,255 @@
 {
-  "generated_at": "2026-08-03T06:53:20.914962+09:00",
-  "window_start": "2026-08-02T15:00:00+09:00",
-  "window_end": "2026-08-03T06:00:00+09:00",
+  "generated_at": "2026-08-04T07:06:08.207515+09:00",
+  "window_start": "2026-08-03T15:00:00+09:00",
+  "window_end": "2026-08-04T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "인도네시아 여객선 화재 발생",
-      "link": "https://www.yna.co.kr/view/GYH20260802000700044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200070004400_P1.jpg",
-      "pubdate": "2026-08-02T20:00:00+09:00",
+      "title": "3일 주요 지역 최고기온",
+      "link": "https://www.yna.co.kr/view/GYH20260803000800044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300080004400_P1.jpg",
+      "pubdate": "2026-08-03T21:09:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "주요 도시 고가주택 가격 상승률",
-      "link": "https://www.yna.co.kr/view/GYH20260802000600044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200060004400_P1.jpg",
-      "pubdate": "2026-08-02T18:26:00+09:00",
+      "title": "종합부동산세 개편 적용 예시",
+      "link": "https://www.yna.co.kr/view/GYH20260803000700044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300070004400_P1.jpg",
+      "pubdate": "2026-08-03T20:38:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2일 주요 지역 최고기온",
-      "link": "https://www.yna.co.kr/view/GYH20260802000500044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200050004400_P1.jpg",
-      "pubdate": "2026-08-02T18:01:00+09:00",
+      "title": "서울 고가 아파트 보유세 시뮬레이션",
+      "link": "https://www.yna.co.kr/view/GYH20260803000600044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300060004400_P1.jpg",
+      "pubdate": "2026-08-03T18:00:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "KTX·SRT 통합 운영",
-      "link": "https://www.yna.co.kr/view/GYH20260802000400044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200040004400_P1.jpg",
-      "pubdate": "2026-08-02T17:14:00+09:00",
+      "title": "부동산 세제개편안 주요 내용②",
+      "link": "https://www.yna.co.kr/view/GYH20260803000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300050004400_P1.jpg",
+      "pubdate": "2026-08-03T18:00:00+09:00",
       "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "지역별 농업용수 저수율 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260802000300044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200030004400_P1.jpg",
-      "pubdate": "2026-08-02T16:48:00+09:00",
+      "title": "부동산 세제개편안 주요 내용①",
+      "link": "https://www.yna.co.kr/view/GYH20260803000400044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300040004400_P1.jpg",
+      "pubdate": "2026-08-03T18:00:00+09:00",
       "image": "images/graphics/연합뉴스_05.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "열사병 환자 수 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260802000200044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200020004400_P1.jpg",
-      "pubdate": "2026-08-02T16:13:00+09:00",
+      "title": "청소년 흡연·음주 경험률",
+      "link": "https://www.yna.co.kr/view/GYH20260803000300044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/03/GYH2026080300030004400_P1.jpg",
+      "pubdate": "2026-08-03T15:34:00+09:00",
       "image": "images/graphics/연합뉴스_06.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "경남 양산 극한폭염 주요 원인",
-      "link": "https://www.yna.co.kr/view/GYH20260802000100044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/02/GYH2026080200010004400_P1.jpg",
-      "pubdate": "2026-08-02T15:57:00+09:00",
-      "image": "images/graphics/연합뉴스_07.jpg"
+      "source": "뉴시스",
+      "title": "정부, 비과세·감면 115개 손질…하이브리드차 감면 종료 [세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203427&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203427_web.jpg?rnd=20260804060000",
+      "pubdate": "2026-08-04T06:00:00+09:00",
+      "image": "images/graphics/뉴시스_07.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "강남 아파트 보유세 1810만→2764만원…비거주 땐 3318만원 [세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203194&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203194_web.jpg?rnd=20260803213000",
+      "pubdate": "2026-08-03T21:30:00+09:00",
+      "image": "images/graphics/뉴시스_08.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "양도세 중과 한시적 완화… ‘보유공제’는 ‘거주공제’로 전환 [세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002202332&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002202332_web.jpg?rnd=20260803184256",
+      "pubdate": "2026-08-03T18:42:56+09:00",
+      "image": "images/graphics/뉴시스_09.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "'주가 누르기' 차단…상속·증여세 최대 6.5년치 주가로 산정[세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203338&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203338_web.jpg?rnd=20260803181317",
+      "pubdate": "2026-08-03T18:13:17+09:00",
+      "image": "images/graphics/뉴시스_10.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "내 집 실거주하면 종부세 덜 낸다 [세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203396&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203396_web.jpg?rnd=20260803180607",
+      "pubdate": "2026-08-03T18:06:07+09:00",
+      "image": "images/graphics/뉴시스_11.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "맞벌이 근로장려금 최대 360만원…청년 월세공제 17%로 확대[세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203319&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203319_web.jpg?rnd=20260803180500",
+      "pubdate": "2026-08-03T18:05:00+09:00",
+      "image": "images/graphics/뉴시스_12.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "국내 생산량만큼 세금 깎아준다…정부, 한국판 IRA 추진[세제개편]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203333&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203333_web.jpg?rnd=20260803175126",
+      "pubdate": "2026-08-03T17:51:26+09:00",
+      "image": "images/graphics/뉴시스_13.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "온열질환자 누적 2025명…수도권에 첫 폭염중대경보 발효",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203292&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203292_web.jpg?rnd=20260803164353",
+      "pubdate": "2026-08-03T16:43:53+09:00",
+      "image": "images/graphics/뉴시스_14.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "6월 온라인쇼핑 24.6조",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260803_0002203175&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/03/NISI20260803_0002203175_web.jpg?rnd=20260803163402",
+      "pubdate": "2026-08-03T16:34:02+09:00",
+      "image": "images/graphics/뉴시스_15.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 지역별 농업용수 저수율 현황",
-      "link": "https://www.news1.kr/photos/8037393",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037393/no_water.jpg",
-      "pubdate": "2026-08-03T02:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
+      "title": "[그래픽] 종합부동산세 개편에 따른 적용사례",
+      "link": "https://www.news1.kr/photos/8039138",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8039138/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_16.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 중소·벤처기업 경쟁력 강화",
+      "link": "https://www.news1.kr/photos/8037926",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037926/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_17.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 비과세·감면 정비",
+      "link": "https://www.news1.kr/photos/8037922",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037922/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_18.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 지방주도성장 강화",
+      "link": "https://www.news1.kr/photos/8038002",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8038002/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_19.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 부동산 세제 합리화-종합부동산세",
+      "link": "https://www.news1.kr/photos/8039171",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8039171/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_20.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 생산적금융 및 자본시장 지원",
+      "link": "https://www.news1.kr/photos/8037937",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037937/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_21.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 가업상속공제 개편 및 사업승계지원",
+      "link": "https://www.news1.kr/photos/8037911",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037911/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_22.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 세제개편안 미래성장동력 확충",
+      "link": "https://www.news1.kr/photos/8037924",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037924/no_water.jpg",
+      "pubdate": "2026-08-04T03:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_23.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8037351",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037351/no_water.jpg",
-      "pubdate": "2026-08-03T01:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
+      "link": "https://www.news1.kr/photos/8039010",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8039010/no_water.jpg",
+      "pubdate": "2026-08-04T02:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_24.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 역대 일최고기온 지역 순위",
-      "link": "https://www.news1.kr/photos/8037348",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037348/no_water.jpg",
-      "pubdate": "2026-08-03T01:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
+      "title": "[그래픽] 일최고기온 관측 상위 10개 지점",
+      "link": "https://www.news1.kr/photos/8039000",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8039000/no_water.jpg",
+      "pubdate": "2026-08-04T02:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_25.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요일정(3~8일)",
-      "link": "https://www.news1.kr/photos/8037242",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037242/no_water.jpg",
-      "pubdate": "2026-08-03T00:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
+      "title": "[오늘의 그래픽] 초6→고3 7년 추적했더니…흡연·음주 늘고 운동은 줄었다",
+      "link": "https://www.news1.kr/photos/8038795",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8038795/no_water.jpg",
+      "pubdate": "2026-08-04T01:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_26.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 소상공인·전통시장 경기동향",
-      "link": "https://www.news1.kr/photos/8037237",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037237/no_water.jpg",
-      "pubdate": "2026-08-03T00:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8038927",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8038927/no_water.jpg",
+      "pubdate": "2026-08-04T01:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_27.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 양산 닷새째 40도 폭염…고기압·푄·분지가 만든 '한증막'",
-      "link": "https://www.news1.kr/photos/8037151",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8037151/no_water.jpg",
-      "pubdate": "2026-08-02T23:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
+      "title": "[오늘의 증시] 8월 3일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8038910",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8038910/no_water.jpg",
+      "pubdate": "2026-08-04T01:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_28.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 13호 태풍 돌핀 예상 진로",
-      "link": "https://www.news1.kr/photos/8036830",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/2/8036830/no_water.jpg",
-      "pubdate": "2026-08-02T18:53:20.914962+09:00",
-      "image": "images/graphics/뉴스1_14.jpg"
+      "title": "[그래픽] 서울 아파트 월별 전세 평균 거래금액",
+      "link": "https://www.news1.kr/photos/8037712",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037712/no_water.jpg",
+      "pubdate": "2026-08-03T23:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_29.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8037557",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037557/no_water.jpg",
+      "pubdate": "2026-08-03T18:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_30.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8037561",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/3/8037561/no_water.jpg",
+      "pubdate": "2026-08-03T18:06:08.207515+09:00",
+      "image": "images/graphics/뉴스1_31.jpg"
     }
   ]
 }
