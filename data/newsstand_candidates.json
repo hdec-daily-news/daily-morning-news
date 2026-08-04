@@ -1,74 +1,146 @@
 [
   {
     "presses": [
-      "국민일보",
+      "YTN",
       "조선일보",
       "한겨레"
     ],
     "articles": [
       {
         "press": "조선일보",
-        "title": "정청래·김민석 1%p 차… 권리당원 70% 호남·수도권에 달려",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/04/VMSDCDC57JGQZL4IQKELNVTIOY/",
-        "score": 3
+        "title": "與의원들도 '부동산 한숨'…\"세금 말고 공급 늘려라\"",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/05/MXMJ6OTONVDOXMCVFUDQXI2JUQ/",
+        "score": 2
       },
       {
         "press": "한겨레",
-        "title": "서로 “윤리위 제소” 벼르는 정청래-김민석…0.99%p 초박빙 ‘진흙탕 싸움’",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271188.html",
-        "score": 5
+        "title": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271414.html",
+        "score": 2
       },
       {
-        "press": "국민일보",
-        "title": "승부처 호남 구애 김민석 vs 노사모에 SOS친 정청래",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785746641&code=11121100&sid1=pol",
-        "score": 3
+        "press": "YTN",
+        "title": "이 대통령 \"부동산 100억대 벌어도 세금 몇억\"…세제 개편 당위성 부각",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608042200262706_005.html",
+        "score": 2
       }
     ]
   },
   {
     "presses": [
       "KBS",
-      "디지털타임스",
-      "중앙일보"
+      "노컷뉴스",
+      "머니투데이"
     ],
     "articles": [
       {
-        "press": "중앙일보",
-        "title": "청와대 간 국힘 icon_video",
-        "link": "https://www.joongang.co.kr/article/25450341",
-        "score": 0
+        "press": "노컷뉴스",
+        "title": "'보완수사권 폐지' 국무회의 통과…野 \"지옥문 열렸다\"",
+        "link": "https://www.nocutnews.co.kr/news/6558167",
+        "score": 2
       },
       {
-        "press": "디지털타임스",
-        "title": "‘보완 수사권 폐지’ 국힘, 3일 청와대 달려간다…이 대통령 거부권 촉구",
-        "link": "https://www.dt.co.kr/article/12075939",
+        "press": "머니투데이",
+        "title": "'보완수사권 폐지' 국무회의 통과",
+        "link": "https://www.mt.co.kr/politics/2026/08/05/2026080419470739380?STAND=MT",
         "score": 2
       },
       {
         "press": "KBS",
-        "title": "이 대통령, 오늘 국무회의…‘보완수사권 폐지’ 법안 의결 전망",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627573",
+        "title": "‘검찰 수사권 폐지’ 국무회의 통과…“사법 정상화”·“지옥문 열려”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628487",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "검찰 수사권 없애더니…사안마다 ‘특검’·‘검사 파견’은 계속?",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628504",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "서울신문",
-      "조선일보"
+      "국민일보",
+      "이데일리"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "오세훈 만난 유승민 \"반탄까지 품는 보수 대통합\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/04/APLHQ7KWK5E4LJQLF5A7O6VTA4/",
+        "press": "국민일보",
+        "title": "정청래 ‘볼콕’ 이지은 “철없었다 죄송…남녀관계 추측은 고소”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000812&code=61111511&sid1=pol",
         "score": 5
       },
       {
-        "press": "서울신문",
-        "title": "오세훈·유승민 “보수정치 신뢰 회복… 국힘, 유능한 정당으로 거듭나야”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/04/20260804008004",
+        "press": "이데일리",
+        "title": "'볼콕' 이지은 \"'정청래와 무슨 관계냐' 선 넘으면 고소\"",
+        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=I05ns&sgb=E&newsid=04391926645544040",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "거부권 거부한 李대통령, 수사권 관련 과거 발언 어땠나",
+        "link": "https://www.nocutnews.co.kr/news/6558269",
+        "score": 0
+      },
+      {
+        "press": "MBC",
+        "title": "'수사 검사' 사라졌다‥이젠 경찰에 강력 경고 ◀ 앵커 ▶ 검찰의 직접수사권과 보완수사권을 모두 폐지하는 형사소송법 개정안이 어제 국무회의를 통과했습니다. 이재명 대통령은 일각의 '거부권 행사' 요구에 \"국회 입법권을 침해받을 사안\"은 아니라 선을 그었지만, 수사 권한이 커진 경찰을 제대로 통제하지 못하면 또 다른 권력 남용이 생길 수 있다는 점도 강하게 경고했습니다. 정상빈 기자가 보도합니다. ◀ 리포트 ▶ 수사·기소 분리를 골자로 한 형사소송법 개정안이 어제 국무회의에서 의결됐습니다. [이재명 대통령 (어제)] \"(검찰은) 매우 과대하고 집중된 권한을 행사해 왔습니다. 수사·기소 분리는 이러한 비정상적 형사사법 시스템을 정상화하는 첫 출발입니다.\" 검찰 개혁의 의미를 짚은 이 대통령은 야권의 '재의요구권 행사' 요구엔 \"국회 입법권을 부정할 만큼 심각한 상황이라 보기 어렵다\"며 국무회의 시작부터 선을 그었습니다. 다만, 권한이 크게 강화된 경찰을 향한 당부와 우려를 전했습니다. 경찰이 수사 개시부터 종결까지, 막대한 권한을 갖게 된 만큼 이에 상응하는 책임을 져야 한다는 겁니다. [이재명 대통령 (어제)] \"이제 경찰이 엄청난 권한을 갖게 되는데 '과연 앞으로는 완전히 안전한 걸까?'라는 우려를 안 할 수가 없거든요.\" 특히, 보완수사권 논쟁에 불을 붙인 '장윤기 사건'을 언급하며 형소법 개정의 부작용을 최소화하도록 제도를 보완하고, 비위 경찰에 대한 징계를 대폭 강화해야 한다고 강조했습니다. [이재명 대통령 (어제)] \"명백한 수사상의 비위를 저지른다 그러면 최소 해임, 파면해야 하지 않느냐? 영구 배제 결정이라든지, 어쨌든 엄중하게 책임을 물어야 되지 않을까 싶어요.\" 국무회의 의결까지 거치며 검찰의 수사권 폐지는 확정됐습니다. 다만, 검찰 개혁의 진짜 성패는 경찰을 견제하고 수사 공백을 막을 보완 장치를 얼마나 촘촘히 마련하느냐에 달려있습니다. MBC뉴스 정상빈입니다.",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842458_37012.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스",
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "피해자 앞∙∙∙野의원 “돌려차기 한번 하죠”",
+        "link": "https://www.joongang.co.kr/article/25450802",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "3 국힘 의원들, 피해자 불러놓고 \"돌려차기 한 번\"",
+        "link": "https://www.nocutnews.co.kr/news/6558291",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "尹 “MB때 그 법원 아냐!”∙∙∙이재명 집착 시작된 그날",
+        "link": "https://www.joongang.co.kr/article/25450695",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "김민석 “호남사람 움직이기 시작” 정청래 “조직은 바람 못 이겨”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260804/134421827/3",
         "score": 5
       }
     ]
@@ -80,22 +152,106 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "“지선 망치고 연임 도전” “檢개혁은 정청래 뚝심”… 친명·친청 편싸움",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785748158&code=11121100&sid1=pol",
+        "title": "“오직 총선 승리”… 오세훈 사법리스크에 입지 키우는 유승민",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785833430&code=11121100&sid1=pol",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "[인터뷰] 정청래 \"유시민에 침묵은 정…",
-        "link": "https://www.news1.kr/politics/assembly/6247950",
+        "press": "문화일보",
+        "title": "한동훈 “민주당의 복수심 마케팅…노무현, 이제는 말해야 한다”",
+        "link": "https://www.munhwa.com/article/11607225",
         "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보"
+    ],
+    "articles": [
+      {
+        "press": "문화일보",
+        "title": "“보완수사 금지로 강선우 불송치도 바로 잡을 수 없어”…한동훈 의원",
+        "link": "https://www.munhwa.com/article/11606966",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "정청래 “민주당에 반명 없다…전대 끝나면 원팀으로 뭉쳐야” [與당대표 후보 인터뷰]",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/05/20260805008008",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "이데일리",
+        "title": "한동훈이 띄운 ‘상향식 공천’…친윤계도 공감",
+        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B02ns&sgb=E&newsid=02086086645544368",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "의원님은 수주왕 [단독] 경북 의성 ‘수주왕 의원님들’ 경찰 수사 받는다",
+        "link": "https://www.khan.co.kr/article/202608050600181/?nv=stand",
+        "score": 4
+      },
+      {
+        "press": "경향신문",
+        "title": "의원님은 수주왕 [단독] 초선 때 산 땅 되팔고…그린벨트서 농사 짓다 ‘셀프 해제’ 나서고",
+        "link": "https://www.khan.co.kr/article/202608050600191/?nv=stand",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "[단독] 특검 간 충돌 벌어진 ‘박성재 수사’…김건희특검도 지난해 “이중기소 우려” 전달",
+        "link": "https://www.khan.co.kr/article/202608050600171/?nv=stand",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "presses": [
+      "SBS"
+    ],
+    "articles": [
+      {
+        "press": "SBS",
+        "title": "[단독] '장윤기 살인' 전 청와대 보고엔…콜백도 늦었다",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690303&plink=STAND&cooper=NAVER",
+        "score": 4
       }
     ]
   },
@@ -106,21 +262,14 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "[포토타임] 40도 폭염 예보 北…갈마해변은 ‘인파십리’",
-        "link": "https://www.joongang.co.kr/article/25450438",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보"
-    ],
-    "articles": [
+        "title": "외교장관 만난 스틸 icon_video",
+        "link": "https://www.joongang.co.kr/article/25450764",
+        "score": 0
+      },
       {
-        "press": "동아일보",
-        "title": "‘檢 수사권 폐지’ 위헌 지적에… 與 “턱도 없다”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260803/134415402/2",
+        "press": "중앙일보",
+        "title": "민주당, 면전 저격에 “일베” 공방 icon_video",
+        "link": "https://www.joongang.co.kr/article/25450780",
         "score": 2
       }
     ]
@@ -132,8 +281,8 @@
     "articles": [
       {
         "press": "한겨레",
-        "title": "불통 드러난 한미 ‘무인기 오인’…군 보고체계도 먹통",
-        "link": "https://www.hani.co.kr/arti/politics/defense/1271239.html",
+        "title": "민주당 전대 15~16일 ‘슈퍼위크’서 결판…3가지 관전포인트",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271417.html",
         "score": 2
       }
     ]
@@ -145,8 +294,8 @@
     "articles": [
       {
         "press": "한겨레",
-        "title": "이 대통령, 7시간 반 부동산 점검 회의…“신속하게 최대한 주택 공급”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271249.html",
+        "title": "김영훈 노동장관 “청년 첫 경력, 국가가 책임지는 지원책 곧 발표”",
+        "link": "https://www.hani.co.kr/arti/society/labor/1271418.html",
         "score": 2
       }
     ]
@@ -158,8 +307,8 @@
     "articles": [
       {
         "press": "한겨레",
-        "title": "“관저 안에 코바나 사무실 준비”…특검, 21그램 관계자 진술 확보",
-        "link": "https://www.hani.co.kr/arti/society/society_general/1271243.html",
+        "title": "박지원 “민주당 전대에 정봉주 너무 많아…이러다 망해”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271350.html",
         "score": 2
       }
     ]
@@ -171,21 +320,8 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "사람들이 자꾸 쓰러집니다… “의원님, 탄소 조기감축 약속해주세요” 국회에 쏟아진 호소",
-        "link": "https://www.khan.co.kr/article/202608040600051/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "“동료 의원한테 박쥐라니” 민주당 전당대회 최고위원 후보들, 때아닌 ‘일베 공방전’",
-        "link": "https://www.khan.co.kr/article/202608031925001/?nv=stand",
+        "title": "‘사표 안 내나, 못 내나’···국무회의장서 마주친 ‘39년 지기’ 이 대통령과 정성호 장관",
+        "link": "https://www.khan.co.kr/article/202608041713001/?nv=stand",
         "score": 2
       }
     ]
@@ -197,8 +333,8 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "유승민 “보완수사권 폐지 때 박수치던 민주당, 사이비 종교 같아”",
-        "link": "https://www.munhwa.com/article/11606962",
+        "title": "李대통령 “휴가도 못가셨죠?…여러분이 가셔야 부하들도 가” 공직자들 독려",
+        "link": "https://www.munhwa.com/article/11607253",
         "score": 2
       }
     ]
@@ -210,60 +346,8 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "與최고위 선거 김용 vs 이성윤 ‘5위 대첩’…친명도 친청도 ‘수석 딜레마’",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/04/20260804008003",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "훈련 전날 문자 통보한 美, 상부 보고 안 한 韓…국방부 ‘빈총 논란’ 1군단장 직무배제",
-        "link": "https://www.seoul.co.kr/news/politics/diplomacy/2026/08/04/20260804010006",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴시스"
-    ],
-    "articles": [
-      {
-        "press": "뉴시스",
-        "title": "국힘, '선관위 특검' 수사 범위 확대 압박",
-        "link": "https://www.newsis.com/view/NISX20260803_0003734826",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "野 선관위 투표율 조작 '총공세'…\"…",
-        "link": "https://www.news1.kr/politics/assembly/6247862",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "투표율은↓선거인단은↑…민주당 순회경선 '착시' 주의보",
-        "link": "https://www.nocutnews.co.kr/news/6557640",
+        "title": "계파 갈등에 지쳤나…與전대 첫 ‘1인 1표제’에도 투표율 하락",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/05/20260805008009",
         "score": 2
       }
     ]
@@ -283,26 +367,65 @@
   },
   {
     "presses": [
-      "SBS"
+      "머니투데이"
     ],
     "articles": [
       {
-        "press": "SBS",
-        "title": "선관위 투표자 수 오입력에 \"분산 입력\"…지침 논란",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688429&plink=STAND&cooper=NAVER",
+        "press": "머니투데이",
+        "title": "\"집값 안정 한계\"… 與 서울시당 '공급특위' 꾸린다",
+        "link": "https://www.mt.co.kr/economy/2026/08/05/2026080419503365834?STAND=MT",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "MBC"
+      "YTN"
     ],
     "articles": [
       {
-        "press": "MBC",
-        "title": "與 전당대회, '초박빙'에 과열‥鄭 \"두 번 배신은 못할까\" 金 \"명청대전 막아야\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842131_37004.html",
+        "press": "YTN",
+        "title": "또 \"3,600명 오입력\"…여당도 \"선관위 해체가 답\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608042200003084_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "미 재무장관의 '원화 변동성' 언급 이후 원·달러 환율 1,429원",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202608050415158273_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "\"호르무즈 단일 중앙 항로 논의\"…이란 대통령, 사임설 일축",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202608050534313383_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "“권리당원 1/3” 최대 승부처 호남으로…당 선관위에 맞신고",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628510",
         "score": 2
       }
     ]
@@ -314,73 +437,21 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "택배 사회적 대화 불발… 새벽배송 시간 제한법 만드는 與",
-        "link": "https://www.chosun.com/national/labor/2026/08/04/OKTSWYCJMNHGHL2JRXQB6RZMHE/",
+        "title": "국민 60%, 보완수사 폐지 반대…與 속전속결 처리, 李 의결",
+        "link": "https://www.chosun.com/politics/politics_general/2026/08/05/SUCURLTDVJCY7CR4YVKRTWKNWY/",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "북한군 쓸어버린 최현함",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260803/134415132/2",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "민주당은 죽어가고 있다",
-        "link": "https://www.khan.co.kr/article/202608032000005/?nv=stand",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "법무장관도 부작용 우려… 李에 재의요구권 건의엔 선 그어 [형소법 개정안 후폭풍]",
-        "link": "https://www.segye.com/newsView/20260803518048",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "문진희 축구협회 심판위원장, 국회 청문회 후 사의",
-        "link": "https://www.munhwa.com/article/11606905",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "한미일 사실상 환율 공조…원화, 당분간 강세 압력 받을 듯",
-        "link": "https://www.seoul.co.kr/news/economy/finance/2026/08/04/20260804031001",
+        "press": "중앙일보",
+        "title": "북한 전술도로, 코앞까지∙∙∙일부 MDL 넘었다",
+        "link": "https://www.joongang.co.kr/article/25450893",
         "score": 0
       }
     ]
@@ -392,21 +463,47 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "李대통령, 형소법 개정안 국무회의 상정 전망…",
-        "link": "https://www.news1.kr/politics/president/6247929",
+        "title": "李대통령 오늘 행정·사법분야 업무보고…형…",
+        "link": "https://www.news1.kr/politics/president/6249037",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "YTN"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "YTN",
-        "title": "국방부, 방첩사 해체 완료…3개 조직 창설",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608032244260625_005.html",
+        "press": "뉴스1",
+        "title": "與 당권주자 3인, 오늘 2차 TV토론…공…",
+        "link": "https://www.news1.kr/politics/assembly/6249031",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "부동산 증세안에 與 속내 복잡…공감 속 서울 민심 부담",
+        "link": "https://www.nocutnews.co.kr/news/6558297",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "대통령 때문에 우리가 고생‥트럼프 관세에 미국부터 분노의 소송",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842410_37004.html",
         "score": 0
       }
     ]

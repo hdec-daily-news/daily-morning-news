@@ -1,171 +1,181 @@
 {
-  "generated_at": "2026-08-04T07:06:08.017296+09:00",
-  "date_label": "8/4(화)",
+  "generated_at": "2026-08-05T07:09:54.531257+09:00",
+  "date_label": "8/5(수)",
   "articles": [
     {
-      "title": "李대통령, 순방 직후 2차 업무보고 재개…4일 산업부·노동부",
-      "link": "https://n.news.naver.com/mnews/article/029/0003040256",
+      "title": "정청래 \"대통령 이름 팔아 공포감 조성‥'명청대전 프레임' 비겁해\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001515804",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령 지지율 취임 후 최저…3주 연속 하락 45.9%",
-      "link": "https://n.news.naver.com/mnews/article/005/0001864573",
+      "title": "李대통령 \"개정 형소법 국회 의결…입법권 부정으로 보기 어려워\" [영상]",
+      "link": "https://n.news.naver.com/mnews/article/666/0000117767",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_02_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "軍, '실탄 미장착'·'무인기 소동' 논란의 1군단장 직무배제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005316715",
+      "title": "\"'무지성 국장'만 하라는 건가?\"...안철수, ISA 세제개편 비판",
+      "link": "https://n.news.naver.com/mnews/article/018/0006343732",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 정청래, 민주당 대표 부울경 순회경선서 김민석에 2.8%p 차 앞서",
-      "link": "https://n.news.naver.com/mnews/article/654/0000193140",
+      "title": "무인기 오인·실탄 미장착…군기 빠진 軍",
+      "link": "https://n.news.naver.com/mnews/article/016/0002679281",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "청와대 달려간 국힘... 장동혁 \"李, 형소법 거부 안 하면 탄핵 요구 커질 것\"",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945860",
+      "title": "민주 최고위원 후보 토론회...\"당정 엇박자\"·\"일베 이용\" 난타전",
+      "link": "https://n.news.naver.com/mnews/article/052/0002388398",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "모건스탠리 \"한국 증시 9,000 간다...지금이 기회\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002388157",
+      "title": "예탁금 3000만원으로 오르자…단일종목 레버리지 거래 '뚝'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005317321",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“AI 반도체 거품론 왜 나오는거죠?”…D램·낸드 가격 또 역대 최고",
-      "link": "https://n.news.naver.com/mnews/article/009/0005715991",
+      "title": "SK하이닉스, HBF 표준규격 제안… 막 오른 차세대 메모리 주도권 경쟁",
+      "link": "https://n.news.naver.com/mnews/article/469/0000946161",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "中 체리車, KGM에 1100억 투자… “신차 넘어 전략적 협력”",
-      "link": "https://n.news.naver.com/mnews/article/366/0001183891",
+      "title": "에코프로, 2분기 영업익 329억…전년비 102.7%↑",
+      "link": "https://n.news.naver.com/mnews/article/119/0003118051",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_08_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "\"내년까지 절세 물량 나와도, 이후엔 매물 잠김 가능성\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005316874",
+      "title": "영풍·MBK, 고려아연 임시주총 결의 취소소송 취하…“소송 목적 달성”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002679372",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'주가 누르기' 꼼수 철퇴…적발 땐 주식평가액 30% 높여 세금[2026세법]",
-      "link": "https://n.news.naver.com/mnews/article/001/0016231577",
+      "title": "[속보] 7월 소비자물가 상승률 2.8%…석 달 만에 2%대로",
+      "link": "https://n.news.naver.com/mnews/article/025/0003542137",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "통영 60대 여성 살해 55일째 미궁… 116건 제보에도 신원 특정 못 해",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945899",
+      "title": "낮 최고 38도 극한 폭염·열대야 계속…서쪽 지역엔 소나기 [오늘날씨]",
+      "link": "https://n.news.naver.com/mnews/article/421/0009097352",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "학년 오를수록 흡연·음주 늘고, 운동 줄어…청소년 건강 '빨간불'",
-      "link": "https://n.news.naver.com/mnews/article/015/0005316951",
+      "title": "폭염 속 배달하던 50대 ‘쿵’…탈진에도 “배달해야”",
+      "link": "https://n.news.naver.com/mnews/article/018/0006344442",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "오늘 광주·대구·부산 39도, 서울 37도…무서운 숫자의 극한 더위",
-      "link": "https://n.news.naver.com/mnews/article/028/0002816851",
+      "title": "상장사 무자본 인수 후 주가 띄워…57억원 챙긴 일당",
+      "link": "https://n.news.naver.com/mnews/article/215/0001261147",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "고발당한 김용범 정책실장…“단일종목 레버리지 ETF 도입 검토 지시”",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541930",
+      "title": "중수청, 10년 미만 검사 4급 임용…정년·봉급 유지",
+      "link": "https://n.news.naver.com/mnews/article/660/0000114523",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "차량 위치·집 비밀번호까지 넘겼다…‘장윤기 사건’ 경찰 2명 기소",
-      "link": "https://n.news.naver.com/mnews/article/009/0005715997",
+      "title": "청년 일자리 지키는 ‘정년 65세 연장’ 연내 입법 추진",
+      "link": "https://n.news.naver.com/mnews/article/081/0003667577",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"트럼프의 엔화부양, 미 국채금리·대미투자 관리 셈법\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002388498",
+      "title": "바짝 마른 ‘유럽 젖줄’… 루마니아, 물길 내려 암반 폭파",
+      "link": "https://n.news.naver.com/mnews/article/022/0004148411",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격",
-      "link": "https://n.news.naver.com/mnews/article/001/0016231724",
+      "title": "대만, 중국 일자리 플랫폼 차단…“구인 정보를 미끼로 청년 유인”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012231006",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "인도네시아 여객선 화재…5명 사망·41명 실종, 225명 구조",
-      "link": "https://n.news.naver.com/mnews/article/014/0005556155",
+      "title": "공습 유보한 트럼프 “참수 전 마지막 기회”… 이란에 ‘신속 합의’ 고강도 압박",
+      "link": "https://n.news.naver.com/mnews/article/366/0001184097",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이주민 난입 사태에 고립된 스페인 총리… EU가 등 돌린 이유는",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945906",
+      "title": "\"트럼프, 포켓몬·나루토 무단 도용\"...일, 미국에 공식 외교 항의",
+      "link": "https://n.news.naver.com/mnews/article/052/0002388663",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "중국 AI, 가성비로 美빅테크 맹추격",
-      "link": "https://n.news.naver.com/mnews/article/018/0006343354",
+      "title": "강제노동 관세 제동 걸까… 美 민주 소속 25개 州, 무효 소송",
+      "link": "https://n.news.naver.com/mnews/article/014/0005557193",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_20_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     }
   ]
 }
