@@ -1,111 +1,127 @@
 {
-  "generated_at": "2026-08-05T07:09:54.771502+09:00",
-  "window_start": "2026-08-04T15:00:00+09:00",
-  "window_end": "2026-08-05T06:00:00+09:00",
+  "generated_at": "2026-08-06T07:10:20.920820+09:00",
+  "window_start": "2026-08-05T15:00:00+09:00",
+  "window_end": "2026-08-06T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "중대범죄수사청 구성안",
-      "link": "https://www.yna.co.kr/view/GYH20260804000800044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/04/GYH2026080400080004401_P1.jpg",
-      "pubdate": "2026-08-04T21:57:00+09:00",
+      "title": "온열질환자 사망자 수 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260805000900044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/05/GYH2026080500090004400_P1.jpg",
+      "pubdate": "2026-08-05T17:43:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "SK하이닉스 HBF 개요",
-      "link": "https://www.yna.co.kr/view/GYH20260804000700044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/04/GYH2026080400070004400_P1.jpg",
-      "pubdate": "2026-08-04T20:21:00+09:00",
+      "title": "삼성전자-SK하이닉스 메모리 장벽 돌파 전략",
+      "link": "https://www.yna.co.kr/view/GYH20260805000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/05/GYH2026080500080004400_P1.jpg",
+      "pubdate": "2026-08-05T17:06:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "전국 일별 온열질환자 수 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260804000600044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/04/GYH2026080400060004400_P1.jpg",
-      "pubdate": "2026-08-04T17:34:00+09:00",
+      "title": "역대 7월 폭염·열대야 일수",
+      "link": "https://www.yna.co.kr/view/GYH20260805000700044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/05/GYH2026080500070004400_P1.jpg",
+      "pubdate": "2026-08-05T15:25:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "성인 식생활평가지수 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260804000500044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/04/GYH2026080400050004400_P1.jpg",
-      "pubdate": "2026-08-04T16:02:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
+      "source": "뉴시스",
+      "title": "7월 열대야 9.7일, 역대 최고…서울 14일 연속",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260805_0002205339&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/05/NISI20260805_0002205339_web.jpg?rnd=20260806060000",
+      "pubdate": "2026-08-06T06:00:00+09:00",
+      "image": "images/graphics/뉴시스_04.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "형사소송법 개정 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260804000400044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/04/GYH2026080400040004400_P1.jpg",
-      "pubdate": "2026-08-04T15:36:00+09:00",
-      "image": "images/graphics/연합뉴스_05.jpg"
+      "source": "뉴시스",
+      "title": "온열질환 하루 198명 발생…누적 사망자 21명",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260805_0002205310&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/05/NISI20260805_0002205310_web.jpg?rnd=20260805205311",
+      "pubdate": "2026-08-05T20:53:11+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
     },
     {
       "source": "뉴시스",
       "title": "태풍 '돌핀' 예상 이동 경로",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260804_0002204179&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/04/NISI20260804_0002204179_web.jpg?rnd=20260804165200",
-      "pubdate": "2026-08-04T16:52:00+09:00",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260805_0002205277&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/05/NISI20260805_0002205277_web.jpg?rnd=20260805164921",
+      "pubdate": "2026-08-05T16:49:21+09:00",
       "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "온열질환 하루 186명 발생…서울 전역 '펄펄' 끓었다",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260804_0002204310&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/04/NISI20260804_0002204310_web.jpg?rnd=20260804165155",
-      "pubdate": "2026-08-04T16:51:55+09:00",
+      "title": "고령층 취업자, 첫 1천만명 돌파…\"73.6세까지 일하고 싶다\"",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260805_0002204892&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/05/NISI20260805_0002204892_web.jpg?rnd=20260805162013",
+      "pubdate": "2026-08-05T16:20:13+09:00",
       "image": "images/graphics/뉴시스_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 중대범죄수사청(본청) 기구도",
-      "link": "https://www.news1.kr/photos/8040141",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8040141/no_water.jpg",
-      "pubdate": "2026-08-05T02:09:54.771502+09:00",
+      "title": "[그래픽] 고령층 취업자 추이",
+      "link": "https://www.news1.kr/photos/8043028",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8043028/no_water.jpg",
+      "pubdate": "2026-08-06T03:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8040947",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8040947/no_water.jpg",
-      "pubdate": "2026-08-05T02:09:54.771502+09:00",
+      "link": "https://www.news1.kr/photos/8042842",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8042842/no_water.jpg",
+      "pubdate": "2026-08-06T01:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8040822",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8040822/no_water.jpg",
-      "pubdate": "2026-08-05T01:09:54.771502+09:00",
+      "link": "https://www.news1.kr/photos/8042694",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8042694/no_water.jpg",
+      "pubdate": "2026-08-06T01:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의증시] 8월 4일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8040787",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8040787/no_water.jpg",
-      "pubdate": "2026-08-05T01:09:54.771502+09:00",
+      "title": "[오늘의증시] 8월 5일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8042673",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8042673/no_water.jpg",
+      "pubdate": "2026-08-06T01:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 상법 개정 후 배당기업 48% 증가…개인배당 1위 이재용",
-      "link": "https://www.news1.kr/photos/8040544",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8040544/no_water.jpg",
-      "pubdate": "2026-08-05T01:09:54.771502+09:00",
+      "title": "[그래픽] 역대 7월 기온 순위",
+      "link": "https://www.news1.kr/photos/8042450",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8042450/no_water.jpg",
+      "pubdate": "2026-08-06T00:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 소비자물가 지수 추이",
-      "link": "https://www.news1.kr/photos/8039497",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8039497/no_water.jpg",
-      "pubdate": "2026-08-04T17:09:54.771502+09:00",
+      "title": "[오늘의 그래픽] 1월 1913만원, 4월 2238만원…결혼비용 325만원 차",
+      "link": "https://www.news1.kr/photos/8042272",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8042272/no_water.jpg",
+      "pubdate": "2026-08-05T23:10:20.920820+09:00",
       "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027학년도 전국 공립 신규교사 선발 사전예고 규모",
+      "link": "https://www.news1.kr/photos/8041141",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/4/8041141/no_water.jpg",
+      "pubdate": "2026-08-05T20:10:20.920820+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 13호 태풍 돌핀 예상 진로",
+      "link": "https://www.news1.kr/photos/8041651",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/5/8041651/no_water.jpg",
+      "pubdate": "2026-08-05T19:10:20.920820+09:00",
+      "image": "images/graphics/뉴스1_15.jpg"
     }
   ]
 }
