@@ -1,127 +1,95 @@
 {
-  "generated_at": "2026-08-07T10:02:21.092978+09:00",
-  "window_start": "2026-08-06T15:00:00+09:00",
-  "window_end": "2026-08-07T06:00:00+09:00",
+  "generated_at": "2026-08-08T06:36:16.246161+09:00",
+  "window_start": "2026-08-07T15:00:00+09:00",
+  "window_end": "2026-08-08T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "SK하이닉스 5~6일 주가 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260806000700044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/06/GYH2026080600070004400_P1.jpg",
-      "pubdate": "2026-08-06T22:53:00+09:00",
+      "title": "경찰 수사 통제 강화 방안 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260807000600044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/07/GYH2026080700060004401_P1.jpg",
+      "pubdate": "2026-08-07T21:00:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "카카오 실적 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260806000600044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/06/GYH2026080600060004400_P1.jpg",
-      "pubdate": "2026-08-06T20:25:00+09:00",
+      "title": "7일 서울 주요지역 최고기온",
+      "link": "https://www.yna.co.kr/view/GYH20260807000500044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/07/GYH2026080700050004400_P1.jpg",
+      "pubdate": "2026-08-07T16:27:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "2026년 북한 탄도미사일 발사 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260806000500044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/06/GYH2026080600050004400_P1.jpg",
-      "pubdate": "2026-08-06T19:57:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전국 일별 온열질환자 수 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260806000400044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/06/GYH2026080600040004400_P1.jpg",
-      "pubdate": "2026-08-06T17:20:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "기후 시나리오별 온열지수·열 스트레스 예측",
-      "link": "https://www.yna.co.kr/view/GYH20260806000300044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/06/GYH2026080600030004400_P1.jpg",
-      "pubdate": "2026-08-06T15:00:00+09:00",
-      "image": "images/graphics/연합뉴스_05.jpg"
-    },
-    {
       "source": "뉴시스",
-      "title": "온열질환자 하루 208명 '역대 최다'…누적 사망 23명",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260806_0002206212&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/06/NISI20260806_0002206212_web.jpg?rnd=20260806164936",
-      "pubdate": "2026-08-06T16:49:36+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "태풍 '돌핀' 예상 이동 경로",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260806_0002206223&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/06/NISI20260806_0002206223_web.jpg?rnd=20260806164925",
-      "pubdate": "2026-08-06T16:49:25+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
+      "title": "집값 더 오를라…보금자리론 수도권 비중 48.1%",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260807_0002206912&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/07/NISI20260807_0002206912_web.jpg?rnd=20260807152437",
+      "pubdate": "2026-08-07T15:24:37+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 사망자 수 추이",
-      "link": "https://www.news1.kr/photos/8044762",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8044762/no_water.jpg",
-      "pubdate": "2026-08-07T02:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
+      "title": "[그래픽] 서울 주요지역 최고기온",
+      "link": "https://www.news1.kr/photos/8046365",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046365/no_water.jpg",
+      "pubdate": "2026-08-08T02:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8044755",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8044755/no_water.jpg",
-      "pubdate": "2026-08-07T02:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 갈치 41%↑ 고등어 47%↑…폭염 덮친 바다, 생선값 들썩",
-      "link": "https://www.news1.kr/photos/8044584",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8044584/no_water.jpg",
-      "pubdate": "2026-08-07T02:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 6일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8044601",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8044601/no_water.jpg",
-      "pubdate": "2026-08-07T01:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
+      "link": "https://www.news1.kr/photos/8046241",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046241/no_water.jpg",
+      "pubdate": "2026-08-08T01:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8044607",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8044607/no_water.jpg",
-      "pubdate": "2026-08-07T01:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
+      "link": "https://www.news1.kr/photos/8046173",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046173/no_water.jpg",
+      "pubdate": "2026-08-08T01:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 사망자 수 추이",
-      "link": "https://www.news1.kr/photos/8043740",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8043740/no_water.jpg",
-      "pubdate": "2026-08-06T21:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
+      "title": "[오늘의 증시] 8월 7일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8046154",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046154/no_water.jpg",
+      "pubdate": "2026-08-08T01:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 호르무즈 해협 내 이란 영해",
-      "link": "https://www.news1.kr/photos/8043657",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8043657/no_water.jpg",
-      "pubdate": "2026-08-06T20:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_14.jpg"
+      "title": "[오늘의 그래픽] 태풍도 이긴 '한반도 폭염'…돌핀·찬홈 좌우로 비껴간다",
+      "link": "https://www.news1.kr/photos/8045407",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045407/no_water.jpg",
+      "pubdate": "2026-08-07T20:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 경상수지 추이",
-      "link": "https://www.news1.kr/photos/8043533",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/6/8043533/no_water.jpg",
-      "pubdate": "2026-08-06T19:02:21.092978+09:00",
-      "image": "images/graphics/뉴스1_15.jpg"
+      "title": "[그래픽] 에어컨 사용량별 월 전기요금수준",
+      "link": "https://www.news1.kr/photos/8045603",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045603/no_water.jpg",
+      "pubdate": "2026-08-07T20:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 트럼프 행정부 주요 이민 제한 정책",
+      "link": "https://www.news1.kr/photos/8045574",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045574/no_water.jpg",
+      "pubdate": "2026-08-07T20:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 미국 폴리실리콘 파생상품 관세 부과",
+      "link": "https://www.news1.kr/photos/8045214",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045214/no_water.jpg",
+      "pubdate": "2026-08-07T18:36:16.246161+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
 }
