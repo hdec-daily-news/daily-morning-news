@@ -1,171 +1,192 @@
 {
-  "generated_at": "2026-08-08T06:36:15.989754+09:00",
-  "date_label": "8/8(토)",
+  "generated_at": "2026-08-09T06:26:40.234734+09:00",
+  "date_label": "8/9(일)",
   "articles": [
     {
-      "title": "남북관계 원로들 \"北에 '조선' 호칭, 새로운 것 아냐\"(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016239688",
+      "title": "김민석 \"당원 1.7만명 정보 유출 1년…관리 무능 바로잡아야\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005318698",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_01_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "최휘영 문체 “폭염속 관람안전” 요청, 우상호 강원지사 “원주 복합문화 거점 조성” 주문",
-      "link": "https://n.news.naver.com/mnews/article/016/0002681020",
+      "title": "韓총리, 경북 청도 찾아 가뭄·폭염피해 점검…\"적극 대응\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016240159",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정통망법 비판한 美 의원들에 외교부 \"美기업 차별요소 없어\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318601",
+      "title": "'돌려차기 막말' 서범수 징계 개시…쇄신파 겨누나",
+      "link": "https://n.news.naver.com/mnews/article/055/0001379052",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“ISA 왜 이렇게 만들었나”…개미 반발에 李 대통령 직접 질타",
-      "link": "https://n.news.naver.com/mnews/article/018/0006347451",
+      "title": "장동혁, 황희 ‘버스하우스’에 “대통령·장관 자녀부터 살아보면”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003543014",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령, 국가폭력 피해자에 사과…\"국가가 책임지고 치유\"",
-      "link": "https://n.news.naver.com/mnews/article/119/0003119454",
+      "title": "천하람, 현역 의원 최초 논산훈련소 입소…2박3일 신병교육",
+      "link": "https://n.news.naver.com/mnews/article/022/0004149347",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'1주로 하한가' 막는다‥프리마켓 상·하한가 주문 금지",
-      "link": "https://n.news.naver.com/mnews/article/214/0001516587",
+      "title": "주유소 기름값 12주째 하락…그래도 L당 1800원대",
+      "link": "https://n.news.naver.com/mnews/article/023/0003991943",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "SK하이닉스, 용인·청주 신규 팹에 54조원 투자… HBM·낸드 생산 확대",
-      "link": "https://n.news.naver.com/mnews/article/366/0001184982",
+      "title": "SK하이닉스 54조 투자…용인·청주 거점 대규모 확대",
+      "link": "https://n.news.naver.com/mnews/article/011/0004649774",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_1.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_4.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_5.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_6.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_7.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "씨젠 2분기 영업이익 216억원…586% 급성장",
-      "link": "https://n.news.naver.com/mnews/article/374/0000526294",
+      "title": "퇴근길 생맥주 한잔도 부담?...술맛 떨어질 소식 나왔다",
+      "link": "https://n.news.naver.com/mnews/article/374/0000526303",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'비렉스' 품고 '해외'로…코웨이, 2분기 매출 1조4422억 14.6%↑",
-      "link": "https://n.news.naver.com/mnews/article/008/0005397106",
+      "title": "“벌써 폭락 충격 가셨나” 개미들 ‘빚투’ 또 시작…신용융자잔고 하루만에 1조 증가",
+      "link": "https://n.news.naver.com/mnews/article/011/0004649722",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "LG 산업 특화 AI 파운데이션 모델 성능 미·중 빅테크 제쳤다",
-      "link": "https://n.news.naver.com/mnews/article/421/0009102031",
+      "title": "KDB생명 7번째 매각 추진…산은 유증 협상이 변수",
+      "link": "https://n.news.naver.com/mnews/article/011/0004649688",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_10_1.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_10_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "'관저 이전 봐주기 감사' 유병호 기소에…감사원 “엄중한 책임감”",
-      "link": "https://n.news.naver.com/mnews/article/057/0001962543",
+      "title": "복지부, 불볕더위 길어지자 '폭염 대응 비상대책본부' 구성",
+      "link": "https://n.news.naver.com/mnews/article/001/0016239835",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“악! 이게 뭐야?” 물놀이장 출몰한 1.5m 구렁이 ‘깜짝’",
-      "link": "https://n.news.naver.com/mnews/article/018/0006347272",
+      "title": "추미애 \"국가직 소방 인건비 왜 경기도가 부담?…개혁 시급\"",
+      "link": "https://n.news.naver.com/mnews/article/057/0001962629",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'30년 만에 가족 찾았다'…폭염에 지쳐 울던 50대 男 알고보니",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318625",
+      "title": "대전 400세대 아파트 폭염 속 정전…당진 읍내동 돌풍으로 정전",
+      "link": "https://n.news.naver.com/mnews/article/001/0016240230",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'극한폭염' 막바지 기승…서울·하남·광양 등서 40도 넘어",
-      "link": "https://n.news.naver.com/mnews/article/055/0001378905",
+      "title": "축구협회 성접대 파문에 민주 “쇄신만이 답… 좌시 않겠다”",
+      "link": "https://n.news.naver.com/mnews/article/005/0001865656",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "가을 문턱 '입추'인데… 40도 향해 가는 '괴물 폭염'",
-      "link": "https://n.news.naver.com/mnews/article/469/0000946742",
+      "title": "전국 펄펄 끓는데 동해안엔 '물폭탄'… 강릉 80㎜ 폭우에 피해 속출",
+      "link": "https://n.news.naver.com/mnews/article/469/0000946926",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "韓·대만 수출액 나란히 日 추월",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318557",
+      "title": "\"하메네이 위독설 파다\"...강경파 득세에 협상 타결 불투명",
+      "link": "https://n.news.naver.com/mnews/article/052/0002390495",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 ‘美 원정출산 금지’ 행정명령 서명",
-      "link": "https://n.news.naver.com/mnews/article/011/0004649398",
+      "title": "日안보문서에 반격능력 향상 위한 개정 윤곽…“공격 드론 도입”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002681189",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프, 반도체 핵심 원료 '폴리실리콘'에 15% 관세 포고령 서명",
-      "link": "https://n.news.naver.com/mnews/article/660/0000114687",
+      "title": "스페인 정치권 “모로코 월드컵 주최국서 빼자”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012233618",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "日 대기업 여름 보너스, 사상 첫 100만엔대",
-      "link": "https://n.news.naver.com/mnews/article/022/0004149142",
+      "title": "美 기준금리 또 동결되나…7월 고용 예상밖 감소 전환",
+      "link": "https://n.news.naver.com/mnews/article/008/0005397188",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "스페인 세우타 사태 후폭풍...\"월드컵 주최국서 모로코 빼자\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002390388",
+      "title": "튀르키예 외무 \"메카 공동방위 협정, 이란 노리지 않아\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009103768",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,

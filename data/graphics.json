@@ -1,95 +1,15 @@
 {
-  "generated_at": "2026-08-08T06:36:16.246161+09:00",
-  "window_start": "2026-08-07T15:00:00+09:00",
-  "window_end": "2026-08-08T06:00:00+09:00",
+  "generated_at": "2026-08-09T06:26:40.475347+09:00",
+  "window_start": "2026-08-08T15:00:00+09:00",
+  "window_end": "2026-08-09T06:00:00+09:00",
   "items": [
     {
-      "source": "연합뉴스",
-      "title": "경찰 수사 통제 강화 방안 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260807000600044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/07/GYH2026080700060004401_P1.jpg",
-      "pubdate": "2026-08-07T21:00:00+09:00",
-      "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "7일 서울 주요지역 최고기온",
-      "link": "https://www.yna.co.kr/view/GYH20260807000500044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/07/GYH2026080700050004400_P1.jpg",
-      "pubdate": "2026-08-07T16:27:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "집값 더 오를라…보금자리론 수도권 비중 48.1%",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260807_0002206912&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/07/NISI20260807_0002206912_web.jpg?rnd=20260807152437",
-      "pubdate": "2026-08-07T15:24:37+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
-    },
-    {
       "source": "뉴스1",
-      "title": "[그래픽] 서울 주요지역 최고기온",
-      "link": "https://www.news1.kr/photos/8046365",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046365/no_water.jpg",
-      "pubdate": "2026-08-08T02:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8046241",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046241/no_water.jpg",
-      "pubdate": "2026-08-08T01:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8046173",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046173/no_water.jpg",
-      "pubdate": "2026-08-08T01:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 7일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8046154",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8046154/no_water.jpg",
-      "pubdate": "2026-08-08T01:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 태풍도 이긴 '한반도 폭염'…돌핀·찬홈 좌우로 비껴간다",
-      "link": "https://www.news1.kr/photos/8045407",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045407/no_water.jpg",
-      "pubdate": "2026-08-07T20:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 에어컨 사용량별 월 전기요금수준",
-      "link": "https://www.news1.kr/photos/8045603",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045603/no_water.jpg",
-      "pubdate": "2026-08-07T20:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 트럼프 행정부 주요 이민 제한 정책",
-      "link": "https://www.news1.kr/photos/8045574",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045574/no_water.jpg",
-      "pubdate": "2026-08-07T20:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 미국 폴리실리콘 파생상품 관세 부과",
-      "link": "https://www.news1.kr/photos/8045214",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045214/no_water.jpg",
-      "pubdate": "2026-08-07T18:36:16.246161+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
+      "title": "[그래픽] 8월 둘째 주 분양캘린더",
+      "link": "https://www.news1.kr/photos/8045871",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045871/no_water.jpg",
+      "pubdate": "2026-08-08T17:26:40.475347+09:00",
+      "image": "images/graphics/뉴스1_01.jpg"
     }
   ]
 }
