@@ -1,15 +1,47 @@
 {
-  "generated_at": "2026-08-09T06:26:40.475347+09:00",
-  "window_start": "2026-08-08T15:00:00+09:00",
-  "window_end": "2026-08-09T06:00:00+09:00",
+  "generated_at": "2026-08-10T06:28:35.291599+09:00",
+  "window_start": "2026-08-09T15:00:00+09:00",
+  "window_end": "2026-08-10T06:00:00+09:00",
   "items": [
     {
+      "source": "연합뉴스",
+      "title": "서울 준공업지역 활용 주택 공급대책 검토",
+      "link": "https://www.yna.co.kr/view/GYH20260809000600044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/09/GYH2026080900060004400_P1.jpg",
+      "pubdate": "2026-08-09T17:24:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "건강보험 당기수지 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260809000500044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/09/GYH2026080900050004400_P1.jpg",
+      "pubdate": "2026-08-09T15:18:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
       "source": "뉴스1",
-      "title": "[그래픽] 8월 둘째 주 분양캘린더",
-      "link": "https://www.news1.kr/photos/8045871",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/7/8045871/no_water.jpg",
-      "pubdate": "2026-08-08T17:26:40.475347+09:00",
-      "image": "images/graphics/뉴스1_01.jpg"
+      "title": "[그래픽] 요일별 주요일정(10~15일)",
+      "link": "https://www.news1.kr/photos/8047410",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/9/8047410/no_water.jpg",
+      "pubdate": "2026-08-10T02:28:35.291599+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 온열질환자 발생 현황",
+      "link": "https://www.news1.kr/photos/8047506",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/9/8047506/no_water.jpg",
+      "pubdate": "2026-08-10T01:28:35.291599+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 시금치 152%↑ 상추 42%↑, 채소가 금값…'히트플레이션' 밥상 덮쳤다",
+      "link": "https://www.news1.kr/photos/8047315",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/9/8047315/no_water.jpg",
+      "pubdate": "2026-08-09T23:28:35.291599+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }

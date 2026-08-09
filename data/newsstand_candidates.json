@@ -2,331 +2,242 @@
   {
     "presses": [
       "KBS",
-      "MBC",
       "SBS",
-      "YTN",
       "경향신문",
       "국민일보",
       "노컷뉴스",
       "뉴스1",
-      "동아일보",
-      "머니투데이",
       "문화일보",
       "서울신문",
       "세계일보",
-      "이데일리",
-      "조선일보",
-      "중앙일보",
-      "한겨레"
+      "조선일보"
     ],
     "articles": [
       {
         "press": "조선일보",
-        "title": "제주·인천 김민석 웃었다, 누적득표도 정청래에 역전",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/08/W7UFKV45GBH5XJM34STKTMLTAI/",
+        "title": "강원·TK서도 김민석 승리… 누적 1.45%p차로 벌어져",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/09/K7UHV3LDGBHIXDV335Y4Q5TUOI/",
         "score": 3
-      },
-      {
-        "press": "중앙일보",
-        "title": "제주·인천서 김민석 승∙∙∙누적득표 정청래 역전",
-        "link": "https://www.joongang.co.kr/article/25451833",
-        "score": 3
-      },
-      {
-        "press": "동아일보",
-        "title": "제주·인천서 김민석 이겼다… 누적 득표도 정청래에 역전",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260808/134441869/1",
-        "score": 3
-      },
-      {
-        "press": "한겨레",
-        "title": "김민석, ‘0.87%p’ 차이로 누적 1위 탈환…제주·인천서 정청래 제쳐",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272001.html",
-        "score": 5
-      },
-      {
-        "press": "한겨레",
-        "title": "김민석, ‘제주·인천’ 당원투표 1위… 정청래 5%p 차이 제쳐",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1271999.html",
-        "score": 5
       },
       {
         "press": "경향신문",
-        "title": "[속보] 김민석, 누적 득표율 선두 탈환 '단 0.87%P 차'···제주·인천 순회경선서 47.75%로 1위",
-        "link": "https://www.khan.co.kr/article/202608081858001/?nv=stand",
-        "score": 7
+        "title": "[속보] 민주당, 강원·TK 순회경선서 김민석 48.5%·정청래 44.4%",
+        "link": "https://www.khan.co.kr/article/202608091831001/?nv=stand",
+        "score": 5
       },
       {
         "press": "국민일보",
-        "title": "김민석, 與대표 경선 1위 탈환…제주·인천 승리",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001385&code=61111111&sid1=pol",
+        "title": "김민석 2연승 대세 굳히기… 정청래, 호남·수도권 배수진",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001526&code=11121100&sid1=pol",
         "score": 3
       },
       {
         "press": "세계일보",
-        "title": "김민석, 제주·인천서 5.6%p 차 승리…누적 1위로 올라서",
-        "link": "https://www.segye.com/newsView/20260808511017",
-        "score": 3
+        "title": "김민석 “연승가도로 승기” vs 정청래 “서울·경기 역전”",
+        "link": "https://www.segye.com/newsView/20260809512291",
+        "score": 5
       },
       {
         "press": "문화일보",
-        "title": "김민석, 수도권 첫 경선 인천서 승리…제주서도 정청래 이겨",
-        "link": "https://www.munhwa.com/article/11608152",
-        "score": 3
-      },
-      {
-        "press": "문화일보",
-        "title": "김민석-정청래 막말 공방…이들은 과연 화합할 수 있을까",
-        "link": "https://www.munhwa.com/article/11608160",
+        "title": "김민석, 주말경선 연승…정청래에 1.48%p 앞섰다",
+        "link": "https://www.munhwa.com/article/11608250",
         "score": 3
       },
       {
         "press": "서울신문",
-        "title": "김민석, 제주·인천 경선 승리…金 47.75%·鄭 42.08%",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/08/20260808500033",
+        "title": "김민석, 2주차 경선 싹쓸이… 정청래와 1.48%P차",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/10/20260810001006",
         "score": 3
       },
       {
         "press": "뉴스1",
-        "title": "김민석, 제주·인천 승리로 선두 탈환…鄭과 0.86%…",
-        "link": "https://www.news1.kr/politics/assembly/6253203",
-        "score": 3
-      },
-      {
-        "press": "뉴스1",
-        "title": "김민석, 제주·인천 승리로 선두 탈환…",
-        "link": "https://www.news1.kr/politics/assembly/6253203",
+        "title": "與전대 2주차 김민석 2연승, 박빙 선두…호남…",
+        "link": "https://www.news1.kr/politics/assembly/6253549",
         "score": 3
       },
       {
         "press": "노컷뉴스",
-        "title": "김민석 재역전…제주·인천서 鄭에 5%p차 승리 1위 탈환",
-        "link": "https://www.nocutnews.co.kr/news/6560112",
-        "score": 3
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "3 김민석 재역전…제주·인천서 鄭에 5%p차 승리 1위 탈환",
-        "link": "https://www.nocutnews.co.kr/news/6560112",
-        "score": 3
-      },
-      {
-        "press": "이데일리",
-        "title": "'엎치락뒤치락' 與 전대…김민석, 누적 1464표 차로 정청래 제쳐(종합)",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B02ns&sgb=E&newsid=03184886645545352",
+        "title": "김민석 2주차 싹쓸이, 승기 잡았지만 아직 '3부 능선'",
+        "link": "https://www.nocutnews.co.kr/news/6560290",
         "score": 5
       },
       {
-        "press": "머니투데이",
-        "title": "1위 탈환한 김민석, 누적 득표율 0.87% 차이로 정청래 제쳤다",
-        "link": "https://www.mt.co.kr/politics/2026/08/08/2026080819202740255?STAND=MT",
-        "score": 3
+        "press": "SBS",
+        "title": "김민석, 강원·TK 경선 '합산 1위'…정청래와 '초박빙'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696982&plink=STAND&cooper=NAVER",
+        "score": 5
       },
       {
-        "press": "YTN",
-        "title": "민주당권 '호남대전' 총력전…오늘 제주·인천 발표",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608080019107005_005.html",
+        "press": "KBS",
+        "title": "김민석, 강원·대구경북 경선 1위…누적 ‘박빙 승부’는 계속",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632248",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "SBS",
+      "뉴스1",
+      "문화일보",
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "주진우 “선관위 타임머신 탔나” icon_video",
+        "link": "https://www.joongang.co.kr/article/25451902",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "주진우“선관위, 4시 투표율 2시에 입력…타임머신?”",
+        "link": "https://www.munhwa.com/article/11608237",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "이번엔 '타임머신 선관위'…\"1시간 30…",
+        "link": "https://www.news1.kr/politics/assembly/6253310",
         "score": 2
       },
       {
         "press": "SBS",
-        "title": "제주·인천서 김민석 47.75%로 이겼다…득표 합산 보니",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696225&plink=STAND&cooper=NAVER",
-        "score": 3
-      },
-      {
-        "press": "KBS",
-        "title": "민주당 ‘차기 당권’ 제주·인천 경선…김민석 승리",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632030",
-        "score": 5
-      },
-      {
-        "press": "KBS",
-        "title": "민주당 당권 주자들, 인천에서도 난타전",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632017",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "이 시각 민주당 인천 지역 순회 경선‥경선 결과는?",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843357_37004.html",
-        "score": 0
+        "title": "\"선관위 직원, 미래에서 왔나…투표자 수 미리 입력\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696981&plink=STAND&cooper=NAVER",
+        "score": 2
       }
     ]
   },
   {
     "presses": [
-      "KBS",
-      "MBC",
       "경향신문",
-      "국민일보",
-      "노컷뉴스",
-      "뉴스1",
-      "디지털타임스",
-      "머니투데이",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "이 대통령, ‘결혼 페널티’ 개선 예고…“정책 때문에 망설이는 일 없어야”",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271991.html",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야”",
-        "link": "https://www.khan.co.kr/article/202608081423001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "‘결혼 불이익’ 없게끔…이 대통령 대출·청약·세제 점검 지시",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001372&code=61111211&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "李대통령 \"결혼 불이익 없앤다\"…대출·청약·…",
-        "link": "https://www.news1.kr/politics/president/6253066",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "李대통령 \"정책 때문에 결혼 망설이는 일 없어야\"",
-        "link": "https://www.nocutnews.co.kr/news/6560106",
-        "score": 2
-      },
-      {
-        "press": "디지털타임스",
-        "title": "李대통령 ‘결혼 페널티’ 정면 대응…“제도상 불이익에 혼인 망설이는 일 없어야”",
-        "link": "https://www.dt.co.kr/article/12077136",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "\"결혼 망설이게 하는 제도 없애라\"...李대통령, 대출 등 22개 과제 손본다",
-        "link": "https://www.mt.co.kr/politics/2026/08/08/2026080813414497921?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "이 대통령 ‘ISA 개편안’ 재검토 지시…야 “비겁한 책임 회피”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632031",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "이 대통령 “정책 때문에 결혼 망설이는 일 없어야”…‘22개 과제’ 개선 지시",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631982",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "이 대통령, '결혼 페널티' 정비 지시‥디딤돌 대출·특공 가점 등 22개 개편",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843355_37004.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "뉴스1",
-      "세계일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "오세훈 “용산공원 아파트, 노무현·문재인도 반대했다…1㎝ 훼손도 안 돼”",
-        "link": "https://www.hani.co.kr/arti/area/capital/1271998.html",
-        "score": 5
-      },
-      {
-        "press": "국민일보",
-        "title": "오세훈 “용산공원 아파트, 盧·文 원칙 스스로 뒤집는 것”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001382&code=61121111&sid1=soc",
-        "score": 5
-      },
-      {
-        "press": "세계일보",
-        "title": "오세훈 “용산공원 훼손 1㎝도 동의 못해…과거 盧·文정부 원칙과도 배치”",
-        "link": "https://www.segye.com/newsView/20260808506122",
-        "score": 5
-      },
-      {
-        "press": "뉴스1",
-        "title": "오세훈 \"용산공원에 아파트, 노무현도 짓지 …",
-        "link": "https://www.news1.kr/politics/general-politics/6253024",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "세계일보",
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "ISA 개편 재검토 지시에 與 “환영” 野 “졸속 국정”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001368&code=61111111&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "‘李 ISA 개편 재검토’ 지시… 野 “책임 회피” 與 “환영”",
-        "link": "https://www.segye.com/newsView/20260808509053",
-        "score": 2
-      },
-      {
-        "press": "이데일리",
-        "title": "투자자 반발에 ISA 개편 제동…여당 \"환영\" 야당 \"졸속 국정\"",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B01ns&sgb=E&newsid=02794566645545352",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보",
-      "서울신문"
+      "동아일보"
     ],
     "articles": [
       {
         "press": "동아일보",
-        "title": "천하람, 현역의원 최초 논산훈련소 입소",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260808/134441333/1",
-        "score": 0
+        "title": "친명 “친청, 정청래는 사진서 오려내고 신천지에 李 갖다 붙여”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134446105/2",
+        "score": 5
       },
       {
-        "press": "서울신문",
-        "title": "“현역 의원 최초” 천하람, 논산훈련소 입소 …각개전투·야간행군 한다",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/08/20260808500010",
+        "press": "경향신문",
+        "title": "민주당 최고위원 선거 누적투표 1위 최민희…현재 스코어 친청 2명, 친명 5명",
+        "link": "https://www.khan.co.kr/article/202608091953001/?nv=stand",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "발견 하루만에 여의도 360배 활활… ‘통제불능’ 캐나다 산불",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001500&code=61131111&sid1=int",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "하루만에 여의도 30배 잿더미로‥캐나다서 1만 8천 명 산불 대피령",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6843454_36925.html",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "젤렌스키 \"북한, 러시아에 약 5만명 배치…한국 지원 필요\"",
+        "link": "https://www.nocutnews.co.kr/news/6560272",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "젤렌스키 \"방공체계 부족, 한국 도움받고 싶다‥외교당국 접촉 중\"",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6843478_36925.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "YTN",
+      "국민일보",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "美 패트리엇 재고 1700기도 안 남아… 동북아 안보 우려",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001537&code=11141400&sid1=int",
+        "score": 0
+      },
+      {
+        "press": "서울신문",
+        "title": "美 패트리엇 1700발 뿐...주한미군 무기 차출에 안보 공백 우려",
+        "link": "https://www.seoul.co.kr/news/international/2026/08/10/20260810008001",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "친청서 올린 '李·신천지 연루' 사진… 바로 옆에 정청래도",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/10/P2YHQPSQZBFMTL5OGGLEKXULMQ/",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "장동혁 퇴진은커녕… ‘멱살-돌려차기’에 자멸하는 비당권파",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134446109/2",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "김민석 ‘1%p대 격차’ 1위…이번주 호남·수도권 ‘슈퍼위크’ 주목",
+        "link": "https://www.hani.co.kr/arti/politics/assembly/1272108.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
       "세계일보"
     ],
     "articles": [
       {
         "press": "세계일보",
-        "title": "선관위 특검 출범 초읽기… 14일 후보 압축, 9월초 수사 착수",
-        "link": "https://www.segye.com/newsView/20260807515662",
-        "score": 0
-      },
-      {
-        "press": "YTN",
-        "title": "'선관위 특검', 추천 절차 돌입…여야 동상이몽?",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608072250328943_005.html",
-        "score": 2
+        "title": "장동혁 ‘취임 1년 쇄신안’으로 사퇴론 정면돌파",
+        "link": "https://www.segye.com/newsView/20260809512288",
+        "score": 5
       }
     ]
   },
@@ -337,60 +248,47 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "野 “이재명 탓” vs 秋 “도민 증가·세수 부족”…‘경기도 재정난’ 책임 공방",
-        "link": "https://www.munhwa.com/article/11608119",
+        "title": "정청래의 실수 “이명박 임기내 광주반도체…”",
+        "link": "https://www.munhwa.com/article/11608246",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "이데일리"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "이데일리",
-        "title": "“경기도 곳간 왜 비었나”…장동혁 “李대통령이 주범” 추미애 “낡은 세제 탓”",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=I04ns&sgb=E&newsid=05152886645545024",
+        "press": "서울신문",
+        "title": "장동혁 ‘당원 중심 정당’ 개혁안 내놓는다…징계 논의도 본격화",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/10/20260810006003",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "YTN"
+      "디지털타임스"
     ],
     "articles": [
       {
-        "press": "YTN",
-        "title": "\"재건축·재개발로 공급\"…오세훈, 청와대에 백서전달",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0115_202608072248057564_005.html",
+        "press": "디지털타임스",
+        "title": "추미애, 경기도 경선 앞 사실상 정청래 지지…“개혁 일관성·진심 믿어”",
+        "link": "https://www.dt.co.kr/article/12077273",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "경향신문"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "[속보] 민주당 신임 인천시당위원장에 허종식 의원 선출···“인천은 대통령 배출한 곳, 모범적 시당 만들 것”",
-        "link": "https://www.khan.co.kr/article/202608081640001/?nv=stand",
-        "score": 4
-      }
-    ]
-  },
-  {
-    "presses": [
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "김민석, 이겼다 icon_video",
-        "link": "https://www.joongang.co.kr/article/25451833",
+        "press": "동아일보",
+        "title": "김민석, 박빙 1위로 역전…주말 호남서 승부 갈린다",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134446347/2",
         "score": 3
       }
     ]
@@ -402,8 +300,8 @@
     "articles": [
       {
         "press": "뉴시스",
-        "title": "장동혁, 사퇴론 속 이르면 금주 쇄신안 발표",
-        "link": "https://www.newsis.com/view/NISX20260807_0003741055",
+        "title": "연승가도 김민석, 우세 굳히나 與전대 승부처 호남대전 가열",
+        "link": "https://www.newsis.com/view/NISX20260809_0003741941",
         "score": 3
       }
     ]
@@ -415,34 +313,79 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "美국방차관, '지역 전쟁' 우려하며 \"합리적 핵옵션 필요\"",
-        "link": "https://www.chosun.com/international/us/2026/08/09/CNBCAWIEIJHMRG74GCSMG3CV3U/",
+        "title": "외교 관계까지 격하… 남미 두 앙숙 룰라·밀레이 '이념 전쟁'",
+        "link": "https://www.chosun.com/international/mideast-africa-latin/2026/08/10/F4H7DI2FPBHK3CUZYT5LG3RDV4/",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "美법원 \"대통령은 임시 세입자\" 백악관 연회장 공사 제동",
-        "link": "https://www.chosun.com/international/international_general/2026/08/08/NGQDAWP64JD4BOLQ6VZW7P5PXQ/",
+        "press": "동아일보",
+        "title": "민주당 당원 1.7만명 정보 유출에 조승래 “책임 통감”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134446342/2",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "日 안보문서 개정 윤곽 \"장사정 미사일·공격 드론 확대\"",
-        "link": "https://www.chosun.com/international/international_general/2026/08/08/OZEO4534LVCGZPMDOS4JX6WVLQ/",
+        "press": "한겨레",
+        "title": "‘골’ 깊어지는 민주 전대, 청와대도 우려…“갈등 봉합에 시간 걸릴 것”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272110.html",
+        "score": 2
+      },
+      {
+        "press": "한겨레",
+        "title": "골 깊어지는 민주 전대, 청와대도 우려…“갈등 봉합에 시간 걸릴 것”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272110.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "“북에서 파견 온 특검이냐” “계엄은 정당”…내란 법정서 계속되는 궤변들",
+        "link": "https://www.hani.co.kr/arti/society/society_general/1272112.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "네타냐후 “트럼프 가자지구 평화안 거부···내가 총리인 한 팔레스타인 국가 없다”",
+        "link": "https://www.khan.co.kr/article/202608092142001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "“북한 영상인 줄” 재난 현장 감동 연출에 역풍 맞은 총리···‘재난 이미지 정치’의 함정 [이윤정 기자의 소소월드]",
+        "link": "https://www.khan.co.kr/article/202608090930001/?nv=stand",
         "score": 2
       }
     ]
@@ -454,8 +397,8 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "‘11만호 공급’카드 꺼낸 정부…여야 ‘부동산 네탓 공방’ 치열",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001257&code=11121600&sid1=pol",
+        "title": "與 “청년주택·비아파트, 모듈러 공급”… 이번엔 시공 속도전",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001531&code=11121100&sid1=pol",
         "score": 2
       }
     ]
@@ -467,47 +410,47 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "내년이면 한국서 사라지는 ‘개고기’…북한선 “최고 보양식”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001240&code=61111611&sid1=pol",
+        "title": "“투표율·득표율 조작은 천지차이”…국힘, 부정선거론 충돌 격화",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001498&code=61111511&sid1=pol",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "국민일보"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "‘사면초가’…황희 ‘버스 하우스’ 여당서도 ‘선긋기’...내로남불식 인식 질타",
-        "link": "https://www.munhwa.com/article/11608151",
+        "press": "국민일보",
+        "title": "민주당 “전기요금 누진체계 보완 요청…기후부 장관 적극 검토”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001461&code=61111111&sid1=pol",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "국민일보"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "“반투명 UFO 진짜 봤다”…美 행정부 문서에 등록된 국방부 직원 부부의 증언",
-        "link": "https://www.munhwa.com/article/11608158",
+        "press": "국민일보",
+        "title": "“여의도 한강공원에 폭탄” 테러 예고 글… 경찰 추적",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001515&code=61121111&sid1=soc",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "서울신문"
+      "세계일보"
     ],
     "articles": [
       {
-        "press": "서울신문",
-        "title": "이 대통령 “주택 공급 물량 최대한 늘리고 앞당기는 방안 마련하라”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/07/20260807500238",
+        "press": "세계일보",
+        "title": "이란전 수렁에 美 패트리엇 미사일 급감… “주한미군 등 전력 취약해질 것” 경고음",
+        "link": "https://www.segye.com/newsView/20260809512128",
         "score": 2
       }
     ]
@@ -519,8 +462,27 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "與김보미, 황희 '버스하우스' 제안…",
-        "link": "https://www.news1.kr/politics/assembly/6253121",
+        "title": "\"이란 대통령, 최고지도자 모즈타바와…",
+        "link": "https://www.news1.kr/world/middleeast-africa/6253555",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "마수드 페제시키안 이란 대통령이 9일(현지시간) 최고지도자 선출 이후 은…",
+        "link": "https://www.news1.kr/world/middleeast-africa/6253555",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "젤렌스키 \"북한군 수만 명, 실전 경…",
+        "link": "https://www.news1.kr/world/europe/6253571",
         "score": 2
       }
     ]
@@ -532,8 +494,8 @@
     "articles": [
       {
         "press": "디지털타임스",
-        "title": "“군 적금 깨 도박빚 갚아”…‘사이버도박 중독’ 국방부, 자진신고제 검토",
-        "link": "https://www.dt.co.kr/article/12076829",
+        "title": "李대통령 “정책 때문에 결혼 망설이는 일 없어야… 불합리한 제도 고칠 것”",
+        "link": "https://www.dt.co.kr/article/12077157",
         "score": 2
       }
     ]
@@ -545,86 +507,86 @@
     "articles": [
       {
         "press": "YTN",
-        "title": "'막말 전쟁' 얼룩진 전당대회…내홍·후유증 우려",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608080504439436_005.html",
+        "title": "미국 공화당 경제·안보 우위 흔들…CNN \"트럼프의 이란 전쟁 오판 탓\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202608100258523931_005.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "YTN"
+      "KBS"
     ],
     "articles": [
       {
-        "press": "YTN",
-        "title": "'이상'과 '현실' 충돌 속에 점점 멀어지는 북한",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608080619559695_005.html",
+        "press": "KBS",
+        "title": "정부, 일본 측 ‘독도 해양조사’ 반발에 “정당한 활동”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632185",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "국민일보"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "국민일보",
-        "title": "북한 해킹조직 역으로 털렸다…57개국 1640개 기업 공격 사실 확인",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001241&code=61111611&sid1=pol",
+        "press": "중앙일보",
+        "title": "[이현상] 대통령 지지율에 출현한 장대음봉",
+        "link": "https://www.joongang.co.kr/article/25451995",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "세계일보"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "벽돌 나르던 손으로 연기를 쌓다, 허남준·안보현·이도현의 굳은살 기록",
-        "link": "https://www.segye.com/newsView/20260623515973",
+        "press": "동아일보",
+        "title": "조현병 딸 25년 병원 안보낸 부모, 시간을 되돌릴 수 있다면…",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134445791/2",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "뉴시스"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "뉴시스",
-        "title": "金 굳히기냐 鄭 재역전이냐 오늘 與 전대 TK·강원 경선",
-        "link": "https://www.newsis.com/view/NISX20260808_0003741493",
+        "press": "경향신문",
+        "title": "새로운 정당이 절실한 까닭",
+        "link": "https://www.khan.co.kr/article/202608091957005/?nv=stand",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "국힘, 선거 참패 두 달…쇄신 대신 윤리위 징계만 늘어",
-        "link": "https://www.nocutnews.co.kr/news/6560046",
+        "press": "서울신문",
+        "title": "연일 日 때리는 북한…중국과 밀착해 핵보유 명분 쌓나",
+        "link": "https://www.seoul.co.kr/news/politics/north/2026/08/10/20260810006004",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "선넘은 극한 폭염…선넘은 야당의 말말말[노컷한컷]",
-        "link": "https://www.nocutnews.co.kr/news/6559720",
+        "press": "뉴스1",
+        "title": "국회 6·3 투표용지 부족 사태 진상규명 국정조사특별위원회 소속 주진우 국민의…",
+        "link": "https://www.news1.kr/politics/assembly/6253310",
         "score": 0
       }
     ]
@@ -636,21 +598,8 @@
     "articles": [
       {
         "press": "이데일리",
-        "title": "`尹 탄핵반대` 손현보 목사, 백악관서 트럼프 접견…사진 공개",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B06ns&sgb=E&newsid=02912646645545352",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "머니투데이"
-    ],
-    "articles": [
-      {
-        "press": "머니투데이",
-        "title": "이스라엘 역사상 가장 중요한 선거가 10월 치러진다 [PADO]",
-        "link": "https://www.mt.co.kr/world/2026/08/08/2026080716054772754?STAND=MT",
+        "title": "의대증원 드라이브에도…메울 길 안보이는 분만·수술실 인력공백",
+        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B06ns&sgb=E&newsid=01561286645546008",
         "score": 0
       }
     ]
