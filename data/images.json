@@ -1,172 +1,181 @@
 {
-  "generated_at": "2026-08-10T06:28:35.040481+09:00",
-  "date_label": "8/10(월)",
+  "generated_at": "2026-08-11T06:38:46.651524+09:00",
+  "date_label": "8/11(화)",
   "articles": [
     {
-      "title": "추미애 \"경기도 부자 착시현상…이중모순에 갇힌 재정\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014116075",
+      "title": "李대통령 지지율 43.3%…4주째 하락해 취임 후 최저[리얼미터]",
+      "link": "https://n.news.naver.com/mnews/article/025/0003543311",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_01_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_01_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "김민석·정청래, 박빙 승부 지속…호남·수도권에서 결판",
-      "link": "https://n.news.naver.com/mnews/article/029/0003041438",
+      "title": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002817946",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 한정애 “황희 ‘버스하우스’ 실현가능성 없어…해프닝으로 봐달라”",
-      "link": "https://n.news.naver.com/mnews/article/022/0004149511",
+      "title": "한미 야외 기동훈련 3분의 1로 축소…'전작권 2단계' 검증 놓고도 입장차",
+      "link": "https://n.news.naver.com/mnews/article/448/0000632695",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘책 정치’ 文 평산책방 “개점 1200일… 63만명 다녀가”",
-      "link": "https://n.news.naver.com/mnews/article/023/0003991995",
+      "title": "'버스 하우스' 논란 황희, 사흘만에 사과…“청년세대와 국민께 큰 심려와 실망\"",
+      "link": "https://n.news.naver.com/mnews/article/437/0000505390",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_04_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "오늘 선관위 국조 마지막 청문회…투표율 조작 의혹 집중 추궁",
-      "link": "https://n.news.naver.com/mnews/article/003/0014116671",
+      "title": "李 “3대 메가 전격전”…충청 246조·영남 107조 연내 시작",
+      "link": "https://n.news.naver.com/mnews/article/025/0003543453",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "신종피싱주의보…”주무관인데, 무전기 대리구매 하면 차액 줍니다”",
-      "link": "https://n.news.naver.com/mnews/article/028/0002817718",
+      "title": "삼성전자·日 NTT 도코모, AI-RAN 기술 검증…자동 서비스 품질 최적화",
+      "link": "https://n.news.naver.com/mnews/article/018/0006348607",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_06_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "토허제 구역의 ‘전세 낀 집’ 내년에도 사고 팔 수 있다",
-      "link": "https://n.news.naver.com/mnews/article/023/0003992133",
+      "title": "美 이란 협상 교착에 일제히 하락 마감[뉴욕증시]",
+      "link": "https://n.news.naver.com/mnews/article/277/0005801205",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"이건 못 참지, 약속한 성과급 왜 바꾸나\"…SK하이닉스 직원 3500명 '우르르'",
-      "link": "https://n.news.naver.com/mnews/article/277/0005800546",
+      "title": "SK하이닉스, 충칭공장 지분 매각설에 \"확정된 사항 없다\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349021",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
-      "link": "https://n.news.naver.com/mnews/article/025/0003543175",
+      "title": "SK바이오사이언스, 실적 개선에 영업손실 58% 줄여...글로벌 사업 확대 '속도'",
+      "link": "https://n.news.naver.com/mnews/article/014/0005559532",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "발표 나흘 만에 재검토…ISA·주가누르기 방지 뭐가 문제였길래",
-      "link": "https://n.news.naver.com/mnews/article/003/0014116140",
+      "title": "NH證 “‘천스닥’ 회복하려면 부실기업부터 내보내야”",
+      "link": "https://n.news.naver.com/mnews/article/366/0001185169",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "서울 공원 야경 명소 한눈에…정원도시서울 매거진 발행",
-      "link": "https://n.news.naver.com/mnews/article/003/0014116709",
+      "title": "인천 앞바다 모터보트 실종 낚시객 3명, 11시간 만에 구조 [영상]",
+      "link": "https://n.news.naver.com/mnews/article/666/0000118485",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "매일유업 평택공장서 저장 탱크 청소하던 근로자 2명 사상",
-      "link": "https://n.news.naver.com/mnews/article/469/0000947046",
+      "title": "이상일 시장, “경기도 적자 메우려 시·군 법인지방소득세 가져가선 안 돼”",
+      "link": "https://n.news.naver.com/mnews/article/081/0003669074",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_12_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "삼프로TV 개인정보 털렸다...계좌·카드정보 등 46만건 유출",
-      "link": "https://n.news.naver.com/mnews/article/215/0001261704",
+      "title": "법무부 감찰위, 13일 박상용 징계 심의‥박 검사 \"준비 시간 부족\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001516954",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_13_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "전국 폭염 속 소나기…비 온 뒤 다시 '무더위'",
-      "link": "https://n.news.naver.com/mnews/article/119/0003119735",
+      "title": "\"침대에 묶어놓고\" 11살 아이 숨져…'학대 신고' 4건에도 못 막았다[자막뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/055/0001379534",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "말다툼 중 어머니 흉기 살해 18세 아들…구속영장 신청",
-      "link": "https://n.news.naver.com/mnews/article/666/0000118392",
+      "title": "광주 5개 구를 ‘자치시’로…국회에 법안 발의",
+      "link": "https://n.news.naver.com/mnews/article/056/0012235003",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "예멘 후티 반군 \"사우디 정유시설 드론으로 타격\"",
-      "link": "https://n.news.naver.com/mnews/article/057/0001962762",
+      "title": "프란체스카 홍 돌풍 위스콘신…트럼프-바이드-트럼프 ‘스윙보트’",
+      "link": "https://n.news.naver.com/mnews/article/028/0002817930",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "막무가내 이란 \"美, MOU 위반 배상해야 호르무즈 재개방\"",
-      "link": "https://n.news.naver.com/mnews/article/088/0001022689",
+      "title": "\"애플, 중국 칩 테스트\"‥\"메모리주 급락 끝나\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001516982",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "러 물류망 겨냥한 우크라 ‘40일 작전’…손실액 17조원 추산",
-      "link": "https://n.news.naver.com/mnews/article/366/0001185132",
+      "title": "美 국내선서 한국인 체포…이민 단속 공항으로 확대",
+      "link": "https://n.news.naver.com/mnews/article/422/0000894411",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"이란 대통령, 최고지도자 모즈타바와 회담\"…'얼굴 없는 통치' 끝내나",
-      "link": "https://n.news.naver.com/mnews/article/421/0009104689",
+      "title": "젤렌스키, 한국에 '방공 지원' 요청…\"북한군 3만∼5만 러 배치\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005318911",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "네타냐후, 트럼프 중재 재거부…\"하마스 무장해제 전 철군 없다\"",
-      "link": "https://n.news.naver.com/mnews/article/014/0005559102",
+      "title": "소니·TSMC, 日구마모토에 9조 합작투자…2029년 이미지센서 양산",
+      "link": "https://n.news.naver.com/mnews/article/421/0009106244",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
