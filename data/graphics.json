@@ -1,95 +1,103 @@
 {
-  "generated_at": "2026-08-11T06:38:46.822293+09:00",
-  "window_start": "2026-08-10T15:00:00+09:00",
-  "window_end": "2026-08-11T06:00:00+09:00",
+  "generated_at": "2026-08-12T06:43:16.146943+09:00",
+  "window_start": "2026-08-11T15:00:00+09:00",
+  "window_end": "2026-08-12T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "콜롬비아 규모 7.4 지진 발생",
-      "link": "https://www.yna.co.kr/view/GYH20260810000600044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/10/GYH2026081000060004402_P1.jpg",
-      "pubdate": "2026-08-10T22:24:00+09:00",
+      "title": "2026 세계 주요 지진",
+      "link": "https://www.yna.co.kr/view/GYH20260811000600044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/11/GYH2026081100060004400_P1.jpg",
+      "pubdate": "2026-08-11T16:56:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "메가프로젝트 2차 회의 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260810000500044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/10/GYH2026081000050004400_P1.jpg",
-      "pubdate": "2026-08-10T20:03:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
+      "source": "뉴시스",
+      "title": "서울·강남3구 토허제 신청 감소",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209233&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209233_web.jpg?rnd=20260811172037",
+      "pubdate": "2026-08-11T17:20:37+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "민주 45.4% 국힘 24.9%… 양당 지지도 격차 20.5%p",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209017&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209017_web.jpg?rnd=20260811052021",
-      "pubdate": "2026-08-11T05:20:21+09:00",
+      "title": "‘불의 고리’ 콜롬비아서 규모 7.4 강진…사망 132명",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209837&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209837_web.jpg?rnd=20260811165345",
+      "pubdate": "2026-08-11T16:53:45+09:00",
       "image": "images/graphics/뉴시스_03.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "이 대통령 국정수행 지지율 44.3%",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260810_0002208652&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/10/NISI20260810_0002208652_web.jpg?rnd=20260811051826",
-      "pubdate": "2026-08-11T05:18:26+09:00",
+      "title": "10대 기업 무역집중도 55.3%…역대 최고",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209708&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209708_web.jpg?rnd=20260811152110",
+      "pubdate": "2026-08-11T15:21:10+09:00",
       "image": "images/graphics/뉴시스_04.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "이란의 강경 청구서…트럼프 출구전략 흔들",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260810_0002208304&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/10/NISI20260810_0002208304_web.jpg?rnd=20260810162919",
-      "pubdate": "2026-08-10T16:29:19+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 지역별 농업용수 저수율 현황",
+      "link": "https://www.news1.kr/photos/8051080",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8051080/no_water.jpg",
+      "pubdate": "2026-08-12T02:43:16.146943+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 온열질환자 발생 현황",
-      "link": "https://www.news1.kr/photos/8049257",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8049257/no_water.jpg",
-      "pubdate": "2026-08-11T01:38:46.822293+09:00",
+      "title": "[그래픽] 이정후 시즌 9호 홈런",
+      "link": "https://www.news1.kr/photos/8051016",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8051016/no_water.jpg",
+      "pubdate": "2026-08-12T01:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8049163",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8049163/no_water.jpg",
-      "pubdate": "2026-08-11T00:38:46.822293+09:00",
+      "link": "https://www.news1.kr/photos/8050897",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050897/no_water.jpg",
+      "pubdate": "2026-08-12T00:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 10일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8049151",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8049151/no_water.jpg",
-      "pubdate": "2026-08-11T00:38:46.822293+09:00",
+      "title": "[오늘의 증시] 코스피 코스닥(8월 11일)",
+      "link": "https://www.news1.kr/photos/8050895",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050895/no_water.jpg",
+      "pubdate": "2026-08-12T00:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 7월 '신고가' 쏟아진 서울…8월 '보유세 급매' 2000건",
-      "link": "https://www.news1.kr/photos/8049038",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8049038/no_water.jpg",
-      "pubdate": "2026-08-11T00:38:46.822293+09:00",
+      "title": "[그래픽] 로또 미수령 당첨금 자동지급 절차",
+      "link": "https://www.news1.kr/photos/8050816",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050816/no_water.jpg",
+      "pubdate": "2026-08-12T00:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8048010",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8048010/no_water.jpg",
-      "pubdate": "2026-08-10T17:38:46.822293+09:00",
+      "title": "[그래픽] 15호 태풍 찬홈 예상 진로",
+      "link": "https://www.news1.kr/photos/8050590",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050590/no_water.jpg",
+      "pubdate": "2026-08-11T23:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8048007",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/10/8048007/no_water.jpg",
-      "pubdate": "2026-08-10T17:38:46.822293+09:00",
+      "title": "[오늘의 그래픽] 대학가 주거비 껑충…이대 앞 원룸 '월세·관리비' 87만원",
+      "link": "https://www.news1.kr/photos/8050481",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050481/no_water.jpg",
+      "pubdate": "2026-08-11T23:43:16.146943+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 국제유가 추이",
+      "link": "https://www.news1.kr/photos/8049605",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8049605/no_water.jpg",
+      "pubdate": "2026-08-11T17:43:16.146943+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
     }
   ]
 }

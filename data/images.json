@@ -1,185 +1,171 @@
 {
-  "generated_at": "2026-08-11T06:38:46.651524+09:00",
-  "date_label": "8/11(화)",
+  "generated_at": "2026-08-12T06:43:15.958913+09:00",
+  "date_label": "8/12(수)",
   "articles": [
     {
-      "title": "李대통령 지지율 43.3%…4주째 하락해 취임 후 최저[리얼미터]",
-      "link": "https://n.news.naver.com/mnews/article/025/0003543311",
+      "title": "국방부 \"광주 군공항 2028년까지 이전…미군 공여지 조속 반환 협의\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000894712",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_01_2.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_01_3.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견”",
-      "link": "https://n.news.naver.com/mnews/article/028/0002817946",
+      "title": "이재명 \"경찰 책임 커져…범죄 피해 국민 우려 대책 보고 하라\"",
+      "link": "https://n.news.naver.com/mnews/article/437/0000505609",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한미 야외 기동훈련 3분의 1로 축소…'전작권 2단계' 검증 놓고도 입장차",
-      "link": "https://n.news.naver.com/mnews/article/448/0000632695",
+      "title": "국방부·방첩사, 핵잠개발 전담조직 신설",
+      "link": "https://n.news.naver.com/mnews/article/022/0004150183",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'버스 하우스' 논란 황희, 사흘만에 사과…“청년세대와 국민께 큰 심려와 실망\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000505390",
+      "title": "연일 '개혁 지도부' 강조하는 추미애…정청래 지원사격?",
+      "link": "https://n.news.naver.com/mnews/article/079/0004177694",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_04_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "李 “3대 메가 전격전”…충청 246조·영남 107조 연내 시작",
-      "link": "https://n.news.naver.com/mnews/article/025/0003543453",
+      "title": "\"논리적 비약\" 국힘 의원과 충돌…'낯설다 윤상현'[비하인드 뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/437/0000505699",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "삼성전자·日 NTT 도코모, AI-RAN 기술 검증…자동 서비스 품질 최적화",
-      "link": "https://n.news.naver.com/mnews/article/018/0006348607",
+      "title": "코스닥 급등 못 믿는 개미들…‘하락 베팅’ 인버스 담았다",
+      "link": "https://n.news.naver.com/mnews/article/024/0000107474",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_06_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "美 이란 협상 교착에 일제히 하락 마감[뉴욕증시]",
-      "link": "https://n.news.naver.com/mnews/article/277/0005801205",
+      "title": "현대차 노조, 여름휴가 후 첫 부분파업 예고…누적 파업만 60시간",
+      "link": "https://n.news.naver.com/mnews/article/023/0003992406",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "SK하이닉스, 충칭공장 지분 매각설에 \"확정된 사항 없다\"",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349021",
+      "title": "김윤덕 “세제개편 단계적 시행해 충격 줄여야”… 野 “정책이 시장 이길 수 있나” 질의엔 金 “예”",
+      "link": "https://n.news.naver.com/mnews/article/020/0003740254",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "SK바이오사이언스, 실적 개선에 영업손실 58% 줄여...글로벌 사업 확대 '속도'",
-      "link": "https://n.news.naver.com/mnews/article/014/0005559532",
+      "title": "\"넥센타이어, 하반기 비용 확대 불가피…목표가↓\"-키움",
+      "link": "https://n.news.naver.com/mnews/article/015/0005319430",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "NH證 “‘천스닥’ 회복하려면 부실기업부터 내보내야”",
-      "link": "https://n.news.naver.com/mnews/article/366/0001185169",
+      "title": "원룸·오피스텔 관리비 '깜깜이' 줄인다…중개사가 공동관리비도 설명해야",
+      "link": "https://n.news.naver.com/mnews/article/374/0000526785",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "인천 앞바다 모터보트 실종 낚시객 3명, 11시간 만에 구조 [영상]",
-      "link": "https://n.news.naver.com/mnews/article/666/0000118485",
+      "title": "경찰, 김영환 전 충북지사 불구속 송치",
+      "link": "https://n.news.naver.com/mnews/article/005/0001866260",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이상일 시장, “경기도 적자 메우려 시·군 법인지방소득세 가져가선 안 돼”",
-      "link": "https://n.news.naver.com/mnews/article/081/0003669074",
+      "title": "전남광주 서부권 \"목포대·순천대 통합, 의대 신설 결단해야\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016245021",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "법무부 감찰위, 13일 박상용 징계 심의‥박 검사 \"준비 시간 부족\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001516954",
+      "title": "창동·상계 찾은 G3 균형발전특별분과 \"동북권 새 성장거점으로\"",
+      "link": "https://n.news.naver.com/mnews/article/008/0005398723",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"침대에 묶어놓고\" 11살 아이 숨져…'학대 신고' 4건에도 못 막았다[자막뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/055/0001379534",
+      "title": "서울 가양동 아파트 화재 2명 사망…뇌병변 장애인 모친과 아들(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016245588",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "광주 5개 구를 ‘자치시’로…국회에 법안 발의",
-      "link": "https://n.news.naver.com/mnews/article/056/0012235003",
+      "title": "경남 가뭄에 '국가소방동원령' 발령…전국 물탱크차 200대 투입",
+      "link": "https://n.news.naver.com/mnews/article/014/0005560248",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "프란체스카 홍 돌풍 위스콘신…트럼프-바이드-트럼프 ‘스윙보트’",
-      "link": "https://n.news.naver.com/mnews/article/028/0002817930",
+      "title": "'이란전' 발목 잡힌 트럼프의 현실 도피… \"호르무즈 열려 있다\" 또 궤변",
+      "link": "https://n.news.naver.com/mnews/article/469/0000947367",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"애플, 중국 칩 테스트\"‥\"메모리주 급락 끝나\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001516982",
+      "title": "베네수·日 이어 또 ‘불의 고리’… 콜롬비아 규모 7.4 지진 강타",
+      "link": "https://n.news.naver.com/mnews/article/005/0001866291",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美 국내선서 한국인 체포…이민 단속 공항으로 확대",
-      "link": "https://n.news.naver.com/mnews/article/422/0000894411",
+      "title": "22%p 앞선 프란체스카 홍…위스콘신 경선, 미시간처럼 ‘깜짝 접전’ 될까",
+      "link": "https://n.news.naver.com/mnews/article/028/0002818123",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "젤렌스키, 한국에 '방공 지원' 요청…\"북한군 3만∼5만 러 배치\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318911",
+      "title": "홍해서 화물선 피격, 선원 3명 사망…파키스탄 해역에서도 미사일 공격",
+      "link": "https://n.news.naver.com/mnews/article/011/0004650792",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "소니·TSMC, 日구마모토에 9조 합작투자…2029년 이미지센서 양산",
-      "link": "https://n.news.naver.com/mnews/article/421/0009106244",
+      "title": "유튜브 수익 창출 문턱 2배 높인다…시청 8000시간·쇼츠 2000만회",
+      "link": "https://n.news.naver.com/mnews/article/654/0000194671",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_20_1.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }

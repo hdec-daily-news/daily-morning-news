@@ -1,87 +1,101 @@
 [
   {
     "presses": [
-      "KBS",
-      "뉴스1",
-      "문화일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "이 대통령 “반도체, 속도전 넘어 전격전…광주 군공항 기능 2년내 옮겨라”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272282.html",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "靑 “메가특구특별법 연내 제정 추진…광주 군공항 2028년 분산배치”",
-        "link": "https://www.munhwa.com/article/11608531",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "靑 \"연내 메가특구특별법 제정…주52시간 특…",
-        "link": "https://www.news1.kr/politics/president/6254699",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "청와대 “연내 메가특구특별법 제정…10년 간 1조 원 ‘함께 성장프로젝트’”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633258",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
+      "MBC",
+      "SBS",
       "경향신문",
       "뉴스1",
-      "한겨레"
+      "뉴시스",
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272287.html",
-        "score": 5
-      },
-      {
-        "press": "한겨레",
-        "title": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272252.html",
-        "score": 5
+        "press": "동아일보",
+        "title": "北, 동쪽 방향으로 미상 발사체 발사…6일 만에 도발 재개",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461883/1",
+        "score": 0
       },
       {
         "press": "경향신문",
-        "title": "정청래 “전북엔 560조 소·부·장 공장”…김민석 “호남 메가 1순위 추진”",
-        "link": "https://www.khan.co.kr/article/202608102113005/?nv=stand",
-        "score": 5
+        "title": "[속보] 합참 “북한, 동쪽 방향으로 미상 발사체 발사”",
+        "link": "https://www.khan.co.kr/article/202608120616001/?nv=stand",
+        "score": 4
+      },
+      {
+        "press": "뉴시스",
+        "title": "北 6일만에 도발 재개 동쪽으로 발사체 발사",
+        "link": "https://www.newsis.com/view/NISX20260812_0003745278",
+        "score": 0
       },
       {
         "press": "뉴스1",
-        "title": "민주당 전대 호남 투표 앞두고 난타전 김 \"경제 다뤄봤나\" 정 \"무시 일가견\" 송 \"정…",
-        "link": "https://www.news1.kr/politics/assembly/6254782",
+        "title": "北, 동쪽 방향으로 미상 발사체…6일만에 도발 …",
+        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6256128",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "북한이 12일 동쪽 방향으로 미상 발사체를 발사했다고 합동참모본부가 밝혔다. 합참…",
+        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6256128",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "北, 동쪽 방향으로 미상 발사체…6일…",
+        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6256128",
+        "score": 0
+      },
+      {
+        "press": "SBS",
+        "title": "[속보] 북한, 동쪽 방향으로 미상 발사체…탄도미사일이면 6일만",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701061&plink=STAND&cooper=NAVER",
         "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "[속보] 합참 \"북한, 동쪽 방향으로 미상 발사체 발사\" 합참 \"북한, 동쪽 방향으로 미상 발사체 발사\" ▶MBC뉴스를 네이버 메인에서 확인하세요. ▶MBC뉴스는 24 시간 여러분의 제보를 기다립니다. ▷전화 02-784-4000 ▷ 이메일 mbcjebo@mbc.co.kr ▷ 카카오톡 @mbc제보",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6844093_36911.html",
+        "score": 4
       }
     ]
   },
   {
     "presses": [
-      "국민일보",
-      "서울신문"
+      "YTN",
+      "경향신문",
+      "뉴스1",
+      "동아일보",
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "국민일보",
-        "title": "이란 새 안보수장에 초강경파… 트럼프는 ‘로키’ 급선회",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001825&code=61131111&sid1=int",
+        "press": "동아일보",
+        "title": "선관위, ‘투표용지 부족’ 서울시장 선거소청 기각",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461063/2",
         "score": 2
       },
       {
-        "press": "서울신문",
-        "title": "“핵보다 호르무즈”… 이란 안보사령탑에 초강경파 원로 등판",
-        "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/08/11/20260811014010",
+        "press": "한겨레",
+        "title": "선관위 서울시장 선거소청 기각…“투표지 부족, 결과에 영향 안 미쳐”",
+        "link": "https://www.hani.co.kr/arti/politics/election/1272452.html",
+        "score": 2
+      },
+      {
+        "press": "경향신문",
+        "title": "중앙선관위, 서울시장 선거소청 기각…“용지 부족, 선거 결과에 영향 없어”",
+        "link": "https://www.khan.co.kr/article/202608111829001/?nv=stand",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "선관위, 서울시장 선거소청 '기각'…",
+        "link": "https://www.news1.kr/politics/assembly/6255960",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "서울시장 선거소청 기각…\"선거결과엔 영향 안 줘\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608120052388353_005.html",
         "score": 2
       }
     ]
@@ -89,72 +103,80 @@
   {
     "presses": [
       "MBC",
-      "세계일보"
+      "동아일보",
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "트럼프에 반기 든 네타냐후… 이 ‘10월 총선’ 극우 결집 노림수 베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 미국 대통령이 주도하는 평화위원회의 가자지구 평화구상을 거부하며 파문이 확대되고 있다. 이스라엘이 가자지구 철군에 부정적 입장을 내비친 것이 처음은 아니지만 트럼프 대통령의 요구에 대해 네타냐후 총리가 공개적으로 부정적 입장을 표했기 때문이다. 양측 갈등이 이란 전쟁에 영향을 미칠 수 있다는 분석도 나온다.9일(현지시간) 미국 뉴욕타임스(NYT) 등에 따르면 네타냐후 총리는 이날 각료회의에서 “명확",
-        "link": "https://www.segye.com/newsView/20260810518512",
+        "press": "동아일보",
+        "title": "정청래 “바닥 민심은 나” 김민석 “전북 메가플랜 실현”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461068/2",
+        "score": 5
+      },
+      {
+        "press": "서울신문",
+        "title": "호남 슈퍼위크…김민석·정청래 ‘널뛰기’ 여론조사 속 총력전",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/12/20260812005004",
+        "score": 5
+      },
+      {
+        "press": "서울신문",
+        "title": "與 당권주자 지지도 김민석 46.8% 정청래 35.2%…호남선 金 앞서, 수도권은 접전",
+        "link": "https://www.seoul.co.kr/news/politics/congress/2026/08/11/20260811500018",
+        "score": 3
+      },
+      {
+        "press": "MBC",
+        "title": "\"경제 정책 해봤나\" vs \"사람 무시에 일가견\"‥김민석·정청래 감정싸움 격화",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844031_37004.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1",
+      "동아일보",
+      "머니투데이"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "이란 안보수장 “전쟁 끝내고 동결 자금 풀어야 호르무즈 개방”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461887/1",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "이란 신임 안보수장 \"美 종전·동결자금 해제…",
+        "link": "https://www.news1.kr/world/middleeast-africa/6256113",
+        "score": 2
+      },
+      {
+        "press": "머니투데이",
+        "title": "이란 신임 안보수장 \"美 동결자금 풀어야 호르무즈 개방\"",
+        "link": "https://www.mt.co.kr/world/2026/08/12/2026081203555534827?STAND=MT",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "李대통령 \"경찰 수사에 국민 걱정 …",
+        "link": "https://www.news1.kr/politics/president/6255250",
         "score": 2
       },
       {
         "press": "MBC",
-        "title": "콜롬비아 강진에 111명 사망‥희생자 더 늘 듯 ◀ 앵커 ▶ 남미 콜롬비아 서부 지역에 규모 7.4의 강진이 강타했습니다. ◀ 앵커 ▶ 현재까지 확인된 사망자가 100명이 넘는데, 사상자 수는 계속 늘어날 것으로 보입니다. 강나림 기자입니다. ◀ 리포트 ▶ 건물 외벽이 통째로 무너져 내리고 주변 사람들이 비명을 지르며 대피합니다. 현지시간 10일 오전 7시 반쯤 콜롬비아 서부 초코주 산호세델팔마르 인근에서 규모 7.4의 강력한 지진이 발생했습니다. 진앙은 수도 보고타에서 서쪽으로 약 400km 떨어진 산호세델팔마르로, 진원 깊이는 107km로 보고됐습니다. 진앙에서 가까운 리사랄다주와 바예델카우카주에 피해가 집중돼 주택 약 1600채가 파손되고 건물 60여 채가 붕괴한 것으로 집계됐습니다. 에스프리에야 콜롬비아 대통령은 담화를 통해 현재까지 111명이 숨지고 87명이 다쳤다고 밝혔습니다. [아벨라르도 데 라 에스프리에야/콜롬비아 대통령] \"국민 여러분, 저는 지금 보고타로 향하고 있습니다. 고통받는 콜롬비아 국민들을 덮친 자연재해에 집중하기 위해 수도에서 예정되었던 모든 일정을 중단하라고 지시했습니다.\" 콜롬비아 당국에 따르면 바예델카우카 주도 칼리에서 건물 수십 채가 붕괴하는 등 전국 20개 이상의 지자체에서 지진 피해가 접수됐습니다. 건물 잔해 등에서 구조 작업이 진행 중으로, 사상자는 더 늘어날 가능성이 큽니다. [알레한드로 에데르/콜롬비아 칼리시장] \"현재 칼리에서는 최소 20곳의 구조물이 붕괴되었고 사람들이 갇혀 있습니다. 저는 보고타 시장과 메데인 시장에게 구조 인력 지원을 요청했습니다.\" 지진의 흔들림은 수도 보고타를 비롯해 베네수엘라 접경 지역과 에콰도르, 파나마에서도 감지된 것으로 전해졌습니다. 콜롬비아 정부는 지진 피해 대응을 위해 국가 비상사태를 선포했습니다. 이번 지진은 최근 10년간 콜롬비아에서 발생한 가장 강력한 지진으로, 앞서 6월 연쇄 강진으로 6천 명 넘게 사망한 베네수엘라 지진 이후 두 달도 채 안 돼 발생했습니다. MBC뉴스 강나림입니다.",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843791_37012.html",
+        "title": "이 대통령, 경찰 책임 확대 재차 거론‥\"수사 문제로 국민 걱정 많아\"",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844012_37004.html",
         "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "與는 ‘오세훈 시정’ 탓, 野는 전방위 여론전…청년·부동산 전면전",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001828&code=61111511&sid1=pol",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "오세훈 \"용산공원 아파트, 법적으로 …",
-        "link": "https://www.news1.kr/local/seoul/6254654",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "정청래 \"전대 후 분당? 그런 일 절…",
-        "link": "https://www.news1.kr/politics/assembly/6254569",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "SBS"
-    ],
-    "articles": [
-      {
-        "press": "SBS",
-        "title": "[단독] '다주택자' 청와대 비서관, 무단 증축 빌라로 월세 수익",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698783&plink=STAND&cooper=NAVER",
-        "score": 4
       }
     ]
   },
@@ -165,8 +187,182 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "정청래 또 말실수 icon_video",
-        "link": "https://www.joongang.co.kr/article/25451959",
+        "title": "“잼버리 망치고 尹과 휴가”∙∙∙변기 닦은 한덕수의 분노",
+        "link": "https://www.joongang.co.kr/article/25452646",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html",
+        "score": 5
+      },
+      {
+        "press": "한겨레",
+        "title": "김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해” [인터뷰]",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "의원 공천에 ‘先 당원검증’ 도입…장동혁표 개혁안 윤곽",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002239&code=61111511&sid1=pol",
+        "score": 5
+      },
+      {
+        "press": "국민일보",
+        "title": "의원 공천에 ‘당원 검증’ 도입하는 장동혁표 개정안…‘공천 숙청’ 우려도",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002387&code=11121100&sid1=pol",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "안규백 “마오쩌둥 어록이 내 좌우명”…정점식 “어느 나라 장관이냐”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002085&code=61111511&sid1=pol",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보"
+    ],
+    "articles": [
+      {
+        "press": "문화일보",
+        "title": "한동훈 “‘집보유·결혼·출산·장사’ 이들 세금 더 걷는게 세제개편안”",
+        "link": "https://www.munhwa.com/article/11608870",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보"
+    ],
+    "articles": [
+      {
+        "press": "문화일보",
+        "title": "송영길 측 “정청래 토론 태도, 尹의 모습”",
+        "link": "https://www.munhwa.com/article/11608853",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "\"하영 증조부 안상호, 이재명 거사…",
+        "link": "https://www.news1.kr/society/general-society/6255699",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "\"2만 7천 명 사퇴 서명\" 아랑곳 않고‥장동혁의 '마이웨이'",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844039_37004.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "단독 \"쉿! 안보수사\"…경찰 협조했더니 이혼에 집도 뺏길 위기",
+        "link": "https://www.nocutnews.co.kr/news/6561455",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "4 [단독]'쉿! 안보수사입니다'…경찰 협조했더니 이혼에 집도 뺏길 위기",
+        "link": "https://www.nocutnews.co.kr/news/6561455",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "[단독] \"검찰청 폐지는 위헌\" 주장에 \"입법자 선택이자 결단\"이라고 반박한 국회",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844008_37004.html",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "presses": [
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "장동혁 취임 1주년 앞두고… 퇴진·지지 쪼개진 당원들",
+        "link": "https://www.chosun.com/politics/assembly/2026/08/12/JNHNSH4CZBFMHNWMAYEM3SSMBM/",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "사퇴 압박 속 1년 앞둔 장동혁, 국힘 최장수 대표 되나",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/12/20260812005003",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "이재명 대통령, 치료중인 소방관 격려",
+        "link": "https://eye.seoul.co.kr/news/newsView.php?id=20260811800008",
         "score": 3
       }
     ]
@@ -178,21 +374,14 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "오세훈 서울시장이 정부의 신규 주택 공급 후보지로 거론되는 용산어린이정원 일…",
-        "link": "https://www.news1.kr/local/seoul/6254654",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
+        "title": "李대통령, 미셸 스틸 美대사와 첫 대…",
+        "link": "https://www.news1.kr/politics/president/6255911",
+        "score": 0
+      },
       {
-        "press": "노컷뉴스",
-        "title": "이만희 공소장에 등장한 세 사람…이명박, 윤석열, 이재명",
-        "link": "https://www.nocutnews.co.kr/news/6560836",
+        "press": "뉴스1",
+        "title": "이재명 대통령은 12일 최근 부임한 미셸 스틸 주한 미국대사와 처음으로 만난다.&n…",
+        "link": "https://www.news1.kr/politics/president/6255911",
         "score": 3
       }
     ]
@@ -204,8 +393,21 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "美국방차관 \"아시아서 손 안 떼, '중견국 동맹' 망상 버려라\"",
-        "link": "https://www.chosun.com/international/us/2026/08/11/QGFGPJE63FATXGULOERBKT3LJA/",
+        "title": "권오을 '北 인민공화국'… 보훈부 \"정정·사과 계획 없다\"",
+        "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/12/HWMGXE4YFRDHRAGBJQRJHKDMGM/",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "성과욕심 특검, 尹 ‘반란죄 기소’ 철회할 듯",
+        "link": "https://www.joongang.co.kr/article/25452644",
         "score": 2
       }
     ]
@@ -217,34 +419,21 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "‘폐버스 주택’ 논란 與황희 “청년-국민께 사과”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260811/134453943/2",
+        "title": "‘美중심 안보질서 이탈 말라’ 메시지… 동맹에 中견제 역할 압박",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461538/2",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "美의원 “난자 동결…여성들에 용기 주려 공개”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260810/134453672/2",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "정부·여당에서 이탈 ‘2030 여성’···86 중심 정당 체제 혁신 필요 목소리",
-        "link": "https://www.khan.co.kr/article/202608110600101/?nv=stand",
+        "press": "한겨레",
+        "title": "이 대통령 “세제개편안 변경 여지 있어…미확정”",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1272450.html",
         "score": 2
       }
     ]
@@ -256,8 +445,21 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "종합특검, ‘VIP 격노 은폐’ 방첩사령관·방첩부대장 구속영장 청구",
-        "link": "https://www.khan.co.kr/article/202608101646001/?nv=stand",
+        "title": "청와대, ‘무단 증축’ 논란 김상호 춘추관장 징계 후 면직",
+        "link": "https://www.khan.co.kr/article/202608112057001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "국토부 장관이 다시 소환한 ‘빵’···“주택 공급이 빵이라면 밤새 찍겠지만”",
+        "link": "https://www.khan.co.kr/article/202608111648001/?nv=stand",
         "score": 2
       }
     ]
@@ -269,8 +471,8 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "“한국도 위험 커질 것”… 젤렌스키, 북한군 러 추가 배치 경고",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030232613&code=61131111&sid1=int",
+        "title": "“국내 선거 지자체 떠넘긴 선관위, 뉴욕·도쿄·파리는 1년 파견”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002142&code=61111111&sid1=pol",
         "score": 2
       }
     ]
@@ -282,21 +484,8 @@
     "articles": [
       {
         "press": "세계일보",
-        "title": "靑 \"메가특구특별법 연내 제정\"…충청·영남 투자 올해 착공",
-        "link": "https://www.segye.com/newsView/20260810522181",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "민주 “합의대로 18일 재검표” 국힘 “특검 확정되면 함께”",
-        "link": "https://www.segye.com/newsView/20260810518292",
+        "title": "국회 기후특위 점수 매겨봤더니 평균 0.42점…“1.5도 목표, 말로만 지지”",
+        "link": "https://www.segye.com/newsView/20260811514473",
         "score": 2
       }
     ]
@@ -308,21 +497,8 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "靑춘추관장 사의, ‘무단증축’ 논란에…“매입 당시 몰라, 양성화 조치”",
-        "link": "https://www.munhwa.com/article/11608558",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "6.25적국 수장 말이 좌우명이라는 안규백 국방장관… ‘처변불경’",
-        "link": "https://www.munhwa.com/article/11608477",
+        "title": "국토장관 “그린벨트 풀어서라도 수도권 주택 많이 공급”",
+        "link": "https://www.munhwa.com/article/11608857",
         "score": 2
       }
     ]
@@ -334,8 +510,21 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "“아빠도 남편도 판사”…집안에 국회의원까지 있다는 여배우",
-        "link": "https://www.seoul.co.kr/news/entertainment/broadcastN/2026/08/10/20260810500006",
+        "title": "‘트럼프 저격수’ 스페인 총리, 왜 유럽 극우의 표적 됐나",
+        "link": "https://www.seoul.co.kr/news/international/insight-global/2026/08/12/20260812014001",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "軍교신 도청하고 한미훈련 기밀 빼내고…부대 돌면서 정보 수집한 ‘퇴역 중국군’",
+        "link": "https://www.seoul.co.kr/news/society/accident/2026/08/12/20260812010005",
         "score": 2
       }
     ]
@@ -347,8 +536,8 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "한미, 전작권 전환 앞두고 '을지 자…",
-        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6254304",
+        "title": "李대통령, 민심 악재에 직접 대응…'형소법·I…",
+        "link": "https://www.news1.kr/politics/president/6255926",
         "score": 2
       }
     ]
@@ -360,34 +549,8 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "국조특위 장외 설전…與 \"재검표 …",
-        "link": "https://www.news1.kr/politics/assembly/6254742",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "[단독] 尹 정부 탄핵 31건 발의했지만... 인용은 2건뿐",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=B05ns&sgb=E&newsid=03772006645546008",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "\"李대통령도 하셨잖나\"...부부공동명의, 세제개편에 뒤통수?",
-        "link": "https://www.edaily.co.kr/news/contents/NewsStand/vbs_real/brg.asp?bCode=I01ns&sgb=E&newsid=05267686645546008",
+        "title": "젤렌스키 \"러, 북한제 탄도미사일…",
+        "link": "https://www.news1.kr/world/europe/6256060",
         "score": 2
       }
     ]
@@ -407,13 +570,39 @@
   },
   {
     "presses": [
-      "디지털타임스"
+      "머니투데이"
     ],
     "articles": [
       {
-        "press": "디지털타임스",
-        "title": "“北 해킹조직 ‘김수키’, AI 개발·실행 환경 마련해 사이버공격에 활용”",
-        "link": "https://www.dt.co.kr/article/12077380",
+        "press": "머니투데이",
+        "title": "李대통령 \"노봉법 쟁의기준 필요, 시행령 마련\" 거듭 지시",
+        "link": "https://www.mt.co.kr/politics/2026/08/12/2026081119492733849?STAND=MT",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "이 대통령 \"부처 간 엇박자? 민주적 과정…세제 개편안, 반론 수용 바람직\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608112325476130_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "시리즈 이란 대통령까지 나서 '진땀 수습'...논란의 '영상' 뭐길래 [자막뉴스]",
+        "link": "https://www.ytn.co.kr/_ln/0134_202608111742470023_005",
         "score": 2
       }
     ]
@@ -425,21 +614,8 @@
     "articles": [
       {
         "press": "SBS",
-        "title": "'투표율 조작' 질타에…\"오입력 맞지만 부정선거는 아냐\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698782&plink=STAND&cooper=NAVER",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "SBS"
-    ],
-    "articles": [
-      {
-        "press": "SBS",
-        "title": "'야외 기동' 줄인 한미 UFS…러시아는 '대규모' 예고",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698794&plink=STAND&cooper=NAVER",
+        "title": "여야 한목소리로 \"전월세 상승할 것\"…쏟아진 우려",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700679&plink=STAND&cooper=NAVER",
         "score": 2
       }
     ]
@@ -451,22 +627,35 @@
     "articles": [
       {
         "press": "KBS",
-        "title": "호남이 승패 가른다…민주당 당권주자 세번째 TV토론 ‘격돌’",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633501",
+        "title": "FBI, ‘美연방정부기관 위장취업’ 北원격 IT 근로자 적발",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634599",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "KBS"
+      "조선일보"
     ],
     "articles": [
       {
-        "press": "KBS",
-        "title": "‘버스하우스’ 사흘 만에 사과했지만…“의원 사무실부터 옮겨라” 후폭풍 계속",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633325",
-        "score": 2
+        "press": "조선일보",
+        "title": "집 내놨다던 靑 다주택자들, 대부분 안 팔고 자리 떠났다",
+        "link": "https://www.chosun.com/politics/politics_general/2026/08/12/VR7RD4SGJRDQJGE4ZCFLLYEXKI/",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "150억 영끌로 민주당을 400억 건물주 만든 주역",
+        "link": "https://www.chosun.com/opinion/column/2026/08/12/VP7NX3AUJBEUPGNLGJ2XZQ7XN4/",
+        "score": 0
       }
     ]
   },
@@ -477,8 +666,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "[이철재] 북한이 전쟁을 안 일으킨다는 믿음",
-        "link": "https://www.joongang.co.kr/article/25452288",
+        "title": "호주 총리, 다카이치 준 멜론 두고 성적 농담",
+        "link": "https://www.joongang.co.kr/article/25452546",
         "score": 0
       }
     ]
@@ -490,8 +679,21 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "한미 기동훈련 또…UFS기간 작년 22회→올해 14회",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260811/134453918/2",
+        "title": "단독 외교관 정보 해킹 이어…재외동포청 사이버 공격 4271건",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461493/2",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "여당, 이번 주 부동산 의총·TF…세제개편안 보완·수정 모색",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1272464.html",
         "score": 0
       }
     ]
@@ -503,60 +705,34 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "시골 주민들이 대통령을 찾는 이유",
-        "link": "https://www.khan.co.kr/article/202608102011005/?nv=stand",
+        "title": "법무부 장관 정성호가 많이 아픈 이유",
+        "link": "https://www.khan.co.kr/article/202608111957005/?nv=stand",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "국민일보"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "국민일보",
-        "title": "이 대통령도 지적한 ISA를 어쩌나… 딜레마 빠진 정부",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001851&code=61141111&sid1=eco",
+        "press": "뉴스1",
+        "title": "與 당권주자 오늘 마지막 TV 토론서 격…",
+        "link": "https://www.news1.kr/politics/assembly/6255957",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "서울신문"
+      "디지털타임스"
     ],
     "articles": [
       {
-        "press": "서울신문",
-        "title": "1년 선거주 조건은 유지… 1주택 비거주 예외는 확대",
-        "link": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811001005",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "李 지지율, 43% 취임후 최저…여당보다 낮은 수치에 비상",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/11/20260811003002",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "예측불허 與 전대…투표율 유불리도 안방 표심도 안 통한다",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/11/20260811006004",
+        "press": "디지털타임스",
+        "title": "부정선거 음모론에 맞선 윤상현, 진짜 보수다",
+        "link": "https://www.dt.co.kr/article/12077630",
         "score": 0
       }
     ]

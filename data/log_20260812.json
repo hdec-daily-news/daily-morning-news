@@ -14,63 +14,54 @@
       ],
       "articles": [
         {
-          "title": "[동아일보] 北, 동쪽 방향으로 미상 발사체 발사…6일 만에 도발 재개",
-          "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461883/1",
-          "pubDate": "",
-          "coverage": 6,
-          "long_link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461883/1"
+          "title": "[연합뉴스TV] 특검, 항소이유서에 \"오세훈이 오세훈법 스스로 어겨\"",
+          "link": "https://n.news.naver.com/article/422/0000894808",
+          "pubDate": "Wed, 12 Aug 2026 05:23:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/422/0000894808?sid=102"
         },
         {
-          "title": "[동아일보] 선관위, ‘투표용지 부족’ 서울시장 선거소청 기각",
-          "link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461063/2",
-          "pubDate": "",
-          "coverage": 5,
-          "long_link": "https://www.donga.com/news/NewsStand/article/all/20260812/134461063/2"
+          "title": "[중앙일보] “잼버리 망치고 尹과 여름휴가”…변기 닦은 한덕수의 분노",
+          "link": "https://n.news.naver.com/article/025/0003543820",
+          "pubDate": "Wed, 12 Aug 2026 05:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/025/0003543820?sid=100"
         },
         {
-          "title": "[서울신문] 호남 슈퍼위크…김민석·정청래 ‘널뛰기’ 여론조사 속 총력전",
-          "link": "https://www.seoul.co.kr/news/politics/2026/08/12/20260812005004",
-          "pubDate": "",
-          "coverage": 3,
-          "long_link": "https://www.seoul.co.kr/news/politics/2026/08/12/20260812005004"
+          "title": "[경향신문] “우릴 바퀴벌레로 불렀다, 그래서 거리로 나왔다”···가짜 정당이 진...",
+          "link": "https://n.news.naver.com/article/032/0003463706",
+          "pubDate": "Wed, 12 Aug 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/032/0003463706?sid=104"
         },
         {
-          "title": "[뉴스1] 이란 신임 안보수장 \"美 종전·동결자금 해제…",
-          "link": "https://www.news1.kr/world/middleeast-africa/6256113",
-          "pubDate": "",
-          "coverage": 3,
-          "long_link": "https://www.news1.kr/world/middleeast-africa/6256113"
+          "title": "[경향신문] 국방정책실장 “사관학교 순혈주의 해체해야…장교 때부터 소통해야 카...",
+          "link": "https://n.news.naver.com/article/032/0003463696",
+          "pubDate": "Wed, 12 Aug 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/032/0003463696?sid=100"
         },
         {
-          "title": "[뉴스1] 李대통령 \"경찰 수사에 국민 걱정 …",
-          "link": "https://www.news1.kr/politics/president/6255250",
-          "pubDate": "",
-          "coverage": 2,
-          "long_link": "https://www.news1.kr/politics/president/6255250"
+          "title": "[뉴스1] 기초연금, '하후상박' 개편 이달 말 발표…수급기준 '중위소득 100%' 유력",
+          "link": "https://n.news.naver.com/article/421/0009108953",
+          "pubDate": "Wed, 12 Aug 2026 06:00:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/421/0009108953?sid=101"
         },
         {
-          "title": "[중앙일보] “잼버리 망치고 尹과 휴가”∙∙∙변기 닦은 한덕수의 분노",
-          "link": "https://www.joongang.co.kr/article/25452646",
-          "pubDate": "",
-          "coverage": 1,
-          "long_link": "https://www.joongang.co.kr/article/25452646"
+          "title": "[이데일리] 정부 제재에도…쿠팡 '납치광고' 기승",
+          "link": "https://n.news.naver.com/article/018/0006349867",
+          "pubDate": "Wed, 12 Aug 2026 05:53:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/018/0006349867?sid=101"
         },
         {
-          "title": "[한겨레] 김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해”",
-          "link": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html",
-          "pubDate": "",
-          "coverage": 1,
-          "long_link": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html"
+          "title": "[서울신문] 육영수 여사 서거 지켜본 美… “박정희, 온건해지지 않을 것”",
+          "link": "https://n.news.naver.com/article/081/0003669598",
+          "pubDate": "Wed, 12 Aug 2026 05:03:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003669598?sid=102"
         },
         {
-          "title": "[국민일보] 의원 공천에 ‘先 당원검증’ 도입…장동혁표 개혁안 윤곽",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002239&code=61111511&sid1=pol",
-          "pubDate": "",
-          "coverage": 1,
-          "long_link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002239&code=61111511&sid1=pol"
+          "title": "[서울신문] 美 28년 만의 ‘엔화 방어’ 뒤엔 日 금리 인상 신호 있었다",
+          "link": "https://n.news.naver.com/article/081/0003669564",
+          "pubDate": "Wed, 12 Aug 2026 05:02:00 +0900",
+          "long_link": "https://n.news.naver.com/mnews/article/081/0003669564?sid=104"
         }
-      ],
-      "source_note": "newsstand 언론사 편집 메인 기반, 부족분은 검색 API 보충"
+      ]
     },
     {
       "key": "dp",
@@ -193,11 +184,5 @@
         }
       ]
     }
-  ],
-  "politics_main_source": {
-    "method": "newsstand_cards",
-    "picked": 8,
-    "merged_total": 8,
-    "updated_at": "2026-08-12T06:42:29.926021+09:00"
-  }
+  ]
 }
