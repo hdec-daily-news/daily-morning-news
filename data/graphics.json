@@ -1,103 +1,95 @@
 {
-  "generated_at": "2026-08-12T06:43:16.146943+09:00",
-  "window_start": "2026-08-11T15:00:00+09:00",
-  "window_end": "2026-08-12T06:00:00+09:00",
+  "generated_at": "2026-08-13T06:42:16.441558+09:00",
+  "window_start": "2026-08-12T15:00:00+09:00",
+  "window_end": "2026-08-13T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2026 세계 주요 지진",
-      "link": "https://www.yna.co.kr/view/GYH20260811000600044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/11/GYH2026081100060004400_P1.jpg",
-      "pubdate": "2026-08-11T16:56:00+09:00",
+      "title": "미국 소비자물가 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260812000800044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200080004400_P1.jpg",
+      "pubdate": "2026-08-12T21:46:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "서울·강남3구 토허제 신청 감소",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209233&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209233_web.jpg?rnd=20260811172037",
-      "pubdate": "2026-08-11T17:20:37+09:00",
-      "image": "images/graphics/뉴시스_02.jpg"
+      "source": "연합뉴스",
+      "title": "트럼프, '암살 위협' 전용기 갈아타기 논란 시간대별 상황",
+      "link": "https://www.yna.co.kr/view/GYH20260812000700044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200070004400_P1.jpg",
+      "pubdate": "2026-08-12T17:56:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'7대 SEED 프로젝트' 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260812000600044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200060004400_P1.jpg",
+      "pubdate": "2026-08-12T16:03:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시-철도공단 '경의선숲길' 부지 사용 분쟁 일지",
+      "link": "https://www.yna.co.kr/view/GYH20260812000500044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200050004400_P1.jpg",
+      "pubdate": "2026-08-12T15:50:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지역별 평년 대비 저수율",
+      "link": "https://www.yna.co.kr/view/GYH20260812000400044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200040004400_P1.jpg",
+      "pubdate": "2026-08-12T15:24:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "‘불의 고리’ 콜롬비아서 규모 7.4 강진…사망 132명",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209837&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209837_web.jpg?rnd=20260811165345",
-      "pubdate": "2026-08-11T16:53:45+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "10대 기업 무역집중도 55.3%…역대 최고",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260811_0002209708&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0002209708_web.jpg?rnd=20260811152110",
-      "pubdate": "2026-08-11T15:21:10+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
+      "title": "한전, 상반기 영업익 전년比 16.6%↓…연료비 상승 영향",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260812_0002210913&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/12/NISI20260812_0002210913_web.jpg?rnd=20260812165631",
+      "pubdate": "2026-08-12T16:56:31+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 지역별 농업용수 저수율 현황",
-      "link": "https://www.news1.kr/photos/8051080",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8051080/no_water.jpg",
-      "pubdate": "2026-08-12T02:43:16.146943+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이정후 시즌 9호 홈런",
-      "link": "https://www.news1.kr/photos/8051016",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8051016/no_water.jpg",
-      "pubdate": "2026-08-12T01:43:16.146943+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8050897",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050897/no_water.jpg",
-      "pubdate": "2026-08-12T00:43:16.146943+09:00",
+      "title": "[그래픽] '7대 SEED 프로젝트' 주요 내용",
+      "link": "https://www.news1.kr/photos/8053161",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8053161/no_water.jpg",
+      "pubdate": "2026-08-13T02:42:16.441558+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(8월 11일)",
-      "link": "https://www.news1.kr/photos/8050895",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050895/no_water.jpg",
-      "pubdate": "2026-08-12T00:43:16.146943+09:00",
+      "title": "[오늘의 증시] 8월 12일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8052892",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052892/no_water.jpg",
+      "pubdate": "2026-08-13T00:42:16.441558+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 로또 미수령 당첨금 자동지급 절차",
-      "link": "https://www.news1.kr/photos/8050816",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050816/no_water.jpg",
-      "pubdate": "2026-08-12T00:43:16.146943+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8052890",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052890/no_water.jpg",
+      "pubdate": "2026-08-13T00:42:16.441558+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 15호 태풍 찬홈 예상 진로",
-      "link": "https://www.news1.kr/photos/8050590",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050590/no_water.jpg",
-      "pubdate": "2026-08-11T23:43:16.146943+09:00",
+      "title": "[오늘의 그래픽] '취업 11만명 증가' 소외된 청년, 45개월째 일자리 뚝뚝",
+      "link": "https://www.news1.kr/photos/8052552",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052552/no_water.jpg",
+      "pubdate": "2026-08-13T00:42:16.441558+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 대학가 주거비 껑충…이대 앞 원룸 '월세·관리비' 87만원",
-      "link": "https://www.news1.kr/photos/8050481",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8050481/no_water.jpg",
-      "pubdate": "2026-08-11T23:43:16.146943+09:00",
+      "title": "[그래픽] 올해 북한미사일 발사 일지",
+      "link": "https://www.news1.kr/photos/8051755",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8051755/no_water.jpg",
+      "pubdate": "2026-08-12T19:42:16.441558+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 국제유가 추이",
-      "link": "https://www.news1.kr/photos/8049605",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/11/8049605/no_water.jpg",
-      "pubdate": "2026-08-11T17:43:16.146943+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
     }
   ]
 }

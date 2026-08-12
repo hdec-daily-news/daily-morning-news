@@ -1,171 +1,180 @@
 {
-  "generated_at": "2026-08-12T06:43:15.958913+09:00",
-  "date_label": "8/12(수)",
+  "generated_at": "2026-08-13T06:42:16.248524+09:00",
+  "date_label": "8/13(목)",
   "articles": [
     {
-      "title": "국방부 \"광주 군공항 2028년까지 이전…미군 공여지 조속 반환 협의\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000894712",
+      "title": "안철수, 친한계 겨냥 \"렉커질하며 당 쑥대밭…공천 배제해야\"",
+      "link": "https://n.news.naver.com/mnews/article/057/0001963293",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이재명 \"경찰 책임 커져…범죄 피해 국민 우려 대책 보고 하라\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000505609",
+      "title": "일본 \"북한, 탄도미사일 최소 1발 발사…비행거리 약 690㎞\"",
+      "link": "https://n.news.naver.com/mnews/article/055/0001380029",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국방부·방첩사, 핵잠개발 전담조직 신설",
-      "link": "https://n.news.naver.com/mnews/article/022/0004150183",
+      "title": "北, 한국 핵잠 추진에 \"생존 불가 보복 공격으로 응대할 힘 보유해야\"",
+      "link": "https://n.news.naver.com/mnews/article/660/0000115052",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "연일 '개혁 지도부' 강조하는 추미애…정청래 지원사격?",
-      "link": "https://n.news.naver.com/mnews/article/079/0004177694",
+      "title": "국산 ‘풀스택 양자컴’ 3년내 개발… 경수형SMR 2035년 상용화",
+      "link": "https://n.news.naver.com/mnews/article/022/0004150517",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"논리적 비약\" 국힘 의원과 충돌…'낯설다 윤상현'[비하인드 뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/437/0000505699",
+      "title": "천하람 , 머리 짧게 자르고 논산훈련소 입소…현역 의원 최초 ‘훈련병’ 생활",
+      "link": "https://n.news.naver.com/mnews/article/022/0004150370",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "코스닥 급등 못 믿는 개미들…‘하락 베팅’ 인버스 담았다",
-      "link": "https://n.news.naver.com/mnews/article/024/0000107474",
+      "title": "'삼전닉스 레버리지 보완책'…ETF 괴리율 관리 19일부터 강화",
+      "link": "https://n.news.naver.com/mnews/article/648/0000049771",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "현대차 노조, 여름휴가 후 첫 부분파업 예고…누적 파업만 60시간",
-      "link": "https://n.news.naver.com/mnews/article/023/0003992406",
+      "title": "중앙일보·JTBC 통합노조, 13년 만에 각자 체제로 분리",
+      "link": "https://n.news.naver.com/mnews/article/127/0000039631",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김윤덕 “세제개편 단계적 시행해 충격 줄여야”… 野 “정책이 시장 이길 수 있나” 질의엔 金 “예”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003740254",
+      "title": "삼전도 하이닉스도 아니었다... 직장인 행복도 1위는 가스公",
+      "link": "https://n.news.naver.com/mnews/article/023/0003992558",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_08_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_08_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "\"넥센타이어, 하반기 비용 확대 불가피…목표가↓\"-키움",
-      "link": "https://n.news.naver.com/mnews/article/015/0005319430",
+      "title": "공공 물량, 유럽의 절반 … 대기 3~4년이나 걸려",
+      "link": "https://n.news.naver.com/mnews/article/009/0005720146",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "원룸·오피스텔 관리비 '깜깜이' 줄인다…중개사가 공동관리비도 설명해야",
-      "link": "https://n.news.naver.com/mnews/article/374/0000526785",
+      "title": "사기당한 은행들, 490억 금융사고",
+      "link": "https://n.news.naver.com/mnews/article/015/0005320316",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "경찰, 김영환 전 충북지사 불구속 송치",
-      "link": "https://n.news.naver.com/mnews/article/005/0001866260",
+      "title": "차정인 “수능에 서·논술형 도입하면 학원 필요 없어…독서면 충분”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003543975",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "전남광주 서부권 \"목포대·순천대 통합, 의대 신설 결단해야\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016245021",
+      "title": "메마른 경남에 비 대신 소방차…200대 집결",
+      "link": "https://n.news.naver.com/mnews/article/422/0000895102",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "창동·상계 찾은 G3 균형발전특별분과 \"동북권 새 성장거점으로\"",
-      "link": "https://n.news.naver.com/mnews/article/008/0005398723",
+      "title": "\"얼굴 좀 보자\" 분노…'지능 7세' 여직원 성폭행·출산시킨 60대",
+      "link": "https://n.news.naver.com/mnews/article/018/0006350584",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "서울 가양동 아파트 화재 2명 사망…뇌병변 장애인 모친과 아들(종합2보)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016245588",
+      "title": "‘유시민 누나’ 유시춘 前EBS 이사장, ‘법카 유용’ 1심 무죄",
+      "link": "https://n.news.naver.com/mnews/article/020/0003740411",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "경남 가뭄에 '국가소방동원령' 발령…전국 물탱크차 200대 투입",
-      "link": "https://n.news.naver.com/mnews/article/014/0005560248",
+      "title": "전기톱·방패 들고 경찰과 대치한 20대, 특공대 투입해 제압",
+      "link": "https://n.news.naver.com/mnews/article/020/0003740338",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'이란전' 발목 잡힌 트럼프의 현실 도피… \"호르무즈 열려 있다\" 또 궤변",
-      "link": "https://n.news.naver.com/mnews/article/469/0000947367",
+      "title": "트럼프, '비밀 환승' 논란에 \"경호국 요청 따른 것\" 해명",
+      "link": "https://n.news.naver.com/mnews/article/422/0000895063",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "베네수·日 이어 또 ‘불의 고리’… 콜롬비아 규모 7.4 지진 강타",
-      "link": "https://n.news.naver.com/mnews/article/005/0001866291",
+      "title": "100년 만에 찾아온 '우주쇼'…유럽 곳곳서 일식 장관",
+      "link": "https://n.news.naver.com/mnews/article/003/0014124219",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_17_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "22%p 앞선 프란체스카 홍…위스콘신 경선, 미시간처럼 ‘깜짝 접전’ 될까",
-      "link": "https://n.news.naver.com/mnews/article/028/0002818123",
+      "title": "레바논, 중동 최초 사형제 공식 폐지···인권단체 “중대한 이정표”",
+      "link": "https://n.news.naver.com/mnews/article/032/0003463715",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "홍해서 화물선 피격, 선원 3명 사망…파키스탄 해역에서도 미사일 공격",
-      "link": "https://n.news.naver.com/mnews/article/011/0004650792",
+      "title": "한·미·일 등 41國, 中 겨냥 “태평양 미사일 시험, 안보 저해”",
+      "link": "https://n.news.naver.com/mnews/article/022/0004150552",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "유튜브 수익 창출 문턱 2배 높인다…시청 8000시간·쇼츠 2000만회",
-      "link": "https://n.news.naver.com/mnews/article/654/0000194671",
+      "title": "트럼프, 골프장에도 방공미사일 시스템 배치",
+      "link": "https://n.news.naver.com/mnews/article/052/0002392052",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_20_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     }
   ]
 }
