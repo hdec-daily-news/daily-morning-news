@@ -1,95 +1,159 @@
 {
-  "generated_at": "2026-08-13T06:42:16.441558+09:00",
-  "window_start": "2026-08-12T15:00:00+09:00",
-  "window_end": "2026-08-13T06:00:00+09:00",
+  "generated_at": "2026-08-14T06:41:41.589564+09:00",
+  "window_start": "2026-08-13T15:00:00+09:00",
+  "window_end": "2026-08-14T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "미국 소비자물가 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260812000800044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200080004400_P1.jpg",
-      "pubdate": "2026-08-12T21:46:00+09:00",
+      "title": "세계 공항 순위",
+      "link": "https://www.yna.co.kr/view/GYH20260813001400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300140004401_P1.jpg",
+      "pubdate": "2026-08-13T21:08:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "트럼프, '암살 위협' 전용기 갈아타기 논란 시간대별 상황",
-      "link": "https://www.yna.co.kr/view/GYH20260812000700044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200070004400_P1.jpg",
-      "pubdate": "2026-08-12T17:56:00+09:00",
+      "title": "푸틴, '영유권 분쟁' 쿠릴열도 방문",
+      "link": "https://www.yna.co.kr/view/GYH20260813001300044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300130004400_P1.jpg",
+      "pubdate": "2026-08-13T20:24:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "'7대 SEED 프로젝트' 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260812000600044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200060004400_P1.jpg",
-      "pubdate": "2026-08-12T16:03:00+09:00",
+      "title": "북한군 우크라이나전 추가 파병 계획 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260813001200044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300120004401_P1.jpg",
+      "pubdate": "2026-08-13T18:58:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시-철도공단 '경의선숲길' 부지 사용 분쟁 일지",
-      "link": "https://www.yna.co.kr/view/GYH20260812000500044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200050004400_P1.jpg",
-      "pubdate": "2026-08-12T15:50:00+09:00",
+      "title": "8·13대책 수도권 아파트 착공·입주 물량 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260813001100044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300110004400_P1.jpg",
+      "pubdate": "2026-08-13T16:41:00+09:00",
       "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "지역별 평년 대비 저수율",
-      "link": "https://www.yna.co.kr/view/GYH20260812000400044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/12/GYH2026081200040004400_P1.jpg",
-      "pubdate": "2026-08-12T15:24:00+09:00",
+      "title": "서울 주요 지역 아파트값 상승률 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260813001000044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300100004400_P1.jpg",
+      "pubdate": "2026-08-13T16:22:00+09:00",
       "image": "images/graphics/연합뉴스_05.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "한전, 상반기 영업익 전년比 16.6%↓…연료비 상승 영향",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260812_0002210913&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/12/NISI20260812_0002210913_web.jpg?rnd=20260812165631",
-      "pubdate": "2026-08-12T16:56:31+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
+      "source": "연합뉴스",
+      "title": "2027년까지 수도권 공공분양주택 공급 계획",
+      "link": "https://www.yna.co.kr/view/GYH20260813000900044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300090004400_P1.jpg",
+      "pubdate": "2026-08-13T15:11:00+09:00",
+      "image": "images/graphics/연합뉴스_06.jpg"
     },
     {
-      "source": "뉴스1",
-      "title": "[그래픽] '7대 SEED 프로젝트' 주요 내용",
-      "link": "https://www.news1.kr/photos/8053161",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8053161/no_water.jpg",
-      "pubdate": "2026-08-13T02:42:16.441558+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 12일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8052892",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052892/no_water.jpg",
-      "pubdate": "2026-08-13T00:42:16.441558+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
+      "source": "연합뉴스",
+      "title": "8·13대책 부동산 실수요자 핀셋 지원 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260813000800044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/13/GYH2026081300080004400_P1.jpg",
+      "pubdate": "2026-08-13T15:01:00+09:00",
+      "image": "images/graphics/연합뉴스_07.jpg"
     },
     {
       "source": "뉴스1",
       "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8052890",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052890/no_water.jpg",
-      "pubdate": "2026-08-13T00:42:16.441558+09:00",
+      "link": "https://www.news1.kr/photos/8054891",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054891/no_water.jpg",
+      "pubdate": "2026-08-14T00:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 8월 13일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8054887",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054887/no_water.jpg",
+      "pubdate": "2026-08-14T00:41:41.589564+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] '취업 11만명 증가' 소외된 청년, 45개월째 일자리 뚝뚝",
-      "link": "https://www.news1.kr/photos/8052552",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8052552/no_water.jpg",
-      "pubdate": "2026-08-13T00:42:16.441558+09:00",
+      "title": "[오늘의 그래픽] 서울 염창·남양주 등 2.7만호…연내 7.3만+α 추가",
+      "link": "https://www.news1.kr/photos/8054143",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054143/no_water.jpg",
+      "pubdate": "2026-08-13T23:41:41.589564+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 올해 북한미사일 발사 일지",
-      "link": "https://www.news1.kr/photos/8051755",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/12/8051755/no_water.jpg",
-      "pubdate": "2026-08-12T19:42:16.441558+09:00",
+      "title": "[그래픽] 8·13 부동산 대책 주택공급 촉진·청년 등 실수요자를 위한 방안",
+      "link": "https://www.news1.kr/photos/8053927",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8053927/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 8·13 부동산 대책 공공택지 최단기 착공모델 구축 방안",
+      "link": "https://www.news1.kr/photos/8054155",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054155/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 주요 공공분양 공급지역",
+      "link": "https://www.news1.kr/photos/8054100",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054100/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 8·13 부동산 대책결혼 페널티 개선 대책",
+      "link": "https://www.news1.kr/photos/8053942",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8053942/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 8·13 부동산 대책 부담가능한 공공분양 모델 도입",
+      "link": "https://www.news1.kr/photos/8053948",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8053948/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_15.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 8·13 부동산 대책 재개발·재건축 속도 제고 방안",
+      "link": "https://www.news1.kr/photos/8053672",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8053672/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_16.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 8·13 부동산 대책 전월세 안심신탁사업 추진",
+      "link": "https://www.news1.kr/photos/8053950",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8053950/no_water.jpg",
+      "pubdate": "2026-08-13T22:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_17.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8054097",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054097/no_water.jpg",
+      "pubdate": "2026-08-13T20:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_18.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8054096",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/13/8054096/no_water.jpg",
+      "pubdate": "2026-08-13T20:41:41.589564+09:00",
+      "image": "images/graphics/뉴스1_19.jpg"
     }
   ]
 }
