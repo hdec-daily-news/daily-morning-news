@@ -1,172 +1,162 @@
 {
-  "generated_at": "2026-08-15T06:22:58.821688+09:00",
-  "date_label": "8/15(토)",
+  "generated_at": "2026-08-16T06:18:30.678911+09:00",
+  "date_label": "8/16(일)",
   "articles": [
     {
-      "title": "[속보] 靑 “개헌, 국회 논의 바람직…분권형 대통령제 특정한것 아냐”",
-      "link": "https://n.news.naver.com/mnews/article/005/0001866904",
+      "title": "박지원 \"석청대전, 옛날엔 각목도 들고 싸웠어...李대통령 신임투표 전대, 김민석 당선은 상수\"[여의도초대석]",
+      "link": "https://n.news.naver.com/mnews/article/660/0000115213",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보]“李, 내 임기 단축해서라도 개헌”",
-      "link": "https://n.news.naver.com/mnews/article/021/0002811319",
+      "title": "푸틴 \"북한과 현안 공동사업\"…김정은에 광복절 축전 확인",
+      "link": "https://n.news.naver.com/mnews/article/001/0016253231",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"5.18은 소요사태\" 이진숙 국회 포럼에 국힘도 \"상당히 부적절\" [포크뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/057/0001963714",
+      "title": "'중임·연임 개헌' 직접 언급 李대통령…일관된 입장 강조(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016252703",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“허니문 끝났다”李 취임 1년 2개월 만에 ‘데드크로스’…부동산이 발목",
-      "link": "https://n.news.naver.com/mnews/article/021/0002811578",
+      "title": "李대통령 \"4년 중임·연임제로 개헌…내 임기 단축도 가능\"",
+      "link": "https://n.news.naver.com/mnews/article/448/0000633602",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석·정청래 박빙 싸움 변수 ‘국민 여론조사’ 시작",
-      "link": "https://n.news.naver.com/mnews/article/023/0003992983",
+      "title": "16년 만에 부활한 친일재산조사위…연말부터 환수 작업 재가동",
+      "link": "https://n.news.naver.com/mnews/article/422/0000896215",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "세아제강지주, 매출 23% 늘었는데 508억 적자…英해상풍력 비용 선반영",
-      "link": "https://n.news.naver.com/mnews/article/016/0002684173",
+      "title": "이틀새 9000억 몰렸다…서학개미 쓸어담은 '이 종목'",
+      "link": "https://n.news.naver.com/mnews/article/018/0006352466",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_06_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "SK이노·테라파워, 나트륨 SMR사업 협력…AI DC·글로벌 시장 공략",
-      "link": "https://n.news.naver.com/mnews/article/421/0009115143",
+      "title": "삼전닉스 주주환원, 연간 200조 넘어 300조 가능할까",
+      "link": "https://n.news.naver.com/mnews/article/001/0016253478",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "주식 열풍에 LG전자 주주 100만 돌파…삼전은 800만 육박",
-      "link": "https://n.news.naver.com/mnews/article/079/0004179039",
+      "title": "'닥치고 공급'…서울 집값 잡을까",
+      "link": "https://n.news.naver.com/mnews/article/050/0000109683",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "서울시 \"용산공원 훼손해 주택공급, 매우 신중해야…미래 자산\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000506265",
+      "title": "삼성전자 '연봉킹'은?....상반기 '74.8억 수령' 이원진 TV담당 사장",
+      "link": "https://n.news.naver.com/mnews/article/014/0005561898",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "박정원, 상반기 보수 455억원 '총수 1위'…주가 급등 영향",
-      "link": "https://n.news.naver.com/mnews/article/277/0005803433",
+      "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
+      "link": "https://n.news.naver.com/mnews/article/092/0002434073",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'하영 증조부' 안상호, 친일파 명단 빠진 진짜 이유",
-      "link": "https://n.news.naver.com/mnews/article/018/0006351605",
+      "title": "서강대 재학생·졸업생 등 개인정보 18만 건 유출",
+      "link": "https://n.news.naver.com/mnews/article/056/0012238500",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“관저 앞 인간벽 형성”…종합특검, 나경원·김기현·윤상현·권영진 기소",
-      "link": "https://n.news.naver.com/mnews/article/025/0003544457",
+      "title": "포르쉐·BMW 몰고 일부러 ‘쾅’…보험금 챙긴 20대의 최후",
+      "link": "https://n.news.naver.com/mnews/article/011/0004652053",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[단독]김건희특검, 전합회부 후 첫 의견서…\"尹·吳 유죄 근거 적용돼야\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009114319",
+      "title": "양주 자원순환시설 불…11시간 만에 진화(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016253310",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "동해안 비…'광복절 연휴' 전국 비[날씨/XR]",
-      "link": "https://n.news.naver.com/mnews/article/055/0001380532",
+      "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
+      "link": "https://n.news.naver.com/mnews/article/422/0000896189",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“평택에 소아 응급실 있었다면”…3살아기 잃은 시민의 호소",
-      "link": "https://n.news.naver.com/mnews/article/009/0005721410",
+      "title": "교육부·예산처 수장, 교부금 개편 '전화 담판' 결렬...\"장관직 걸겠다\" 엄포",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562023",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_15_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "트럼프 “美에 투자한 외국 조선업체, 본국서 최대 2척 건조 승인”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002683762",
+      "title": "인도네시아 연안서 7.7 강진…20명 사망",
+      "link": "https://n.news.naver.com/mnews/article/449/0000356987",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美워싱턴 내셔널몰 2차대전 기념비 낙서테러",
-      "link": "https://n.news.naver.com/mnews/article/214/0001518050",
+      "title": "\"미국·이란 치킨 게임 본격화...경제 압박 vs 고유가\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002393887",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미 국무, 광복절 축하메시지…“한국은 없어서는 안 될 파트너”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012238368",
+      "title": "日다카이치, 전몰자 추도사서 '반성' 지웠다…아베 노선 회귀",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562003",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "갈수록 꼬이는 호르무즈…미국 '봉쇄 vs 이란 '후티 대리전'",
-      "link": "https://n.news.naver.com/mnews/article/079/0004178883",
+      "title": "링컨함 장기 파병의 그늘…수병 잇단 해상 추락에 '정신건강 경보'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009115959",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "패라지, 보궐선거 승리했지만…2위 '깡통 백작' 27% 득표",
-      "link": "https://n.news.naver.com/mnews/article/001/0016252573",
+      "title": "미국 드론 관세에 정부 “中에 비해 상대적 타격 적어…우대세율 협의”",
+      "link": "https://n.news.naver.com/mnews/article/081/0003670656",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
