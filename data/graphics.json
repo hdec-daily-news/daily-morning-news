@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-16T06:18:30.921411+09:00",
-  "window_start": "2026-08-15T15:00:00+09:00",
-  "window_end": "2026-08-16T06:00:00+09:00",
-  "items": []
+  "generated_at": "2026-08-17T06:17:06.459522+09:00",
+  "window_start": "2026-08-16T15:00:00+09:00",
+  "window_end": "2026-08-17T06:00:00+09:00",
+  "items": [
+    {
+      "source": "연합뉴스",
+      "title": "종사상 지위별 취업자 증감 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260816000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/16/GYH2026081600050004400_P1.jpg",
+      "pubdate": "2026-08-16T19:47:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주요 지역 강수량",
+      "link": "https://www.yna.co.kr/view/GYH20260816000400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/16/GYH2026081600040004400_P1.jpg",
+      "pubdate": "2026-08-16T17:32:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "청년층 취업자 감소 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260816000300044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/16/GYH2026081600030004400_P1.jpg",
+      "pubdate": "2026-08-16T15:26:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "친일재산조사위 재가동",
+      "link": "https://www.yna.co.kr/view/GYH20260816000200044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/16/GYH2026081600020004400_P1.jpg",
+      "pubdate": "2026-08-16T15:01:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    }
+  ]
 }
