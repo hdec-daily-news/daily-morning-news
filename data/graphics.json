@@ -1,103 +1,111 @@
 {
-  "generated_at": "2026-08-18T06:23:04.041476+09:00",
-  "window_start": "2026-08-17T15:00:00+09:00",
-  "window_end": "2026-08-18T06:00:00+09:00",
+  "generated_at": "2026-08-19T06:21:31.235827+09:00",
+  "window_start": "2026-08-18T15:00:00+09:00",
+  "window_end": "2026-08-19T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "더불어민주당 당대표 경선 결과(종합)",
-      "link": "https://www.yna.co.kr/view/GYH20260817000900044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700090004404_P1.jpg",
-      "pubdate": "2026-08-17T20:48:00+09:00",
+      "title": "서울 용산 주요 개발사업 추진 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260818000900044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800090004400_P1.jpg",
+      "pubdate": "2026-08-18T16:04:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "경남 지역 '극한호우' 강수량 및 피해 현황(종합)",
-      "link": "https://www.yna.co.kr/view/GYH20260817000800044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700080004400_P1.jpg",
-      "pubdate": "2026-08-17T19:29:00+09:00",
+      "title": "독자 AI 파운데이션 모델 3개팀 최종 진출",
+      "link": "https://www.yna.co.kr/view/GYH20260818000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800080004400_P1.jpg",
+      "pubdate": "2026-08-18T15:34:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "경남 거제·통영 일강수량 주요 기록",
-      "link": "https://www.yna.co.kr/view/GYH20260817000700044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700070004401_P1.jpg",
-      "pubdate": "2026-08-17T17:36:00+09:00",
+      "title": "AI 노출도에 따른 연령대별 고용 증감",
+      "link": "https://www.yna.co.kr/view/GYH20260818000700044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800070004402_P1.jpg",
+      "pubdate": "2026-08-18T15:12:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "삼성전자·SK하이닉스 상반기 현금·현금성 자산",
-      "link": "https://www.yna.co.kr/view/GYH20260817000600044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700060004400_P1.jpg",
-      "pubdate": "2026-08-17T16:25:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 아파트 전월세 가구 비중",
-      "link": "https://www.yna.co.kr/view/GYH20260817000500044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700050004400_P1.jpg",
-      "pubdate": "2026-08-17T15:50:00+09:00",
-      "image": "images/graphics/연합뉴스_05.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경남 지역 '극한호우' 강수량",
-      "link": "https://www.yna.co.kr/view/GYH20260817000400044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/17/GYH2026081700040004400_P1.jpg",
-      "pubdate": "2026-08-17T15:17:00+09:00",
-      "image": "images/graphics/연합뉴스_06.jpg"
+      "source": "뉴시스",
+      "title": "주담대 변동금리 오른다…코픽스 1년7개월 만에 최고치",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002215099&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002215099_web.jpg?rnd=20260818163413",
+      "pubdate": "2026-08-18T16:34:13+09:00",
+      "image": "images/graphics/뉴시스_04.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "민주당 신임 당대표 김민석…선호투표 반영 득표율 54.08%",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260817_0002214265&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/17/NISI20260817_0002214265_web.jpg?rnd=20260817192722",
-      "pubdate": "2026-08-17T19:27:22+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
+      "title": "7월 서울 집값 상승폭 9개월 만에 최대",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002214717&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002214717_web.jpg?rnd=20260818155127",
+      "pubdate": "2026-08-18T15:51:27+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "\"정부의 교육·의료 복지, 가구당 연 926만 원… 소득의 12.5% 내 준 효과\"",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002215002&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002215002_web.jpg?rnd=20260818155110",
+      "pubdate": "2026-08-18T15:51:10+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요 일정(17~21일)",
-      "link": "https://www.news1.kr/photos/8059150",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/17/8059150/no_water.jpg",
-      "pubdate": "2026-08-18T03:23:04.041476+09:00",
+      "title": "[그래픽] 2025년 기준 전국 의료취약지",
+      "link": "https://www.news1.kr/photos/8059933",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8059933/no_water.jpg",
+      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8060716",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060716/no_water.jpg",
+      "pubdate": "2026-08-19T01:21:31.235827+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 정상 체중 여성 5명 중 1명 \"나는 비만\"…치료제 오남용 우려",
-      "link": "https://www.news1.kr/photos/8058878",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/17/8058878/no_water.jpg",
-      "pubdate": "2026-08-18T00:23:04.041476+09:00",
+      "title": "[오늘의 증시] 8월 18일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8060708",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060708/no_water.jpg",
+      "pubdate": "2026-08-19T01:21:31.235827+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8058706",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/17/8058706/no_water.jpg",
-      "pubdate": "2026-08-17T23:23:04.041476+09:00",
+      "title": "[그래픽] 국제선 유류할증료 단계 추이",
+      "link": "https://www.news1.kr/photos/8060704",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060704/no_water.jpg",
+      "pubdate": "2026-08-19T01:21:31.235827+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8058676",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/17/8058676/no_water.jpg",
-      "pubdate": "2026-08-17T23:23:04.041476+09:00",
+      "title": "[그래픽] 2029학년도 수능 시행 개요",
+      "link": "https://www.news1.kr/photos/8060699",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060699/no_water.jpg",
+      "pubdate": "2026-08-19T01:21:31.235827+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 거제 옥포동 산사태 사고 위치도",
-      "link": "https://www.news1.kr/photos/8058406",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/17/8058406/no_water.jpg",
-      "pubdate": "2026-08-17T19:23:04.041476+09:00",
+      "title": "[오늘의 그래픽] 대기업 '젊은 피' 줄었다…50세 이상 고용,  청년층 추월",
+      "link": "https://www.news1.kr/photos/8060086",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060086/no_water.jpg",
+      "pubdate": "2026-08-18T21:21:31.235827+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 국제유가 추이",
+      "link": "https://www.news1.kr/photos/8059358",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8059358/no_water.jpg",
+      "pubdate": "2026-08-18T17:21:31.235827+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }
