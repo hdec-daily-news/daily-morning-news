@@ -1,111 +1,103 @@
 {
-  "generated_at": "2026-08-19T06:21:31.235827+09:00",
-  "window_start": "2026-08-18T15:00:00+09:00",
-  "window_end": "2026-08-19T06:00:00+09:00",
+  "generated_at": "2026-08-20T06:25:09.411824+09:00",
+  "window_start": "2026-08-19T15:00:00+09:00",
+  "window_end": "2026-08-20T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "서울 용산 주요 개발사업 추진 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260818000900044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800090004400_P1.jpg",
-      "pubdate": "2026-08-18T16:04:00+09:00",
+      "title": "중국 남중국해에 대규모 인공섬 조성",
+      "link": "https://www.yna.co.kr/view/GYH20260819000900044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/19/GYH2026081900090004400_P1.jpg",
+      "pubdate": "2026-08-19T22:17:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "독자 AI 파운데이션 모델 3개팀 최종 진출",
-      "link": "https://www.yna.co.kr/view/GYH20260818000800044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800080004400_P1.jpg",
-      "pubdate": "2026-08-18T15:34:00+09:00",
+      "title": "원/달러 환율 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260819000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/19/GYH2026081900080004400_P1.jpg",
+      "pubdate": "2026-08-19T16:06:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 노출도에 따른 연령대별 고용 증감",
-      "link": "https://www.yna.co.kr/view/GYH20260818000700044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/18/GYH2026081800070004402_P1.jpg",
-      "pubdate": "2026-08-18T15:12:00+09:00",
+      "title": "한화 K9 자주포 미국 수출",
+      "link": "https://www.yna.co.kr/view/GYH20260819000700044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/19/GYH2026081900070004400_P1.jpg",
+      "pubdate": "2026-08-19T15:51:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "주담대 변동금리 오른다…코픽스 1년7개월 만에 최고치",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002215099&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002215099_web.jpg?rnd=20260818163413",
-      "pubdate": "2026-08-18T16:34:13+09:00",
+      "title": "충북, 반도체 호황에 2분기 광공업 생산 27.8%↑",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260819_0002215565&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/19/NISI20260819_0002215565_web.jpg?rnd=20260819163410",
+      "pubdate": "2026-08-19T16:34:10+09:00",
       "image": "images/graphics/뉴시스_04.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "7월 서울 집값 상승폭 9개월 만에 최대",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002214717&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002214717_web.jpg?rnd=20260818155127",
-      "pubdate": "2026-08-18T15:51:27+09:00",
+      "title": "가계 빚 사상 첫 2000조 돌파",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260819_0002215636&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/19/NISI20260819_0002215636_web.jpg?rnd=20260819163344",
+      "pubdate": "2026-08-19T16:33:44+09:00",
       "image": "images/graphics/뉴시스_05.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "\"정부의 교육·의료 복지, 가구당 연 926만 원… 소득의 12.5% 내 준 효과\"",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260818_0002215002&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/18/NISI20260818_0002215002_web.jpg?rnd=20260818155110",
-      "pubdate": "2026-08-18T15:51:10+09:00",
+      "title": "KDI, 올 성장률 2.5→3.2% 상향",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260819_0002215644&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/19/NISI20260819_0002215644_web.jpg?rnd=20260819163334",
+      "pubdate": "2026-08-19T16:33:34+09:00",
       "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2025년 기준 전국 의료취약지",
-      "link": "https://www.news1.kr/photos/8059933",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8059933/no_water.jpg",
-      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8062835",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8062835/no_water.jpg",
+      "pubdate": "2026-08-20T01:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8060716",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060716/no_water.jpg",
-      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "title": "[오늘의 증시] 8월 19일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8062820",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8062820/no_water.jpg",
+      "pubdate": "2026-08-20T01:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 18일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8060708",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060708/no_water.jpg",
-      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "title": "[그래픽] 尹 혐의별 재판 현황",
+      "link": "https://www.news1.kr/photos/8062618",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8062618/no_water.jpg",
+      "pubdate": "2026-08-20T00:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 국제선 유류할증료 단계 추이",
-      "link": "https://www.news1.kr/photos/8060704",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060704/no_water.jpg",
-      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "title": "[오늘의 그래픽] 2026 아이치·나고야 아시안게임 개요",
+      "link": "https://www.news1.kr/photos/8062563",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8062563/no_water.jpg",
+      "pubdate": "2026-08-20T00:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2029학년도 수능 시행 개요",
-      "link": "https://www.news1.kr/photos/8060699",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060699/no_water.jpg",
-      "pubdate": "2026-08-19T01:21:31.235827+09:00",
+      "title": "[그래픽] 가계신용 잔액 추이",
+      "link": "https://www.news1.kr/photos/8062479",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8062479/no_water.jpg",
+      "pubdate": "2026-08-19T23:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 대기업 '젊은 피' 줄었다…50세 이상 고용,  청년층 추월",
-      "link": "https://www.news1.kr/photos/8060086",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8060086/no_water.jpg",
-      "pubdate": "2026-08-18T21:21:31.235827+09:00",
+      "title": "[그래픽] 주요 기관 2026년 한국 경제성장률 전망",
+      "link": "https://www.news1.kr/photos/8061714",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/19/8061714/no_water.jpg",
+      "pubdate": "2026-08-19T21:25:09.411824+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 국제유가 추이",
-      "link": "https://www.news1.kr/photos/8059358",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/18/8059358/no_water.jpg",
-      "pubdate": "2026-08-18T17:21:31.235827+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }
