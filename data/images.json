@@ -1,162 +1,171 @@
 {
-  "generated_at": "2026-08-20T06:25:09.155816+09:00",
-  "date_label": "8/20(목)",
+  "generated_at": "2026-08-21T06:24:13.958737+09:00",
+  "date_label": "8/21(금)",
   "articles": [
     {
-      "title": "조희대 '대법관 후임 서면제청'에 여야 공방…\"탄핵 vs 사법부 권한\"",
-      "link": "https://n.news.naver.com/mnews/article/031/0001050695",
+      "title": "[속보] 트럼프 대화 '손짓'에 北 미사일로 대답?…평양에서 미사일 10발 무더기 발사",
+      "link": "https://n.news.naver.com/mnews/article/002/0002452876",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "윤건영 \"윤석열 정부 국정원, 계엄 3개월 전부터 수사권 행사 검토\"",
-      "link": "https://n.news.naver.com/mnews/article/277/0005804594",
+      "title": "주도권 쥔 北 \"관심 없다\"…조급한 美 '핵보유국' 거래 나서나",
+      "link": "https://n.news.naver.com/mnews/article/088/0001024462",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "하준경 “용산공원 금싸라기 땅 잘 써야”…청년주택 활용 제안",
-      "link": "https://n.news.naver.com/mnews/article/666/0000119686",
+      "title": "李대통령 “국민 삶 짓누르는 반칙·불공정 바로잡는 개혁 필요”",
+      "link": "https://n.news.naver.com/mnews/article/022/0004152424",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“이진숙 사퇴하라” 과방위, 여야 충돌 속 결국 파행",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354287",
+      "title": "김민석, 지명직 최고위원 '청년' 전용기·'노동' 권미경 인선",
+      "link": "https://n.news.naver.com/mnews/article/052/0002395839",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "조현 \"트럼프 대북 제스처는 '국면 전환'…美에 北 접촉 현황 문의\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009120866",
+      "title": "이 대통령 \"'대북 유화 노력' 트럼프에 경의\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000897458",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "가계 빚 2천조 원 돌파…25조 9천억 원 ↑",
-      "link": "https://n.news.naver.com/mnews/article/056/0012240423",
+      "title": "하닉 성과급 60% 자사주로 지급",
+      "link": "https://n.news.naver.com/mnews/article/009/0005723729",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "AI·반도체에 몰린 상반기 벤처투자 8.9조 원 ‘역대 최대’",
-      "link": "https://n.news.naver.com/mnews/article/011/0004653149",
+      "title": "GV90·GV90 네오룬, 전동화 시대 “미래 럭셔리 새 기준”[뉴스줌인]",
+      "link": "https://n.news.naver.com/mnews/article/030/0003459051",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "전북 소외론 불식할까…전북 금융중심지 지정 첫발",
-      "link": "https://n.news.naver.com/mnews/article/009/0005722921",
+      "title": "부천시, 국토부 주택공급 후보지 18개 동 토지거래허가구역 지정",
+      "link": "https://n.news.naver.com/mnews/article/022/0004152364",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "삼전닉스 7~9% 급락에도 개인 4.4조 '사자'…외인·기관은 '팔자'",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354112",
+      "title": "40조 자사주 매입 첫날…SK하이닉스 ‘1조 베팅’",
+      "link": "https://n.news.naver.com/mnews/article/011/0004653480",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'최강 군사대국' 미 육군 뚫었다…K9 자주포 첫 수출 쾌거",
-      "link": "https://n.news.naver.com/mnews/article/437/0000506936",
+      "title": "ETF 거래대금 반토막…레버리지 규제에 투자자 발길 ‘뚝’",
+      "link": "https://n.news.naver.com/mnews/article/374/0000528388",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "30대 장기 실종자 제주 한림항 행적 이후 행방묘연(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016258902",
+      "title": "[단독] 청, ‘조희대 서면제청’ 손봉기 판사 ‘반려’ 유력 검토",
+      "link": "https://n.news.naver.com/mnews/article/028/0002819486",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미성년 여친과 성관계 불법촬영 의혹…20대 남성 수사",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354403",
+      "title": "\"저러고 예쁜 척 자랑\"…한푸 입고 경복궁 누빈 중국 인플루언서 '눈살'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009122911",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 종합특검, 조태용·홍장원 등 전 국정원 정무직 4명 내란 가담 혐의 기소",
-      "link": "https://n.news.naver.com/mnews/article/437/0000506910",
+      "title": "범인 사망·도피해도 범죄수익 환수…독립몰수제 통과",
+      "link": "https://n.news.naver.com/mnews/article/422/0000897791",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "부산 파산·회생 신청 3년 새 2.4배…“찾아가서 빚 문제 해결”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004652892",
+      "title": "새만금 기본계획 전면 수정…산단 3배 확대·에너지용지도 신설",
+      "link": "https://n.news.naver.com/mnews/article/030/0003459150",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'쿠팡 입주' 인천 원창동 물류센터 불…3000명 대피(종합)",
-      "link": "https://n.news.naver.com/mnews/article/003/0014136624",
+      "title": "원주 세 모녀 살인미수…10대 징역 10년형",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867949",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “11월 김정은과 회담” 김여정 “모르는 일”",
-      "link": "https://n.news.naver.com/mnews/article/032/0003465258",
+      "title": "한 달 100시간 근무 허용한 일본…초과근무 ‘월 45시간’ 제한 푼다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004653391",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국제형사재판소 \"미국의 제제는 노골적 사법독립 공격\"",
-      "link": "https://n.news.naver.com/mnews/article/055/0001381835",
+      "title": "이란 외무부 \"美 신규 제재는 경제 테러이자 반인륜 범죄\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016262608",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "中 높이뛰기 우승 로봇, 산업현장에… 시간당 택배 1200개 분류",
-      "link": "https://n.news.naver.com/mnews/article/020/0003741776",
+      "title": "\"에멘 해상서 유조선 무장괴한에 나포…소말리아로 항로 변경\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000897802",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 놓칠라 차 트렁크에 탄 보좌관…'애착담요' 누구길래[글로벌키맨]",
-      "link": "https://n.news.naver.com/mnews/article/008/0005402106",
+      "title": "트럼프 \"김정은과 연내 회담…北 핵무기 57개 보유\"",
+      "link": "https://n.news.naver.com/mnews/article/448/0000634530",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "모스크바 겨냥 대대적 공격...우크라전 공방 '격화' [자막뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/052/0002395100",
+      "title": "\"대만 TSMC, 1.6나노칩 개발 성공…올해 4분기 양산\"",
+      "link": "https://n.news.naver.com/mnews/article/014/0005564065",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
