@@ -1,171 +1,167 @@
 {
-  "generated_at": "2026-08-21T06:24:13.958737+09:00",
-  "date_label": "8/21(금)",
+  "generated_at": "2026-08-22T06:21:02.369408+09:00",
+  "date_label": "8/22(토)",
   "articles": [
     {
-      "title": "[속보] 트럼프 대화 '손짓'에 北 미사일로 대답?…평양에서 미사일 10발 무더기 발사",
-      "link": "https://n.news.naver.com/mnews/article/002/0002452876",
+      "title": "李대통령, 거제·통영 특별재난지역 선포",
+      "link": "https://n.news.naver.com/mnews/article/023/0003994234",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "주도권 쥔 北 \"관심 없다\"…조급한 美 '핵보유국' 거래 나서나",
-      "link": "https://n.news.naver.com/mnews/article/088/0001024462",
+      "title": "趙의장, 스틸 美대사 접견…\"트럼프 '한반도 평화' 결단에 공감\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016264116",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령 “국민 삶 짓누르는 반칙·불공정 바로잡는 개혁 필요”",
-      "link": "https://n.news.naver.com/mnews/article/022/0004152424",
+      "title": "'당원권 정지' 권영진 \"장동혁 같은 '찌질이 보수'와 싸워 이길 것\"",
+      "link": "https://n.news.naver.com/mnews/article/469/0000949330",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석, 지명직 최고위원 '청년' 전용기·'노동' 권미경 인선",
-      "link": "https://n.news.naver.com/mnews/article/052/0002395839",
+      "title": "이 대통령, '경질' 여한구 후임 통상교섭본부장에 박정성 임명",
+      "link": "https://n.news.naver.com/mnews/article/052/0002396371",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령 \"'대북 유화 노력' 트럼프에 경의\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000897458",
+      "title": "트럼프 '북핵 용인' 우려에…보수 야권 '자체 핵무장론' 재점화",
+      "link": "https://n.news.naver.com/mnews/article/437/0000507300",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "하닉 성과급 60% 자사주로 지급",
-      "link": "https://n.news.naver.com/mnews/article/009/0005723729",
+      "title": "美 트럼프 “규제 풀라” 주문서… 비트코인 1억원 돌파",
+      "link": "https://n.news.naver.com/mnews/article/023/0003994152",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": []
-    },
-    {
-      "title": "GV90·GV90 네오룬, 전동화 시대 “미래 럭셔리 새 기준”[뉴스줌인]",
-      "link": "https://n.news.naver.com/mnews/article/030/0003459051",
-      "section": "101",
-      "image": "images/article_07.png",
-      "ok": true,
       "infographics": [
         {
-          "image": "images/infographics/article_07_2.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_07_3.png",
+          "image": "images/infographics/article_06_2.png",
           "caption": ""
         }
       ]
     },
     {
-      "title": "부천시, 국토부 주택공급 후보지 18개 동 토지거래허가구역 지정",
-      "link": "https://n.news.naver.com/mnews/article/022/0004152364",
+      "title": "은행권, 내달 입주 앞둔 '디에이치 방배' 잔금대출 한도 확대",
+      "link": "https://n.news.naver.com/mnews/article/001/0016262507",
+      "section": "101",
+      "image": "images/article_07.png",
+      "ok": true,
+      "infographics": []
+    },
+    {
+      "title": "뉴욕증시, 美국채 금리 반등에 일제히 하락…다우 1.3%↓",
+      "link": "https://n.news.naver.com/mnews/article/014/0005564442",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "40조 자사주 매입 첫날…SK하이닉스 ‘1조 베팅’",
-      "link": "https://n.news.naver.com/mnews/article/011/0004653480",
+      "title": "하루 이자만 4조원…美 '악마와의 거래' 경고 쏟아진 이유 [박신영의 월가 아나토미]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005323190",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "ETF 거래대금 반토막…레버리지 규제에 투자자 발길 ‘뚝’",
-      "link": "https://n.news.naver.com/mnews/article/374/0000528388",
+      "title": "마이크론, 美에 100억달러 AI 메모리 연구소…2027년 착공",
+      "link": "https://n.news.naver.com/mnews/article/421/0009124868",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[단독] 청, ‘조희대 서면제청’ 손봉기 판사 ‘반려’ 유력 검토",
-      "link": "https://n.news.naver.com/mnews/article/028/0002819486",
+      "title": "경찰 \"장미란씨 실종 관련 자료, 입력 후 삭제돼\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000898207",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"저러고 예쁜 척 자랑\"…한푸 입고 경복궁 누빈 중국 인플루언서 '눈살'",
-      "link": "https://n.news.naver.com/mnews/article/421/0009122911",
+      "title": "권성동 '통일교 뇌물'' 징역 2년 확정에…변협, 변호사 등록 취소",
+      "link": "https://n.news.naver.com/mnews/article/003/0014141307",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "범인 사망·도피해도 범죄수익 환수…독립몰수제 통과",
-      "link": "https://n.news.naver.com/mnews/article/422/0000897791",
+      "title": "\"나름대로 나라 걱정\"…'국조특위 개표소 진입 저지' 60대의 최후진술",
+      "link": "https://n.news.naver.com/mnews/article/586/0000136487",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "새만금 기본계획 전면 수정…산단 3배 확대·에너지용지도 신설",
-      "link": "https://n.news.naver.com/mnews/article/030/0003459150",
+      "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6%",
+      "link": "https://n.news.naver.com/mnews/article/001/0016262575",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "원주 세 모녀 살인미수…10대 징역 10년형",
-      "link": "https://n.news.naver.com/mnews/article/005/0001867949",
+      "title": "연세대 '나체·복면 남성' 잇단 출몰…서대문서장 현장 점검",
+      "link": "https://n.news.naver.com/mnews/article/003/0014140225",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한 달 100시간 근무 허용한 일본…초과근무 ‘월 45시간’ 제한 푼다",
-      "link": "https://n.news.naver.com/mnews/article/011/0004653391",
+      "title": "“이스라엘, 이란 먼저 때릴 준비 중” 충격 주장…트럼프, 뒤통수 맞을까 [밀리터리+]",
+      "link": "https://n.news.naver.com/mnews/article/081/0003672109",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란 외무부 \"美 신규 제재는 경제 테러이자 반인륜 범죄\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016262608",
+      "title": "“와, 이게 진짜 되네” 찬물 부으면 완성…품절 대란 난 日 컵라면 정체가",
+      "link": "https://n.news.naver.com/mnews/article/011/0004654006",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"에멘 해상서 유조선 무장괴한에 나포…소말리아로 항로 변경\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000897802",
+      "title": "러, 젤렌스키 고향 쇼핑몰 공습…최소 15명 사망·130명 부상",
+      "link": "https://n.news.naver.com/mnews/article/422/0000898232",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 \"김정은과 연내 회담…北 핵무기 57개 보유\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000634530",
+      "title": "러시아, 일본 반발에도 쿠릴열도 군사 훈련 강행",
+      "link": "https://n.news.naver.com/mnews/article/052/0002396161",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"대만 TSMC, 1.6나노칩 개발 성공…올해 4분기 양산\"",
-      "link": "https://n.news.naver.com/mnews/article/014/0005564065",
+      "title": "美항모 중동서 ‘교대’…워싱턴함 작전 돌입·링컨함 귀항",
+      "link": "https://n.news.naver.com/mnews/article/016/0002686459",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
