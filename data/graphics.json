@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-08-23T06:18:23.479560+09:00",
-  "window_start": "2026-08-22T15:00:00+09:00",
-  "window_end": "2026-08-23T06:00:00+09:00",
-  "items": []
+  "generated_at": "2026-08-24T06:18:27.951505+09:00",
+  "window_start": "2026-08-23T15:00:00+09:00",
+  "window_end": "2026-08-24T06:00:00+09:00",
+  "items": [
+    {
+      "source": "연합뉴스",
+      "title": "5대 은행 달러예금 잔액 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260823000500044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300050004400_P1.jpg",
+      "pubdate": "2026-08-23T19:34:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국민연금 연계에 따른 기초연금 감액 규모",
+      "link": "https://www.yna.co.kr/view/GYH20260823000400044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300040004400_P1.jpg",
+      "pubdate": "2026-08-23T18:58:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "제주 실종 사건 허위 종결 추가 사례",
+      "link": "https://www.yna.co.kr/view/GYH20260823000300044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300030004400_P1.jpg",
+      "pubdate": "2026-08-23T17:35:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국내 주류 출고량 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260823000200044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300020004400_P1.jpg",
+      "pubdate": "2026-08-23T16:31:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국 선박 북극항로 시범 운항",
+      "link": "https://www.yna.co.kr/view/GYH20260823000100044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300010004400_P1.jpg",
+      "pubdate": "2026-08-23T15:00:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "태풍 '사우델' 예상 이동 경로 (23일 기준)",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260823_0002218941&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/23/NISI20260823_0002218941_web.jpg?rnd=20260823201534",
+      "pubdate": "2026-08-23T20:15:34+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "지방교육재정교부금 55년 만에 개편…내국세 20.79% 연동 폐지",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260823_0002218942&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/23/NISI20260823_0002218942_web.jpg?rnd=20260823200728",
+      "pubdate": "2026-08-23T20:07:28+09:00",
+      "image": "images/graphics/뉴시스_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요 일정 (24일~29일)",
+      "link": "https://www.news1.kr/photos/8068129",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8068129/no_water.jpg",
+      "pubdate": "2026-08-24T01:18:27.951505+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 폭언·모욕에도 무뎌진 직장인들…'갑질 감수성' 3년째 하락",
+      "link": "https://www.news1.kr/photos/8068032",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8068032/no_water.jpg",
+      "pubdate": "2026-08-24T00:18:27.951505+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 전남광주 해남 서북서쪽서 규모 3.1 지진",
+      "link": "https://www.news1.kr/photos/8067735",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8067735/no_water.jpg",
+      "pubdate": "2026-08-23T19:18:27.951505+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 일본 이바라키현 규모 5.9 지진",
+      "link": "https://www.news1.kr/photos/8067730",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8067730/no_water.jpg",
+      "pubdate": "2026-08-23T19:18:27.951505+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
+    }
+  ]
 }
