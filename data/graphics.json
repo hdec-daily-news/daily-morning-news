@@ -1,94 +1,94 @@
 {
-  "generated_at": "2026-08-24T06:18:27.951505+09:00",
-  "window_start": "2026-08-23T15:00:00+09:00",
-  "window_end": "2026-08-24T06:00:00+09:00",
+  "generated_at": "2026-08-25T06:25:57.619730+09:00",
+  "window_start": "2026-08-24T15:00:00+09:00",
+  "window_end": "2026-08-25T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "5대 은행 달러예금 잔액 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260823000500044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300050004400_P1.jpg",
-      "pubdate": "2026-08-23T19:34:00+09:00",
+      "title": "2차 종합특별검사팀 수사 결과",
+      "link": "https://www.yna.co.kr/view/GYH20260824000600044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/24/GYH2026082400060004400_P1.jpg",
+      "pubdate": "2026-08-24T15:05:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "국민연금 연계에 따른 기초연금 감액 규모",
-      "link": "https://www.yna.co.kr/view/GYH20260823000400044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300040004400_P1.jpg",
-      "pubdate": "2026-08-23T18:58:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "제주 실종 사건 허위 종결 추가 사례",
-      "link": "https://www.yna.co.kr/view/GYH20260823000300044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300030004400_P1.jpg",
-      "pubdate": "2026-08-23T17:35:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국내 주류 출고량 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260823000200044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300020004400_P1.jpg",
-      "pubdate": "2026-08-23T16:31:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국 선박 북극항로 시범 운항",
-      "link": "https://www.yna.co.kr/view/GYH20260823000100044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/08/23/GYH2026082300010004400_P1.jpg",
-      "pubdate": "2026-08-23T15:00:00+09:00",
-      "image": "images/graphics/연합뉴스_05.jpg"
-    },
-    {
       "source": "뉴시스",
-      "title": "태풍 '사우델' 예상 이동 경로 (23일 기준)",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260823_0002218941&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/23/NISI20260823_0002218941_web.jpg?rnd=20260823201534",
-      "pubdate": "2026-08-23T20:15:34+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "지방교육재정교부금 55년 만에 개편…내국세 20.79% 연동 폐지",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260823_0002218942&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/23/NISI20260823_0002218942_web.jpg?rnd=20260823200728",
-      "pubdate": "2026-08-23T20:07:28+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
+      "title": "태풍 '사우델' 예상 이동 경로 (24일 기준)",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260824_0002219881&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/24/NISI20260824_0002219881_web.jpg?rnd=20260824172927",
+      "pubdate": "2026-08-24T17:29:27+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요 일정 (24일~29일)",
-      "link": "https://www.news1.kr/photos/8068129",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8068129/no_water.jpg",
-      "pubdate": "2026-08-24T01:18:27.951505+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8069719",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069719/no_water.jpg",
+      "pubdate": "2026-08-25T01:25:57.619730+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 8월 24일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8069677",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069677/no_water.jpg",
+      "pubdate": "2026-08-25T01:25:57.619730+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2차 종합특검 주요 사건 처리 현황",
+      "link": "https://www.news1.kr/photos/8069046",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069046/no_water.jpg",
+      "pubdate": "2026-08-25T00:25:57.619730+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 서울 오피스텔 평균 전셋값 추이",
+      "link": "https://www.news1.kr/photos/8068611",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068611/no_water.jpg",
+      "pubdate": "2026-08-25T00:25:57.619730+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 노인소득 10년새 79%↑…효자용돈 제자리, 공적연금 껑충",
+      "link": "https://www.news1.kr/photos/8069385",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069385/no_water.jpg",
+      "pubdate": "2026-08-25T00:25:57.619730+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 제주 실종 장미란씨 '허위 종결' 의혹 사건 일지",
+      "link": "https://www.news1.kr/photos/8069508",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069508/no_water.jpg",
+      "pubdate": "2026-08-25T00:25:57.619730+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 폭언·모욕에도 무뎌진 직장인들…'갑질 감수성' 3년째 하락",
-      "link": "https://www.news1.kr/photos/8068032",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8068032/no_water.jpg",
-      "pubdate": "2026-08-24T00:18:27.951505+09:00",
+      "title": "[그래픽] 코로나19 검출 현황",
+      "link": "https://www.news1.kr/photos/8068638",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068638/no_water.jpg",
+      "pubdate": "2026-08-24T19:25:57.619730+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 전남광주 해남 서북서쪽서 규모 3.1 지진",
-      "link": "https://www.news1.kr/photos/8067735",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8067735/no_water.jpg",
-      "pubdate": "2026-08-23T19:18:27.951505+09:00",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8068439",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068439/no_water.jpg",
+      "pubdate": "2026-08-24T17:25:57.619730+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 일본 이바라키현 규모 5.9 지진",
-      "link": "https://www.news1.kr/photos/8067730",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/23/8067730/no_water.jpg",
-      "pubdate": "2026-08-23T19:18:27.951505+09:00",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8068435",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068435/no_water.jpg",
+      "pubdate": "2026-08-24T17:25:57.619730+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
