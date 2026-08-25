@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-08-25T06:25:57.374432+09:00",
-  "date_label": "8/25(화)",
+  "generated_at": "2026-08-26T06:24:29.986349+09:00",
+  "date_label": "8/26(수)",
   "articles": [
     {
-      "title": "24일 당협위원장 재선출 강행… 張, 영남권 주류와 일전 벌이나",
-      "link": "https://n.news.naver.com/mnews/article/005/0001868424",
+      "title": "'실종 셀프종결' 경찰 불신 여론…\"중앙통제는 한계, 분산 관리해야\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/421/0009131151",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李 대통령 지지율 40.2%, 최저치…6주째 하락",
-      "link": "https://n.news.naver.com/mnews/article/449/0000357910",
+      "title": "유시민 \"대통령이 당대표 픽하는건 왕정\"…친명 \"독설로 분란 자초\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006357668",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석·장동혁, 첫 만남서 마이크 번갈아잡고 '대법관 제청' 공방…노무현까지 소환",
-      "link": "https://n.news.naver.com/mnews/article/448/0000635413",
+      "title": "與민주연구원 혁신TF 발족…\"연속 집권본부로서 역할\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005807145",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "임기 내 대법관 22명 임명...청와대, '선례' 만들기 고심",
-      "link": "https://n.news.naver.com/mnews/article/052/0002397095",
+      "title": "‘한반도 비핵화’ 빠진 한·미 공조… 더 커진 북핵 불확실성",
+      "link": "https://n.news.naver.com/mnews/article/022/0004153600",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이진숙, 경찰에 김민석 고소장 제출…“‘여자 히틀러’ 발언, 모욕 혐의로 법적 대응”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002687658",
+      "title": "김민석 \"국정지지율 초반보다 조금 어려워져…일신하라는 국민 뜻\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/003/0014147560",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "오세훈 \"용산공원 1㎝도 양보 못해\"…김영배 \"청년 주거보다 자기 정치만\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005323731",
+      "title": "'60~62세 비상' 소득 크레바스, 이렇게 차이난다",
+      "link": "https://n.news.naver.com/mnews/article/374/0000529241",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "불장에 직접 굴릴래…금융사 갈아탄 퇴직연금 16조 육박",
-      "link": "https://n.news.naver.com/mnews/article/032/0003466144",
+      "title": "MBK, 원아시아 의혹 제기…“고려아연 회장 일가 사익 추구” [시그널]",
+      "link": "https://n.news.naver.com/mnews/article/011/0004655040",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
@@ -60,108 +60,112 @@
         {
           "image": "images/infographics/article_07_1.png",
           "caption": ""
+        },
+        {
+          "image": "images/infographics/article_07_2.png",
+          "caption": ""
         }
       ]
     },
     {
-      "title": "김밥 한 줄에 4000원 시대... 손님도 사장님도 속 터집니다",
-      "link": "https://n.news.naver.com/mnews/article/008/0005404056",
+      "title": "오세훈 “탄천 물재생센터에 만3천 가구 공급” 제안",
+      "link": "https://n.news.naver.com/mnews/article/056/0012244028",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "달리오 \"미 부채 위기 3년 내 온다\"…충분한 분산 투자 조언",
-      "link": "https://n.news.naver.com/mnews/article/055/0001382947",
+      "title": "현대차 성과급 400%+1270만원, 기본급 10만원↑…임금협상 잠정합의",
+      "link": "https://n.news.naver.com/mnews/article/028/0002819978",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'살만 쏙 빠진다고?'…3.2조 '초대박' 터진 한국 비만 신약",
-      "link": "https://n.news.naver.com/mnews/article/015/0005323908",
+      "title": "농어촌 기본소득 추가선정 7개군 주민, 28일부터 매월 15만원 받는다",
+      "link": "https://n.news.naver.com/mnews/article/032/0003466253",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정성호 마지막 퇴근길…“검사·수사관 줄여야 한다는 건 모르고 하는 소리”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004654699",
+      "title": "[속보]'제주 실종' 장미란씨 부검결과 일치 소견",
+      "link": "https://n.news.naver.com/mnews/article/018/0006357791",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "철원군, 통합돌봄 서비스 대상자 맞춤형 서비스 확대 앞장",
-      "link": "https://n.news.naver.com/mnews/article/087/0001213110",
+      "title": "與 '대법관 추천위법 개정' 주장…대법관 공백 장기화하나",
+      "link": "https://n.news.naver.com/mnews/article/001/0016270096",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "실종 종결 땐 형사과장 서면 확인…'이중장치' 도입전 우선 시행",
-      "link": "https://n.news.naver.com/mnews/article/057/0001965265",
+      "title": "6년 표류 ‘부전~마산 복선전철’, 내년 4월 부분 개통",
+      "link": "https://n.news.naver.com/mnews/article/081/0003673374",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“다 큰 성인인데...” 노원서, 제주 실종 여성 2차 신고 홀대",
-      "link": "https://n.news.naver.com/mnews/article/023/0003994614",
+      "title": "‘장미란씨 실종 허위 종결’ 파장…경기북부청, 1만 9226건 전수 점검",
+      "link": "https://n.news.naver.com/mnews/article/023/0003994824",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "실종 장미란 씨 추정 시신 발견...감식 통해 신원 확인 예정",
-      "link": "https://n.news.naver.com/mnews/article/052/0002397526",
+      "title": "경찰, 제주 실종사건 허위종결 지휘라인 4명 전원 대기발령",
+      "link": "https://n.news.naver.com/mnews/article/087/0001213357",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"파키스탄 참모총장 이란 방문…새로운 제안 논의\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014145236",
+      "title": "머스크 “AI 데이터센터 우주로”…첫 위성 2027년 말 띄운다",
+      "link": "https://n.news.naver.com/mnews/article/020/0003743118",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "임기 2년 넘긴 젤렌스키 \"전시 선거는 나라 분열시킬 쓰나미\"",
-      "link": "https://n.news.naver.com/mnews/article/014/0005565210",
+      "title": "\"지하철선 손풍기 꺼달라\"...'남의 땀 바람 날아와' vs '더위 먹을라' 논쟁 [어떻게 생각하세요]",
+      "link": "https://n.news.naver.com/mnews/article/014/0005566387",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美 “이란 제재 동참하라” 이란 “동참국은 敵 간주”",
-      "link": "https://n.news.naver.com/mnews/article/023/0003994483",
+      "title": "이스라엘 국방, 시리아 완충지대 방문…\"군대 철수 안 해\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016270541",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"설마 이 김치도?\" '1군 발암물질' 중국배추 수입됐나…식약처 \"확인 중\"",
-      "link": "https://n.news.naver.com/mnews/article/656/0000184852",
+      "title": "美 “돈줄 죈다” vs 이란 “석유 수출길 막는다”…미사일에서 경제전쟁으로",
+      "link": "https://n.news.naver.com/mnews/article/662/0000102578",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란, 호르무즈 통항 위반 선박 45척 공개…韓 장금상선 선박도 포함",
-      "link": "https://n.news.naver.com/mnews/article/421/0009130102",
+      "title": "트럼프, SNS에 '김정은과 투샷' 사진 올리며 북미회담 재개 메시지",
+      "link": "https://n.news.naver.com/mnews/article/654/0000196826",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,

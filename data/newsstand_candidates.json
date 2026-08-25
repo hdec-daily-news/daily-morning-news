@@ -1,128 +1,48 @@
 [
   {
     "presses": [
+      "YTN",
       "경향신문",
       "노컷뉴스",
-      "뉴스1",
-      "서울신문",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "청와대 “대통령 임명권 침해”…침묵 깬 조희대 “법의 지배 가치 소중”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274423.html",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "정성호 마지막 퇴근길···“대법원, 대통령 대법관 임명권 존중해야”",
-        "link": "https://www.khan.co.kr/article/202608241855001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "靑 “대통령 임명권 침해”… 조희대 “권력 자의적 행사 통제를”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/25/20260825005002",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "마지막 퇴근길 오른 정성호 “국회서 법무부 신뢰 회복 도울 것”",
-        "link": "https://www.seoul.co.kr/news/society/law/2026/08/25/20260825008008",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "정성호 법무부 장관의 사직서가 수리됨에 따라 법무·검찰 수장 자리가 나란히 공…",
-        "link": "https://www.news1.kr/society/court-prosecution/6267904",
-        "score": 0
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "靑 \"대법관 서면제청, 대통령 임명권 침해…관행과 동떨어져\"",
-        "link": "https://www.nocutnews.co.kr/news/6567023",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "박범계 \"尹시기 끽소리 못했던 조희대, 지금 와서 대통령 패싱?\"",
-        "link": "https://www.nocutnews.co.kr/news/6566826",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "뉴스1",
-      "뉴시스",
-      "문화일보",
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "조현 외교장관, 미 루비오와 통화 “북핵문제 해결 긴밀한 공조”",
-        "link": "https://www.khan.co.kr/article/202608250031001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "‘한국 배제’ 우려 일단락되나…조현, 美 루비오와 긴급 통화 “한미 소통 중요”",
-        "link": "https://www.segye.com/newsView/20260825500236",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "조현, 美국무장관과 통화…“한반도 평화·북핵 해결 긴밀 공조”",
-        "link": "https://www.munhwa.com/article/11611687",
-        "score": 2
-      },
-      {
-        "press": "뉴시스",
-        "title": "한미 외교 통화…북핵 해결-중동 사태 긴밀 공조",
-        "link": "https://www.newsis.com/view/NISX20260825_0003760768",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "조현-루비오 한미 현안 논의 통화…대북정책 …",
-        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6268128",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1",
-      "문화일보",
+      "세계일보",
       "중앙일보",
       "한겨레"
     ],
     "articles": [
       {
         "press": "중앙일보",
-        "title": "유시민 “대통령이 與대표 세우는 건 왕정”",
-        "link": "https://www.joongang.co.kr/article/25455849",
-        "score": 2
+        "title": "이 대통령, 민주당 신임 지도부 만찬 icon_video",
+        "link": "https://www.joongang.co.kr/article/25456097",
+        "score": 0
       },
       {
         "press": "한겨레",
-        "title": "유시민 “이 대통령 모습 오만한 권력자…왕정, 귀족정으로 가려는 것”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274426.html",
+        "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274630.html",
         "score": 2
       },
       {
-        "press": "문화일보",
-        "title": "진보인사 유시민 “이 대통령, 오만한 권력자 모습…尹정부와 비슷한 증상”",
-        "link": "https://www.munhwa.com/article/11611690",
+        "press": "경향신문",
+        "title": "이 대통령 “다른 점 찾기 시작하면 원수, 같은 점 찾아내면 형제 될 것”···여당 지도부와 만찬",
+        "link": "https://www.khan.co.kr/article/202608251951001/?nv=stand",
         "score": 2
       },
       {
-        "press": "뉴스1",
-        "title": "유시민 \"'대통령이 여당대표 픽'은 왕…",
-        "link": "https://www.news1.kr/politics/assembly/6268102",
+        "press": "세계일보",
+        "title": "李대통령 \"당정청은 하나\"…與 신임 지도부와 첫 만찬",
+        "link": "https://www.segye.com/newsView/20260825518580",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "李대통령, 민주당 지도부 초청 만찬…\"당정청 운명공동체\"",
+        "link": "https://www.nocutnews.co.kr/news/6568048",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "이 대통령, 민주당 신임 지도부와 만찬…\"작은 차이 넘어 전력질주\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608252254248755_005.html",
         "score": 2
       }
     ]
@@ -130,219 +50,191 @@
   {
     "presses": [
       "SBS",
-      "YTN",
+      "동아일보",
+      "머니투데이",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "한미 외교장관 통화 보도자료서도 ‘北 비핵화’ 표현 사라졌다",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260826/134543624/2",
+        "score": 2
+      },
+      {
+        "press": "한겨레",
+        "title": "한미 외교장관 통화 “핵심사안 공조 지속”…‘패싱 우려’ 진화",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274625.html",
+        "score": 2
+      },
+      {
+        "press": "머니투데이",
+        "title": "트럼프의 잇단 김정은 '러브콜'...韓美 외교장관도 '비핵화' 표현 뺐다",
+        "link": "https://www.mt.co.kr/politics/2026/08/26/2026082516144384398?STAND=MT",
+        "score": 2
+      },
+      {
+        "press": "SBS",
+        "title": "'김정은과 찰칵' 또 올려…'비핵화' 피한 한미 통화",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008721441&plink=STAND&cooper=NAVER",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
       "뉴스1",
       "동아일보"
     ],
     "articles": [
       {
         "press": "동아일보",
-        "title": "李, 정성호 법무장관 사표 수리… 靑 “신속 후속인선”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134536085/2",
-        "score": 2
+        "title": "김민석 “조희대씨” 지칭에, 법원행정처장 “사법부 수장 존중해야”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134543997/1",
+        "score": 5
       },
       {
         "press": "뉴스1",
-        "title": "법무부 청사 나서는 '사의 수리' 정성호 장관",
-        "link": "https://www.news1.kr/photos/8069967",
-        "score": 2
+        "title": "법원행정처장, 김민석 '조희대씨'에 \"…",
+        "link": "https://www.news1.kr/society/court-prosecution/6269339",
+        "score": 5
       },
       {
-        "press": "YTN",
-        "title": "사표 수리 정성호 \"합수본 근거 등 국회서 논의\"",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608250405307075_005.html",
-        "score": 2
-      },
-      {
-        "press": "SBS",
-        "title": "이 대통령, 정성호 법무장관 사표 수리",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719476&plink=STAND&cooper=NAVER",
-        "score": 0
+        "press": "MBC",
+        "title": "법원행정처장, '조희대 씨' 김민석 발언에 \"대법원장 존중해야\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6847251_36911.html",
+        "score": 5
       }
     ]
   },
   {
     "presses": [
-      "국민일보",
-      "동아일보",
-      "이데일리",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "靑특별감찰관 10년 공백 끝낸 李, 집권 2년차 국정 ‘고삐’",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134536088/2",
-        "score": 2
-      },
-      {
-        "press": "한겨레",
-        "title": "10년 공석 끝내는 최길수 특별감찰관 후보…‘야당 추천 이력’ 중립성 고려",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274373.html",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "특별감찰관제 10년 만에 부활…이 대통령, 與 추천 최길수 지명",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005740&code=11121600&sid1=pol",
-        "score": 0
-      },
-      {
-        "press": "이데일리",
-        "title": "결국 與추천 최길수 특별감찰관 택한 李…‘살아 있는 권력’ 겨눌까",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03781846645550600",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
+      "YTN",
       "노컷뉴스",
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "이진숙, ‘여자 히틀러’ 발언 김민석 고소 icon_video",
-        "link": "https://www.joongang.co.kr/article/25455622",
-        "score": 5
-      },
-      {
-        "press": "경향신문",
-        "title": "‘여자 히틀러·여자 전두환 발언으로 모욕’ 주장···이진숙, 김민석 고소",
-        "link": "https://www.khan.co.kr/article/202608240955001/?nv=stand",
-        "score": 5
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "이진숙, \"여자 히틀러\" 발언 김민석 고소",
-        "link": "https://www.nocutnews.co.kr/news/6567024",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "동아일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "김민석 “수시 대화” 장동혁 “공감”…대법관 제청 놓곤 신경전",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134536081/2",
-        "score": 5
-      },
-      {
-        "press": "경향신문",
-        "title": "김민석 “대법관 제청 반려는 조희대 노림수, 법 개정 때까지 결정 보류해야”",
-        "link": "https://www.khan.co.kr/article/202608241759011/?nv=stand",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "대법원장 제청권 손대려는 與…野 \"친명 대법관 채울 속셈\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/25/UGLXOPWRRRAGHB6QICBP7ZUOUI/",
-        "score": 2
-      },
-      {
-        "press": "동아일보",
-        "title": "與, 대법원장 힘빼기…법원행정처 폐지 이어 제청권 축소 나서",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134536281/2",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "이 대통령 지지율 ‘40% 턱걸이’ 호남·3040세대로 하락세 번져",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005744&code=11121600&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "부동산 대책에도… 李대통령 지지율 40.2% 또 최저치",
-        "link": "https://www.segye.com/newsView/20260824514785",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "[데스크에서] 이재명의 '개헌' 오디세이",
-        "link": "https://www.chosun.com/opinion/desk/2026/08/24/JWF5M6KSINFFVGHGLCXNDPWYO4/",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "김민석 “전대 여론조사조작 법적조치” 정치 유튜버 힘빼기?",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005727&code=11121100&sid1=pol",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "용산공원 찾은 오세훈 “이곳에 아파트? 역사의 죄인”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005608&code=61121111&sid1=soc",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "국힘 찾은 김민석 “張대표 좋아해…필수적 리더”",
-        "link": "https://www.munhwa.com/article/11611669",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
       "서울신문"
     ],
     "articles": [
       {
         "press": "서울신문",
-        "title": "‘장동혁의 당협 직선제’ 최고위도 제동…당대표 거취 문제 재점화하나",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/25/20260825004003",
+        "title": "李대통령 “경찰, 가장 큰 권력, 개혁 기구 만들라”",
+        "link": "https://www.seoul.co.kr/news/politics/president/2026/08/26/20260826001004",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "李대통령 \"개혁 선명하면 고통 커…실용적 접근해야\"",
+        "link": "https://www.nocutnews.co.kr/news/6567901",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "\"권한 만큼 책임 강화\"…이 대통령, 경찰 개혁 기구 구상 지시",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608252155248614_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "디지털타임스",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "유시민 “李대통령, 오만한 권력자 모습”…친명계 “저주의 독설, 작가 아닌 무당”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/26/20260826006005",
+        "score": 2
+      },
+      {
+        "press": "디지털타임스",
+        "title": "유시민, 이 대통령 향해 “당 대표 세우는 건 왕정, 오만한 권력자 모습”",
+        "link": "https://www.dt.co.kr/article/12079949",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "김민석 “개혁·중도·보수 대대적 영입해야 당이 단단해져”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1274629.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "오세훈 “강남 탄천 물재생센터에 청년주택 짓자···용산공원보다 나은 대안”",
+        "link": "https://www.khan.co.kr/article/202608251138001/?nv=stand",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "“진보개혁·중도보수 영입 동시 추진”…사회 통합 행보나선 김민석",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006042&code=61111111&sid1=pol",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "옛 친윤계 모임 나란히 참석한 오세훈·한동훈 ‘反장동혁 협공’",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006094&code=11121100&sid1=pol",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "세계일보"
+    ],
+    "articles": [
+      {
+        "press": "세계일보",
+        "title": "안으로 기강 잡고 밖으론 외연 확장… 김민석 대표 ‘투트랙 전략’ 속도전",
+        "link": "https://www.segye.com/newsView/20260825515588",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "李대통령 \"당정청 한몸\"…김민석 \"與지도부답게 …",
+        "link": "https://www.news1.kr/politics/assembly/6269403",
+        "score": 5
+      },
+      {
+        "press": "뉴스1",
+        "title": "李대통령 \"당정청 한몸\"…김민석 \"與…",
+        "link": "https://www.news1.kr/politics/assembly/6269403",
         "score": 5
       }
     ]
@@ -362,39 +254,39 @@
   },
   {
     "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "‘김민석 호남 57.7%’ 리얼미터 족집게 예측의 비밀 노하우 [여론 뒤집기]",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03604726645550600",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "디지털타임스"
-    ],
-    "articles": [
-      {
-        "press": "디지털타임스",
-        "title": "이재명 정부가 들어야 할 공자 말씀, ‘과유불급’",
-        "link": "https://www.dt.co.kr/article/12079285",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
       "조선일보"
     ],
     "articles": [
       {
         "press": "조선일보",
-        "title": "美하원 외교위원장 \"한국, 쿠팡에 피해… 약속도 안 지켜\"",
-        "link": "https://www.chosun.com/international/international_general/2026/08/24/6JZOC2WBZ5GGRJY3YUVWO7MEAA/",
+        "title": "[단독] 국회 입법조사처 \"개헌 당시 대통령은 연임 못한다\"",
+        "link": "https://www.chosun.com/politics/politics_general/2026/08/26/2MXDBIAVQ5GQHOKVHUJBGIUJZE/",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "김윤덕-오세훈, 오늘 2차 회동…용산공원 접점 찾을까?",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0102_202608260009013884_005.html",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "“심우정 내란 가담 증거”라던 문건, 계엄 해제 후 작성",
+        "link": "https://www.joongang.co.kr/article/25456196",
         "score": 2
       }
     ]
@@ -406,21 +298,34 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "[장세정] “통폐합으로 군 전문성 약해지면 북한에 전략적 이익”",
-        "link": "https://www.joongang.co.kr/article/25455833",
+        "title": "“계엄 암시였다”∙∙∙홍범도 흉상 철거때 ‘尹 텔레그램’",
+        "link": "https://www.joongang.co.kr/article/25456206",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "한겨레"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’",
-        "link": "https://www.hani.co.kr/arti/society/society_general/1274389.html",
+        "press": "동아일보",
+        "title": "‘57기의 핵무기’로 돌아온 北의 은장도",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134543679/2",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "李, 與지도부 만찬서 “다른 점 보면 원수의 길” 통합 강조",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260826/134544077/2",
         "score": 2
       }
     ]
@@ -440,13 +345,26 @@
   },
   {
     "presses": [
-      "국민일보"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "국민일보",
-        "title": "“李 골프회동 무슨 돈 썼나” “답변 사항 아냐”…靑 특활비 공방",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005738&code=11121300&sid1=pol",
+        "press": "경향신문",
+        "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기",
+        "link": "https://www.khan.co.kr/article/202608251707001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "논설위원의 단도직입-문희상 전 국회의장 \"적통 없는 사람들끼리 적통 싸움, 아이고 참나···민주당은 매번 푸닥거리 후 다시 뭉쳐\"",
+        "link": "https://www.khan.co.kr/article/202608252007005/?nv=stand",
         "score": 2
       }
     ]
@@ -458,8 +376,21 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "경찰청장 대행 “송구”… 여야 “경찰 신뢰 무너졌다” 질타",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005729&code=11121100&sid1=pol",
+        "title": "노경필 “헌법에 협의 규정 없다”… 국힘 “曺 탄핵은 헌법 부정”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006099&code=11121100&sid1=pol",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "국힘 의원 ‘尹 체포방해’, 특검간 엇갈린 법리 판단",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006088&code=11131900&sid1=soc",
         "score": 2
       }
     ]
@@ -471,34 +402,8 @@
     "articles": [
       {
         "press": "세계일보",
-        "title": "李대통령, 장미란씨 사건에 '진상규명·경찰 개혁안 마련' 지시",
-        "link": "https://www.segye.com/newsView/20260824514968",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "“사관학교 통합 반대” 예비역 간부 국방컨벤션 옥상서 투신 시도…생명엔 지장 없어",
-        "link": "https://www.munhwa.com/article/11611632",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "“내 뒷배가 의원이야” 중고차 파는 범죄 고발 유튜버, 징역 7년",
-        "link": "https://www.munhwa.com/article/11611680",
+        "title": "與 “조희대, 법 빈틈 이용 대법관 인선 좌우 시도” 野 “대법원장 흔들어 제 사람 심기 나서나”",
+        "link": "https://www.segye.com/newsView/20260825515584",
         "score": 2
       }
     ]
@@ -510,8 +415,21 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "종합특검 46건 이첩 ‘반쪽 마무리’…“상설 특수본 설치 필요”",
-        "link": "https://www.seoul.co.kr/news/society/law/2026/08/25/20260825008007",
+        "title": "“우크라 지고 있다” 폭탄 발언, 뒤집을 시간도 몇 달뿐…젤렌스키가 쫓아낸 전 국방 [배틀라인]",
+        "link": "https://www.seoul.co.kr/news/international/2026/08/26/20260826500007",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "2시간 20분 만찬 회동…'원팀' 강조 민주 \"李 국정철학 구현 든든 뒷받침\" '우리는 하…",
+        "link": "https://www.news1.kr/politics/assembly/6269403",
         "score": 2
       }
     ]
@@ -523,40 +441,21 @@
     "articles": [
       {
         "press": "노컷뉴스",
-        "title": "'親트럼프' 성향 폭스뉴스도 '외교 성과용' 북미대화 비판",
-        "link": "https://www.nocutnews.co.kr/news/6566595",
+        "title": "북미대화 속도에 한미외교장관 통화…\"북핵 해결 위해 긴밀한 소통\"",
+        "link": "https://www.nocutnews.co.kr/news/6567324",
         "score": 2
-      },
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
       {
         "press": "노컷뉴스",
-        "title": "북미대화 시동에…트랙 밖 밀려나는 페이스메이커 외교",
-        "link": "https://www.nocutnews.co.kr/news/6566332",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "이데일리",
-        "title": "제주 실종사건에 커진 ‘보완수사권 폐지’ 논란…고심 깊어진 與",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03634246645550600",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "디지털타임스"
-    ],
-    "articles": [
-      {
-        "press": "디지털타임스",
-        "title": "한미약품, 제넨텍에 3.2조원 비만신약 기술수출 잭팟… \"사상 최대\"",
-        "link": "https://www.dt.co.kr/article/12079797",
+        "title": "靑, 조희대 또 직격 \"관행과 상당히 동떨어져\"[CBS뉴스룸]",
+        "link": "https://www.nocutnews.co.kr/news/6567229",
         "score": 2
       }
     ]
@@ -568,8 +467,21 @@
     "articles": [
       {
         "press": "YTN",
-        "title": "한 총리 \"실종 대응 가슴 아프게 생각…제도 개선 빠르게 추진\"",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608250356038181_005.html",
+        "title": "'선관위 특검' 준비 속도…\"특검보 인선, 1~2일 걸릴 듯\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608260041397820_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "여당도 '경찰 쇄신책' 착수…국힘 \"보완수사권 살려야\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608252237382534_005.html",
         "score": 2
       }
     ]
@@ -581,8 +493,8 @@
     "articles": [
       {
         "press": "SBS",
-        "title": "\"'핵 보유국' 숙원 이룰 듯\"…\"이 대통령 만나야\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719488&plink=STAND&cooper=NAVER",
+        "title": "'서면 제청' 일주일 지났는데…청와대 고심 이유는?",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008721449&plink=STAND&cooper=NAVER",
         "score": 2
       }
     ]
@@ -594,35 +506,9 @@
     "articles": [
       {
         "press": "MBC",
-        "title": "실종 104일 만에‥숙소 400미터 앞 농장서 발견 ◀ 앵커 ▶ 경찰이 '무사하다'며 실종 신고를 허위 종결했던 장미란 씨로 추정되는 시신이 실종 104일 만에 발견됐습니다. 장 씨가 머물던 숙소에서 걸어서 10분 거리, 직선거리로 불과 4백 미터 떨어진 곳이었습니다. 먼저 김항섭 기자가 보도합니다. ◀ 리포트 ▶ 야자나무 잎이 무성하게 자란 농장 주위를 경찰과 감식반이 분주하게 오갑니다. 10시 46분쯤 장미란 씨로 추정되는 시신이 제주시 한림읍의 한 야자수 농장에서 발견됐습니다. 장미란 씨가 머물던 숙소와 직선거리로 4백여m, 도보로 10분 거리밖에 안 되는 곳이었습니다. 경찰 수색이 이뤄졌던 한림항과도 1km 정도밖에 떨어지지 않았습니다. 시신 주변에선 실종 당시 장 씨가 입고 있던 옷가지와 휴대전화 등도 발견됐습니다. [김은성/제주서부경찰서 형사과장] \"범죄에 기인했을 것 염려해서 주변상황까지 전부 다 확인했고요. 범죄에 기인했는지 안 했는지는 부검을 통해서…\" 장미란 씨는 지난 5월 12일 숙소를 나갔고 사흘 뒤 저녁 실종 신고가 접수됐습니다. 하지만 신고를 받은 부 모 경장이 \"통화를 했지만 위치를 알리고 싶지 않아 한다\"며 거짓 종결 처리했고 마지막 위치가 파악된 한림항 일대 수색도 2시간 반 만에 끝났습니다. 실종 사건 골든타임인 72시간은 그렇게 사라졌습니다. [장미란 씨 남자친구(첫 실종신고자, 음성변조)] \"너무 황당했고 화도 많이 났고 담당 형사님한테도 전화해서 막 따졌거든요.\" 경찰 말만 믿고 기다렸지만, 소식이 없자 두 달 뒤인 지난달 17일 남자 친구가 재신고를 했지만 앞서 부 경정이 종결 처리한 기록 탓에 접수조차 되지 않았습니다. 결국 이틀 뒤 가족이 서울서 다시 신고해 재수색이 진행됐습니다. 하지만 실종 석 달이 지난 탓에 한림항 일대 CCTV 영상 등이 대부분 삭제된 상태였습니다. 이후 부 경장의 실종 신고 허위 종결 사건이 알려진 뒤, 경찰은 뒷북 재수색에 나섰지만 실종 104일 만에 장미란 씨로 추정되는 시신이 발견됐습니다. MBC뉴스 김항섭입니다.",
-        "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6847014_36989.html",
+        "title": "\"대통령님은 제 수호자\" 발칵‥요즘 美서 '서열 0순위'?",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6847172_36925.html",
         "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "靑수석-조희대 '어색한 조우', 나가는 길에 입장 묻자‥ [현장영상]",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6846894_36918.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "與 비거주 1주택 수정 요청에… 정부는 고심·강경파는 반발",
-        "link": "https://www.chosun.com/economy/economy_general/2026/08/25/VZIZKXJ6LZDPVEN6BI52YKUBQU/",
-        "score": 0
       }
     ]
   },
@@ -633,60 +519,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "180일 수사,미완 46건∙∙∙특검, 용두사미 끝",
-        "link": "https://www.joongang.co.kr/article/25455740",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "동아일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "북미정상회담 재추진속 한미외교장관 한달만에 통화",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260825/134536295/2",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "與, 이진숙 징계 위해 윤리특위 구성 나서나…뒤늦게 상설화법 상정",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005615&code=61111111&sid1=pol",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "도널드 트럼프 미국 대통령이 내년부터 캐나다산 자동차와 철강 등에 대한 관세…",
-        "link": "https://www.news1.kr/world/usa-canada/6268119",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "보훈부, 한국전쟁 北 위문 김덕린 …",
-        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6268121",
+        "title": "[고정애] 왜 김민기 판사여야 하나",
+        "link": "https://www.joongang.co.kr/article/25456167",
         "score": 0
       }
     ]
@@ -698,8 +532,60 @@
     "articles": [
       {
         "press": "노컷뉴스",
-        "title": "北 참수작전 효과는 낮고 위험은 크다…국방硏, 이란전 분석",
-        "link": "https://www.nocutnews.co.kr/news/6567284",
+        "title": "민주당에 신천지 수십명 가입…신천지 관계자, 불구속기소",
+        "link": "https://www.nocutnews.co.kr/news/6567869",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "北의 꽃놀이패에는 시한이 있다…김정은의 결단은?",
+        "link": "https://www.nocutnews.co.kr/news/6568045",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "李대통령, 정성호 법무장관 사표 수리…후속 인선 예정",
+        "link": "https://www.nocutnews.co.kr/news/6567119",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "이데일리",
+        "title": "국회 문턱서 달라진 부동산 세금…역대 정부 세제개편안 보니",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01735126645551256",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "이데일리",
+        "title": "조희대 탄핵보다 사퇴 원하는 민주당 속사정[정치프리즘]",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01669526645551256",
         "score": 0
       }
     ]

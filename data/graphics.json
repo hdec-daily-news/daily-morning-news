@@ -1,95 +1,111 @@
 {
-  "generated_at": "2026-08-25T06:25:57.619730+09:00",
-  "window_start": "2026-08-24T15:00:00+09:00",
-  "window_end": "2026-08-25T06:00:00+09:00",
+  "generated_at": "2026-08-26T06:24:30.227766+09:00",
+  "window_start": "2026-08-25T15:00:00+09:00",
+  "window_end": "2026-08-26T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2차 종합특별검사팀 수사 결과",
-      "link": "https://www.yna.co.kr/view/GYH20260824000600044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/24/GYH2026082400060004400_P1.jpg",
-      "pubdate": "2026-08-24T15:05:00+09:00",
+      "title": "2027년도 예산안 5대 집중 투자 분야",
+      "link": "https://www.yna.co.kr/view/GYH20260825000900044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500090004400_P1.jpg",
+      "pubdate": "2026-08-25T19:59:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
+      "source": "연합뉴스",
+      "title": "경찰서 실종사건 전담 수사팀 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260825000800044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500080004400_P1.jpg",
+      "pubdate": "2026-08-25T17:13:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "노인 연금 수급 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260825000700044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500070004400_P1.jpg",
+      "pubdate": "2026-08-25T16:04:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 고가 사택 사적 유용 사례",
+      "link": "https://www.yna.co.kr/view/GYH20260825000600044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500060004400_P1.jpg",
+      "pubdate": "2026-08-25T15:45:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
       "source": "뉴시스",
-      "title": "태풍 '사우델' 예상 이동 경로 (24일 기준)",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260824_0002219881&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/24/NISI20260824_0002219881_web.jpg?rnd=20260824172927",
-      "pubdate": "2026-08-24T17:29:27+09:00",
-      "image": "images/graphics/뉴시스_02.jpg"
+      "title": "꺾이지 않는 외식물가…칼국수도 1만원 넘어",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260825_0002221103&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/25/NISI20260825_0002221103_web.jpg?rnd=20260825172737",
+      "pubdate": "2026-08-25T17:27:37+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "연금 수급률 91.2%…월평균 73.7만원",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260825_0002220387&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/25/NISI20260825_0002220387_web.jpg?rnd=20260825150320",
+      "pubdate": "2026-08-25T15:03:20+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8069719",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069719/no_water.jpg",
-      "pubdate": "2026-08-25T01:25:57.619730+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 24일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8069677",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069677/no_water.jpg",
-      "pubdate": "2026-08-25T01:25:57.619730+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 2차 종합특검 주요 사건 처리 현황",
-      "link": "https://www.news1.kr/photos/8069046",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069046/no_water.jpg",
-      "pubdate": "2026-08-25T00:25:57.619730+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 서울 오피스텔 평균 전셋값 추이",
-      "link": "https://www.news1.kr/photos/8068611",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068611/no_water.jpg",
-      "pubdate": "2026-08-25T00:25:57.619730+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 노인소득 10년새 79%↑…효자용돈 제자리, 공적연금 껑충",
-      "link": "https://www.news1.kr/photos/8069385",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069385/no_water.jpg",
-      "pubdate": "2026-08-25T00:25:57.619730+09:00",
+      "title": "[그래픽] 무안 분산에너지 특화 국가산단 위치도",
+      "link": "https://www.news1.kr/photos/8071823",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071823/no_water.jpg",
+      "pubdate": "2026-08-26T03:24:30.227766+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 제주 실종 장미란씨 '허위 종결' 의혹 사건 일지",
-      "link": "https://www.news1.kr/photos/8069508",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8069508/no_water.jpg",
-      "pubdate": "2026-08-25T00:25:57.619730+09:00",
+      "title": "[오늘의 증시] 코스피 코스닥(8월 25일)",
+      "link": "https://www.news1.kr/photos/8071537",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071537/no_water.jpg",
+      "pubdate": "2026-08-26T01:24:30.227766+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코로나19 검출 현황",
-      "link": "https://www.news1.kr/photos/8068638",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068638/no_water.jpg",
-      "pubdate": "2026-08-24T19:25:57.619730+09:00",
+      "title": "[그래픽] 1979년 이후 이란 제재 주요 내용",
+      "link": "https://www.news1.kr/photos/8071334",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071334/no_water.jpg",
+      "pubdate": "2026-08-26T00:24:30.227766+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8068439",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068439/no_water.jpg",
-      "pubdate": "2026-08-24T17:25:57.619730+09:00",
+      "title": "[그래픽] 미국 H-1B 비자 수수료 부과안",
+      "link": "https://www.news1.kr/photos/8071235",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071235/no_water.jpg",
+      "pubdate": "2026-08-26T00:24:30.227766+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8068435",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/24/8068435/no_water.jpg",
-      "pubdate": "2026-08-24T17:25:57.619730+09:00",
+      "title": "[그래픽] 미국-캐나다 관세 갈등 주요 일지",
+      "link": "https://www.news1.kr/photos/8071211",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071211/no_water.jpg",
+      "pubdate": "2026-08-26T00:24:30.227766+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 정부 예산안 5대 중점 분야",
+      "link": "https://www.news1.kr/photos/8071170",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071170/no_water.jpg",
+      "pubdate": "2026-08-25T23:24:30.227766+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 연금 월 73만원 받는 어르신들…\"60만원 부족하다\"",
+      "link": "https://www.news1.kr/photos/8071099",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071099/no_water.jpg",
+      "pubdate": "2026-08-25T23:24:30.227766+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }
