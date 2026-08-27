@@ -1,111 +1,119 @@
 {
-  "generated_at": "2026-08-26T06:24:30.227766+09:00",
-  "window_start": "2026-08-25T15:00:00+09:00",
-  "window_end": "2026-08-26T06:00:00+09:00",
+  "generated_at": "2026-08-27T09:26:17.294902+09:00",
+  "window_start": "2026-08-26T15:00:00+09:00",
+  "window_end": "2026-08-27T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2027년도 예산안 5대 집중 투자 분야",
-      "link": "https://www.yna.co.kr/view/GYH20260825000900044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500090004400_P1.jpg",
-      "pubdate": "2026-08-25T19:59:00+09:00",
+      "title": "네팔 중북부 지역 홍수 발생",
+      "link": "https://www.yna.co.kr/view/GYH20260826001100044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/26/GYH2026082600110004402_P1.jpg",
+      "pubdate": "2026-08-26T20:39:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "경찰서 실종사건 전담 수사팀 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260825000800044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500080004400_P1.jpg",
-      "pubdate": "2026-08-25T17:13:00+09:00",
+      "title": "실종수사팀 운영 쇄신안 주요 내용",
+      "link": "https://www.yna.co.kr/view/GYH20260826001000044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/26/GYH2026082600100004400_P1.jpg",
+      "pubdate": "2026-08-26T19:43:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "노인 연금 수급 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260825000700044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500070004400_P1.jpg",
-      "pubdate": "2026-08-25T16:04:00+09:00",
+      "title": "합계출산율 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260826000900044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/26/GYH2026082600090004400_P1.jpg",
+      "pubdate": "2026-08-26T16:30:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 고가 사택 사적 유용 사례",
-      "link": "https://www.yna.co.kr/view/GYH20260825000600044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/08/25/GYH2026082500060004400_P1.jpg",
-      "pubdate": "2026-08-25T15:45:00+09:00",
+      "title": "지역별 산업용 전기요금 조정안",
+      "link": "https://www.yna.co.kr/view/GYH20260826000800044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/26/GYH2026082600080004402_P1.jpg",
+      "pubdate": "2026-08-26T16:28:00+09:00",
       "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "꺾이지 않는 외식물가…칼국수도 1만원 넘어",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260825_0002221103&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/25/NISI20260825_0002221103_web.jpg?rnd=20260825172737",
-      "pubdate": "2026-08-25T17:27:37+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
+      "source": "연합뉴스",
+      "title": "서울 강남구 탄천물재생센터 부지",
+      "link": "https://www.yna.co.kr/view/GYH20260826000600044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/08/26/GYH2026082600060004400_P1.jpg",
+      "pubdate": "2026-08-26T16:13:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "연금 수급률 91.2%…월평균 73.7만원",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260825_0002220387&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/25/NISI20260825_0002220387_web.jpg?rnd=20260825150320",
-      "pubdate": "2026-08-25T15:03:20+09:00",
+      "title": "저출생에 학생 수 19만명 감소… 외국인 대학생은 30만명 돌파",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260826_0002221700&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/26/NISI20260826_0002221700_web.jpg?rnd=20260826173630",
+      "pubdate": "2026-08-26T17:36:30+09:00",
       "image": "images/graphics/뉴시스_06.jpg"
     },
     {
-      "source": "뉴스1",
-      "title": "[그래픽] 무안 분산에너지 특화 국가산단 위치도",
-      "link": "https://www.news1.kr/photos/8071823",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071823/no_water.jpg",
-      "pubdate": "2026-08-26T03:24:30.227766+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
+      "source": "뉴시스",
+      "title": "中, 본토-대만 진먼도 다리 연결 추진…\"연말 일부 구간 완공 계획\"",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260826_0002222093&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/26/NISI20260826_0002222093_web.jpg?rnd=20260826173608",
+      "pubdate": "2026-08-26T17:36:08+09:00",
+      "image": "images/graphics/뉴시스_07.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "은행 주담대 금리 4.48%…2년 8개월 만에 최고",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260826_0002221636&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/26/NISI20260826_0002221636_web.jpg?rnd=20260826153544",
+      "pubdate": "2026-08-26T15:35:44+09:00",
+      "image": "images/graphics/뉴시스_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(8월 25일)",
-      "link": "https://www.news1.kr/photos/8071537",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071537/no_water.jpg",
-      "pubdate": "2026-08-26T01:24:30.227766+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 1979년 이후 이란 제재 주요 내용",
-      "link": "https://www.news1.kr/photos/8071334",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071334/no_water.jpg",
-      "pubdate": "2026-08-26T00:24:30.227766+09:00",
+      "title": "[그래픽] 장미란 씨 실종 사건 재구성",
+      "link": "https://www.news1.kr/photos/8073750",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/26/8073750/no_water.jpg",
+      "pubdate": "2026-08-27T02:26:17.294902+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 미국 H-1B 비자 수수료 부과안",
-      "link": "https://www.news1.kr/photos/8071235",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071235/no_water.jpg",
-      "pubdate": "2026-08-26T00:24:30.227766+09:00",
+      "title": "[그래픽] 코스피·코스닥 추이",
+      "link": "https://www.news1.kr/photos/8073545",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/26/8073545/no_water.jpg",
+      "pubdate": "2026-08-27T01:26:17.294902+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 미국-캐나다 관세 갈등 주요 일지",
-      "link": "https://www.news1.kr/photos/8071211",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071211/no_water.jpg",
-      "pubdate": "2026-08-26T00:24:30.227766+09:00",
+      "title": "[오늘의 증시] 8월 26일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8073539",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/26/8073539/no_water.jpg",
+      "pubdate": "2026-08-27T01:26:17.294902+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2027년 정부 예산안 5대 중점 분야",
-      "link": "https://www.news1.kr/photos/8071170",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071170/no_water.jpg",
-      "pubdate": "2026-08-25T23:24:30.227766+09:00",
+      "title": "[오늘의 그래픽] 오피스텔→아파트 갈아타면 취득세 또 감면…최대 600만원",
+      "link": "https://www.news1.kr/photos/8073406",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/26/8073406/no_water.jpg",
+      "pubdate": "2026-08-27T00:26:17.294902+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 연금 월 73만원 받는 어르신들…\"60만원 부족하다\"",
-      "link": "https://www.news1.kr/photos/8071099",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071099/no_water.jpg",
-      "pubdate": "2026-08-25T23:24:30.227766+09:00",
+      "title": "[그래픽] 탄천물재생센터 주택공급 가능성 검토",
+      "link": "https://www.news1.kr/photos/8073358",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/26/8073358/no_water.jpg",
+      "pubdate": "2026-08-27T00:26:17.294902+09:00",
       "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 지역별 산업용 전기요금제 추진 현황",
+      "link": "https://www.news1.kr/photos/8071504",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/25/8071504/no_water.jpg",
+      "pubdate": "2026-08-26T23:26:17.294902+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
     }
   ]
 }
