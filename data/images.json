@@ -1,172 +1,167 @@
 {
-  "generated_at": "2026-08-27T09:26:17.040579+09:00",
-  "date_label": "8/27(목)",
+  "generated_at": "2026-08-28T14:06:31.709445+09:00",
+  "date_label": "8/28(금)",
   "articles": [
     {
-      "title": "靑, 김민석 '인요한 적십자회장 인준 반대' 건의에 \"검토 예정\"",
-      "link": "https://n.news.naver.com/mnews/article/586/0000136821",
+      "title": "김민석 “중도없다는 鄭과 방법론 차이”…정청래 “마이크 독재”",
+      "link": "https://n.news.naver.com/mnews/article/022/0004154309",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "네팔 홍수 한국인 9명 연락두절, 정부 대응팀 급파 [뉴시스Pic]",
-      "link": "https://n.news.naver.com/mnews/article/003/0014150829",
+      "title": "與 \"민생입법·예산 신속 처리…사법·선거관리제도 개혁 추진\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016276174",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 이준석, 개혁신당 대표직 사퇴…\"쇄신안, 호응 못얻어\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005324790",
+      "title": "李대통령 “자살자 수 대폭 감소…희망있는 세상 만들어 더 줄여야”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002689606",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석 \"왜 '여자 히틀러'만 고소? 이진숙 '여자 전두환' 호칭 좋아하는 듯\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000507948",
+      "title": "유승민 “박근혜 뵙고 싶다…1년 넘게 답 없어”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012245864",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령, 민선 9기 첫 중앙지방협력회의 주재[현장연결]",
-      "link": "https://n.news.naver.com/mnews/article/422/0000899616",
+      "title": "국민의힘 \"정부·한은 정책 엇박자‥서민 잡는 '청개구리 재정'\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001520670",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "강원도 산업용 전기요금 8% 인하…정부·한전 지역 요금제 공개",
-      "link": "https://n.news.naver.com/mnews/article/087/0001213743",
+      "title": "SK하이닉스 사장 \"美 인디애나서 2029년 3분기 HBM4E 양산\"",
+      "link": "https://n.news.naver.com/mnews/article/008/0005405951",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "삼성D, 제네시스 플래그십 전동화 SUV GV90에 OLED 2종 공급",
-      "link": "https://n.news.naver.com/mnews/article/366/0001188343",
+      "title": "유니슨 수주공시 - 고창해상풍력 풍력발전기 공급 계약 체결 992.9억원 (매출액대비 246.57 %)",
+      "link": "https://n.news.naver.com/mnews/article/015/0005325466",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "\"웃돈 주고 사겠다\" 당근에서도 난리…2030 꽂힌 '빵' 정체",
-      "link": "https://n.news.naver.com/mnews/article/015/0005325211",
+      "title": "저축은행 상반기 순익 7658억원…2개 분기 연속 흑자",
+      "link": "https://n.news.naver.com/mnews/article/629/0000528340",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "SK바이오팜, 1.1조 베팅…뇌전증약 기술도입 계약",
-      "link": "https://n.news.naver.com/mnews/article/015/0005325062",
+      "title": "코로나 대출 155조 아직 못 갚았다…20년이상 장기 연체재권 소각",
+      "link": "https://n.news.naver.com/mnews/article/215/0001264011",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "주담대 고정금리 비중 12년 5개월래 최저…금리 인상기 ‘변동형’ 쏠림 우려",
-      "link": "https://n.news.naver.com/mnews/article/011/0004655315",
+      "title": "삼성전자, 디지털고객경험지수 종합가전 4년 연속 1위",
+      "link": "https://n.news.naver.com/mnews/article/031/0001053255",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_10_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "\"변호인 없인 안 받아\"…경산 中유학생 살해 피의자 조사 지연",
-      "link": "https://n.news.naver.com/mnews/article/003/0014150396",
+      "title": "반발 극심했던 지천댐 결국 짓는다…이유는 '충청 메가'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005325505",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "행안장관 “경찰 비위 국민께 송구…제주사건 철저 진상규명해야”",
-      "link": "https://n.news.naver.com/mnews/article/025/0003546990",
+      "title": "순천시장 “국립의대 ‘승복확약서’ 서명 못 해” 파장",
+      "link": "https://n.news.naver.com/mnews/article/016/0002689451",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "중부 첨단산업·서남 반도체AI·동남 제조AI…권역별 '성장엔진' 확정",
-      "link": "https://n.news.naver.com/mnews/article/014/0005566838",
+      "title": "[속보] 특검, ‘헌법재판관 미임명’ 한덕수 징역 5년 구형…“국가 멈춰세워”",
+      "link": "https://n.news.naver.com/mnews/article/029/0003044845",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대법, '서부지법 폭동사태' 가담자에 11억 원대 손배소 제기",
-      "link": "https://n.news.naver.com/mnews/article/082/0001395588",
+      "title": "이상일 \"용인 반도체 먼저 성공시켜야\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005325563",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'수능 관련 문항 거래' 일타강사 현우진, 1심 무죄...법정 불출석",
-      "link": "https://n.news.naver.com/mnews/article/052/0002398471",
+      "title": "수능에 서·논술형 도입할까…국민 200명 1박2일 숙의 돌입",
+      "link": "https://n.news.naver.com/mnews/article/001/0016276467",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "캐나다, 미에 50% 맞불 관세…관세 넘어 주권 전쟁",
-      "link": "https://n.news.naver.com/mnews/article/422/0000899564",
+      "title": "시진핑 방미 앞둔 트럼프…중국 향해 날린 ‘경고사격’ 3탄",
+      "link": "https://n.news.naver.com/mnews/article/025/0003547399",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“앱 수익 고작 40만 원인데”…삼성 스와치에 160억 배상 판결 나온 사연",
-      "link": "https://n.news.naver.com/mnews/article/016/0002688936",
+      "title": "췌장암 생존기간 6.7→13.2개월⋯‘RAS 표적’ 신약, 美 FDA 승인",
+      "link": "https://n.news.naver.com/mnews/article/296/0000104143",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "메타 ‘청소년 SNS 중독 조장’ 소송 25조 합의···셧다운제, 나이 확인 기술 등 도입",
-      "link": "https://n.news.naver.com/mnews/article/032/0003466747",
+      "title": "트럼프, '온타리오호→아메리카호 개명' 행정명령 서명",
+      "link": "https://n.news.naver.com/mnews/article/018/0006359366",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“트럼프 막내 아들을 어디서 죽일까”…이란 국영 방송 영상에 미국 ‘발칵’",
-      "link": "https://n.news.naver.com/mnews/article/009/0005726074",
+      "title": "프랑스 대선주자 7명 첫 토론...'국가 부채 116%' 놓고 격돌",
+      "link": "https://n.news.naver.com/mnews/article/052/0002399306",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_19_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "재난 영화 같은 네팔 홍수 왜? 지진에 빙하 무너진 듯",
-      "link": "https://n.news.naver.com/mnews/article/018/0006358685",
+      "title": "카타르 총리, 이란 방문...\"대화 여건 조성 논의\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002399256",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
