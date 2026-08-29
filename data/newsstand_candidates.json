@@ -1,398 +1,173 @@
 [
   {
     "presses": [
-      "KBS",
-      "MBC",
-      "YTN",
-      "국민일보",
-      "노컷뉴스",
-      "뉴스1",
-      "동아일보",
       "서울신문",
-      "이데일리",
-      "조선일보",
-      "한겨레"
+      "세계일보",
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "제주 향한 여야 icon_video",
+        "link": "https://www.joongang.co.kr/article/25457118",
+        "score": 0
+      },
+      {
+        "press": "세계일보",
+        "title": "여야, 나란히 제주 실종 현장 방문… 대응은 엇갈려",
+        "link": "https://www.segye.com/newsView/20260828514090",
+        "score": 0
+      },
+      {
+        "press": "서울신문",
+        "title": "‘제주 실종’ 현장 찾은 장동혁 “정부 직무유기”…천하람 “외부 견제·감시 필요”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/28/20260828500250",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN",
+      "서울신문",
+      "조선일보"
     ],
     "articles": [
       {
         "press": "조선일보",
-        "title": "특검, '헌법재판관 미임명 혐의' 한덕수에 징역 5년 구형",
-        "link": "https://www.chosun.com/national/court_law/2026/08/28/XGMZOW7D5JGVHCPZTBV5HLONQY/",
-        "score": 5
-      },
-      {
-        "press": "동아일보",
-        "title": "특검 ‘헌법재판관 미임명’ 한덕수에 징역 5년 구형",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260828/134562776/2",
-        "score": 5
-      },
-      {
-        "press": "한겨레",
-        "title": "[속보] 특검, ‘헌법재판관 미임명’ 한덕수 징역 5년 구형",
-        "link": "http://www.hani.co.kr/arti/society/society_general/1275117.html",
-        "score": 7
-      },
-      {
-        "press": "국민일보",
-        "title": "‘헌법재판관 미임명’ 한덕수 징역 5년 구형…\"국민 신뢰 배반\"",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007066&code=61121311&sid1=soc",
-        "score": 5
+        "title": "靑 재제청 요구에 법관들 \"마음에 들 때까지 반려할건가\"",
+        "link": "https://www.chosun.com/national/court_law/2026/08/29/DBNC6WQPKVG6DKCRY23OYFDLNM/",
+        "score": 2
       },
       {
         "press": "서울신문",
-        "title": "‘헌법재판관 미임명·지명’ 한덕수 前총리 징역 5년 구형",
+        "title": "청와대 재제청 요구에 사법부 “검토 착수”…조희대, 추천위 재구성할까",
+        "link": "https://www.seoul.co.kr/news/society/2026/08/28/20260828500239",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "청와대, 손봉기 재제청 요구…임명동의안 제출 않기로",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608282217071275_005.html",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "‘헌법재판관 미임명·지명’ 한덕수 前총리에 징역 5년 구형",
         "link": "https://www.seoul.co.kr/news/society/2026/08/28/20260828500147",
         "score": 5
       },
       {
-        "press": "뉴스1",
-        "title": "특검, '헌법재판관 미임명' 한덕수…",
-        "link": "https://www.news1.kr/society/court-prosecution/6272492",
-        "score": 5
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "'헌법재판관 미임명' 한덕수 징역 5년 구형…\"헌정질서 훼손\"",
-        "link": "https://www.nocutnews.co.kr/news/6569705",
-        "score": 5
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "2 [속보]특검, '헌법재판관 미임명' 한덕수 前총리에 징역 5년 구형",
-        "link": "https://www.nocutnews.co.kr/news/6569694",
-        "score": 7
-      },
-      {
-        "press": "이데일리",
-        "title": "[속보]특검, '헌법재판관 미임명' 한덕수 前총리에 징역 5년 구형",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03384966645551912",
-        "score": 7
-      },
-      {
         "press": "YTN",
-        "title": "특검, 한덕수 '헌법재판관 미임명' 1심 징역 5년 구형",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608281303333861_005.html",
-        "score": 5
-      },
-      {
-        "press": "KBS",
-        "title": "‘헌법재판관 미임명’ 한덕수 징역 5년 구형…“국민 주권 침해”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648916",
-        "score": 5
-      },
-      {
-        "press": "MBC",
-        "title": "특검, '헌법재판관 미임명' 한덕수 징역 5년 구형‥\"헌정질서 침해\"",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6848025_36918.html",
+        "title": "'헌법재판관 미임명' 한덕수 징역 5년 구형…\"국정마비 초래\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608282108264418_005.html",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "MBC",
-      "SBS",
-      "YTN",
-      "노컷뉴스",
-      "머니투데이",
-      "세계일보",
-      "이데일리",
-      "조선일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "오세훈 \"부동산 정책 목적이 오세훈 힘 빼기입니까\"",
-        "link": "https://www.chosun.com/national/national_general/2026/08/28/YA62GLNTU5BHXAPACRY4PEYNZE/",
-        "score": 5
-      },
-      {
-        "press": "한겨레",
-        "title": "이 대통령 지지율 42% 취임 뒤 최저…부동산 정책 영향",
-        "link": "http://www.hani.co.kr/arti/politics/politics_general/1275092.html",
-        "score": 0
-      },
-      {
-        "press": "한겨레",
-        "title": "이 대통령 지지율 42% 최저…부동산 정책 영향 [갤럽]",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1275092.html",
-        "score": 0
-      },
-      {
-        "press": "세계일보",
-        "title": "李대통령 지지율 42% 취임 후 최저치 경신…부정 평가는 최고치 [한국갤럽]",
-        "link": "https://www.segye.com/newsView/20260828505841",
-        "score": 0
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "부동산정책의 목적이 오세훈 힘 빼기냐?",
-        "link": "https://www.nocutnews.co.kr/news/6569692",
-        "score": 3
-      },
-      {
-        "press": "이데일리",
-        "title": "李대통령 지지율 42%…취임 후 최저[한국갤럽]",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03116006645551912",
-        "score": 0
-      },
-      {
-        "press": "머니투데이",
-        "title": "李 대통령 지지율 42%, '취임 후 최저'…부정 평가 첫 50%",
-        "link": "https://www.mt.co.kr/politics/2026/08/28/2026082810495678789?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "YTN",
-        "title": "이 대통령 지지율 42% '최저치'…부정 평가 50%",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608281205393235_005.html",
-        "score": 2
-      },
-      {
-        "press": "SBS",
-        "title": "오세훈 시장 \"정부 부동산 정책 목적이 '오세훈 힘 빼기'인가\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726721&plink=STAND&cooper=NAVER",
-        "score": 5
-      },
-      {
-        "press": "SBS",
-        "title": "이 대통령 지지율 42%로 취임 후 최저…부정평가 첫 50%대",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726563&plink=STAND&cooper=NAVER",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "이재명 대통령 국정지지율 42%‥취임 후 최저치",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6847999_36911.html",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1",
-      "뉴시스",
-      "머니투데이",
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "靑 “북미대화 속 한국 패싱 없어야…한미 공조 체제 강화 노력”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/28/20260828500131",
-        "score": 2
-      },
-      {
-        "press": "뉴시스",
-        "title": "靑 \"북미대화 재개, 韓패싱 없도록 유의\"",
-        "link": "https://www.newsis.com/view/NISX20260828_0003766866",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "靑 \"북미대화 재개 과정서 안보태세 이완·韓 …",
-        "link": "https://www.news1.kr/politics/president/6272454",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "靑, 북미 대화 재개 가능성에 \"한국 패싱되는 일 없게...한미 소통 중요\"",
-        "link": "https://www.mt.co.kr/politics/2026/08/28/2026082810480929612?STAND=MT",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "국민일보",
+      "문화일보",
       "한겨레"
     ],
     "articles": [
       {
         "press": "한겨레",
-        "title": "청와대 “노란봉투법 쟁의 기준, 현장서 즉시 적용 가능한 시행지침으로”",
-        "link": "http://www.hani.co.kr/arti/society/labor/1275080.html",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "靑 “노란봉투법 쟁의기준, 시행지침으로 즉시 적용”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007030&code=61111211&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "청와대 \"노란봉투법 노동쟁의 범위 시행령 아닌 시행지침으로\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6847968_36911.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "머니투데이",
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "“배은망덕한 한국”… 美공화 상원의원, 301조 조사 주장",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007015&code=61131511&sid1=int",
+        "title": "87년 개헌 뒤 첫 ‘대법관 재제청’…대통령 임명권 우선 원칙 분명히",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275179.html",
         "score": 2
       },
       {
         "press": "문화일보",
-        "title": "“6·25 도왔는데, 한국 배은망덕” 美상원의원, 301조 조사 주장",
-        "link": "https://www.munhwa.com/article/11612693",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "\"배은망덕한 한국\"...미 상원의원 '무역법 301조' 조사 요청",
-        "link": "https://www.mt.co.kr/world/2026/08/28/2026082807402768057?STAND=MT",
+        "title": "靑 “손봉기 대법관 후보자 임명동의안 제출않기로…재제청 요청”",
+        "link": "https://www.munhwa.com/article/11612944",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "KBS",
-      "세계일보",
-      "이데일리"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "靑, 북·미 대화 추진 흐름에 “안보태세 이완되거나 韓 ‘패싱’",
-        "link": "https://www.segye.com/newsView/20260828507762",
-        "score": 2
-      },
-      {
-        "press": "이데일리",
-        "title": "위성락 “북미대화서 한국 패싱·안보태세 이완 없도록 대비”",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03325926645551912",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "청와대 “북미대화 지원하되 한국 패싱 없도록 유의…한미 공조 어느 때보다 중요”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648863",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "KBS",
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "‘수사팀 구성 속도전’ 선관위 특검…법무부·경찰청 협조 공문",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007048&code=61121311&sid1=soc",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "선관위 특검, 수사팀 구성 속도…합수본 수사 마무리",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648839",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "KBS",
-      "YTN"
-    ],
-    "articles": [
-      {
-        "press": "YTN",
-        "title": "여야, 정기국회 결의 다졌지만…'노선 전쟁' 뇌관",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608281227277068_005.html",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "정기국회 앞두고 전열 정비한 여야…“대도약 골든타임”·“정부 실정 파헤칠 것”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648879",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "李대통령 지지율 42%… 부정평가, 취임 후 최고치",
-        "link": "https://www.chosun.com/politics/blue_house/2026/08/28/TP7J3MDL2ZGRXBJOBBXPXFPOQI/",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "李대통령 부정평가 첫 50%, 다시 데드…",
-        "link": "https://www.news1.kr/politics/president/6272401",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "1박2일 정기국회 워크숍 마친 與…김민석 “워크숍의 결과는 민생”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/28/20260828500144",
+        "press": "중앙일보",
+        "title": "“당원이 버리는 휴지냐” 안철수·김기현 ‘파묘전쟁’",
+        "link": "https://www.joongang.co.kr/article/25457249",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "서울신문"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "서울신문",
-        "title": "‘이재명 대통령 지지’ 시나위 신대철에 “양아치가 양아치를” 댓글…대법 “모욕죄 아니다”",
-        "link": "https://www.seoul.co.kr/news/society/law/2026/08/28/20260828500120",
+        "press": "경향신문",
+        "title": "오세훈이 던진 ‘용적률 1.2배’ 카드, 국토부가 선뜻 못 받는 까닭은",
+        "link": "https://www.khan.co.kr/article/202608290600091/?nv=stand",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "이데일리"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "이데일리",
-        "title": "[단독]대미투자 1호 낙점하고도…‘누가 주인’ 놓고 한미 기싸움",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01653126645551912",
-        "score": 4
+        "press": "경향신문",
+        "title": "안철수, 청와대 손봉기 제청 반려에 “친청계 이탈표 두렵기 때문”",
+        "link": "https://www.khan.co.kr/article/202608291101001/?nv=stand",
+        "score": 5
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "이재명 대통령의 국정 지지율이 한 주 만에 하락 전환하면서 부정 평가가 긍정 평…",
-        "link": "https://www.news1.kr/politics/president/6272401",
-        "score": 3
+        "press": "경향신문",
+        "title": "오세훈 “탄천물재생센터 부지, 차라리 내가 내놓은 대안이라 안 된다 해라”",
+        "link": "https://www.khan.co.kr/article/202608281239001/?nv=stand",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보"
+    ],
+    "articles": [
+      {
+        "press": "문화일보",
+        "title": "안철수, 靑 대법원장 재제청에 “이재명 레임덕 시작된 것”",
+        "link": "https://www.munhwa.com/article/11612957",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "김민석, 정청래 공개 저격 논란에 \"앞으로도 실명 공개 논쟁할 것\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6848073_36911.html",
+        "score": 5
       }
     ]
   },
@@ -403,21 +178,21 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "캐나다 온타리오주 총리 \"트럼프, 내 새끼발가락만도 못해\"",
-        "link": "https://www.chosun.com/international/international_general/2026/08/28/F326KFRLDJDQTEJK5WW6OUYIOE/",
+        "title": "與 \"5·18 매도 이진숙, 신속하게 징계 조치\"",
+        "link": "https://www.chosun.com/politics/politics_general/2026/08/29/TH2L36IOJRHC5AV3MD267FZ5XA/",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "與 \"대법관 후보 다시 고르라\"… 조희대에 제청 철회 요구",
-        "link": "https://www.chosun.com/politics/assembly/2026/08/28/ZOVBNYO6O5GFVL7B22W77YD3LA/",
+        "press": "중앙일보",
+        "title": "靑, 김민기 염두? “성비도 문제” 대법관 인선 논란",
+        "link": "https://www.joongang.co.kr/article/25457237",
         "score": 2
       }
     ]
@@ -442,21 +217,8 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "與박선원 “전작권 신속 전환이 내란 방지하는 핵심 장치”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260828/134561717/2",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "내란 때 ‘선관위 서버 촬영’ 전 정보사 대령 무죄",
-        "link": "http://www.hani.co.kr/arti/society/society_general/1275112.html",
+        "title": "“한미 불협화음, 쿠팡만 도려낸다고 해결 안돼”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260828/134566585/1",
         "score": 2
       }
     ]
@@ -469,7 +231,7 @@
       {
         "press": "한겨레",
         "title": "“조희대 나가라” 여권 총공세…탄핵엔 “논의 없다” 선긋기 [공덕포차]",
-        "link": "http://www.hani.co.kr/arti/politics/politics_general/1273906.html",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1273906.html",
         "score": 2
       }
     ]
@@ -481,8 +243,21 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "[단독] BYD·테슬라 돌풍에 현대차 망한다?…與 한국형 IRA법 발의",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007023&code=61111111&sid1=pol",
+        "title": "김정은, 시진핑·네팔 대통령에 전문 “산사태 심심한 위문”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007178&code=61111611&sid1=pol",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "세계일보"
+    ],
+    "articles": [
+      {
+        "press": "세계일보",
+        "title": "李대통령 “청년들에게 실패는 ‘나락의 지름길’이라 생각될 수도…노력한 만큼 기회 얻을 수 있는 사회로”",
+        "link": "https://www.segye.com/newsView/20260828512337",
         "score": 2
       }
     ]
@@ -494,34 +269,8 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "조갑제, 연찬회 등장한 박근혜에 “결국 민주당 돕자는 것”",
-        "link": "https://www.munhwa.com/article/11612815",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "조갑제 “반 이상이 선거부정론자, 상당수 종교인…누가 국힘에 정권 맡기나”",
-        "link": "https://www.munhwa.com/article/11612649",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "배현진 “히노끼탕 좋아서? 이대통령 한남관저 머무는 이유 뭔가”",
-        "link": "https://www.munhwa.com/article/11612415",
+        "title": "대통령 “젊어 고생 사서도? 나도 꼰대 생각들어”",
+        "link": "https://www.munhwa.com/article/11612963",
         "score": 2
       }
     ]
@@ -533,144 +282,86 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "한미일, 새달 7~11일 ‘프리덤 에지’ 훈련 제주 동남방서 실시",
-        "link": "https://www.seoul.co.kr/news/politics/2026/08/28/20260828500100",
+        "title": "검찰, ‘뇌물수수 의혹’ 노웅래 前의원 상고 포기…무죄 확정",
+        "link": "https://www.seoul.co.kr/news/society/2026/08/28/20260828500278",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "北미사일 풍선→김금영…'우크라 참전군인' 영웅화도 포착",
-        "link": "https://www.nocutnews.co.kr/news/6569700",
+        "press": "서울신문",
+        "title": "산자위부터 메가프로젝트까지…산업정책 ‘키맨’ 된 장철민 [주간 여의도 Who?]",
+        "link": "https://www.seoul.co.kr/news/politics/2026/08/28/20260828500235",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "\"하필 그걸\"…대법관 재제청 '이승만 선례' 靑검토 '탄식'",
-        "link": "https://www.nocutnews.co.kr/news/6569592",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "5 \"하필 그 선례를\"…대법관 재제청 '이승만 선례' 靑검토에 '탄식'",
-        "link": "https://www.nocutnews.co.kr/news/6569592",
+        "press": "뉴스1",
+        "title": "'43조 청년 정책' 꺼낸 李대통령…20%대 목전인…",
+        "link": "https://www.news1.kr/politics/president/6272991",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "이데일리"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "여야 정치권, '실종사건 허위종결' 제주 현장 잇따라 방문",
-        "link": "https://www.nocutnews.co.kr/news/6569570",
+        "press": "이데일리",
+        "title": "美·이란 협상 교착 속 카타르 중재…이란 “외교 재개 불가능하지 않아”",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01708886645552240",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "SBS"
+      "YTN"
     ],
     "articles": [
       {
-        "press": "SBS",
-        "title": "\"진짜 총 들었다\"…선 넘는 '무장' 북한군, 우리는?",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726373&plink=STAND&cooper=NAVER",
+        "press": "YTN",
+        "title": "선관위 특검, 본격 출범 '초읽기'…초반부터 속도전",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202608290530515121_005.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "SBS"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "SBS",
-        "title": "민주 법사위 \"조작기소 특검, 지도부와 협의해 시기 정할 것\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726598&plink=STAND&cooper=NAVER",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "민주당 \"조희대, 임명제청 자진철회하고 재제청해야\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6848002_36911.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "외교부, '대홍수' 네팔 대사에 박재경 짐바브웨대사 임명",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6847986_36911.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "무장한 북한군, 이달만 MDL 수차례 넘었다",
-        "link": "https://www.joongang.co.kr/article/25456939",
+        "press": "경향신문",
+        "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응",
+        "link": "https://www.khan.co.kr/article/202608290600011/?nv=stand",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "중앙일보"
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "중앙일보",
-        "title": "[김승현] 여의도에도 부 경장이 있었다",
-        "link": "https://www.joongang.co.kr/article/25456906",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "전재수, 의원 시절 추진한 화명에코파크…환경청에 협조 요청",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007019&code=61122019&sid1=soc",
+        "press": "문화일보",
+        "title": "민주당TV, 매일 오전 7시 김어준에 맞불 방송",
+        "link": "https://www.munhwa.com/article/11612951",
         "score": 0
       }
     ]
@@ -682,8 +373,14 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "경제계, 규제 합리화 절실…韓총리…",
-        "link": "https://www.news1.kr/industry/general-industry/6272529",
+        "title": "도널드 트럼프 미국 대통령이 베네수엘라의 확인된 석유 매장량 중 5분의 1에 달…",
+        "link": "https://www.news1.kr/world/usa-canada/6273313",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "케빈 워시 미국 연방준비제도(Fed) 의장이 도널드 트럼프 대통령의 계속되는…",
+        "link": "https://www.news1.kr/world/usa-canada/6273272",
         "score": 0
       }
     ]
@@ -695,14 +392,8 @@
     "articles": [
       {
         "press": "노컷뉴스",
-        "title": "민주당, 김어준 유튜브 잡나…동시간대 생방송 1일 첫방",
-        "link": "https://www.nocutnews.co.kr/news/6569677",
-        "score": 0
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "3 민주당, 김어준 유튜브 잡나…동시간대 생방송 1일 첫방",
-        "link": "https://www.nocutnews.co.kr/news/6569677",
+        "title": "공소취소 특검 가능할까?…3가지 걸림돌",
+        "link": "https://www.nocutnews.co.kr/news/6569562",
         "score": 0
       }
     ]
@@ -716,19 +407,6 @@
         "press": "디지털타임스",
         "title": "조희대 탄핵, 대통령 지지율에 약일까 독일까",
         "link": "https://www.dt.co.kr/article/12080633",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "YTN"
-    ],
-    "articles": [
-      {
-        "press": "YTN",
-        "title": "테헤란 간 카타르 총리..잇따라 이란 찾는 핵심 중재자들",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202608280431531282_005.html",
         "score": 0
       }
     ]

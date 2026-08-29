@@ -1,151 +1,71 @@
 {
-  "generated_at": "2026-08-28T14:06:31.968649+09:00",
-  "window_start": "2026-08-27T15:00:00+09:00",
-  "window_end": "2026-08-28T06:00:00+09:00",
+  "generated_at": "2026-08-29T12:04:27.758987+09:00",
+  "window_start": "2026-08-28T15:00:00+09:00",
+  "window_end": "2026-08-29T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "네팔 대홍수 발생 추정 원인",
-      "link": "https://www.yna.co.kr/view/GYH20260827000800044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/08/27/GYH2026082700080004400_P1.jpg",
-      "pubdate": "2026-08-27T22:11:00+09:00",
+      "title": "광주 군공항 이전후보지",
+      "link": "https://www.yna.co.kr/view/GYH20260828000600044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/28/GYH2026082800060004400_P1.jpg",
+      "pubdate": "2026-08-28T18:55:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "'내란가담' 군 지휘관 1심 선고",
-      "link": "https://www.yna.co.kr/view/GYH20260827000700044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/27/GYH2026082700070004400_P1.jpg",
-      "pubdate": "2026-08-27T17:17:00+09:00",
+      "title": "네팔 대홍수 전후 비교",
+      "link": "https://www.yna.co.kr/view/GYH20260828000500044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/28/GYH2026082800050004400_P1.jpg",
+      "pubdate": "2026-08-28T15:21:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "댐 5곳 신규 건설 계획",
-      "link": "https://www.yna.co.kr/view/GYH20260827000600044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/27/GYH2026082700060004400_P1.jpg",
-      "pubdate": "2026-08-27T15:08:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
       "source": "뉴시스",
-      "title": "고물가에 발목 잡힌 실질임금…3개월 연속 마이너스",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260827_0002223285&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/27/NISI20260827_0002223285_web.jpg?rnd=20260827164846",
-      "pubdate": "2026-08-27T16:48:46+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "강남 아파트가격 3주째 하락…노·도·강은 상승폭 키워",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260827_0002222883&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/27/NISI20260827_0002222883_web.jpg?rnd=20260827151740",
-      "pubdate": "2026-08-27T15:17:40+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
+      "title": "이 대통령 국정지지율 42%…취임 후 최저 (갤럽)",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260828_0002224229&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/08/28/NISI20260828_0002224229_web.jpg?rnd=20260828153409",
+      "pubdate": "2026-08-28T15:34:09+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 네팔 중북부 지역 대규모 홍수 발생 원인",
-      "link": "https://www.news1.kr/photos/8075567",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8075567/no_water.jpg",
-      "pubdate": "2026-08-28T01:06:31.968649+09:00",
+      "title": "[그래픽] 화성 동탄 자동차 정비업체 화재 발생",
+      "link": "https://www.news1.kr/photos/8077821",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/28/8077821/no_water.jpg",
+      "pubdate": "2026-08-29T04:04:27.758987+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 8월 28일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8077454",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/28/8077454/no_water.jpg",
+      "pubdate": "2026-08-29T01:04:27.758987+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽]李대통령 지지율, 갤럽서 42% '최저'…부정 50% '최고'",
+      "link": "https://www.news1.kr/photos/8076778",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/28/8076778/no_water.jpg",
+      "pubdate": "2026-08-28T21:04:27.758987+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피·코스닥 추이",
-      "link": "https://www.news1.kr/photos/8075439",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8075439/no_water.jpg",
-      "pubdate": "2026-08-28T01:06:31.968649+09:00",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8076556",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/28/8076556/no_water.jpg",
+      "pubdate": "2026-08-28T20:04:27.758987+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 8월 27일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8075438",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8075438/no_water.jpg",
-      "pubdate": "2026-08-28T01:06:31.968649+09:00",
+      "title": "[그래픽] 이재명 대통령 직무 수행 평가",
+      "link": "https://www.news1.kr/photos/8076554",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/28/8076554/no_water.jpg",
+      "pubdate": "2026-08-28T20:04:27.758987+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 정부 기후대응댐 추진 계획",
-      "link": "https://www.news1.kr/photos/8074369",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074369/no_water.jpg",
-      "pubdate": "2026-08-28T01:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 4년제大 교육비 1인당 2073만원…장학금 400만원 돌파",
-      "link": "https://www.news1.kr/photos/8075105",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8075105/no_water.jpg",
-      "pubdate": "2026-08-28T00:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 금통위원의 6개월 후 조건부 기준금리 전망",
-      "link": "https://www.news1.kr/photos/8074705",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074705/no_water.jpg",
-      "pubdate": "2026-08-27T23:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 네팔 중북부 지역 대홍수 발생",
-      "link": "https://www.news1.kr/photos/8074838",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074838/no_water.jpg",
-      "pubdate": "2026-08-27T21:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8074714",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074714/no_water.jpg",
-      "pubdate": "2026-08-27T21:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8074704",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074704/no_water.jpg",
-      "pubdate": "2026-08-27T21:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_14.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 주요 기관 2026년 한국 경제성장률 전망",
-      "link": "https://www.news1.kr/photos/8074411",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074411/no_water.jpg",
-      "pubdate": "2026-08-27T19:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_15.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 한·미 기준금리 추이",
-      "link": "https://www.news1.kr/photos/8074177",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074177/no_water.jpg",
-      "pubdate": "2026-08-27T19:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_16.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 기준금리 변동 추이",
-      "link": "https://www.news1.kr/photos/8074185",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074185/no_water.jpg",
-      "pubdate": "2026-08-27T19:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_17.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 네팔 중북부 지역 홍수 발생",
-      "link": "https://www.news1.kr/photos/8074123",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/27/8074123/no_water.jpg",
-      "pubdate": "2026-08-27T17:06:31.968649+09:00",
-      "image": "images/graphics/뉴스1_18.jpg"
     }
   ]
 }
