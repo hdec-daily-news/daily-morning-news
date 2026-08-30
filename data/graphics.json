@@ -1,6 +1,167 @@
 {
-  "generated_at": "2026-08-30T07:59:28.090168+09:00",
-  "window_start": "2026-08-29T15:00:00+09:00",
-  "window_end": "2026-08-30T06:00:00+09:00",
-  "items": []
+  "generated_at": "2026-08-31T08:07:39.619686+09:00",
+  "window_start": "2026-08-30T15:00:00+09:00",
+  "window_end": "2026-08-31T06:00:00+09:00",
+  "items": [
+    {
+      "source": "연합뉴스",
+      "title": "'네팔 대홍수' 인근 주요 발전 프로젝트 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260830000700044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/08/30/GYH2026083000070004400_P1.jpg",
+      "pubdate": "2026-08-30T20:43:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전남광주 국립 의과대학 신설 후보대학 순천대 선정",
+      "link": "https://www.yna.co.kr/view/GYH20260830000600044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/08/30/GYH2026083000060004400_P1.jpg",
+      "pubdate": "2026-08-30T17:56:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시 무주택자 장기전세주택 만기물량",
+      "link": "https://www.yna.co.kr/view/GYH20260830000500044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/30/GYH2026083000050004400_P1.jpg",
+      "pubdate": "2026-08-30T16:49:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'네팔 대홍수' 한국인 실종자 수색 주요 일지",
+      "link": "https://www.yna.co.kr/view/GYH20260830000400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/08/30/GYH2026083000040004400_P1.jpg",
+      "pubdate": "2026-08-30T16:15:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 서울 장기전세주택 임대의무기간 만기물량",
+      "link": "https://www.news1.kr/photos/8078897",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078897/no_water.jpg",
+      "pubdate": "2026-08-31T03:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 네팔 대홍수 한국인 실종자 수색 주요 일지",
+      "link": "https://www.news1.kr/photos/8078854",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078854/no_water.jpg",
+      "pubdate": "2026-08-31T02:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요 일정(31~4일)",
+      "link": "https://www.news1.kr/photos/8078842",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078842/no_water.jpg",
+      "pubdate": "2026-08-31T02:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 순천대 전남권 국립의대 후보 선정 주요 일지",
+      "link": "https://www.news1.kr/photos/8078833",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078833/no_water.jpg",
+      "pubdate": "2026-08-31T01:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 김경수 대통령 정무특별보좌관 프로필",
+      "link": "https://www.news1.kr/photos/8078802",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078802/no_water.jpg",
+      "pubdate": "2026-08-31T01:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이원주 메가프로젝트 보좌관 프로필",
+      "link": "https://www.news1.kr/photos/8078801",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078801/no_water.jpg",
+      "pubdate": "2026-08-31T01:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이해민 AI미래기획수석 비서관 프로필",
+      "link": "https://www.news1.kr/photos/8078800",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078800/no_water.jpg",
+      "pubdate": "2026-08-31T01:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 하정우 국가인공지능전략위원회 부위원장 프로필",
+      "link": "https://www.news1.kr/photos/8078796",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078796/no_water.jpg",
+      "pubdate": "2026-08-31T01:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이소영 중소벤처기업부 장관 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078794",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078794/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 홍지선 국토교통부 장관 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078793",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078793/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_14.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 용혜인 성평등가족부 장관 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078792",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078792/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_15.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 강신철 국방부 장관 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078791",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078791/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_16.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 김승원 법무부 장관 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078790",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078790/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_17.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이형일 경제부총리 후보 프로필",
+      "link": "https://www.news1.kr/photos/8078788",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078788/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_18.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 저소득층 더 짓누른 '밥상'…식비 지출 비중 30% 넘었다",
+      "link": "https://www.news1.kr/photos/8078719",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078719/no_water.jpg",
+      "pubdate": "2026-08-31T00:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_19.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 정부 2기 내각 후보 현황",
+      "link": "https://www.news1.kr/photos/8078672",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/30/8078672/no_water.jpg",
+      "pubdate": "2026-08-30T23:07:39.619686+09:00",
+      "image": "images/graphics/뉴스1_20.jpg"
+    }
+  ]
 }
