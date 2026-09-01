@@ -1,162 +1,180 @@
 {
-  "generated_at": "2026-08-31T08:07:39.379797+09:00",
-  "date_label": "8/31(월)",
+  "generated_at": "2026-09-01T09:22:20.933159+09:00",
+  "date_label": "9/1(화)",
   "articles": [
     {
-      "title": "'90년대생' 장관 나오나…용혜인 \"아이 돌보는 중 소식 들어\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005326319",
+      "title": "용혜인 “장관 돼도 비례의원직 유지”…급여도 두 배?[아는기자]",
+      "link": "https://n.news.naver.com/mnews/article/449/0000358879",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李 대통령 \"부동산 투기 반드시 잡는다…'공급 못해 미친듯' 신속 공급\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005326316",
+      "title": "오세훈 \"李 대통령의 '집값 폭락' 예견? 현실 외면에 어안이 벙벙\"",
+      "link": "https://n.news.naver.com/mnews/article/469/0000951272",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령, 지지율 하락세 속 ‘부동산 정책·국방개혁 주무장관’ 교체…실무형·젊은 인사 등용",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467272",
+      "title": "李지지율 리얼미터 첫 40%대 붕괴… 7주연속 하락 38.9%",
+      "link": "https://n.news.naver.com/mnews/article/021/0002815156",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_03_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "100일간의 입법·예산·청문 전쟁…정기국회 1일 개막",
-      "link": "https://n.news.naver.com/mnews/article/088/0001025858",
+      "title": "여성단체, 용혜인 반대...\"성평등가족부 장관 자격 미달\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002400749",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "조희대 '법사위 불출석'에…서영교 \"당연히 처벌 조건 따른다\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000636441",
+      "title": "(31일·월)[오늘의 국회일정]",
+      "link": "https://n.news.naver.com/mnews/article/001/0016279243",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "밥상 덮친 고물가… 저소득층 식비 지출 6% 이상 증가",
-      "link": "https://n.news.naver.com/mnews/article/020/0003744477",
+      "title": "송석언의 JDC 정상화 승부수…예래단지·헬스케어 살린다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006360884",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "中CXMT, 美국방부에 소송…\"우린 군사기업 아냐\"",
-      "link": "https://n.news.naver.com/mnews/article/018/0006360576",
+      "title": "메타플래닛 CEO \"비트코인 이미 바닥, 亞자본이 향후 랠리 주도\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006361263",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "지방 환승센터 2배 늘리고 광역버스는 외곽서 ‘U턴’…2030 교통망 대수술",
-      "link": "https://n.news.naver.com/mnews/article/123/0002389254",
+      "title": "“美·中 교역액 넘어섰다…CPTPP 가입 서둘러야”",
+      "link": "https://n.news.naver.com/mnews/article/020/0003744637",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "가계대출 30조원 증액분 중 주담대·신용대출 8조원 안팎…집단·정책대출 집중",
-      "link": "https://n.news.naver.com/mnews/article/030/0003461480",
+      "title": "내년 韓 가상자산 과세 대상 15조원 달해…美·獨·中 이어 11위",
+      "link": "https://n.news.naver.com/mnews/article/009/0005727979",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_09_1.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_09_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_09_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "최태원 \"저출산 문제, 한·일 경제공동체로 풀자\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005326394",
+      "title": "SK온, 미국서 9GWh LFP 배터리 셀 공급계약…1.5조 규모",
+      "link": "https://n.news.naver.com/mnews/article/001/0016279284",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "검찰이 직접 ‘제주 실종 허위종결’ 사건 보완수사 한다",
-      "link": "https://n.news.naver.com/mnews/article/005/0001869745",
+      "title": "“10년 저축하면 서울시가 보탠다”…4050 ‘낀세대 연금’ 추진",
+      "link": "https://n.news.naver.com/mnews/article/018/0006361145",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "보성·광양·순천 호우경보 격상…전남광주 곳곳 침수 피해",
-      "link": "https://n.news.naver.com/mnews/article/016/0002690251",
+      "title": "\"중고등 남학생들 매장 이용 금지\"…'노 남학생존' 선언한 카페 [어떻게 생각하세요]",
+      "link": "https://n.news.naver.com/mnews/article/014/0005569011",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'의대 품은' 순천대, '패닉' 빠진 목포대…지역사회 희비 '극명'",
-      "link": "https://n.news.naver.com/mnews/article/277/0005809176",
+      "title": "‘유학생 살해’ 중국인 대학 강사 내일 신상정보 공개 [세상&]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002690775",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "전남광주·울산·전북·경북 호우특보에 중대본 1단계 가동",
-      "link": "https://n.news.naver.com/mnews/article/015/0005326369",
+      "title": "\"창원에 뜻깊은 투자이뤄진다\" … 창원특례시, 방산·자동차부품 기업과 투자협약 체결",
+      "link": "https://n.news.naver.com/mnews/article/277/0005809721",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대법 \"룸카페는 청소년 금지업소…내부서 신체접촉 등 우려\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016279197",
+      "title": "\"제주 실종 여성 사인 불명\" 말 바뀐 경찰…\"반성하고 있다\"[자막뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/055/0001384702",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "노르웨이 새 국왕 “자유-독립 위해 목숨도…”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003744422",
+      "title": "美 잭슨홀 회의… ‘오랜 인연’ 연준·한은 수장 긴축 철학 확인",
+      "link": "https://n.news.naver.com/mnews/article/081/0003674886",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"중국산 배추 매일 먹었는데 어쩌나\"…'발암물질' 나와도 문제? 이유는[AFTER 8 SPECIAL]",
-      "link": "https://n.news.naver.com/mnews/article/055/0001384420",
+      "title": "이란 '암살 시도' 우려에… 네타냐후 장남, 미국서 긴급 귀국",
+      "link": "https://n.news.naver.com/mnews/article/469/0000951253",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정부, 네팔 홍수 실종자 수색 확대…한국 헬기 2대 운항 추진",
-      "link": "https://n.news.naver.com/mnews/article/437/0000508555",
+      "title": "시진핑·푸틴, 정상회담…\"세계 다극화·전략적 협력 강화\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005326968",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "대홍수 사망자 800명 넘겨…발전소 터널 진입 성공",
-      "link": "https://n.news.naver.com/mnews/article/055/0001384548",
+      "title": "두산에너빌리티 \"구조된 직원 9명 귀국…나머지 동료 구조도 최선\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006361176",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미군, 한 달여 만에 이란 공습…“라라크섬 로켓 발사대 타격”",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467387",
+      "title": "허블 시야각의 100배… 나사, 로먼 우주망원경 발사",
+      "link": "https://n.news.naver.com/mnews/article/021/0002815141",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
