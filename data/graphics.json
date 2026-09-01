@@ -1,71 +1,199 @@
 {
-  "generated_at": "2026-09-01T09:22:21.097126+09:00",
-  "window_start": "2026-08-31T15:00:00+09:00",
-  "window_end": "2026-09-01T06:00:00+09:00",
+  "generated_at": "2026-09-02T07:59:28.715345+09:00",
+  "window_start": "2026-09-01T15:00:00+09:00",
+  "window_end": "2026-09-02T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "'네팔 대홍수' 주요 발전소 수색 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260831000400044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/08/31/GYH2026083100040004401_P1.jpg",
-      "pubdate": "2026-08-31T20:33:00+09:00",
+      "title": "경찰 고위직 인사, 18개 시·도경찰청장",
+      "link": "https://www.yna.co.kr/view/GYH20260901001600044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100160004401_P1.jpg",
+      "pubdate": "2026-09-01T22:58:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
+      "source": "연합뉴스",
+      "title": "실업급여(구직급여) 지급 방식 제도 개선",
+      "link": "https://www.yna.co.kr/view/GYH20260901001500044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100150004402_P1.jpg",
+      "pubdate": "2026-09-01T18:36:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'서울대 10개 만들기' 거점국립대 3곳 선정",
+      "link": "https://www.yna.co.kr/view/GYH20260901001400044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100140004400_P1.jpg",
+      "pubdate": "2026-09-01T17:25:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국방예산 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260901001300044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100130004400_P1.jpg",
+      "pubdate": "2026-09-01T16:16:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국민의료비 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260901001200044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100120004400_P1.jpg",
+      "pubdate": "2026-09-01T15:31:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "반도체 수출액 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260901001100044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/01/GYH2026090100110004400_P1.jpg",
+      "pubdate": "2026-09-01T15:07:00+09:00",
+      "image": "images/graphics/연합뉴스_06.jpg"
+    },
+    {
       "source": "뉴시스",
-      "title": "세금 41조원 더 걷혔다…8월부터 반도체 법인세 반영",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260831_0002225406&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/08/31/NISI20260831_0002225406_web.jpg?rnd=20260831152325",
-      "pubdate": "2026-08-31T15:23:25+09:00",
-      "image": "images/graphics/뉴시스_02.jpg"
+      "title": "온누리상품권 10% 할인…숙박쿠폰 8만장·KTX 할인[추석 민생대책]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002227449&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002227449_web.jpg?rnd=20260902050500",
+      "pubdate": "2026-09-02T05:05:00+09:00",
+      "image": "images/graphics/뉴시스_07.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "[2027 예산안] AI 21조·청년에 43조 곳간 연다",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226447&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226447_web.jpg?rnd=20260901182000",
+      "pubdate": "2026-09-01T18:20:00+09:00",
+      "image": "images/graphics/뉴시스_08.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "저출생 3종 패키지…결혼 100만원·출산 2000만원 [2027 예산안]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226825&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226825_web.jpg?rnd=20260901182000",
+      "pubdate": "2026-09-01T18:20:00+09:00",
+      "image": "images/graphics/뉴시스_09.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "지방투자에 '성장엔진 보조금'…농어촌 기본소득 확대 [2027 예산안]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226915&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226915_web.jpg?rnd=20260901173000",
+      "pubdate": "2026-09-01T17:30:00+09:00",
+      "image": "images/graphics/뉴시스_10.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "지방국립대 등록금 전액 지원 …AI 구독부터 취업까지 [2027 예산안]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226869&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226869_web.jpg?rnd=20260901162138",
+      "pubdate": "2026-09-01T16:21:38+09:00",
+      "image": "images/graphics/뉴시스_11.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "기관 외화증권투자 잔액 5496억 달러…주가 상승에 역대 최대 증가",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226897&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226897_web.jpg?rnd=20260901162124",
+      "pubdate": "2026-09-01T16:21:24+09:00",
+      "image": "images/graphics/뉴시스_12.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "해수부 예산 8.3조 편성…북극항로·자율운항·김 산업 [2027 예산안]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226872&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226872_web.jpg?rnd=20260901155941",
+      "pubdate": "2026-09-01T15:59:41+09:00",
+      "image": "images/graphics/뉴시스_13.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "공적주택 21.8만호 공급…30조원 투입 [2027 예산안]",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260901_0002226914&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/01/NISI20260901_0002226914_web.jpg?rnd=20260901155417",
+      "pubdate": "2026-09-01T15:54:17+09:00",
+      "image": "images/graphics/뉴시스_14.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의증시] 8월 31일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8080450",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080450/no_water.jpg",
-      "pubdate": "2026-09-01T01:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
+      "title": "[오늘의 그래픽] 이번 주말 서울불꽃축제…교통통제 구역 확인하세요",
+      "link": "https://www.news1.kr/photos/8082524",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/1/8082524/no_water.jpg",
+      "pubdate": "2026-09-02T01:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_15.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 1분위는 '밥값·병원비', 5분위는 '학원·여행'",
-      "link": "https://www.news1.kr/photos/8080182",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080182/no_water.jpg",
-      "pubdate": "2026-09-01T00:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
+      "title": "[오늘의 증시] 9월 1일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8082547",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/1/8082547/no_water.jpg",
+      "pubdate": "2026-09-02T00:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_16.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 4大 그룹별 주식재산 10억 원 이상 非오너 임원 현황",
-      "link": "https://www.news1.kr/photos/8079677",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8079677/no_water.jpg",
-      "pubdate": "2026-08-31T20:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
+      "title": "[그래픽] 2027년 정부 예산안 5대 중점투자",
+      "link": "https://www.news1.kr/photos/8082315",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/1/8082315/no_water.jpg",
+      "pubdate": "2026-09-01T23:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_17.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] '정교유착 합수본' 최종 수사결과",
-      "link": "https://www.news1.kr/photos/8079391",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8079391/no_water.jpg",
-      "pubdate": "2026-08-31T19:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
+      "title": "[그래픽] 2027년 보건복지부 예산안",
+      "link": "https://www.news1.kr/photos/8081467",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/1/8081467/no_water.jpg",
+      "pubdate": "2026-09-01T22:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_18.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8079104",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8079104/no_water.jpg",
-      "pubdate": "2026-08-31T17:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
+      "title": "[그래픽] 2027년 고용노동부 주요 신규 및 증액 사업",
+      "link": "https://www.news1.kr/photos/8080240",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080240/no_water.jpg",
+      "pubdate": "2026-09-01T22:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_19.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8079102",
-      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8079102/no_water.jpg",
-      "pubdate": "2026-08-31T17:22:21.097126+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
+      "title": "[그래픽] 2027년 고용노동부 예산안",
+      "link": "https://www.news1.kr/photos/8080224",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080224/no_water.jpg",
+      "pubdate": "2026-09-01T22:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_20.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 예산 기준중위소득·생계급여 규모",
+      "link": "https://www.news1.kr/photos/8080166",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080166/no_water.jpg",
+      "pubdate": "2026-09-01T22:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_21.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 예산 기초연금 부문 개편안",
+      "link": "https://www.news1.kr/photos/8080168",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080168/no_water.jpg",
+      "pubdate": "2026-09-01T22:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_22.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 예산 미래대응기금 주요 내용",
+      "link": "https://www.news1.kr/photos/8080169",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080169/no_water.jpg",
+      "pubdate": "2026-09-01T20:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_23.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2027년 예산 분야별 재원배분",
+      "link": "https://www.news1.kr/photos/8080711",
+      "image_url": "https://image.news1.kr/system/photos/2026/8/31/8080711/no_water.jpg",
+      "pubdate": "2026-09-01T20:59:28.715345+09:00",
+      "image": "images/graphics/뉴스1_24.jpg"
     }
   ]
 }

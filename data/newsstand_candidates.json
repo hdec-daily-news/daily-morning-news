@@ -1,326 +1,49 @@
 [
   {
     "presses": [
-      "KBS",
       "MBC",
-      "SBS",
-      "YTN",
-      "경향신문",
-      "국민일보",
       "노컷뉴스",
-      "뉴스1",
-      "뉴시스",
       "동아일보",
-      "머니투데이",
-      "문화일보",
-      "서울신문",
-      "세계일보",
-      "이데일리",
-      "조선일보",
-      "중앙일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "김용범 靑정책실장 사퇴…'레버리지'에 발목 잡혔다",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/01/7LPJRP2HTJG5VCTHGBD2YHZ37Q/",
-        "score": 2
-      },
-      {
-        "press": "중앙일보",
-        "title": "[속보] 김용범 靑 정책실장 사퇴⋯李, 사표 수리",
-        "link": "https://www.joongang.co.kr/article/25457971",
-        "score": 2
-      },
-      {
-        "press": "동아일보",
-        "title": "속보 김용범 靑정책실장 사퇴… 李대통령 사표 수리",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260901/134580717/1",
-        "score": 0
-      },
-      {
-        "press": "한겨레",
-        "title": "[속보] 김용범 정책실장 사퇴…이 대통령 사표 수리",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275610.html",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "[속보] 김용범 정책실장 사퇴···이 대통령, 사표 수리",
-        "link": "https://www.khan.co.kr/article/202609010852001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "[속보] 靑 “김용범, 어제 사의 표명… 李대통령, 사표 수리”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007892&code=61111211&sid1=pol",
-        "score": 4
-      },
-      {
-        "press": "세계일보",
-        "title": "김용범 청와대 정책실장 사의…李대통령, 사표 수리",
-        "link": "https://www.segye.com/newsView/20260901503519",
-        "score": 0
-      },
-      {
-        "press": "문화일보",
-        "title": "김용범 정책실장 사퇴…李대통령 사표 수리",
-        "link": "https://www.munhwa.com/article/11613532",
-        "score": 0
-      },
-      {
-        "press": "서울신문",
-        "title": "김용범 靑 정책실장 사퇴…레버리지 책임론",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901500018",
-        "score": 0
-      },
-      {
-        "press": "뉴시스",
-        "title": "李, 김용범 청와대 정책실장 사표 수리",
-        "link": "https://www.newsis.com/view/NISX20260901_0003770654",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "靑 \"김용범 정책실장 사의…李대통령 사표 수리\"",
-        "link": "https://www.news1.kr/politics/president/6275606",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "김용범 청와대 정책실장이 사임했다. 지난해 6월 정부 출범 직후 임명된 뒤 약 1…",
-        "link": "https://www.news1.kr/politics/president/6275606",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "靑 \"김용범 정책실장 사의…李대통령 …",
-        "link": "https://www.news1.kr/politics/president/6275606",
-        "score": 2
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "속보 김용범 靑 정책실장 사의…李대통령 사표 수리",
-        "link": "https://www.nocutnews.co.kr/news/6571025",
-        "score": 0
-      },
-      {
-        "press": "이데일리",
-        "title": "[속보]靑 \"김용범 정책실장 사의 표명...李대통령 수리\"",
-        "link": "https://www.edaily.co.kr/news/read?newsId=02827366645575856",
-        "score": 4
-      },
-      {
-        "press": "머니투데이",
-        "title": "속보 靑 \"김용범 정책실장, 어제 사의 표명…李 대통령 사표 수리\"",
-        "link": "https://www.mt.co.kr/politics/2026/09/01/2026090108515463704?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "YTN",
-        "title": "\"김용범 청와대 정책실장 사의 표명…대통령 사표 수리\" [현장영상+]",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609010849435362_005.html",
-        "score": 2
-      },
-      {
-        "press": "SBS",
-        "title": "[속보] 김용범 청와대 정책실장 사의 표명…사표 수리",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008731202&plink=STAND&cooper=NAVER",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "김용범 정책실장 어제 사의 표명…이 대통령 사표 수리",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651211",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "[속보] 김용범 청와대 정책실장 사의‥이재명 대통령 사표 수리 김용범 청와대 정책실장 사의‥이재명 대통령 사표 수리 ▶MBC뉴스를 네이버 메인에서 확인하세요. ▶MBC뉴스는 24시간 여러분의 제보를 기다립니다. ▷전화 02-784-4000 ▷ 이메일 mbcjebo@mbc.co.kr ▷ 카카오톡 @mbc제보",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6848730_36911.html",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보",
-      "서울신문",
-      "이데일리",
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "[단독] 의원직 못놓는 용혜인⋯보조금 분기 2.7억",
-        "link": "https://www.joongang.co.kr/article/25457778",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "“원외정당 안돼” VS “과도한 특혜”…용혜인 의원직 유지 논란",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007878&code=61111111&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "용혜인, 무임승차에 투잡 논란… 빛바랜 90년대생 장관",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901001004",
-        "score": 0
-      },
-      {
-        "press": "이데일리",
-        "title": "\"11억씩 받아가더라!\"...'의원 겸직' 용혜인 논란 후끈",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03119286645552896",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스",
+      "디지털타임스",
       "서울신문",
       "한겨레"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "쇄신개각 꺼낸 이 대통령, 지지율 반등할까…‘부동산·공소취소’ 큰 산",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275580.html",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "李대통령 첫 30%대 지지율…김민석호 “메가 성장” 반등 총력",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901003002",
-        "score": 5
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "2기 개각 메시지…李대통령 '부동산 버블' 글 주목",
-        "link": "https://www.nocutnews.co.kr/news/6570983",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "선택적 합수본 정교유착 수사? 與는 무혐의, 野는 경찰 이첩",
-        "link": "https://www.chosun.com/national/court_law/2026/09/01/C7XVIK6AH5H7BKPMQKQSWSGPDM/",
-        "score": 0
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "'뻥' 뚫린 안구 테러…김민석 현수막 훼손에 경찰 수사",
-        "link": "https://www.nocutnews.co.kr/news/6571010",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "이데일리"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "“상이니까 다른 정치적 얘기 할 것 없었다”···김민석, 전날 조희대 부친상 조문",
-        "link": "https://www.khan.co.kr/article/202609010812001/?nv=stand",
-        "score": 5
-      },
-      {
-        "press": "이데일리",
-        "title": "대법관 제청 갈등 속 조희대 부친상…여야 ‘일시 휴전’(종합)",
-        "link": "https://www.edaily.co.kr/news/read?newsId=04250886645552896",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "KBS",
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "[속보] 靑 “호르무즈 통항 자유 위한 군사적 기여 방안 검토”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901500016",
-        "score": 4
-      },
-      {
-        "press": "KBS",
-        "title": "청와대 “호르무즈해협 정상화 위한 협력 지속 논의…실질 기여 방안 검토 중”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651165",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "韓 \"김승원, '신약 청탁' 기소유예 처분…장관 자격 없어\"",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/01/FA6FC4IMHFCPTOMCSUV52GJF64/",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "“이명박, 김승원 법무부 장관 발탁…속 보인다 해”",
-        "link": "https://www.munhwa.com/article/11613464",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "동아일보"
-    ],
-    "articles": [
-      {
         "press": "동아일보",
-        "title": "용혜인, 비례의원직 사퇴 거부… 국힘 “年11억 정당보조금 때문”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260901/134579867/2",
-        "score": 2
+        "title": "“정청래 세력이 작업한듯” 문자…강민구 해임",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260902/134587014/2",
+        "score": 5
+      },
+      {
+        "press": "한겨레",
+        "title": "“정청래 세력들 작업” 메시지 파문…김민석, 강민구 윤리감찰부단장 해임",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1275773.html",
+        "score": 5
+      },
+      {
+        "press": "서울신문",
+        "title": "“정청래 세력 작업 들어온 듯”…김민석, ‘메시지 논란’ 강민구 부단장 해임",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901500341",
+        "score": 5
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "2 [속보]김민석 대표, 강민구 민주당 윤리감찰단 부단장 해임 지시",
+        "link": "https://www.nocutnews.co.kr/news/6571748",
+        "score": 5
+      },
+      {
+        "press": "디지털타임스",
+        "title": "섬뜩한 현수막 테러…김민석 대표 얼굴사진 ‘두 눈만 뻥’ 뚫려",
+        "link": "https://www.dt.co.kr/article/12081345",
+        "score": 5
       },
       {
         "press": "MBC",
-        "title": "\"원외 어려워\" 의원직 사퇴 거부‥\"귀족 행세\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6848691_37012.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "머니투데이"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "트럼프 “이란 문제 안 도와” 콕 집어 비판···청와대 “국제적 노력 적극 참여 중”",
-        "link": "https://www.khan.co.kr/article/202609010837001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "트럼프 \"韓, 이란 문제 안 도와\" 주장…靑 \"호르무즈 통항 정상화 노력에 적극 참여 중\"",
-        "link": "https://www.mt.co.kr/politics/2026/09/01/2026090108023726938?STAND=MT",
-        "score": 2
+        "title": "김민석, '정청래 측 개입 정황 주장' 강민구 윤리감찰단 부단장 해임",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html",
+        "score": 5
       }
     ]
   },
@@ -331,22 +54,22 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "김민석, 김어준보다 5분 먼저 방송⋯‘유튜브전쟁’ 포문",
-        "link": "https://www.joongang.co.kr/article/25457938",
+        "title": "의원들과 몸 담갔다⋯김민석 ‘목욕탕 정치’",
+        "link": "https://www.joongang.co.kr/article/25458290",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "서울신문"
+      "경향신문"
     ],
     "articles": [
       {
-        "press": "서울신문",
-        "title": "‘당협 직선제’ 한발 물러선 장동혁...34곳 사고당협만 우선 추진",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/01/20260901004001",
-        "score": 5
+        "press": "경향신문",
+        "title": "[단독] 김용범 “한참 전부터 대통령께 사퇴 얘기했다···후임은 확실히 기조 전환할 사람이어야”",
+        "link": "https://www.khan.co.kr/article/202609012113001/?nv=stand",
+        "score": 4
       }
     ]
   },
@@ -365,27 +88,14 @@
   },
   {
     "presses": [
-      "뉴스1"
+      "MBC"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "제22대 국회 후반기 첫 정기국회가 1일 100일간의 대장정에 돌입한다.이재명 대통…",
-        "link": "https://www.news1.kr/politics/assembly/6275174",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "국힘 정점식, 이명박 전 대통령 예방",
-        "link": "https://photo.nocutnews.co.kr/news/issue/33193",
-        "score": 3
+        "press": "MBC",
+        "title": "[단독] 김건희, 대통령 관저에 '펫 전용 샤워실' 설치 요구",
+        "link": "https://imnews.imbc.com/news/2026/society/article/6848866_36918.html",
+        "score": 4
       }
     ]
   },
@@ -396,34 +106,47 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "판스프링 수사 3주 헤맨 전직 의원…\"경찰은 왜 손 놓았나\"",
-        "link": "https://www.chosun.com/opinion/contribution/2026/08/31/YVYMXA6Z4ZBBVG5KAUS7OASHII/",
+        "title": "부동산 단타 의혹까지… '용혜인 리스크'에 與도 술렁",
+        "link": "https://www.chosun.com/politics/assembly/2026/09/02/D2VJMXZM3ZGONPKLFKFFAROSZ4/",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "조선일보"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "“새 내각 안정되면…” 추가 개각-靑 개편 가능성",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260901/134579863/2",
+        "press": "조선일보",
+        "title": "'상왕' 柳 비판에 굴복… 李 대통령 '좌회전' 시동 걸었다",
+        "link": "https://www.chosun.com/opinion/column/2026/09/01/7WL6Q5FQTVECDCVO7QIHXNTQPU/",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "‘밴스 측근’ 美육군장관 사임… 헤그세스 충돌 끝 지도부 공백",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260901/134580496/1",
+        "press": "중앙일보",
+        "title": "조희대 ‘계엄 가담 혐의’, 종합특검도 각하",
+        "link": "https://www.joongang.co.kr/article/25458066",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "“국회 정쟁 부를 것” 李 설득⋯김용범 전격사퇴 배경",
+        "link": "https://www.joongang.co.kr/article/25458294",
         "score": 2
       }
     ]
@@ -448,8 +171,34 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "백악관, 북·미 회담 실무 준비 착수했나···국방부 기관에 ‘유해 발굴 협력’ 문의",
-        "link": "https://www.khan.co.kr/article/202609010809001/?nv=stand",
+        "title": "트럼프 옛 안보보좌관 볼턴 “트럼프, 평양서 김정은 만나려 할 것···사진 필요해서”",
+        "link": "https://www.khan.co.kr/article/202609020727001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "낮아지는 지지율에 ‘개각’ 승부수 던졌는데···통할까?",
+        "link": "https://www.khan.co.kr/article/202609020700001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "[속보] 선관위특검 특검보 임명···박혁·김은정·김상천·권근환·김진우",
+        "link": "https://www.khan.co.kr/article/202609012206001/?nv=stand",
         "score": 2
       }
     ]
@@ -461,8 +210,8 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "‘DJ식 용인술’ 좇는 金…‘전 의원 당직화’로 30여개 특위 풀가동",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007729&code=61111111&sid1=pol",
+        "title": "[임성수 특파원의 여기는 워싱턴] 美 중간선거 두 달 앞…지지율 폭락 트럼프가 믿을 구석은 ‘돈’",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000008202&code=11141400&sid1=int",
         "score": 2
       }
     ]
@@ -474,34 +223,8 @@
     "articles": [
       {
         "press": "세계일보",
-        "title": "트럼프, 헤그세스 국방 대선 출마설에 \"너무 이른 얘기\"",
-        "link": "https://www.segye.com/newsView/20260901502870",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "김승원 “대장동 변호인 활동 사실 아냐” [6개 부처 개각 이후]",
-        "link": "https://www.segye.com/newsView/20260831519692",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "이동근 경총 부회장 “기술 유출, 국가경쟁력 위협… 주요국처럼 경제안보 법안 필요” [산업스파이법, 왜 필요",
-        "link": "https://www.segye.com/newsView/20260831515698",
+        "title": "국정원 “김주애 사실상 후계자 내정 단계”",
+        "link": "https://www.segye.com/newsView/20260901517744",
         "score": 2
       }
     ]
@@ -513,99 +236,151 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "李대통령은 정말 ‘헤어질 결심’을 한 걸까?",
-        "link": "https://www.munhwa.com/article/11613431",
+        "title": "李대통령, ‘KTX-SRT 통합 어마어마한 업적’ 글에 “알아주니 감사”",
+        "link": "https://www.munhwa.com/article/11613811",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "김재원 “용혜인, 의원 겸직 남편 봉급 때문이란 말 나와” 남편은 누구?",
-        "link": "https://www.munhwa.com/article/11613474",
+        "press": "서울신문",
+        "title": "국정원 “북미 정상회담, 어느 때라도 가능…대화 징후”",
+        "link": "https://www.seoul.co.kr/news/politics/diplomacy/2026/09/02/20260902008005",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "羅 “李대통령은 국민 집 경매되는 게 호재인가”",
-        "link": "https://www.munhwa.com/article/11613467",
+        "press": "서울신문",
+        "title": "민주당TV ‘민티07’ 첫 방송에 5만8000명 동시 접속",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/02/20260902006004",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "청와대 대법관 재제청 요구…대법원 “법령에 없다”",
-        "link": "https://www.munhwa.com/article/11613461",
+        "press": "서울신문",
+        "title": "‘위성정당 꼼수’에 비례 두 번…용혜인에 與지도부도 갈라졌다",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/02/20260902006003",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "이데일리"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "이데일리",
-        "title": "美 승인 받았지만 핵연료는 ‘미정’…한미 협상 이제부터(K핵잠 과제③)",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01695766645575856",
+        "press": "뉴스1",
+        "title": "용혜인 등 개각 인사 논란에 여권 '일단 지켜…",
+        "link": "https://www.news1.kr/politics/president/6276744",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "이데일리"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "이데일리",
-        "title": "“김어준과 정면승부” 민주당TV, 동접자수 얼마일까 [오늘의 여의도]",
-        "link": "https://www.edaily.co.kr/news/read?newsId=02197606645575856",
+        "press": "뉴스1",
+        "title": "\"北 기밀 다 들여다본다\"…대남 공세…",
+        "link": "https://www.news1.kr/nk/military/6276837",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "YTN"
+      "노컷뉴스"
     ],
     "articles": [
       {
-        "press": "YTN",
-        "title": "'문민 국방장관' 1년여 만에 막 내려…다시 군 출신 지명",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202608311839363512_005.html",
+        "press": "노컷뉴스",
+        "title": "美선거 '뜨거운 감자' 우편투표 뭐길래?…내부고발자 등장",
+        "link": "https://www.nocutnews.co.kr/news/6571772",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "YTN"
+      "노컷뉴스"
     ],
     "articles": [
       {
-        "press": "YTN",
-        "title": "검찰, 장윤기에 '사형' 구형…\"극형 선고 정당\"",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0115_202609010402458931_005.html",
+        "press": "노컷뉴스",
+        "title": "인력도 수사대상도 '더 더 더'…공수처 요구에 국회는 '시큰둥'",
+        "link": "https://www.nocutnews.co.kr/news/6571515",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "세제개편안 공은 국회로…與,'거주·비거주' 차등 없앨까",
+        "link": "https://www.nocutnews.co.kr/news/6571768",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "SBS"
+    ],
+    "articles": [
+      {
+        "press": "SBS",
+        "title": "여당서도 \"용혜인, 하나만 해라\"…논란 부른 '위성정당'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008732804&plink=STAND&cooper=NAVER",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "“지지율 떨어지는데”…여권에서도 커지는 ‘용혜인 의원직 사퇴’ 목소리",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651976",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "\"우리의 탄소 배출량은 미미\"‥분노한 네팔 장관 \"배상해\"",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6848893_36925.html",
         "score": 2
       }
     ]
@@ -617,73 +392,47 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "논란의 부동산 세제… 국회에 공 넘긴 정부",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/01/RFZAPMQ4XJE65AJFJR4ZOKXEKU/",
+        "title": "美 차세대 핵심 부대 온다… 독일에서 옮겨와 北·中 견제",
+        "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/02/TUTTL4BTKNDQHLB56W4GPZ7MRA/",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "중앙일보"
+      "조선일보"
     ],
     "articles": [
       {
-        "press": "중앙일보",
-        "title": "女대법관 필요하다던 靑, 박순영은 거절⋯왜",
-        "link": "https://www.joongang.co.kr/article/25457933",
+        "press": "조선일보",
+        "title": "민주당TV 첫방날 5만 몰려",
+        "link": "https://www.chosun.com/politics/assembly/2026/09/02/3U574K7CNZGD3OBXUNBUJJY2GM/",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "단독 북한군, 지난 주말 동·서부전선서 동시다발 MDL 남하",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260901/134579767/1",
+        "press": "한겨레",
+        "title": "부동산·레버리지 책임론 속…개각 이틀 만에 물러난 김용범 [뉴스분석] ​",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275772.html",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "경향신문"
+      "세계일보"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "성장을 위한 예외는 정당한가",
-        "link": "https://www.khan.co.kr/article/202608312004025/?nv=stand",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "[한마당] 법무부 장관",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007827&code=11171211&sid1=col",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴시스"
-    ],
-    "articles": [
-      {
-        "press": "뉴시스",
-        "title": "李, 오늘 국무회의서 세제 개편안 의결할 듯",
-        "link": "https://www.newsis.com/view/NISX20260831_0003770198",
+        "press": "세계일보",
+        "title": "與 윤리감찰단 인선 놓고 갈등 표면화하나",
+        "link": "https://www.segye.com/newsView/20260901520068",
         "score": 0
       }
     ]
@@ -695,8 +444,8 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "정기국회 오늘 개막…인사청문·국감…",
-        "link": "https://www.news1.kr/politics/assembly/6275174",
+        "title": "국가정보원이 공개적으로 북한 노동당 및 군의 기밀을 입수해 분석 중인 사실을 …",
+        "link": "https://www.news1.kr/nk/military/6276837",
         "score": 0
       }
     ]
@@ -708,8 +457,8 @@
     "articles": [
       {
         "press": "노컷뉴스",
-        "title": "삼전닉스 레버리지 왜 도입했나…국회입법조사처 콕 짚었다",
-        "link": "https://www.nocutnews.co.kr/news/6570862",
+        "title": "지지율 하락에…첫 靑실장급 쇄신은 김용범",
+        "link": "https://www.nocutnews.co.kr/news/6571767",
         "score": 0
       }
     ]
@@ -721,8 +470,47 @@
     "articles": [
       {
         "press": "디지털타임스",
-        "title": "조희대 탄핵, 대통령 지지율에 약일까 독일까",
-        "link": "https://www.dt.co.kr/article/12080633",
+        "title": "하정우, 선거엔 졌지만 AI 전쟁은 이겨야 한다",
+        "link": "https://www.dt.co.kr/article/12081493",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "산업장관 다시 미국행…대미 투자 1호 막판 조율",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0102_202609020133164897_005.html",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "이 대통령, 사표 즉각 수리…배경과 향후 정책 향방은?",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609020106286434_005.html",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "국방 예산 사상 첫 70조원 대 진입…핵추진 잠수함 예산 첫 반영",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609020323298696_005.html",
         "score": 0
       }
     ]
