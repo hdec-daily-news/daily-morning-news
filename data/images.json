@@ -1,167 +1,162 @@
 {
-  "generated_at": "2026-09-02T07:59:28.474404+09:00",
-  "date_label": "9/2(수)",
+  "generated_at": "2026-09-03T07:59:09.030872+09:00",
+  "date_label": "9/3(목)",
   "articles": [
     {
-      "title": "김용범 靑 정책실장 사퇴... 李대통령 수리",
-      "link": "https://n.news.naver.com/mnews/article/023/0003996010",
+      "title": "장경태 “결코 추행 사실 없어”… 동석자 대화 내역 공개",
+      "link": "https://n.news.naver.com/mnews/article/022/0004155830",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "여야 정책위, 정기국회 첫날 만나 \"민생 공통공약 추려 신속입법\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016282454",
+      "title": "'의원직 버티기' 용혜인…與도 \"다 가질 수 없다\" 우려 목소리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006362416",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “이란전 도움 안 준 한국, 기억해두라” 투자 압박 강화",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467863",
+      "title": "국힘 \"경찰청장 장기 공석 비정상…즉각 임명 절차 나서야\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000902119",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김용남 與 당직 기용에…조국 \"李 임기 후 2심 재판서 유죄가능성 높아\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000636892",
+      "title": "국민의힘, 김승원 기소유예된 ‘코로나 치료제 승인 청탁 의혹’ 사건 환기 공세",
+      "link": "https://n.news.naver.com/mnews/article/032/0003468079",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "박지현 “장관·비례대표 겸직하겠다는 용혜인, 양 손에 든 떡 중 하나는 내려놔야⋯李대통령도 다시 생각해달라”",
-      "link": "https://n.news.naver.com/mnews/article/087/0001214809",
+      "title": "조국 “공소 취소 낭패”에 민주 “배은망덕”…거칠어진 신경전",
+      "link": "https://n.news.naver.com/mnews/article/056/0012250000",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[단독] 공정위, CJ·대상·샘표 등 5개사 현장조사...‘장류 담합’ 정조준",
-      "link": "https://n.news.naver.com/mnews/article/011/0004657428",
+      "title": "이형일 \"거주 중심 주택시장이 정부 방향…합리적 요구면 반영\"",
+      "link": "https://n.news.naver.com/mnews/article/374/0000530761",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] ‘펄펄’ 끓는 비판 여론에 …‘비거주 1주택 종부세 공제’ 12억 유지",
-      "link": "https://n.news.naver.com/mnews/article/029/0003045566",
+      "title": "글로벌 국채금리 '연쇄 쇼크'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005328142",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "6월 은행 부실채권비율 0.63%로 상승…기업·자영업자 건전성 빨간불",
-      "link": "https://n.news.naver.com/mnews/article/277/0005810522",
+      "title": "금융당국, 금양 허위매출 회계 반영 적발…대표이사 고발",
+      "link": "https://n.news.naver.com/mnews/article/008/0005408656",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "파업에 멈춘 현대차 내수 41% 급감…완성차 5사 모두 뒷걸음",
-      "link": "https://n.news.naver.com/mnews/article/008/0005408015",
+      "title": "8월 소비자 물가 상승률 3.1%…\"지난해 SKT 요금 할인 기저효과\"(상보)",
+      "link": "https://n.news.naver.com/mnews/article/277/0005810560",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_09_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "[속보] 8월 수출 역대 3위…반도체 466억 달러 사상 최대",
-      "link": "https://n.news.naver.com/mnews/article/005/0001870135",
+      "title": "대형 유통업체 판매 대금 지급 60→35일로 단축키로",
+      "link": "https://n.news.naver.com/mnews/article/014/0005569879",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"일 많아지니까\" 덮었다는데…부 경장 개인 일탈로 정리?",
-      "link": "https://n.news.naver.com/mnews/article/437/0000508951",
+      "title": "'장애인 성폭행' 색동원 시설장 1심 징역 15년…법원 \"엄벌 필요\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000902134",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"이혼 소송 불리할까 봐 앙심\"…아내 흉기 살해 30대 공무원 자백",
-      "link": "https://n.news.naver.com/mnews/article/421/0009145106",
+      "title": "경찰, ‘쿠팡 청문회 위증’ 로저스 대표 불송치…박대준·조용우는 송치",
+      "link": "https://n.news.naver.com/mnews/article/025/0003548652",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "6500억 벌금 미납한 50대 남성…7년 도피 끝에 검거",
-      "link": "https://n.news.naver.com/mnews/article/003/0014162607",
+      "title": "‘허위종결’ 부 경장, 아동·치매환자 실종자도 ‘사망했다’ 기록 삭제",
+      "link": "https://n.news.naver.com/mnews/article/022/0004155761",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "부울경 손잡고 양자산업 키운다…'동남권 양자센싱 클러스터' 선정",
-      "link": "https://n.news.naver.com/mnews/article/421/0009145296",
+      "title": "전남광주, 정부 ‘양자 클러스터’ 지정",
+      "link": "https://n.news.naver.com/mnews/article/056/0012249302",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "일 할 때보다 돈 더 주는 구직급여 손 본다… 月 지급액은 줄이고, 기간은 늘리고",
-      "link": "https://n.news.naver.com/mnews/article/366/0001189749",
+      "title": "'남민전' 연루 故 김남주 시인, 46년 만에 재심서 무죄 선고",
+      "link": "https://n.news.naver.com/mnews/article/666/0000121678",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란 대통령 “미국 공격 중단하면 즉시 상응 조치”···SCO는 미국 규탄 없이 폐막",
-      "link": "https://n.news.naver.com/mnews/article/032/0003467780",
+      "title": "에볼라 의심되면 ‘1339’로 전화…확진 땐 국립중앙의료원서 치료",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821259",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란 \"美에 보복 공격해 미군 여러명 사망\"…확전 긴장감(종합2보)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016284081",
+      "title": "한 달 전 독일 공항 ‘폭발물 드론’…“러시아 소행” 결론",
+      "link": "https://n.news.naver.com/mnews/article/025/0003548495",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘잡스 명언’ 빌려온 팀쿡의 마지막 인사…“우린 우주에 흔적 남겼다”",
-      "link": "https://n.news.naver.com/mnews/article/009/0005728502",
+      "title": "러트닉 '반도체 표적 관세' 예고...\"미국서 안 만들면 대가\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002402039",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미·이란 다시 충돌하자 유가 5% 급등…WTI 90달러 돌파",
-      "link": "https://n.news.naver.com/mnews/article/016/0002691459",
+      "title": "“호르무즈서 한국 장금상선 소유 유조선 피격”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821234",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 \"미국 금리 세계에서 가장 낮아야\"…연준 금리 인하 압박",
-      "link": "https://n.news.naver.com/mnews/article/469/0000951338",
+      "title": "\"美 공습에 이란 결혼식장 피격…4명 사망·50여 명 부상\"",
+      "link": "https://n.news.naver.com/mnews/article/448/0000636929",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
