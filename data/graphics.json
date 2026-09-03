@@ -1,119 +1,111 @@
 {
-  "generated_at": "2026-09-03T07:59:09.296536+09:00",
-  "window_start": "2026-09-02T15:00:00+09:00",
-  "window_end": "2026-09-03T06:00:00+09:00",
+  "generated_at": "2026-09-04T07:58:53.088285+09:00",
+  "window_start": "2026-09-03T15:00:00+09:00",
+  "window_end": "2026-09-04T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "'네팔 대홍수' 한국인 실종자 수색 범위",
-      "link": "https://www.yna.co.kr/view/GYH20260902000500044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/02/GYH2026090200050004401_P1.jpg",
-      "pubdate": "2026-09-02T21:46:00+09:00",
+      "title": "노동쟁의 대상 시행지침안에 따른 주요 판단",
+      "link": "https://www.yna.co.kr/view/GYH20260903000600044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/03/GYH2026090300060004401_P1.jpg",
+      "pubdate": "2026-09-03T20:20:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "홈플러스 사태 주요 일지",
-      "link": "https://www.yna.co.kr/view/GYH20260902000400044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/02/GYH2026090200040004401_P1.jpg",
-      "pubdate": "2026-09-02T17:52:00+09:00",
+      "title": "티빙 개인정보 유출 계정 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260903000500044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/03/GYH2026090300050004400_P1.jpg",
+      "pubdate": "2026-09-03T16:06:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "부산 앞바다 예인선 전복사고",
-      "link": "https://www.yna.co.kr/view/GYH20260902000300044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/02/GYH2026090200030004400_P1.jpg",
-      "pubdate": "2026-09-02T16:00:00+09:00",
+      "title": "사이버보안 특화 AI모델 사업 개요",
+      "link": "https://www.yna.co.kr/view/GYH20260903000300044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/03/GYH2026090300030004400_P1.jpg",
+      "pubdate": "2026-09-03T15:16:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "부산 앞바다 예인선 전복·침몰",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260902_0002228676&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/02/NISI20260902_0002228676_web.jpg?rnd=20260902183453",
-      "pubdate": "2026-09-02T18:34:53+09:00",
+      "title": "\"N% 성과급, 의무교섭 대상 아냐\"…노란봉투법 새 기준 발표",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260903_0002229152&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/03/NISI20260903_0002229152_web.jpg?rnd=20260903162215",
+      "pubdate": "2026-09-03T16:22:15+09:00",
       "image": "images/graphics/뉴시스_04.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "실업급여 22년 만에 개편…월 지급액 줄고 기간 늘어",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260902_0002228497&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/02/NISI20260902_0002228497_web.jpg?rnd=20260902172427",
-      "pubdate": "2026-09-02T17:24:27+09:00",
+      "title": "공공기관 109개 줄인다…발전5사·석유-가스공사 통합",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260903_0002229463&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/03/NISI20260903_0002229463_web.jpg?rnd=20260903162206",
+      "pubdate": "2026-09-03T16:22:06+09:00",
       "image": "images/graphics/뉴시스_05.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "종부세 수정안으로 용산 '한남더힐' 2800만원↓",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260902_0002228000&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/02/NISI20260902_0002228000_web.jpg?rnd=20260902163725",
-      "pubdate": "2026-09-02T16:37:25+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "권혁빈 '최대 8조' 이혼소송, 세가지 쟁점",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260902_0002227708&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/02/NISI20260902_0002227708_web.jpg?rnd=20260902173029",
-      "pubdate": "2026-09-02T17:30:29+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "외국인 지갑 열렸다…한국서 카드 사용 사상 최대",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260902_0002227801&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/02/NISI20260902_0002227801_web.jpg?rnd=20260902150622",
-      "pubdate": "2026-09-02T15:06:22+09:00",
-      "image": "images/graphics/뉴시스_08.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 노동쟁의 대상 판단 기준",
+      "link": "https://www.news1.kr/photos/8085555",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8085555/no_water.jpg",
+      "pubdate": "2026-09-04T01:58:53.088285+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 서울 비아파트 경매 현황",
-      "link": "https://www.news1.kr/photos/8081418",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/1/8081418/no_water.jpg",
-      "pubdate": "2026-09-03T01:59:09.296536+09:00",
+      "title": "[오늘의증시] 9월 3일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8087142",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8087142/no_water.jpg",
+      "pubdate": "2026-09-04T00:58:53.088285+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 학자금 상환 못한 취업청년 6만명…체납액 873억",
+      "link": "https://www.news1.kr/photos/8087007",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8087007/no_water.jpg",
+      "pubdate": "2026-09-04T00:58:53.088285+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 공공기관 기능개혁 추진 내용",
+      "link": "https://www.news1.kr/photos/8086782",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086782/no_water.jpg",
+      "pubdate": "2026-09-03T23:58:53.088285+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 부산 오륙도 해상서 예인선 전복",
-      "link": "https://www.news1.kr/photos/8084928",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/2/8084928/no_water.jpg",
-      "pubdate": "2026-09-03T01:59:09.296536+09:00",
+      "title": "[그래픽] 주요 공공기관 통폐합 방안",
+      "link": "https://www.news1.kr/photos/8086855",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086855/no_water.jpg",
+      "pubdate": "2026-09-03T23:58:53.088285+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 용혜인 겸직 논란… \"욕심·불공정\"vs\"강요할 문제 아냐\"",
-      "link": "https://www.news1.kr/photos/8084415",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/2/8084415/no_water.jpg",
-      "pubdate": "2026-09-03T01:59:09.296536+09:00",
+      "title": "[그래픽] 발전 5사 통합 운영체계",
+      "link": "https://www.news1.kr/photos/8086699",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086699/no_water.jpg",
+      "pubdate": "2026-09-03T23:58:53.088285+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 2일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8084804",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/2/8084804/no_water.jpg",
-      "pubdate": "2026-09-03T00:59:09.296536+09:00",
+      "title": "[그래픽] LH 조직 개혁안",
+      "link": "https://www.news1.kr/photos/8086695",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086695/no_water.jpg",
+      "pubdate": "2026-09-03T23:58:53.088285+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 서울 아파트 거래량",
-      "link": "https://www.news1.kr/photos/8083476",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/2/8083476/no_water.jpg",
-      "pubdate": "2026-09-03T00:59:09.296536+09:00",
+      "title": "[그래픽] 취업 후 학자금 대출 체납현황",
+      "link": "https://www.news1.kr/photos/8086258",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086258/no_water.jpg",
+      "pubdate": "2026-09-03T19:58:53.088285+09:00",
       "image": "images/graphics/뉴스1_13.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 소비자물가 지수 추이",
-      "link": "https://www.news1.kr/photos/8083191",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/2/8083191/no_water.jpg",
-      "pubdate": "2026-09-02T17:59:09.296536+09:00",
-      "image": "images/graphics/뉴스1_14.jpg"
     }
   ]
 }
