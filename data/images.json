@@ -1,167 +1,190 @@
 {
-  "generated_at": "2026-09-04T07:58:52.849302+09:00",
-  "date_label": "9/4(금)",
+  "generated_at": "2026-09-05T07:46:44.871164+09:00",
+  "date_label": "9/5(토)",
   "articles": [
     {
-      "title": "김승원, '신약 청탁' 의혹 확산...용혜인, 여권서도 거취 압박",
-      "link": "https://n.news.naver.com/mnews/article/052/0002402214",
+      "title": "靑 “호르무즈 파병 군사적 기여 포함 검토…정해진 건 없어”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003549137",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "강신철 국방장관 후보자, ‘사관학교 통합’ 질문에 “훌륭한 인재 양성할 수 있도록 하겠다”",
-      "link": "https://n.news.naver.com/mnews/article/032/0003468182",
+      "title": "이 대통령 지지율 40% 최저치…부정평가 51%ㅣ한국갤럽",
+      "link": "https://n.news.naver.com/mnews/article/437/0000509485",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_02_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_02_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "정점식 \"헌법 테두리 안에서 선관위 개혁…李 재판 속개 없이 개헌 불가\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014166662",
+      "title": "해상초계기·군수지원함·EOD 추진‥이르면 두 달 내 파병?",
+      "link": "https://n.news.naver.com/mnews/article/214/0001522130",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김승원 법무후보 \"코로나치료제 임상승인 요청, 청탁아닌 공익민원\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016287761",
+      "title": "이 대통령, 이창동 어터상에 “감독님 영화세계가 빛났다”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821721",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "북, '최고규범' 당 규약서 통일 삭제...전시 대비 조항 신설",
-      "link": "https://n.news.naver.com/mnews/article/052/0002402204",
+      "title": "김승원 법무장관 후보자, 판사 퇴직 후 음주운전으로 벌금 70만 원",
+      "link": "https://n.news.naver.com/mnews/article/052/0002402952",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘국채 발작’ 진정+엔비디아 3%대 급등…삼전ㆍ하닉 오늘은 힘낼까 [뉴욕증시]",
-      "link": "https://n.news.naver.com/mnews/article/029/0003045898",
+      "title": "정용진, 美 국무부 초청 '파운드리 스쿨' 출범식 참석⋯AI 협력 논의",
+      "link": "https://n.news.naver.com/mnews/article/421/0009150703",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "수출기업 달러 매도에…환율 1년 2개월 만에 1350원대",
-      "link": "https://n.news.naver.com/mnews/article/119/0003128792",
+      "title": "반도체 호황에 7월 경상수지 420억달러 ‘역대 2위’...중국 이어 세계 2위",
+      "link": "https://n.news.naver.com/mnews/article/009/0005730485",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "공공기관 109개 줄인다…\"수도권 잔류 최소화\"",
-      "link": "https://n.news.naver.com/mnews/article/215/0001264782",
+      "title": "현대건설, 목동10단지에 '디에이치 목동 에세르' 제안",
+      "link": "https://n.news.naver.com/mnews/article/003/0014170233",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한경협, 고용부·10대 그룹과 '청년 일자리 간담회' 개최",
-      "link": "https://n.news.naver.com/mnews/article/214/0001521862",
+      "title": "김치프리미엄이 돌아왔다…한국서 더 비싼 비트코인[비트코인 지금]",
+      "link": "https://n.news.naver.com/mnews/article/277/0005811790",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_09_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_09_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "'스초생' 미국 간다… 투썸, 내달 버지니아에 1호점 오픈",
-      "link": "https://n.news.naver.com/mnews/article/008/0005409287",
+      "title": "\"가전 연결 넘어 AI 집사 등장\"…글로벌 가전, AI 홈 총력전[IFA 2026][현장]",
+      "link": "https://n.news.naver.com/mnews/article/003/0014170696",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"섬의 모든 것 한자리에\"...여수세계섬박람회 내일 개막",
-      "link": "https://n.news.naver.com/mnews/article/052/0002402476",
+      "title": "경찰, 성인 실종자도 위치추적…사건 종결하려면 승인 필요",
+      "link": "https://n.news.naver.com/mnews/article/056/0012251199",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "취임 첫날 ‘반성문’ 쓴 김종철...“부실 수사 발 못붙이게”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004658440",
+      "title": "경찰 “정창성, 연인관계 폭로돼 직장 잃을까봐 범행”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003549096",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이혼 소송 중 아내 살해한 30대 공무원 구속…\"도망 염려\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000509353",
+      "title": "삼성 '노조 미가입자 유출' 최승호 위원장 등 6명 송치",
+      "link": "https://n.news.naver.com/mnews/article/214/0001522040",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "지방흡입 폐기물 변기에 버려…서울 성형외과·피부과 25곳 적발",
-      "link": "https://n.news.naver.com/mnews/article/055/0001385513",
+      "title": "부산 예인선 전복사고 사흘째, 실종자 수색 난항",
+      "link": "https://n.news.naver.com/mnews/article/047/0002527794",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_14_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "전국 대부분 맑고 강원·제주 비…낮 최고 32도[오늘 날씨]",
-      "link": "https://n.news.naver.com/mnews/article/008/0005409325",
+      "title": "“명당 20만원, 호텔 150만원”…불꽃축제보다 뜨거운 ‘자리 거래’",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821670",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "핸들·페달 없는 금빛 테슬라 무인택시…머스크 \"사이버캡 폭풍\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016289183",
+      "title": "네팔군, 한국 구호대에 한국인 9명 실종지역 도보수색 불허",
+      "link": "https://n.news.naver.com/mnews/article/437/0000509623",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "뉴욕시, 초·중학생 AI 사용 1년간 중단…\"인간 관계 필요\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000902425",
+      "title": "도쿄서 한국 여성 스토킹 끝 살해…한국인 박씨, 징역 20년",
+      "link": "https://n.news.naver.com/mnews/article/008/0005409747",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美-베네수 '석유 협정'에 기업들 잇따라 투자",
-      "link": "https://n.news.naver.com/mnews/article/374/0000530891",
+      "title": "젠슨 황 엔비디아 CEO, 네팔 ‘대홍수’ 피해자 위해 135억원 기부",
+      "link": "https://n.news.naver.com/mnews/article/022/0004156447",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_18_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "러트닉 美상무 \"목표 정확히 겨냥한 반도체 관세 준비중\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014165454",
+      "title": "트럼프 \"연준 금리인하 안하면 美가 적자보는 나라와 무역 중단\"(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016291342",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "네팔·中 홍수 사망자 1130명…韓 긴급구호대 지원",
-      "link": "https://n.news.naver.com/mnews/article/277/0005811097",
+      "title": "“한국, 2060년 세계 최고령국 된다”…전 세계 노인인구, 사상 첫 영유아 추월",
+      "link": "https://n.news.naver.com/mnews/article/011/0004658751",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
