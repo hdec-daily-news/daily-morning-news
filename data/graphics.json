@@ -1,111 +1,39 @@
 {
-  "generated_at": "2026-09-05T07:46:45.108036+09:00",
-  "window_start": "2026-09-04T15:00:00+09:00",
-  "window_end": "2026-09-05T06:00:00+09:00",
+  "generated_at": "2026-09-06T07:38:26.149684+09:00",
+  "window_start": "2026-09-05T15:00:00+09:00",
+  "window_end": "2026-09-06T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "초대 중대범죄수사청장 후보 4명 압축",
-      "link": "https://www.yna.co.kr/view/GYH20260904000800044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/04/GYH2026090400080004401_P1.jpg",
-      "pubdate": "2026-09-04T18:42:00+09:00",
+      "title": "'네팔 대홍수' 생존자 구조 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260906000100044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600010004400_P1.jpg",
+      "pubdate": "2026-09-06T01:34:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "공소청 직제 개편안",
-      "link": "https://www.yna.co.kr/view/GYH20260904000700044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/04/GYH2026090400070004400_P1.jpg",
-      "pubdate": "2026-09-04T15:00:00+09:00",
+      "title": "연간 수출액 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260905000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500050004400_P1.jpg",
+      "pubdate": "2026-09-05T23:10:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "국립대 등록금 전액 지원…충원율은 대학별 제각각",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260904_0002229929&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/04/NISI20260904_0002229929_web.jpg?rnd=20260904230000",
-      "pubdate": "2026-09-04T23:00:00+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
+      "source": "연합뉴스",
+      "title": "메르카토르 도법과 이퀄 어스 도법 세계지도",
+      "link": "https://www.yna.co.kr/view/GYH20260905000400044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500040004400_P1.jpg",
+      "pubdate": "2026-09-05T22:48:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "'초대 중수청장' 후보 4명…검찰 출신 2명·판사·교수",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260904_0002230873&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/04/NISI20260904_0002230873_web.jpg?rnd=20260904221045",
-      "pubdate": "2026-09-04T22:10:45+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "태풍 '크로반' 예상 이동 경로",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260904_0002230682&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/04/NISI20260904_0002230682_web.jpg?rnd=20260904172705",
-      "pubdate": "2026-09-04T17:27:05+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 공소청 직제 개편안",
-      "link": "https://www.news1.kr/photos/8089428",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8089428/no_water.jpg",
-      "pubdate": "2026-09-05T02:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 4일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8089097",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8089097/no_water.jpg",
-      "pubdate": "2026-09-05T00:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 행정수도 이전 '찬 48%·반 44%'…공공기관 이전 57% 찬성",
-      "link": "https://www.news1.kr/photos/8088927",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8088927/no_water.jpg",
-      "pubdate": "2026-09-05T00:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 강남3구 아파트 외지인 매입 비중",
-      "link": "https://www.news1.kr/photos/8086700",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/3/8086700/no_water.jpg",
-      "pubdate": "2026-09-05T00:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 의원급 의료기관 최근 10주간 인플루엔자 의사환자 분율",
-      "link": "https://www.news1.kr/photos/8087836",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8087836/no_water.jpg",
-      "pubdate": "2026-09-05T00:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 李대통령 프랑스 국빈방문 주요 일정",
-      "link": "https://www.news1.kr/photos/8088724",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8088724/no_water.jpg",
-      "pubdate": "2026-09-04T23:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 직무 수행 평가",
-      "link": "https://www.news1.kr/photos/8088117",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8088117/no_water.jpg",
-      "pubdate": "2026-09-04T19:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8088120",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/4/8088120/no_water.jpg",
-      "pubdate": "2026-09-04T19:46:45.108036+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
+      "source": "연합뉴스",
+      "title": "현대제철-포스코 미국 루이지애나 전기로 제철소",
+      "link": "https://www.yna.co.kr/view/GYH20260905000300044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500030004400_P1.jpg",
+      "pubdate": "2026-09-05T21:24:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
     }
   ]
 }
