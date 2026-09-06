@@ -1,39 +1,47 @@
 {
-  "generated_at": "2026-09-06T07:38:26.149684+09:00",
-  "window_start": "2026-09-05T15:00:00+09:00",
-  "window_end": "2026-09-06T06:00:00+09:00",
+  "generated_at": "2026-09-07T07:40:34.109105+09:00",
+  "window_start": "2026-09-06T15:00:00+09:00",
+  "window_end": "2026-09-07T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "'네팔 대홍수' 생존자 구조 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260906000100044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600010004400_P1.jpg",
-      "pubdate": "2026-09-06T01:34:00+09:00",
+      "title": "전통시장·대형마트 추석 차례상 물가",
+      "link": "https://www.yna.co.kr/view/GYH20260906000800044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600080004400_P1.jpg",
+      "pubdate": "2026-09-06T17:37:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "연간 수출액 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260905000500044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500050004400_P1.jpg",
-      "pubdate": "2026-09-05T23:10:00+09:00",
+      "title": "SK텔레콤 AI데이터센터 사업 운영 계획",
+      "link": "https://www.yna.co.kr/view/GYH20260906000600044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600060004400_P1.jpg",
+      "pubdate": "2026-09-06T16:25:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "메르카토르 도법과 이퀄 어스 도법 세계지도",
-      "link": "https://www.yna.co.kr/view/GYH20260905000400044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500040004400_P1.jpg",
-      "pubdate": "2026-09-05T22:48:00+09:00",
+      "title": "기소 경찰 징계 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260906000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600050004400_P1.jpg",
+      "pubdate": "2026-09-06T15:18:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "현대제철-포스코 미국 루이지애나 전기로 제철소",
-      "link": "https://www.yna.co.kr/view/GYH20260905000300044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/05/GYH2026090500030004400_P1.jpg",
-      "pubdate": "2026-09-05T21:24:00+09:00",
-      "image": "images/graphics/연합뉴스_04.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요 일정(7~11일)",
+      "link": "https://www.news1.kr/photos/8090931",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/6/8090931/no_water.jpg",
+      "pubdate": "2026-09-07T02:40:34.109105+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 배·조기 8%대↑, 채솟값 12% ↑…추석 차례상 차리기 부담",
+      "link": "https://www.news1.kr/photos/8090755",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/6/8090755/no_water.jpg",
+      "pubdate": "2026-09-07T00:40:34.109105+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }

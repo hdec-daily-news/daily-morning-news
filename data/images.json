@@ -1,176 +1,166 @@
 {
-  "generated_at": "2026-09-06T07:38:25.903627+09:00",
-  "date_label": "9/6(일)",
+  "generated_at": "2026-09-07T07:40:33.917768+09:00",
+  "date_label": "9/7(월)",
   "articles": [
     {
-      "title": "조현 외교부 장관, 네팔로 출국…\"긴급구호진 만나 향후 대책 논의\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903112",
+      "title": "김승원 후보자 ‘신약 청탁 의혹’으로 잇따라 고발당해",
+      "link": "https://n.news.naver.com/mnews/article/449/0000359569",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"檢 기소유예 잘못됐다\" 10년간 헌법소원 2161건…18%는 취소인용",
-      "link": "https://n.news.naver.com/mnews/article/421/0009152381",
+      "title": "[속보] 李대통령 프랑스 국빈방문 출국…마크롱 대통령과 '호르무즈' 논의하나",
+      "link": "https://n.news.naver.com/mnews/article/448/0000637683",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘TK 패싱’ 우려 확산…정기국회가 시험대",
-      "link": "https://n.news.naver.com/mnews/article/056/0012251714",
+      "title": "정점식 “용혜인 막후에 혼전순결 강령 ‘노동당 언더조직’ 의혹”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003549349",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "용혜인 측 \"1억 9000만원 당비 납부, 절세 목적 아냐\"",
-      "link": "https://n.news.naver.com/mnews/article/031/0001055698",
+      "title": "민주당 “한동훈, 김승원 녹취 어디서 났나… 출처 밝히고 사과하라”",
+      "link": "https://n.news.naver.com/mnews/article/666/0000122119",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국힘 \"용혜인 배후엔 김현지\"…민주 \"음모론\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903145",
+      "title": "한동훈, 김승원 녹취 추가 공개…민주 \"불법 유출 의심\" 고발",
+      "link": "https://n.news.naver.com/mnews/article/437/0000509736",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "삼전 동행노조, 이재용 회장 자택 앞 집회 예고",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903158",
+      "title": "‘국민부담’ 적자성 채무, 2030년 1300조대…나랏빚 이자비용 50조 넘어",
+      "link": "https://n.news.naver.com/mnews/article/016/0002693265",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미국서 철강부터 자동차까지…50% 관세 넘는다",
-      "link": "https://n.news.naver.com/mnews/article/055/0001386150",
+      "title": "현대제철 美 상륙 … 여의도 2.5배 수수밭이 제철소로",
+      "link": "https://n.news.naver.com/mnews/article/009/0005731048",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "AI 열풍으로 전 세계 ‘1조원 부자’ 3795명",
-      "link": "https://n.news.naver.com/mnews/article/005/0001871054",
+      "title": "LH 쪼개는 시기에 착공 2배로…‘연 10만가구’ 속도전 변수",
+      "link": "https://n.news.naver.com/mnews/article/018/0006364606",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "LG전자, AI홈 ‘컨트롤타워’ 고도화… “카카오톡으로 집·가전과 대화”[IFA 2026]",
-      "link": "https://n.news.naver.com/mnews/article/366/0001190542",
+      "title": "하나금융, 9900원 계란 12만판 공급[Biz & Now]",
+      "link": "https://n.news.naver.com/mnews/article/025/0003549417",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "LG전자, 'IFA 2026 이노베이션 어워드'서 최고 브랜드상 수상",
-      "link": "https://n.news.naver.com/mnews/article/008/0005409703",
+      "title": "“이대로면 강·도·금 빼고 종부세 아파트 한 채당 稅부담 최대 9배”",
+      "link": "https://n.news.naver.com/mnews/article/081/0003677299",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "신안 앞바다 낚시 어선 기관고장 표류...22명 구조",
-      "link": "https://n.news.naver.com/mnews/article/052/0002403117",
+      "title": "기후동행카드→기후동행패스 전환 사흘간 3만2천명",
+      "link": "https://n.news.naver.com/mnews/article/001/0016292266",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "잇단 해양 사고에…해경청, 30일까지 해양안전 특별관리",
-      "link": "https://n.news.naver.com/mnews/article/001/0016291743",
+      "title": "부산 예인선 사고 실종자 닷새째 발견 안돼···풍랑주의보로 수색 난항",
+      "link": "https://n.news.naver.com/mnews/article/032/0003468622",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "1240회 로또 1등 각 17억씩…자동14명·수동2명(종합)",
-      "link": "https://n.news.naver.com/mnews/article/003/0014171359",
+      "title": "“치매 조기검진 받으세요”⋯횡성군 치매극복주간 운영",
+      "link": "https://n.news.naver.com/mnews/article/087/0001215804",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_13_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "서울세계불꽃축제 인파에…지하철 5호선 여의나루역 무정차 통과",
-      "link": "https://n.news.naver.com/mnews/article/421/0009152762",
+      "title": "\"사람 없는 줄\" 기계식 주차장에 입고...'15층 추락사망' 사건 결말",
+      "link": "https://n.news.naver.com/mnews/article/008/0005410094",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "배 아파 남의 집 들어가 대변... 법원 판단은?",
-      "link": "https://n.news.naver.com/mnews/article/014/0005571390",
+      "title": "태풍 크로반 제주서 멀어져도 강풍·풍랑 지속… 남동쪽 먼바다 최고 5m",
+      "link": "https://n.news.naver.com/mnews/article/014/0005571432",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "긴급구호대, 이틀 연속 헬기 수색…10일만에 중국인 생존자 구조",
-      "link": "https://n.news.naver.com/mnews/article/056/0012251689",
+      "title": "네팔 대홍수 여파 속 또 산사태·홍수…수력발전소 노동자 2명 사망",
+      "link": "https://n.news.naver.com/mnews/article/277/0005812443",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "푸틴, 트럼프 특사 만난다…\"키이우 공습 사흘간 중단\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903201",
+      "title": "미군 \"이란 해상 봉쇄에 F-35A 스텔스 전투기 투입\"",
+      "link": "https://n.news.naver.com/mnews/article/119/0003129612",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미국 노동절 연휴에 휘발윳값 역대 최고 전망...갤런당 4달러 넘어",
-      "link": "https://n.news.naver.com/mnews/article/052/0002403305",
+      "title": "이란 안보수장 “호르무즈 외곽 새 통제구역 선포…진입 시 제재”",
+      "link": "https://n.news.naver.com/mnews/article/449/0000359628",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"바브엘만데브 해협을 장악하라\"…후티 진격에 '최악' 유혈극",
-      "link": "https://n.news.naver.com/mnews/article/001/0016291258",
+      "title": "\"이란 고위 당국자, 韓 호르무즈 개입시 '전쟁 참여'로 간주 경고\"",
+      "link": "https://n.news.naver.com/mnews/article/374/0000531369",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "네팔군, 한국인 9명 실종지역 도보수색 불허…“위험”",
-      "link": "https://n.news.naver.com/mnews/article/032/0003468584",
+      "title": "트럼프 시비에 ‘캐나다-중국’ 가까워진다…8년 만에 군사대화 재개",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821843",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_20_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     }
   ]
 }
