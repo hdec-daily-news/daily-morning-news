@@ -1,47 +1,111 @@
 {
-  "generated_at": "2026-09-07T07:40:34.109105+09:00",
-  "window_start": "2026-09-06T15:00:00+09:00",
-  "window_end": "2026-09-07T06:00:00+09:00",
+  "generated_at": "2026-09-08T08:17:30.186642+09:00",
+  "window_start": "2026-09-07T15:00:00+09:00",
+  "window_end": "2026-09-08T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "전통시장·대형마트 추석 차례상 물가",
-      "link": "https://www.yna.co.kr/view/GYH20260906000800044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600080004400_P1.jpg",
-      "pubdate": "2026-09-06T17:37:00+09:00",
+      "title": "초대 중대범죄수사청장 후보자 김지용 프로필",
+      "link": "https://www.yna.co.kr/view/GYH20260907000500044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/07/GYH2026090700050004400_P1.jpg",
+      "pubdate": "2026-09-07T16:43:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "SK텔레콤 AI데이터센터 사업 운영 계획",
-      "link": "https://www.yna.co.kr/view/GYH20260906000600044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600060004400_P1.jpg",
-      "pubdate": "2026-09-06T16:25:00+09:00",
+      "title": "독일 작센안할트주 주의회 선거 결과",
+      "link": "https://www.yna.co.kr/view/GYH20260907000400044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/07/GYH2026090700040004402_P1.jpg",
+      "pubdate": "2026-09-07T15:03:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "기소 경찰 징계 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260906000500044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/06/GYH2026090600050004400_P1.jpg",
-      "pubdate": "2026-09-06T15:18:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
+      "source": "뉴시스",
+      "title": "초대 중수청장 후보 김지용 제청…이달 안 임명 속도전",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232311&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232311_web.jpg?rnd=20260907174130",
+      "pubdate": "2026-09-07T17:41:30+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "고용보험 가입자 27.8만명↑…제조업 15개월 만에 반등",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232387&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232387_web.jpg?rnd=20260907163422",
+      "pubdate": "2026-09-07T16:34:22+09:00",
+      "image": "images/graphics/뉴시스_04.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "원·달러 1340원대 마감…1년 11개월만 최저 수준",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232496&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232496_web.jpg?rnd=20260907163412",
+      "pubdate": "2026-09-07T16:34:12+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "2분기 서비스업 대출 14분기만 최대폭↑…주식시장 호황 영향",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002231810&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002231810_web.jpg?rnd=20260907152227",
+      "pubdate": "2026-09-07T15:22:27+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요 일정(7~11일)",
-      "link": "https://www.news1.kr/photos/8090931",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/6/8090931/no_water.jpg",
-      "pubdate": "2026-09-07T02:40:34.109105+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
+      "title": "[그래픽] 서울 주요 아파트 전세 최고가 거래",
+      "link": "https://www.news1.kr/photos/8091291",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091291/no_water.jpg",
+      "pubdate": "2026-09-08T02:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 배·조기 8%대↑, 채솟값 12% ↑…추석 차례상 차리기 부담",
-      "link": "https://www.news1.kr/photos/8090755",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/6/8090755/no_water.jpg",
-      "pubdate": "2026-09-07T00:40:34.109105+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
+      "title": "[그래픽] 김지용 초대 중수청장 후보",
+      "link": "https://www.news1.kr/photos/8092828",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092828/no_water.jpg",
+      "pubdate": "2026-09-08T02:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 코스피 코스닥(9월 7일)",
+      "link": "https://www.news1.kr/photos/8092620",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092620/no_water.jpg",
+      "pubdate": "2026-09-08T01:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026년 독일 작센안할트주 주의회 선거 결과",
+      "link": "https://www.news1.kr/photos/8091742",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091742/no_water.jpg",
+      "pubdate": "2026-09-07T23:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 5세 이하 '꼬마 임대인' 179명…평균 소득 1500만원 안팎",
+      "link": "https://www.news1.kr/photos/8091913",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091913/no_water.jpg",
+      "pubdate": "2026-09-07T21:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8091247",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091247/no_water.jpg",
+      "pubdate": "2026-09-07T17:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_12.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8091244",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091244/no_water.jpg",
+      "pubdate": "2026-09-07T17:17:30.186642+09:00",
+      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }
