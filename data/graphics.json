@@ -1,111 +1,87 @@
 {
-  "generated_at": "2026-09-08T08:17:30.186642+09:00",
-  "window_start": "2026-09-07T15:00:00+09:00",
-  "window_end": "2026-09-08T06:00:00+09:00",
+  "generated_at": "2026-09-09T08:10:19.531449+09:00",
+  "window_start": "2026-09-08T15:00:00+09:00",
+  "window_end": "2026-09-09T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "초대 중대범죄수사청장 후보자 김지용 프로필",
-      "link": "https://www.yna.co.kr/view/GYH20260907000500044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/07/GYH2026090700050004400_P1.jpg",
-      "pubdate": "2026-09-07T16:43:00+09:00",
+      "title": "OECD 국제학업성취도평가(PISA) 결과",
+      "link": "https://www.yna.co.kr/view/GYH20260908000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/08/GYH2026090800080004400_P1.jpg",
+      "pubdate": "2026-09-08T16:32:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "독일 작센안할트주 주의회 선거 결과",
-      "link": "https://www.yna.co.kr/view/GYH20260907000400044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/07/GYH2026090700040004402_P1.jpg",
-      "pubdate": "2026-09-07T15:03:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
+      "source": "뉴시스",
+      "title": "올해 수능 N수생 23년 만에 최대… 재학생은 감소",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260908_0002233391&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/08/NISI20260908_0002233391_web.jpg?rnd=20260908153318",
+      "pubdate": "2026-09-08T15:33:18+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "초대 중수청장 후보 김지용 제청…이달 안 임명 속도전",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232311&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232311_web.jpg?rnd=20260907174130",
-      "pubdate": "2026-09-07T17:41:30+09:00",
+      "title": "주담대 연체 2.2조원…3년 반 만에 2.2배 급증",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260908_0002233467&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/08/NISI20260908_0002233467_web.jpg?rnd=20260908153239",
+      "pubdate": "2026-09-08T15:32:39+09:00",
       "image": "images/graphics/뉴시스_03.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "고용보험 가입자 27.8만명↑…제조업 15개월 만에 반등",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232387&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232387_web.jpg?rnd=20260907163422",
-      "pubdate": "2026-09-07T16:34:22+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "원·달러 1340원대 마감…1년 11개월만 최저 수준",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002232496&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002232496_web.jpg?rnd=20260907163412",
-      "pubdate": "2026-09-07T16:34:12+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "2분기 서비스업 대출 14분기만 최대폭↑…주식시장 호황 영향",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260907_0002231810&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/07/NISI20260907_0002231810_web.jpg?rnd=20260907152227",
-      "pubdate": "2026-09-07T15:22:27+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
+      "source": "뉴스1",
+      "title": "[오늘의증시] 9월 8일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8094938",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8094938/no_water.jpg",
+      "pubdate": "2026-09-09T01:10:19.531449+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 서울 주요 아파트 전세 최고가 거래",
-      "link": "https://www.news1.kr/photos/8091291",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091291/no_water.jpg",
-      "pubdate": "2026-09-08T02:17:30.186642+09:00",
+      "title": "[오늘의 그래픽] 국민연금 '죄악주' 투자 8조원 넘었다…3년 새 45% 증가",
+      "link": "https://www.news1.kr/photos/8094895",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8094895/no_water.jpg",
+      "pubdate": "2026-09-09T01:10:19.531449+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 건강보험 보장 1단계 혁신방안-치과",
+      "link": "https://www.news1.kr/photos/8092755",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092755/no_water.jpg",
+      "pubdate": "2026-09-09T00:10:19.531449+09:00",
+      "image": "images/graphics/뉴스1_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] '국민건강보험법 시행령' 주요 개정사항",
+      "link": "https://www.news1.kr/photos/8093442",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8093442/no_water.jpg",
+      "pubdate": "2026-09-08T23:10:19.531449+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 김지용 초대 중수청장 후보",
-      "link": "https://www.news1.kr/photos/8092828",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092828/no_water.jpg",
-      "pubdate": "2026-09-08T02:17:30.186642+09:00",
+      "title": "[그래픽] 건강보험 보장 1단계 혁신방안",
+      "link": "https://www.news1.kr/photos/8092739",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092739/no_water.jpg",
+      "pubdate": "2026-09-08T23:10:19.531449+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(9월 7일)",
-      "link": "https://www.news1.kr/photos/8092620",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8092620/no_water.jpg",
-      "pubdate": "2026-09-08T01:17:30.186642+09:00",
+      "title": "[그래픽] 연도별 건강보험료율 현황",
+      "link": "https://www.news1.kr/photos/8094465",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8094465/no_water.jpg",
+      "pubdate": "2026-09-08T23:10:19.531449+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026년 독일 작센안할트주 주의회 선거 결과",
-      "link": "https://www.news1.kr/photos/8091742",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091742/no_water.jpg",
-      "pubdate": "2026-09-07T23:17:30.186642+09:00",
+      "title": "[그래픽] GDP·GNI 추이",
+      "link": "https://www.news1.kr/photos/8093788",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8093788/no_water.jpg",
+      "pubdate": "2026-09-08T19:10:19.531449+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 5세 이하 '꼬마 임대인' 179명…평균 소득 1500만원 안팎",
-      "link": "https://www.news1.kr/photos/8091913",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091913/no_water.jpg",
-      "pubdate": "2026-09-07T21:17:30.186642+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8091247",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091247/no_water.jpg",
-      "pubdate": "2026-09-07T17:17:30.186642+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8091244",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/7/8091244/no_water.jpg",
-      "pubdate": "2026-09-07T17:17:30.186642+09:00",
-      "image": "images/graphics/뉴스1_13.jpg"
     }
   ]
 }

@@ -1,167 +1,181 @@
 {
-  "generated_at": "2026-09-08T08:17:29.942932+09:00",
-  "date_label": "9/8(화)",
+  "generated_at": "2026-09-09T08:10:19.357115+09:00",
+  "date_label": "9/9(수)",
   "articles": [
     {
-      "title": "“강신철, 아들 7억 부동산 보유 은폐”… 천하람, 이틀째 강 후보자 의혹 제기",
-      "link": "https://n.news.naver.com/mnews/article/005/0001871449",
+      "title": "靑 “한불 정상회담서 군사·원전 협력 강화…호르무즈 등도 논의”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003550061",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "기본소득당 \"비선조직 주장 사실 아냐…가짜뉴스 법적 대응\"(종합)",
-      "link": "https://n.news.naver.com/mnews/article/421/0009154733",
+      "title": "[속보] 정점식 “이번 정부서 개헌 없다……李 대통령 재판 즉각 재개하라”",
+      "link": "https://n.news.naver.com/mnews/article/029/0003046728",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한동훈 \"'민주당 오빠들' 더 나온다\" 문자 공개…\"송영길은 여우\", \"최 의원 조를게요\"",
-      "link": "https://n.news.naver.com/mnews/article/437/0000509861",
+      "title": "\"호르무즈 상황 파악 위해 현지조사단 파견\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001522806",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "무등록업체가 배터리 공사, 소방엔 \"물 쓰지 말라\"…국정자원 화재 감사 결과 발표",
-      "link": "https://n.news.naver.com/mnews/article/437/0000509906",
+      "title": "이 대통령, 한·프 경제인 간담회...이재용 등 재계 인사 참석",
+      "link": "https://n.news.naver.com/mnews/article/052/0002404579",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령 “‘로컬’한 고유성이 가장 ‘글로벌’한 경쟁력…협력 모델 만들어가야”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012252748",
+      "title": "“브로커 문자에 최재성·송영길도 등장”… 與 덮친 ‘오빠 게이트’",
+      "link": "https://n.news.naver.com/mnews/article/023/0003997202",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_05_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "한화, 유럽 방산시장 공략",
-      "link": "https://n.news.naver.com/mnews/article/022/0004157207",
+      "title": "유통업체 ‘갑질’ 또 칼 빼든 공정위…다이소 “조사에 성실히 임할 것”",
+      "link": "https://n.news.naver.com/mnews/article/018/0006365666",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "하나증권, 새 MTS 출시… AI가 맞춤형 ETF 추천",
-      "link": "https://n.news.naver.com/mnews/article/081/0003677767",
+      "title": "신혼부부 몰린 공공주택…SH, 중산층 주거안전망 넓힌다[집슐랭]",
+      "link": "https://n.news.naver.com/mnews/article/011/0004659527",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_4.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "대미투자 1호 당정협…'가스발전소' 확정 수순",
-      "link": "https://n.news.naver.com/mnews/article/215/0001265151",
+      "title": "삼성전자, 2028년 D램에 하이 NA EUV 적용… ASML과 협력 확대",
+      "link": "https://n.news.naver.com/mnews/article/366/0001191085",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'몸값 8조' 무신사, IPO 예심청구…내년 상반기 코스피 입성 목표",
-      "link": "https://n.news.naver.com/mnews/article/015/0005329656",
+      "title": "[속보]美증시, 유가 급등에 하락…다우 1.18%↓",
+      "link": "https://n.news.naver.com/mnews/article/021/0002817306",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한국금융인재개발원, 맞춤형 금융 전문교육 확대",
-      "link": "https://n.news.naver.com/mnews/article/014/0005572171",
+      "title": "한은 \"올해 1인당 GNI 4만달러 넘을 가능성 매우 커져\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006365439",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_10_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "김승원 \"부정 청탁한 적 없다…한동훈, 수사자료 어디서 입수했나\"[녹취구성]",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903777",
+      "title": "전북, 인플루엔자 바이러스 재검출…“감염병 예방수칙 준수”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012252704",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "생방송 중 목 졸라 기절시키고 '웃음'…격투기 선수 입건 外[포인트뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/422/0000903743",
+      "title": "‘12명 체제’ 대법관 2석 공백에…엄상필 대법관 2부→3부 이동",
+      "link": "https://n.news.naver.com/mnews/article/081/0003678056",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "실종 여성 주검 발견된 냉동창고에 수백억원대 위조 상품권",
-      "link": "https://n.news.naver.com/mnews/article/028/0002822041",
+      "title": "'국힘 397억 반환' 달린 尹 선거법 재판, 2심 시작…9월 22일 결심",
+      "link": "https://n.news.naver.com/mnews/article/018/0006365686",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "부산 앞바다 예인선 전복 실종자 6명 엿새째 야간 수색",
-      "link": "https://n.news.naver.com/mnews/article/001/0016295450",
+      "title": "[속보] 내년 건보료율 안 오른다… 지지율 하락에 재정위기 외면",
+      "link": "https://n.news.naver.com/mnews/article/469/0000952797",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'국립의대 탈락' 목포, 반발 심화…\"순천대 선정 불공정\"",
-      "link": "https://n.news.naver.com/mnews/article/584/0000039234",
+      "title": "기초연금 수급자 700만명 돌파했지만…수급률은 4년째 하락",
+      "link": "https://n.news.naver.com/mnews/article/001/0016298545",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_15_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_15_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "캐나다, 미국 제품에 최고 50% 보복 관세",
-      "link": "https://n.news.naver.com/mnews/article/277/0005813077",
+      "title": "캐나다·이란을 미국 땅으로…트럼프 '폭풍 SNS'",
+      "link": "https://n.news.naver.com/mnews/article/422/0000903958",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란, 호르무즈 파병 검토 한국에 \"심각한 결과 초래\" 경고(종합)",
-      "link": "https://n.news.naver.com/mnews/article/079/0004186793",
+      "title": "네팔 파견 韓 긴급구호대, 산악지역 도보 수색 착수",
+      "link": "https://n.news.naver.com/mnews/article/003/0014177262",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'와인'이 아닌 '즐거움' 잡는다…포도나무 뽑는 와이너리",
-      "link": "https://n.news.naver.com/mnews/article/055/0001386412",
+      "title": "후티, 사우디 정유시설 폭격…브렌트유 100달러 목전",
+      "link": "https://n.news.naver.com/mnews/article/001/0016298490",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정체불명 초록 액체에 ‘풍덩’…中 ‘염색 상추’ 그대로 팔렸다",
-      "link": "https://n.news.naver.com/mnews/article/025/0003549580",
+      "title": "\"북한이 만든 시리아 독재정권 원자로에서 핵무기 제조될 뻔\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016296088",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "네팔 정부, “한국인 실종 지역 도보 수색 협조” 입장 전환",
-      "link": "https://n.news.naver.com/mnews/article/022/0004157160",
+      "title": "러시아 “미·러·우크라 3자회담 재개 가능성”",
+      "link": "https://n.news.naver.com/mnews/article/032/0003469026",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
