@@ -1,86 +1,86 @@
 {
-  "generated_at": "2026-09-10T07:54:58.435820+09:00",
-  "window_start": "2026-09-09T15:00:00+09:00",
-  "window_end": "2026-09-10T06:00:00+09:00",
+  "generated_at": "2026-09-11T07:56:39.582737+09:00",
+  "window_start": "2026-09-10T15:00:00+09:00",
+  "window_end": "2026-09-11T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
       "title": "국제유가 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260909000700044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/09/GYH2026090900070004400_P1.jpg",
-      "pubdate": "2026-09-09T17:55:00+09:00",
+      "link": "https://www.yna.co.kr/view/GYH20260910001100044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/10/GYH2026091000110004400_P1.jpg",
+      "pubdate": "2026-09-10T22:10:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "국내 기업 매출액증가율·매출액영업이익률 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260909000600044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/09/GYH2026090900060004400_P1.jpg",
-      "pubdate": "2026-09-09T16:21:00+09:00",
+      "title": "국산 다연장로켓 천무",
+      "link": "https://www.yna.co.kr/view/GYH20260910001000044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/10/GYH2026091000100004400_P1.jpg",
+      "pubdate": "2026-09-10T21:03:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "강남 집 판 사람 절반이 '10년 초과 보유자'",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260909_0002234171&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/09/NISI20260909_0002234171_web.jpg?rnd=20260909174620",
-      "pubdate": "2026-09-09T17:46:20+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
+      "source": "연합뉴스",
+      "title": "우크라이나 젤렌스키 전용기 이륙 지연",
+      "link": "https://www.yna.co.kr/view/GYH20260910000900044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/10/GYH2026091000090004400_P1.jpg",
+      "pubdate": "2026-09-10T20:54:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주택관련대출 월평균 증가액 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260910000800044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/10/GYH2026091000080004400_P1.jpg",
+      "pubdate": "2026-09-10T15:14:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "가계대출 증가 둔화…주담대는 4조 늘어",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260909_0002234607&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/09/NISI20260909_0002234607_web.jpg?rnd=20260909154017",
-      "pubdate": "2026-09-09T15:40:17+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
+      "title": "송파 집값도 '하락' 전환…강북은 상승세 키워",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260910_0002235408&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/10/NISI20260910_0002235408_web.jpg?rnd=20260910151435",
+      "pubdate": "2026-09-10T15:14:35+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 코스피 코스닥 지수 추이",
-      "link": "https://www.news1.kr/photos/8097619",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/9/8097619/no_water.jpg",
-      "pubdate": "2026-09-10T01:54:58.435820+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 9일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8097427",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/9/8097427/no_water.jpg",
-      "pubdate": "2026-09-10T00:54:58.435820+09:00",
+      "title": "[오늘의 증시] 9월 10일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8099859",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/10/8099859/no_water.jpg",
+      "pubdate": "2026-09-11T00:56:39.582737+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 기초연금 수급자 700만명 돌파…수급률은 4년간 하락",
-      "link": "https://www.news1.kr/photos/8096999",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/9/8096999/no_water.jpg",
-      "pubdate": "2026-09-09T23:54:58.435820+09:00",
+      "title": "[오늘의 그래픽] 청년개미 '텅장 노후' 공포…주식·채권 투자 비중 5배 쑥",
+      "link": "https://www.news1.kr/photos/8098982",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/10/8098982/no_water.jpg",
+      "pubdate": "2026-09-10T23:56:39.582737+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 중동 정세 다시 격화",
-      "link": "https://www.news1.kr/photos/8096422",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/9/8096422/no_water.jpg",
-      "pubdate": "2026-09-09T19:54:58.435820+09:00",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8098875",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/10/8098875/no_water.jpg",
+      "pubdate": "2026-09-10T20:56:39.582737+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2027학년도 전국 공립 교사 모집공고 현황",
-      "link": "https://www.news1.kr/photos/8095094",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/8/8095094/no_water.jpg",
-      "pubdate": "2026-09-09T19:54:58.435820+09:00",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8098873",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/10/8098873/no_water.jpg",
+      "pubdate": "2026-09-10T20:56:39.582737+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 한·프랑스 정상회담 계기 주요 협정·MOU 체결 내역",
-      "link": "https://www.news1.kr/photos/8096314",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/9/8096314/no_water.jpg",
-      "pubdate": "2026-09-09T19:54:58.435820+09:00",
+      "title": "[그래픽] 국제유가 추이",
+      "link": "https://www.news1.kr/photos/8098230",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/10/8098230/no_water.jpg",
+      "pubdate": "2026-09-10T16:56:39.582737+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     }
   ]
