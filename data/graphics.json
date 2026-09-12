@@ -1,95 +1,15 @@
 {
-  "generated_at": "2026-09-12T07:58:18.431259+09:00",
-  "window_start": "2026-09-11T15:00:00+09:00",
-  "window_end": "2026-09-12T06:00:00+09:00",
+  "generated_at": "2026-09-13T07:49:29.399997+09:00",
+  "window_start": "2026-09-12T15:00:00+09:00",
+  "window_end": "2026-09-13T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "미국 소비자물가 추이",
-      "link": "https://www.yna.co.kr/view/GYH20260911000500044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/11/GYH2026091100050004400_P1.jpg",
-      "pubdate": "2026-09-11T21:51:00+09:00",
+      "title": "사우디아라비아 원유 수송망 비상",
+      "link": "https://www.yna.co.kr/view/GYH20260912000300044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/12/GYH2026091200030004402_P1.jpg",
+      "pubdate": "2026-09-12T15:44:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "윤석열 전 대통령 재판 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260911000400044?section=graphic/index",
-      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/11/GYH2026091100040004400_P1.jpg",
-      "pubdate": "2026-09-11T15:17:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "동북권 매매수급지수 119.4…서울 집값 지도 바뀌었다",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260911_0002236962&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/11/NISI20260911_0002236962_web.jpg?rnd=20260911164401",
-      "pubdate": "2026-09-11T16:44:01+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "나라살림 적자, 22조 개선…5년 만에 가장 낮아",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260911_0002236785&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/11/NISI20260911_0002236785_web.jpg?rnd=20260911152757",
-      "pubdate": "2026-09-11T15:27:57+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "'이종섭 호주 도피 의혹' 윤석열 1심 무죄",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260911_0002236874&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/11/NISI20260911_0002236874_web.jpg?rnd=20260911152542",
-      "pubdate": "2026-09-11T15:25:42+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽]'국진이빵'부터 '리센느빵'까지…빵빵한 흥행의 역사",
-      "link": "https://www.news1.kr/photos/8101877",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8101877/no_water.jpg",
-      "pubdate": "2026-09-12T01:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 11일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8101766",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8101766/no_water.jpg",
-      "pubdate": "2026-09-12T00:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 尹 혐의별 재판 현황",
-      "link": "https://www.news1.kr/photos/8101658",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8101658/no_water.jpg",
-      "pubdate": "2026-09-12T00:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8100837",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8100837/no_water.jpg",
-      "pubdate": "2026-09-11T19:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 직무 수행 평가",
-      "link": "https://www.news1.kr/photos/8100831",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8100831/no_water.jpg",
-      "pubdate": "2026-09-11T19:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 국제유가 추이",
-      "link": "https://www.news1.kr/photos/8100495",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/11/8100495/no_water.jpg",
-      "pubdate": "2026-09-11T16:58:18.431259+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
 }
