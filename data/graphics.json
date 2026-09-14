@@ -1,63 +1,71 @@
 {
-  "generated_at": "2026-09-14T07:50:51.172285+09:00",
-  "window_start": "2026-09-13T15:00:00+09:00",
-  "window_end": "2026-09-14T06:00:00+09:00",
+  "generated_at": "2026-09-15T08:41:55.641535+09:00",
+  "window_start": "2026-09-14T15:00:00+09:00",
+  "window_end": "2026-09-15T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "비거주 1세대1주택자 종부세 추산",
-      "link": "https://www.yna.co.kr/view/GYH20260913000500044?section=graphic/index",
-      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/13/GYH2026091300050004400_P1.jpg",
-      "pubdate": "2026-09-13T20:39:00+09:00",
+      "title": "수도권 광역급행철도(GTX) 공사 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260914000500044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/14/GYH2026091400050004402_P1.jpg",
+      "pubdate": "2026-09-14T15:32:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "한국 국제투자분쟁(ISDS) 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260913000400044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/13/GYH2026091300040004400_P1.jpg",
-      "pubdate": "2026-09-13T19:38:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인도네시아 여객선 해상 사고 발생",
-      "link": "https://www.yna.co.kr/view/GYH20260913000200044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/13/GYH2026091300020004400_P1.jpg",
-      "pubdate": "2026-09-13T15:58:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 서울 아파트 평균 월세·월세보증금",
+      "link": "https://www.news1.kr/photos/8103879",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8103879/no_water.jpg",
+      "pubdate": "2026-09-15T01:41:55.641535+09:00",
+      "image": "images/graphics/뉴스1_02.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 요일별 주요 일정(14~19일)",
-      "link": "https://www.news1.kr/photos/8103320",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/13/8103320/no_water.jpg",
-      "pubdate": "2026-09-14T02:50:51.172285+09:00",
+      "title": "[그래픽] 코스피 코스닥 지수 추이",
+      "link": "https://www.news1.kr/photos/8104999",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8104999/no_water.jpg",
+      "pubdate": "2026-09-15T00:41:55.641535+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 증시] 9월 14일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8104974",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8104974/no_water.jpg",
+      "pubdate": "2026-09-15T00:41:55.641535+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 인도네시아 여객선 해상 사고",
-      "link": "https://www.news1.kr/photos/8103299",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/13/8103299/no_water.jpg",
-      "pubdate": "2026-09-14T02:50:51.172285+09:00",
+      "title": "[그래픽] '모레노호' 국가대표팀 명단",
+      "link": "https://www.news1.kr/photos/8104664",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8104664/no_water.jpg",
+      "pubdate": "2026-09-14T23:41:55.641535+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 올해 북한미사일 발사 일지",
-      "link": "https://www.news1.kr/photos/8103137",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/13/8103137/no_water.jpg",
-      "pubdate": "2026-09-13T23:50:51.172285+09:00",
+      "title": "[오늘의 그래픽] 수시모집 접수 초유의 먹통…1200여 명 구제 신청 접수",
+      "link": "https://www.news1.kr/photos/8104624",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8104624/no_water.jpg",
+      "pubdate": "2026-09-14T23:41:55.641535+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 이창동, 24년 만에 베니스 또 품었다…'가능한 사랑' 심사위원대상 영예",
-      "link": "https://www.news1.kr/photos/8103045",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/13/8103045/no_water.jpg",
-      "pubdate": "2026-09-13T22:50:51.172285+09:00",
+      "title": "[그래픽] 이재명 대통령 국정수행 평가",
+      "link": "https://www.news1.kr/photos/8103695",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8103695/no_water.jpg",
+      "pubdate": "2026-09-14T17:41:55.641535+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8103693",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/14/8103693/no_water.jpg",
+      "pubdate": "2026-09-14T17:41:55.641535+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
     }
   ]
 }
