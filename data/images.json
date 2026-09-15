@@ -1,180 +1,167 @@
 {
-  "generated_at": "2026-09-15T08:41:55.437662+09:00",
-  "date_label": "9/15(화)",
+  "generated_at": "2026-09-16T08:24:44.654400+09:00",
+  "date_label": "9/16(수)",
   "articles": [
     {
-      "title": "\"내란세력에 전전긍긍\" 추미애 향해 김민석 \"노무현 탄핵 전조 비슷\" 직격",
-      "link": "https://n.news.naver.com/mnews/article/057/0001969000",
+      "title": "李대통령, 카자흐 대통령 만나 \"중요한 협력 파트너\"…'원유 공급' 협력 약정 체결",
+      "link": "https://n.news.naver.com/mnews/article/008/0005414248",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "李대통령, 우즈벡과 정상회담…중앙아 5개국 릴레이 외교 시동",
-      "link": "https://n.news.naver.com/mnews/article/011/0004661478",
+      "title": "“악마”“흉측” 막말·고성으로 시작해 ‘한동훈 청문회’로 끝났다",
+      "link": "https://n.news.naver.com/mnews/article/025/0003551582",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”",
-      "link": "https://n.news.naver.com/mnews/article/005/0001872764",
+      "title": "\"악마\"\"독사\" 여야 고성 충돌‥가족 해명에 '눈물'",
+      "link": "https://n.news.naver.com/mnews/article/214/0001524153",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "윤건영 “이 대통령, 공소 취소·연임 개헌 털어내야…국민 이기려 해선 안 돼”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012256925",
+      "title": "李 대통령, 18일 '90분간' 기자회견…'호르무즈 파병 검토' 입장 주목",
+      "link": "https://n.news.naver.com/mnews/article/138/0002241540",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "인사청문회 '핵심 전장'은 김승원…'반드시 사수' vs '아웃 올인'[뉴스추적]",
-      "link": "https://n.news.naver.com/mnews/article/057/0001968943",
+      "title": "“돈벌이 아닙니다, 사랑으로…” 김승원 끝내 눈물 [지금뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/056/0012257528",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美 10년물 국채 금리 심리적 저항선 5.00% 돌파… 2023년 이후 처음",
-      "link": "https://n.news.naver.com/mnews/article/366/0001192332",
+      "title": "송호성 기아 사장 “PBV 연간 25만대 팔 것… 글로벌 대형社와도 협의”[IAA 2026]",
+      "link": "https://n.news.naver.com/mnews/article/366/0001192519",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "LG AI연구원 \"엑사원 외부 공급 계획…프런티어 모델 도전 병행\"",
-      "link": "https://n.news.naver.com/mnews/article/092/0002437370",
+      "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보)",
+      "link": "https://n.news.naver.com/mnews/article/277/0005816748",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_07_1.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_07_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "미래에셋증권, 프리마켓 주문 조회 지연…\"정규장 정상 거래 중\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014187533",
+      "title": "이찬진 금감원장 “금융지주 자회사 CEO 승계 절차 미흡…투명성·공정성 강화해야”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002823190",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "포스코그룹, 추석 앞두고 협력사 대금 4368억원 조기 지급",
-      "link": "https://n.news.naver.com/mnews/article/629/0000533713",
+      "title": "송전망 철탑 40% 줄이고 주민 보상은 두 배로",
+      "link": "https://n.news.naver.com/mnews/article/366/0001192428",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한전 ‘전기요금 25조’ 선납요청, 삼전닉스 ‘거절’ [자막뉴스]",
-      "link": "https://n.news.naver.com/mnews/article/449/0000360574",
+      "title": "플랫폼 비용에 매출 21.7% 지출…中企 “수수료 낮춰야”",
+      "link": "https://n.news.naver.com/mnews/article/366/0001192446",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "'전쟁 틈타 담합' 석유화학업체 경영진 8명 구속영장 청구",
-      "link": "https://n.news.naver.com/mnews/article/422/0000906075",
+      "title": "마침내 얼굴 드러낸 브로커 양씨…“김승원 왜 오빠라 불렀나”에 침묵",
+      "link": "https://n.news.naver.com/mnews/article/029/0003048188",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "최태원 측, '1000억 사용' 발언 노소영 대리인 불기소에 항고",
-      "link": "https://n.news.naver.com/mnews/article/277/0005816257",
+      "title": "‘김수현 명예훼손’ 김세의, 1.6억 규모 자산 동결 조치",
+      "link": "https://n.news.naver.com/mnews/article/021/0002819009",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "자전거 타다 차량 긁은 초등학생…가장 먼저 한 일은?",
-      "link": "https://n.news.naver.com/mnews/article/448/0000639232",
+      "title": "대기업 계약학과 수시 9000명 몰렸다…SK하이닉스 지원자 27%↑",
+      "link": "https://n.news.naver.com/mnews/article/011/0004661937",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_13_1.png",
-          "caption": ""
-        },
-        {
-          "image": "images/infographics/article_13_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "수시 시스템 '먹통'에 1200여명 날벼락…오늘부터 구제",
-      "link": "https://n.news.naver.com/mnews/article/448/0000639117",
+      "title": "대법 \"숨겨준 사람도 본인 처벌 걱정했다면 증거은닉교사범 아냐\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005816824",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "서울시, 21일부터 어린이·임신부·어르신에 무료 독감 예방접종",
-      "link": "https://n.news.naver.com/mnews/article/055/0001388104",
+      "title": "메가특구법 노동특례 논란에…정부, 노사 ‘원포인트 대화’ 제안",
+      "link": "https://n.news.naver.com/mnews/article/018/0006369931",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프, ‘AI 속도조절론’ 연일 반박… “정신나간 음모이자 사기극”",
-      "link": "https://n.news.naver.com/mnews/article/023/0003998473",
+      "title": "또 법원에 막힌 트럼프… ‘유학생 비자 4년 제한’ 시행 하루앞 제동",
+      "link": "https://n.news.naver.com/mnews/article/020/0003748453",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_16_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "이란-걸프국 회담 연기 뒤 호르무즈 해협서 폭발음 잇달아",
-      "link": "https://n.news.naver.com/mnews/article/025/0003551137",
+      "title": "미 대학생들, AI 의존해 사고 포기...MIT \"인지적 항복\" 경고",
+      "link": "https://n.news.naver.com/mnews/article/052/0002407527",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "AI 개발 제동론에 반도체주 급락…엔비디아·브로드컴 동반 하락",
-      "link": "https://n.news.naver.com/mnews/article/001/0016310269",
+      "title": "中주도 안보회의 샹산포럼 개막…日빼고 美참석은 격상",
+      "link": "https://n.news.naver.com/mnews/article/003/0014192527",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美 유학생 체류 제한 규정, 시행 하루 앞두고 법원 '제동'",
-      "link": "https://n.news.naver.com/mnews/article/015/0005332312",
+      "title": "에볼라 국내 유입 가정 훈련…확진자 이송부터 사망자 장례까지",
+      "link": "https://n.news.naver.com/mnews/article/119/0003132966",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정부 “후티 반군 사우디 민간인·에너지 시설 공격 규탄…즉각 중단 촉구”",
-      "link": "https://n.news.naver.com/mnews/article/028/0002822997",
+      "title": "사우디 빈살만 왕세자, 이집트 방문……홍해 안보 협력 강화 확인",
+      "link": "https://n.news.naver.com/mnews/article/003/0014192805",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
