@@ -2,30 +2,255 @@
   {
     "presses": [
       "KBS",
-      "SBS",
+      "MBC",
       "YTN",
-      "국민일보",
-      "뉴스1",
+      "경향신문",
       "뉴시스",
-      "동아일보",
-      "머니투데이",
-      "문화일보",
-      "세계일보",
-      "이데일리",
+      "서울신문",
+      "중앙일보",
       "한겨레"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "李지지율 5개월만에 67%→38%… 與서도 “신뢰회복 회견 돼야”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260918/134692502/2",
+        "press": "중앙일보",
+        "title": "李대통령, 지지율은 김승원 지명에 달렸다",
+        "link": "https://www.joongang.co.kr/article/25463226",
+        "score": 0
+      },
+      {
+        "press": "한겨레",
+        "title": "“국민 눈높이” 이 대통령, ‘민심 역행’ 김승원 임명 강행할까",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278556.html",
         "score": 2
       },
       {
         "press": "한겨레",
-        "title": "회견 앞둔 이 대통령 “솔직하고 직격으로 답변”…지지율 반등시킬까",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278305.html",
+        "title": "장동혁 “이 대통령, 연임 꿈 포기 안 해…나중엔 국민 결단 운운할 것”",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1278537.html",
+        "score": 5
+      },
+      {
+        "press": "한겨레",
+        "title": "연임·공소취소 선 그은 이 대통령…김승원은 “결론 못 내려”",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278543.html",
         "score": 2
+      },
+      {
+        "press": "경향신문",
+        "title": "공소취소·연임 개헌에 입장 내놓은 이 대통령…30%대 지지율 하락세 멈춰세울까",
+        "link": "https://www.khan.co.kr/article/202609181721001/?nv=stand",
+        "score": 0
+      },
+      {
+        "press": "서울신문",
+        "title": "장동혁 “李대통령, 연임할 생각 없다?… 나중에 국민의 결단 얘기할 것”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918500283",
+        "score": 5
+      },
+      {
+        "press": "서울신문",
+        "title": "李대통령 “전쟁 관여 파병 없다... 북미대화 ‘패싱’ 우려 안해도 돼”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918500194",
+        "score": 2
+      },
+      {
+        "press": "뉴시스",
+        "title": "李 \"전쟁 파병 없다\"…청해부대 영역 확대하나",
+        "link": "https://www.newsis.com/view/NISX20260918_0003796136",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "\"전쟁 파병은 없다\"…파병 필요성은 강조",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609182137575799_005.html",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "이 대통령 \"연임 생각 전혀 없다\" 못 박았다",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609182137256030_005.html",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "이 대통령 “지지율 하락, 국민 존중 부족했다”…“연임 생각 전혀 없어”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667462",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "'전쟁 파병'은 없다‥북미 대화 '패싱'도 없다",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852938_37012.html",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "이 대통령, 김성수 대법관 임명안 재가‥첫 대법관 임명",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6852872_36911.html",
+        "score": 0
+      },
+      {
+        "press": "MBC",
+        "title": "장동혁 \"대통령 기자회견, 현란한 말로 포장‥시간·귀 버렸다\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6852859_36911.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS",
+      "SBS",
+      "YTN",
+      "노컷뉴스",
+      "문화일보",
+      "세계일보"
+    ],
+    "articles": [
+      {
+        "press": "세계일보",
+        "title": "한미 외교장관 회담 시작…'호르무즈 파병·대미 투자' 주목",
+        "link": "https://www.segye.com/newsView/20260918515922",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "韓외교장관, 美에 “호르무즈 자유로운 통항회복 기여 의지”",
+        "link": "https://www.munhwa.com/article/11618184",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "호르무즈 파병 논란",
+        "link": "https://www.nocutnews.co.kr/issue/hotissue/29883?c=260",
+        "score": 0
+      },
+      {
+        "press": "YTN",
+        "title": "한미외교장관 \"대미투자 결실 노력할 것\"…정부, 호르무즈 기여 의지 밝혀 [현장영상+]",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609190716074297_005.html",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "한미 외교 장관회담 종료…조현 \"호르무즈 통항 회복 위한 기여 의지 설명\"",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609190605162880_005.html",
+        "score": 2
+      },
+      {
+        "press": "SBS",
+        "title": "한미 외교장관 회담…'호르무즈 파병·대미 투자' 주목",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761085&plink=STAND&cooper=NAVER",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "한미 외교장관회담 개최…파병 논의 등 주목",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667726",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS",
+      "노컷뉴스",
+      "뉴스1",
+      "서울신문",
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "애국가 대신 북한 국가 틀었다… 또 사고 터진 아시안게임",
+        "link": "https://www.seoul.co.kr/news/sport/Asiangame2026-aichi-nagoya/2026/09/18/20260918500243",
+        "score": 0
+      },
+      {
+        "press": "뉴스1",
+        "title": "애국가 대신 북한 국가…국…",
+        "link": "https://www.news1.kr/sports/general-sport/6295793",
+        "score": 0
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "'애국가' 대신 울린 '北 국가'…귀를 의심케 한 AG 하키장 '행정 참사'",
+        "link": "https://www.nocutnews.co.kr/news/6580628",
+        "score": 2
+      },
+      {
+        "press": "이데일리",
+        "title": "태극기 앞에 울려 퍼진 북한 국가…대한체육회, 조직위에 공식 사과 요구",
+        "link": "https://www.edaily.co.kr/news/read?newsId=05730166645581432",
+        "score": 0
+      },
+      {
+        "press": "이데일리",
+        "title": "\"이쯤되면 일부러?\"...태극기 뺏더니 애국가 대신 北국가 튼 日",
+        "link": "https://www.edaily.co.kr/news/read?newsId=04555926645581432",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "이번엔 ‘애국가’ 대신 ‘북한 국가’ 재생…‘실수가 반복되면 무능’",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667475",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문",
+      "서울신문",
+      "세계일보",
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "李, 서울 집값상승 오세훈 탓… 吳 \"李 머릿속 리셋해야\"",
+        "link": "https://www.chosun.com/national/national_general/2026/09/18/CSFGMINTMVEM5N3VJ2NEILCEZY/",
+        "score": 5
+      },
+      {
+        "press": "경향신문",
+        "title": "오세훈 “서울 주택 착공 감소가 내 탓? 잘못된 확신” 이 대통령 기자회견에 반박",
+        "link": "https://www.khan.co.kr/article/202609181443001/?nv=stand",
+        "score": 5
+      },
+      {
+        "press": "세계일보",
+        "title": "오세훈, 이재명 대통령 집값 상승 책임 전가에 \"머릿속부터 완전히 리셋해야”",
+        "link": "https://www.segye.com/newsView/20260918514970",
+        "score": 5
+      },
+      {
+        "press": "서울신문",
+        "title": "李대통령 “尹정부 이후 주택 인허가·착공 감소… 최대한 빠른 공급 확대”",
+        "link": "https://www.seoul.co.kr/news/economy/estate/2026/09/18/20260918500293",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "오세훈 “李 대통령, 집값 상승 책임 떠넘겨… 청년·신혼부부 현실 봐야”",
+        "link": "https://www.seoul.co.kr/news/publicnews/2026/09/18/20260918500210",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문",
+      "국민일보",
+      "중앙일보",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "이 대통령 기자회견 icon_video",
+        "link": "https://www.joongang.co.kr/article/25463116",
+        "score": 0
       },
       {
         "press": "한겨레",
@@ -34,256 +259,35 @@
         "score": 0
       },
       {
-        "press": "국민일보",
-        "title": "與 ‘김승원 속도전’, 회견 앞둔 李 부담 덜고 인사 실패 비판 차단",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013157&code=11121100&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "李대통령, 오늘 기자회견…연임 개헌·공소 취소·파병 입장 주목",
-        "link": "https://www.segye.com/newsView/20260918501243",
-        "score": 0
-      },
-      {
-        "press": "문화일보",
-        "title": "연임 개헌·공소취소 분명한 입장 밝힐까…李 대통령, 기자회견 개최",
-        "link": "https://www.munhwa.com/article/11617922",
-        "score": 0
-      },
-      {
-        "press": "뉴시스",
-        "title": "李, 지지율 하락 속 90분 기자회견 개각·공소 취소·파병 등 언급할까",
-        "link": "https://www.newsis.com/view/NISX20260917_0003794374",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "李, 오늘 기자회견…공소취소·연임개헌·파병 …",
-        "link": "https://www.news1.kr/politics/president/6294409",
-        "score": 0
-      },
-      {
-        "press": "이데일리",
-        "title": "“연임 안한다·재판 받겠다” 李대통령 둘 다 말할까 [오늘의 여의도]",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01879446645581432",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "李대통령, 기자회견 D-day…공소취소 논란 해소보다 어려운 2가지",
-        "link": "https://www.mt.co.kr/politics/2026/09/18/2026091715125799786?STAND=MT",
-        "score": 0
-      },
-      {
-        "press": "YTN",
-        "title": "이 대통령, 일정 비우고 회견 준비 몰두…답변 고심",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609180207199361_005.html",
-        "score": 0
-      },
-      {
-        "press": "YTN",
-        "title": "이 대통령, 오늘 기자회견…개각·공소 취소·당내 갈등 언급 주목",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609180053529795_005.html",
-        "score": 0
-      },
-      {
-        "press": "SBS",
-        "title": "이 대통령, 오늘 대국민 기자회견…주요 현안 입장 밝히나",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759256&plink=STAND&cooper=NAVER",
-        "score": 0
-      },
-      {
-        "press": "KBS",
-        "title": "이 대통령, 오늘 오전 기자회견…“주요 현안 분명한 입장 설명”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666755",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "경향신문",
-      "국민일보",
-      "뉴스1",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "‘윤석열 계엄’ 직전 한국 왔던 자파로프 대통령, 21개월 만에 다시 방한 [만리재사진첩]",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278071.html",
-        "score": 2
-      },
-      {
         "press": "경향신문",
-        "title": "윤석열 “국민 피해 줄이려 밤 10시 계엄···여러 번 했었다면 더 꼼꼼했을 것”",
-        "link": "https://www.khan.co.kr/article/202609171911001/?nv=stand",
+        "title": "“모두 저의 부족함” “국민께 송구” 몸 낮춘 이 대통령···웃음기 사라진 ‘스탠딩 100분’ 기자회견",
+        "link": "https://www.khan.co.kr/article/202609181547001/?nv=stand",
         "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "이 대통령 기자회견에 쏠린 눈···연임 입장 표명으로 개헌 동력 다시 살아날까",
-        "link": "https://www.khan.co.kr/article/202609171747001/?nv=stand",
-        "score": 0
       },
       {
         "press": "국민일보",
-        "title": "‘밤 10시 계엄 선포’ 이유? 尹 “주무시기 전에 알려드리려고”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013074&code=61121311&sid1=soc",
+        "title": "이 대통령 “모두 제 부족함 탓…연임할 생각 전혀 없습니다”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013487&code=11121100&sid1=pol",
         "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "\"튀르키예 대통령 연내 방한 추진…원…",
-        "link": "https://www.news1.kr/world/middleeast-africa/6294227",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "윤석열, 법정에서 \"국민들 취침 전 알려드리려 밤 10시 계엄 선포\"",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6852550_36918.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "국민일보",
-      "디지털타임스"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "법원 “‘근무지 무단이탈’ 현주엽 감봉 처분 정당”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013090&code=61121311&sid1=soc",
-        "score": 2
-      },
-      {
-        "press": "디지털타임스",
-        "title": "법원 “현주엽, 근무지 무단이탈 맞다…‘감봉 처분’은 정당”",
-        "link": "https://www.dt.co.kr/article/12084609",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "'근무지 무단이탈 18회' 현주엽 前 휘문고 감독‥법원 \"업무 소홀, 감봉 정당\"",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6852538_36918.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문",
-      "중앙일보",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "민주당, 김승원 청문보고서 채택 강행 icon_video",
-        "link": "https://www.joongang.co.kr/article/25462658",
-        "score": 0
-      },
-      {
-        "press": "한겨레",
-        "title": "김승원·강신철 청문보고서 민주당 단독 채택…전운 짙어진 국회",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1278388.html",
-        "score": 0
-      },
-      {
-        "press": "서울신문",
-        "title": "與, 김승원 보고서 채택…李 기자회견 앞두고 속도전",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918001004",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "北 주민과 접촉, 제한 없이 허용",
-        "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/18/H3BPYARRJJCT3CSNOFZXOB6PEM/",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "이 대통령, 오늘 기자회견‥개각 입장 등 주목 ◀ 앵커 ▶ 국정 지지율이 잇따라 떨어지고 있는 이재명 대통령이, 오늘 기자회견을 열고 최근 불거진 현안들에 대해 직접 입장을 밝힙니다. ◀ 앵커 ▶ 공소 취소와 연임 개헌 문제 등에 대한 질문이 예상되는데, 돌파구가 될 수 있을지 관심이 쏠립니다. 김정우 기자입니다. ◀ 리포트 ▶ 이재명 대통령이 오늘 청와대에서 취임 후 7번째 기자회견을 엽니다. 특별한 계기 없이 열리는 기자회견으로 약 90분 동안 주제 제한 없이 현안에 대한 질문과 답이 오갈 예정입니다. [성기홍/청와대 홍보소통수석 (지난 15일)] \"대통령은 국민들이 궁금하고 듣고 싶어 하는 국정 현안들에 대해 진솔하고 충실하게 소통하고자 합니다.\" 공개되는 여론조사마다 취임 후 최저치의 국정 지지율을 경신 중인 가운데, 그 배경으로 지목된 현안들에 대한 입장을 내놓을 가능성이 높습니다. 특히 이 대통령의 공소 취소를 주장했던 김승원 의원을 법무부 장관 후보자로 지명한 뒤부터 불거진 의구심과, 연임 개헌을 둘러싼 논란 등에 대해 명확한 답변을 내놓을 지가 관건입니다. 성평등가족부 장관 후보자로 지명됐다가 자진 사퇴한 기본소득당 용혜인 의원과 야권발 신약 로비 의혹 등 문제제기로 도마에 오른 김승원 법무부 장관 후보자, 여당 내에서도 반발의 목소리가 나온 김지용 중대범죄수사청장 후보자 등 의혹과 논란에 휩싸인 인물들을 인선한 배경과 인사 검증 시스템에 대한 질의도 나올 걸로 보입니다. 호르무즈 해협 파병 문제, 대미 통상협상 등 정책 사안들에 대해서도 이 대통령이 입장을 표명할 거란 관측이 나오는 가운데, 명확한 입장 표명과 설득력있는 언어로 국정 동력을 되찾을 수 있을 지 여부에 관심이 쏠립니다. MBC뉴스 김정우입니다.",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852645_37012.html",
-        "score": 5
       }
     ]
   },
   {
     "presses": [
       "동아일보",
-      "조선일보"
+      "서울신문"
     ],
     "articles": [
-      {
-        "press": "조선일보",
-        "title": "김민석, 추미애 겨냥… \"컨설팅 업체 카르텔 보는 중\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/09/18/J2UMGCBALJBOXPG4WVOUGCO4D4/",
-        "score": 5
-      },
       {
         "press": "동아일보",
-        "title": "與 내홍 점입가경…김민석, 秋 겨냥 “컨설팅 카르텔 없어야”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260918/134692500/2",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "북한 풍계리 인근 지진 증가···부산대 연구팀 “2017년 핵실험 이후 수년째 지속”",
-        "link": "https://www.khan.co.kr/article/202609180301001/?nv=stand",
+        "title": "‘김현지 감찰’ 선그은 최길수 특감후보자 “靑수석급 이상만 대상”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134699721/2",
         "score": 2
       },
       {
-        "press": "세계일보",
-        "title": "북한 풍계리 6차 핵실험 후 잠자던 단층 다시 움직였다",
-        "link": "https://www.segye.com/newsView/20260918500828",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "KBS",
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "호르무즈 파병 논란",
-        "link": "https://www.nocutnews.co.kr/issue/hotissue/29883?c=260",
-        "score": 0
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "순천시민행동, 호르무즈 파병 반대…\"군사적 개입 아닌 외교로 풀어야\"",
-        "link": "https://www.nocutnews.co.kr/news/6579901",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "오늘 7개월 만에 한미 외교장관 회담…‘호르무즈 파병’ 다룰 NSC 연기",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666757",
+        "press": "서울신문",
+        "title": "최길수 특감 인사청문회… 與 “尹정부 감찰” vs 野 “김현지 해야”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918500209",
         "score": 2
       }
     ]
@@ -291,6 +295,26 @@
   {
     "presses": [
       "MBC",
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "‘특검 공소취소 삭제’ 요청한 李…법조계 “공소취소는 여전히 현재진행형”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013422&code=61121111&sid1=soc",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "\"진상 밝혀야 하지만‥특검 공소취소는 삭제\"",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852937_37012.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "SBS",
       "노컷뉴스"
     ],
     "articles": [
@@ -301,22 +325,55 @@
         "score": 0
       },
       {
-        "press": "MBC",
-        "title": "트럼프 \"중대 결정 임박\"‥\"이란 대통령 미국 방문\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852648_37012.html",
+        "press": "SBS",
+        "title": "\"전멸\" 꺼내더니…이란 대통령 '비자' 내준 트럼프 속내?",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760869&plink=STAND&cooper=NAVER",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "세계일보",
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "공익신고자 \"김승원, 양씨의 타깃… 한동훈과 연락 안 해\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/09/18/UUNSXQTKDFB7JJQ5D743IWBYQM/",
+        "press": "한겨레",
+        "title": "이 대통령, 김성수 대법관 임명안 재가",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1278554.html",
+        "score": 0
+      },
+      {
+        "press": "세계일보",
+        "title": "李대통령, 김성수 대법관 임명안 재가…이번 정부 첫 대법관 취임",
+        "link": "https://www.segye.com/newsView/20260918515248",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "[단독] '부동산'으로 손잡은 국힘-이준석…연대 시동?",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609182303223729_005.html",
+        "score": 7
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "김민석, ‘秋 21억 컨설팅’ 당차원 검토 가능성 언급",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134699877/2",
         "score": 5
       }
     ]
@@ -328,34 +385,34 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "“차기 대권 적합도” 한동훈이 페북에 올린 여론조사",
-        "link": "https://www.munhwa.com/article/11617942",
+        "title": "아시안게임 오늘 개막…6연승 이준석, AG 첫선 ‘테크볼’ 메달 도전",
+        "link": "https://www.munhwa.com/article/11618182",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "뉴시스"
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "뉴시스",
-        "title": "'취임 한 달' 김민석, 與 지지층 통합 숙제",
-        "link": "https://www.newsis.com/view/NISX20260917_0003794135",
+        "press": "문화일보",
+        "title": "한동훈 “李 대통령, 6·29선언 아닌 ‘전두환 4·13 호헌선언의 길’ 선택”",
+        "link": "https://www.munhwa.com/article/11618166",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "유용원 \"한동훈 정성 어린 손 편지,…",
-        "link": "https://www.news1.kr/politics/assembly/6294602",
+        "press": "문화일보",
+        "title": "“‘재판 받겠다’는 말은 쏙 뺐다” 李 기자회견에 대한 나경원의 말",
+        "link": "https://www.munhwa.com/article/11618153",
         "score": 5
       }
     ]
@@ -367,34 +424,73 @@
     "articles": [
       {
         "press": "이데일리",
-        "title": "[단독]청와대 내년 다시 열린다…‘집무·경호·관람’ 공존 모델로",
-        "link": "https://www.edaily.co.kr/news/read?newsId=04129526645581104",
+        "title": "한동훈 \"李, 김승원·공소취소 고집…국민과 전쟁하겠다는 것\"",
+        "link": "https://www.edaily.co.kr/news/read?newsId=03444006645581432",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "이데일리",
+        "title": "\"너무 무리했을까요?\" 정청래, 사흘째 입원…물 한 모금도 못 마셔",
+        "link": "https://www.edaily.co.kr/news/read?newsId=02660086645581432",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "\"오세훈은 몰라\"…명태균 녹취, '여론조사 대납' 2심 쟁점 될까?",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202609190724229574_005.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "조국, '모두 동지들' 李 발언에 \"김민석부터 분열적 태도 버려야\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6852860_36911.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "[단독] 대선 후보직 유지하며 '김문수 지지'한 황교안···‘선거법 위반’ 기소돼 재판 중",
+        "link": "https://www.khan.co.kr/article/202609181540021/?nv=stand",
         "score": 4
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "한겨레"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "조국혁신당만 쏙 빼고… 김민석, 범여권 정당과 오찬",
-        "link": "https://www.chosun.com/politics/assembly/2026/09/18/2L3VUNTDANDWXLL7X3TGOPLV3Y/",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "presses": [
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "오세훈에 SOS⋯전북, 전주올림픽 단독 개최 접었다",
-        "link": "https://www.joongang.co.kr/article/25462909",
+        "press": "한겨레",
+        "title": "김민석 대표 한달…부정 평가 48%, 긍정 평가 30% [갤럽]",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1278512.html",
         "score": 3
       }
     ]
@@ -419,8 +515,8 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "정청래, 긴급 입원 치료 중…SNS에 …",
-        "link": "https://www.news1.kr/politics/assembly/6294597",
+        "title": "통합 외친 김민석…안에선 추미애, 밖에선 혁…",
+        "link": "https://www.news1.kr/politics/assembly/6295663",
         "score": 3
       }
     ]
@@ -432,8 +528,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "지지율 걱정⋯與 ‘찬성 25%’ 김승원 임명강행 왜",
-        "link": "https://www.joongang.co.kr/article/25462919",
+        "title": "“다당제 대신 위성정당만⋯이렇게 엉망 될 줄이야”",
+        "link": "https://www.joongang.co.kr/article/25463220",
         "score": 2
       }
     ]
@@ -445,8 +541,8 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "“韓드라마 보고 목숨건 탈북, 北에 외부 정보 전해야”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260918/134692736/2",
+        "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134699682/2",
         "score": 2
       }
     ]
@@ -458,21 +554,86 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "李 재가만 남은 김승원-강신철 임명…野 “청문회 요식행위”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260918/134692621/2",
+        "title": "“특검법에 공소취소 조항 빼고, 조작기소 진상규명 집중해달라”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134699661/2",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "세계일보"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "“위원장이 불법선거 강행” 삼성전자 DX 중심 동행노조 갈등 심화",
-        "link": "https://www.segye.com/newsView/20260918502108",
+        "press": "동아일보",
+        "title": "“전쟁 파병은 없다, 국민 생명-안전 보호 최소한 활동은 할것”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134699706/2",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "“검찰개혁 후퇴 의심 거둬달라”…지지층 결속 당부한 이 대통령",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1278555.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "‘불법 선거운동·정치자금 위반’ 정준호 의원 1심서 벌금 1000만원",
+        "link": "https://www.khan.co.kr/article/202609181230001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "靑 “李 ‘평탄화’ 발언, 부동산 가격 변동 추이에 대한 설명”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013474&code=61111111&sid1=pol",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "“AI 통제권 군에” 네이버, 국방 소버린 AI 전략 공개",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013432&code=61141111&sid1=eco",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "문재인 “트럼프, 한·미훈련 축소 등 대화 의지…북한도 화답해야”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013428&code=61111111&sid1=pol",
         "score": 2
       }
     ]
@@ -484,8 +645,8 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "“주무시기 전 알려드리려” 尹, 밤10시 계엄이유",
-        "link": "https://www.munhwa.com/article/11617936",
+        "title": "李 대통령, 지지자 응원글 공유하며 “위로가 많이 된다”",
+        "link": "https://www.munhwa.com/article/11618168",
         "score": 2
       }
     ]
@@ -497,21 +658,150 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "與내부서도 “李, 유감 표명을”...국민주권정부의 ‘추석 분수령’",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918003002",
+        "title": "‘행정의 한계’ 넘으려 여의도로…농어민 시름, 입법으로 푸는 윤준병 [주간 여의도 Who?]",
+        "link": "https://www.seoul.co.kr/news/plan/congressperson/2026/09/18/20260918500038",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "단독 검찰, 김재준 군산시장 '선거법 위반' 혐의 수사",
-        "link": "https://www.nocutnews.co.kr/news/6580007",
+        "press": "서울신문",
+        "title": "조현, 美 상·하원의원들 만나 “한미동맹 지지 당부”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/18/20260918500269",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "“남자들, 콘돔 비싸서 안 산다” 피임은 여자 몫… 충격적인 북한 ‘性문화’",
+        "link": "https://www.seoul.co.kr/news/politics/north/2026/09/18/20260918500182",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "“남자들, 콘돔 비싸서 안 산다” 피임은 여자 몫…충격적인 북한 ‘性문화’ 수준",
+        "link": "https://www.seoul.co.kr/news/politics/north/2026/09/18/20260918500182",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "서울신문",
+        "title": "北, 시가전 준비하나… “위성에 찍혔다” 훈련시설 현대화 포착 [배틀라인]",
+        "link": "https://www.seoul.co.kr/news/international/2026/09/18/20260918500198",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴시스"
+    ],
+    "articles": [
+      {
+        "press": "뉴시스",
+        "title": "한미, 정상합의 이행 공조 \"한반도 비핵화 노력 지속\"",
+        "link": "https://www.newsis.com/view/NISX20260919_0003796418",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "\"한미외교회담서 韓 파병 입장 설명…美, 파병 …",
+        "link": "https://www.news1.kr/world/usa-canada/6295951",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "\"한미외교회담서 韓 파병 입장 설명……",
+        "link": "https://www.news1.kr/world/usa-canada/6295951",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "조현 장관, 워싱턴서 루비오와 회담 美 \"북미대화 이뤄지면 한국과 공조\"",
+        "link": "https://www.news1.kr/world/usa-canada/6295951",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "李대통령, 오늘 '청년의 날' 메시지…일자리·…",
+        "link": "https://www.news1.kr/politics/president/6295779",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "머니투데이"
+    ],
+    "articles": [
+      {
+        "press": "머니투데이",
+        "title": "트럼프 \"그린란드 안보 '영구 통제' 협정 체결\"…美 군사 주둔 확대",
+        "link": "https://www.mt.co.kr/world/2026/09/19/2026091907204923305?STAND=MT",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "또 반복된 '증인 0명' 말 잔치…야당 검증도 '낙제점'",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609190513365291_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "SBS"
+    ],
+    "articles": [
+      {
+        "press": "SBS",
+        "title": "웃음기 없던 북한 감독이 '방긋'…분위기 바꾼 기자 질문",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759873&plink=STAND&cooper=NAVER",
         "score": 2
       }
     ]
@@ -523,21 +813,8 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "스틸 美대사, 파병 논의했나… 李회견 하루 전 靑 방문",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/18/MJTBOPQUTVEUVB3UORVQO2A5RE/",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "오늘 청와대 기자회견… 李가 하면 안 될 것",
-        "link": "https://www.chosun.com/opinion/chosun_column/2026/09/17/J2Z5WN45MZAXVLJ2DJKIUIDGFY/",
+        "title": "北 배지 가슴에, 손엔 갤럭시?",
+        "link": "https://www.chosun.com/video_photo/2026/09/19/AIUV4NR2SBFMXMELDYKCJH2FG4/",
         "score": 0
       }
     ]
@@ -557,39 +834,26 @@
   },
   {
     "presses": [
-      "한겨레"
+      "동아일보"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
-        "link": "https://www.hani.co.kr/arti/economy/economy_general/1278375.html",
+        "press": "동아일보",
+        "title": "북한산 까짓것? 설악산보다 사고 많다",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260919/134698872/2",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "세계일보"
+      "문화일보"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "대미투자 사업 추석연휴 전 국회 보고 전망",
-        "link": "https://www.segye.com/newsView/20260917516935",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "트럼프 상·하원 다 지고 제2의 맘다니 나오나…美 중간선거 대진표 완성",
-        "link": "https://www.seoul.co.kr/news/international/USA-amrica/2026/09/18/20260918010006",
+        "press": "문화일보",
+        "title": "1720만 원에 中에 한미훈련 자료 넘긴 23살 현역병의 최후",
+        "link": "https://www.munhwa.com/article/11618162",
         "score": 0
       }
     ]
@@ -601,21 +865,34 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "오늘 한미 외교장관회담…대미 투자·호르무…",
-        "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6294350",
+        "title": "김승원에 李기자회견까지…野, 추석 …",
+        "link": "https://www.news1.kr/politics/assembly/6295843",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "노컷뉴스"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "김일국 북한 체육상, 8년 만에 일본 입국",
-        "link": "https://www.news1.kr/photos/8112781",
+        "press": "노컷뉴스",
+        "title": "이란 제재 놓고 유엔 안보리 충돌…러·중, 연장안 거부",
+        "link": "https://www.nocutnews.co.kr/news/6580241",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "이란·후티, 같은 날 대규모 집회…외교전 앞둔 포석?",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609190558023663_005.html",
         "score": 0
       }
     ]
@@ -627,8 +904,8 @@
     "articles": [
       {
         "press": "KBS",
-        "title": "국회, 최길수 특별감찰관 후보자 인사청문회 오늘 개최",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666729",
+        "title": "인천 물류창고 화재 7시간 반 만에 진화…여의도역 퇴근길 화재",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667722",
         "score": 0
       }
     ]

@@ -1,87 +1,79 @@
 {
-  "generated_at": "2026-09-18T08:23:03.502838+09:00",
-  "window_start": "2026-09-17T15:00:00+09:00",
-  "window_end": "2026-09-18T06:00:00+09:00",
+  "generated_at": "2026-09-19T07:59:54.625784+09:00",
+  "window_start": "2026-09-18T15:00:00+09:00",
+  "window_end": "2026-09-19T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "경북 포항 앞바다 공해상서 북한 상선 부속선 침몰",
-      "link": "https://www.yna.co.kr/view/GYH20260917000900044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/17/GYH2026091700090004400_P1.jpg",
-      "pubdate": "2026-09-17T19:14:00+09:00",
+      "title": "대법원 대법관 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260918001200044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/18/GYH2026091800120004400_P1.jpg",
+      "pubdate": "2026-09-18T19:13:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "소부장 특화단지 지정 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260917000800044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/17/GYH2026091700080004401_P1.jpg",
-      "pubdate": "2026-09-17T18:17:00+09:00",
+      "title": "중국 베이징 주변 비행제한구역 설정",
+      "link": "https://www.yna.co.kr/view/GYH20260918001100044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/18/GYH2026091800110004400_P1.jpg",
+      "pubdate": "2026-09-18T16:04:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "서울시 남산 곤돌라 사업 관련 소송 일지",
-      "link": "https://www.yna.co.kr/view/GYH20260917000700044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/17/GYH2026091700070004402_P1.jpg",
-      "pubdate": "2026-09-17T15:44:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
+      "source": "뉴시스",
+      "title": "아이치-나고야 아시안게임 한국 선수 주요 경기",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260918_0002243773&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/18/NISI20260918_0002243773_web.jpg?rnd=20260918170251",
+      "pubdate": "2026-09-18T17:02:51+09:00",
+      "image": "images/graphics/뉴시스_03.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "서울 아파트값 상승폭 3주째 둔화 …강남 2주 연속 하락",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260917_0002242004&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/17/NISI20260917_0002242004_web.jpg?rnd=20260917164500",
-      "pubdate": "2026-09-17T16:45:00+09:00",
+      "title": "간편지급·송금 모두 하루 이용액  1조원 넘어…‘페이’ 일상화",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260918_0002243081&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/18/NISI20260918_0002243081_web.jpg?rnd=20260918165710",
+      "pubdate": "2026-09-18T16:57:10+09:00",
       "image": "images/graphics/뉴시스_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 17일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8112475",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/17/8112475/no_water.jpg",
-      "pubdate": "2026-09-18T01:23:03.502838+09:00",
+      "title": "[오늘의 증시] 코스피 코스닥(9월 18일)",
+      "link": "https://www.news1.kr/photos/8114415",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8114415/no_water.jpg",
+      "pubdate": "2026-09-19T00:59:54.625784+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 교제폭력 신고 10만건…411명은 10회 넘게 '112' 눌렀다",
-      "link": "https://www.news1.kr/photos/8111981",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/17/8111981/no_water.jpg",
-      "pubdate": "2026-09-17T23:23:03.502838+09:00",
+      "title": "[오늘의 그래픽] 애호박 44%↑ 동태살 20%↑…추석 차례상 비용 '쑥'",
+      "link": "https://www.news1.kr/photos/8113969",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113969/no_water.jpg",
+      "pubdate": "2026-09-18T22:59:54.625784+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026~2027 절기 코로나19 국가예방접종 일정",
-      "link": "https://www.news1.kr/photos/8111198",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/17/8111198/no_water.jpg",
-      "pubdate": "2026-09-17T21:23:03.502838+09:00",
+      "title": "[그래픽] 이재명 대통령 직무 수행 평가",
+      "link": "https://www.news1.kr/photos/8113363",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113363/no_water.jpg",
+      "pubdate": "2026-09-18T19:59:54.625784+09:00",
       "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 청약통장 가입자 현황",
-      "link": "https://www.news1.kr/photos/8109487",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/16/8109487/no_water.jpg",
-      "pubdate": "2026-09-17T20:23:03.502838+09:00",
+      "title": "[그래픽] 정당 지지도 추이",
+      "link": "https://www.news1.kr/photos/8113358",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113358/no_water.jpg",
+      "pubdate": "2026-09-18T19:59:54.625784+09:00",
       "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 한·미 기준금리 추이",
-      "link": "https://www.news1.kr/photos/8111026",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/17/8111026/no_water.jpg",
-      "pubdate": "2026-09-17T18:23:03.502838+09:00",
+      "title": "[그래픽] 의원급 의료기관 최근 10주간 인플루엔자 의사환자 분율",
+      "link": "https://www.news1.kr/photos/8113025",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113025/no_water.jpg",
+      "pubdate": "2026-09-18T17:59:54.625784+09:00",
       "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 25호 태풍 두쥐안 예상 진로",
-      "link": "https://www.news1.kr/photos/8110980",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/17/8110980/no_water.jpg",
-      "pubdate": "2026-09-17T18:23:03.502838+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
     }
   ]
 }
