@@ -1,79 +1,23 @@
 {
-  "generated_at": "2026-09-19T07:59:54.625784+09:00",
-  "window_start": "2026-09-18T15:00:00+09:00",
-  "window_end": "2026-09-19T06:00:00+09:00",
+  "generated_at": "2026-09-20T07:39:51.675011+09:00",
+  "window_start": "2026-09-19T15:00:00+09:00",
+  "window_end": "2026-09-20T06:00:00+09:00",
   "items": [
     {
-      "source": "연합뉴스",
-      "title": "대법원 대법관 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260918001200044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/18/GYH2026091800120004400_P1.jpg",
-      "pubdate": "2026-09-18T19:13:00+09:00",
-      "image": "images/graphics/연합뉴스_01.jpg"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중국 베이징 주변 비행제한구역 설정",
-      "link": "https://www.yna.co.kr/view/GYH20260918001100044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/18/GYH2026091800110004400_P1.jpg",
-      "pubdate": "2026-09-18T16:04:00+09:00",
-      "image": "images/graphics/연합뉴스_02.jpg"
+      "source": "뉴시스",
+      "title": "아시안게임 한국 선수 경기 (20, 21일)",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260919_0002244117&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/19/NISI20260919_0002244117_web.jpg?rnd=20260919150226",
+      "pubdate": "2026-09-19T15:02:26+09:00",
+      "image": "images/graphics/뉴시스_01.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "아이치-나고야 아시안게임 한국 선수 주요 경기",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260918_0002243773&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/18/NISI20260918_0002243773_web.jpg?rnd=20260918170251",
-      "pubdate": "2026-09-18T17:02:51+09:00",
-      "image": "images/graphics/뉴시스_03.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "간편지급·송금 모두 하루 이용액  1조원 넘어…‘페이’ 일상화",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260918_0002243081&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/18/NISI20260918_0002243081_web.jpg?rnd=20260918165710",
-      "pubdate": "2026-09-18T16:57:10+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(9월 18일)",
-      "link": "https://www.news1.kr/photos/8114415",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8114415/no_water.jpg",
-      "pubdate": "2026-09-19T00:59:54.625784+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 애호박 44%↑ 동태살 20%↑…추석 차례상 비용 '쑥'",
-      "link": "https://www.news1.kr/photos/8113969",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113969/no_water.jpg",
-      "pubdate": "2026-09-18T22:59:54.625784+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 직무 수행 평가",
-      "link": "https://www.news1.kr/photos/8113363",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113363/no_water.jpg",
-      "pubdate": "2026-09-18T19:59:54.625784+09:00",
-      "image": "images/graphics/뉴스1_07.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8113358",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113358/no_water.jpg",
-      "pubdate": "2026-09-18T19:59:54.625784+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 의원급 의료기관 최근 10주간 인플루엔자 의사환자 분율",
-      "link": "https://www.news1.kr/photos/8113025",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/18/8113025/no_water.jpg",
-      "pubdate": "2026-09-18T17:59:54.625784+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
+      "title": "태풍 '두쥐안' 예상 이동 경로",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260919_0002244121&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/19/NISI20260919_0002244121_web.jpg?rnd=20260919150211",
+      "pubdate": "2026-09-19T15:02:11+09:00",
+      "image": "images/graphics/뉴시스_02.jpg"
     }
   ]
 }
