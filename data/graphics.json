@@ -1,23 +1,95 @@
 {
-  "generated_at": "2026-09-20T07:39:51.675011+09:00",
-  "window_start": "2026-09-19T15:00:00+09:00",
-  "window_end": "2026-09-20T06:00:00+09:00",
+  "generated_at": "2026-09-21T07:56:59.787556+09:00",
+  "window_start": "2026-09-20T15:00:00+09:00",
+  "window_end": "2026-09-21T06:00:00+09:00",
   "items": [
     {
-      "source": "뉴시스",
-      "title": "아시안게임 한국 선수 경기 (20, 21일)",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260919_0002244117&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/19/NISI20260919_0002244117_web.jpg?rnd=20260919150226",
-      "pubdate": "2026-09-19T15:02:26+09:00",
-      "image": "images/graphics/뉴시스_01.jpg"
+      "source": "연합뉴스",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트(20일)",
+      "link": "https://www.yna.co.kr/view/GYH20260920000700044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/20/GYH2026092000070004400_P1.jpg",
+      "pubdate": "2026-09-20T23:22:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황 (20일)",
+      "link": "https://www.yna.co.kr/view/GYH20260920000600044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/20/GYH2026092000060004400_P1.jpg",
+      "pubdate": "2026-09-20T22:25:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "북한 탄도미사일 발사 현황(종합)",
+      "link": "https://www.yna.co.kr/view/GYH20260920000500044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/20/GYH2026092000050004401_P1.jpg",
+      "pubdate": "2026-09-20T20:04:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "북한 탄도미사일 발사 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260920000400044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/20/GYH2026092000040004402_P1.jpg",
+      "pubdate": "2026-09-20T16:57:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
       "source": "뉴시스",
-      "title": "태풍 '두쥐안' 예상 이동 경로",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260919_0002244121&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/19/NISI20260919_0002244121_web.jpg?rnd=20260919150211",
-      "pubdate": "2026-09-19T15:02:11+09:00",
-      "image": "images/graphics/뉴시스_02.jpg"
+      "title": "아이치·나고야 아시안게임 메달 현황 (20일)",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260920_0002244586&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/20/NISI20260920_0002244586_web.jpg?rnd=20260920221830",
+      "pubdate": "2026-09-20T22:18:30+09:00",
+      "image": "images/graphics/뉴시스_05.jpg"
+    },
+    {
+      "source": "뉴시스",
+      "title": "北, 단거리탄도미사일 3시간 간격 두 차례 발사…원산→동해상",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260920_0002244579&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/20/NISI20260920_0002244579_web.jpg?rnd=20260920212037",
+      "pubdate": "2026-09-20T21:20:37+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 테그볼 남자 단식-이준석",
+      "link": "https://www.news1.kr/photos/8116731",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/20/8116731/no_water.jpg",
+      "pubdate": "2026-09-21T02:56:59.787556+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 근대 5종 남자 단체 금메달-김영하·서창완·이종현·전웅태",
+      "link": "https://www.news1.kr/photos/8116719",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/20/8116719/no_water.jpg",
+      "pubdate": "2026-09-21T02:56:59.787556+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요 일정(21~25일)",
+      "link": "https://www.news1.kr/photos/8116509",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/20/8116509/no_water.jpg",
+      "pubdate": "2026-09-20T23:56:59.787556+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 외국인이 받은 육아휴직 급여 364억원…1년 새 2배",
+      "link": "https://www.news1.kr/photos/8116478",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/20/8116478/no_water.jpg",
+      "pubdate": "2026-09-20T23:56:59.787556+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 근대 5종 금메달-성승민",
+      "link": "https://www.news1.kr/photos/8116163",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/20/8116163/no_water.jpg",
+      "pubdate": "2026-09-20T20:56:59.787556+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
 }
