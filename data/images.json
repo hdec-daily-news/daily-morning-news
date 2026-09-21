@@ -1,162 +1,172 @@
 {
-  "generated_at": "2026-09-21T07:56:59.547082+09:00",
-  "date_label": "9/21(월)",
+  "generated_at": "2026-09-22T08:49:16.918489+09:00",
+  "date_label": "9/22(화)",
   "articles": [
     {
-      "title": "김승원 털어낸 李, 여전한 고심…'與 반명 주도권' 셈법에 뇌관 된 중수청장",
-      "link": "https://n.news.naver.com/mnews/article/030/0003468515",
+      "title": "이 대통령 지지율 '34.8%' 소폭 상승…민주당도 국힘 재역전",
+      "link": "https://n.news.naver.com/mnews/article/437/0000512054",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "국힘 “김승원 의원직 사퇴하고 수사 받아야”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003749637",
+      "title": "대미투자 1호, 22일 오후 한미 MOU 서명·발표하나",
+      "link": "https://n.news.naver.com/mnews/article/016/0002700270",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김민석 “李대통령, 개헌 걸림돌 정리…진지한 논의로 전환할 때”",
-      "link": "https://n.news.naver.com/mnews/article/023/0003999434",
+      "title": "추석 앞두고 만난 ‘추·석 남매’…경기도 예산 놓고 신경전",
+      "link": "https://n.news.naver.com/mnews/article/366/0001193667",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "韓, 파병 딜레마… 美는 대미투자·반도체·쿠팡 ‘다중 압박’",
-      "link": "https://n.news.naver.com/mnews/article/023/0003999555",
+      "title": "靑, 새대변인 김성완 시사평론가 “겸허한 자세로…”",
+      "link": "https://n.news.naver.com/mnews/article/021/0002820207",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_04_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "전직 보좌진 “金 임명 강행 분위기라서 탄원서 전달”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003749628",
+      "title": "‘DMZ 폭발사고’…“MDL 남쪽 침범 북한군 조성한 지뢰지대서 터졌다” 유용원",
+      "link": "https://n.news.naver.com/mnews/article/029/0003049247",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "유가 100달러·환율 7일째 상승…다시 고개 든 '3고', 물가도 압박",
-      "link": "https://n.news.naver.com/mnews/article/421/0009182070",
+      "title": "삼성전자, 냉난방공조 광주공장 착공",
+      "link": "https://n.news.naver.com/mnews/article/056/0012261377",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "현대건설, 도시정비사업 수주 2년 연속 10조 돌파",
-      "link": "https://n.news.naver.com/mnews/article/022/0004160594",
+      "title": "최태원 회장 \"AI로 사회적 비용 낮춰야…착한 마음에만 기대선 한계\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005819282",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"공장 가동 코앞인데 도로·용수 아직\"…한경협, 규제개선 41건 건의",
-      "link": "https://n.news.naver.com/mnews/article/421/0009182049",
+      "title": "서울시, 임대차 불공정 중개 근절 나선다…임차인 권리보호 강화",
+      "link": "https://n.news.naver.com/mnews/article/014/0005579325",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "단기예금으로 장기대출...유동성 부담 커지는 저축銀",
-      "link": "https://n.news.naver.com/mnews/article/011/0004663867",
+      "title": "대신증권, MTS 개편…애프터마켓 특징주 제공",
+      "link": "https://n.news.naver.com/mnews/article/366/0001193676",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_09_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "메리츠증권 발행어음, 금융당국 답만 남았다",
-      "link": "https://n.news.naver.com/mnews/article/119/0003134785",
+      "title": "국힘 \"디지털자산기본법 연내 공청회…초안 나오면 과세도 함께 논의\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009184021",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "퇴근 후 박물관·한옥으로…서울시, '서울 컬처나잇' 본격 추진",
-      "link": "https://n.news.naver.com/mnews/article/008/0005416294",
+      "title": "금천구, 구청장과 함께하는 청렴실천 캠페인 진행…“청렴한 공직문화 조성 박차”",
+      "link": "https://n.news.naver.com/mnews/article/021/0002820502",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "제조업 부진에, 작년 온실가스 배출량 감소",
-      "link": "https://n.news.naver.com/mnews/article/023/0003999554",
+      "title": "'국힘 가입강요' 혐의 이만희 신천지 총회장 측, 첫 공판서 혐의 부인",
+      "link": "https://n.news.naver.com/mnews/article/277/0005819491",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "경찰, 7명 사상 '안성 트럭 돌진' 운전자 구속영장 신청",
-      "link": "https://n.news.naver.com/mnews/article/422/0000908013",
+      "title": "부산 외국인유학생 2만4천명 역대 최다…통합지원 설명회",
+      "link": "https://n.news.naver.com/mnews/article/001/0016328250",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "거리로 나온 약사들 “비대면·약배송 확대 정책 반대”",
-      "link": "https://n.news.naver.com/mnews/article/023/0003999476",
+      "title": "‘제자인 중국인 유학생 살해·시신훼손’… 중국인 대학강사 정창성 구속기소",
+      "link": "https://n.news.naver.com/mnews/article/023/0003999709",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "친구 밀어 다치게 한 초등학교 1학년…대법 “모든 갈등이 학폭은 아냐”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012260706",
+      "title": "광주·전남 공공기관 12곳, 6곳으로 합친다",
+      "link": "https://n.news.naver.com/mnews/article/277/0005819367",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “워싱턴 개선문, 군사시설로도 활용…드론·저격수 배치”",
-      "link": "https://n.news.naver.com/mnews/article/449/0000361491",
+      "title": "“별장서 후티 공습 논했나” 사우디 수도 피격날 칼복귀한 트럼프…美 중동 소개령",
+      "link": "https://n.news.naver.com/mnews/article/029/0003049063",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미 국무부, 우크라에 3조 7천억 원 규모 방공무기 판매안 승인",
-      "link": "https://n.news.naver.com/mnews/article/214/0001525009",
+      "title": "독일 좌파당, 베를린 주의회 선거 25.3% 1위…주택 22만 채 국유화 공약",
+      "link": "https://n.news.naver.com/mnews/article/088/0001029817",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "사우디 방공망 뚫은 후티…격화되는 중동에 '유가 악재'",
-      "link": "https://n.news.naver.com/mnews/article/437/0000511992",
+      "title": "美, 네타냐후 때린 국제형사재판소 압박…'달러 거래 봉쇄' 초강수",
+      "link": "https://n.news.naver.com/mnews/article/008/0005416535",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "K로봇, 기술만으론 이길 수 없다[ET시선]",
-      "link": "https://n.news.naver.com/mnews/article/030/0003468407",
+      "title": "미중, 정상회담 앞 무역·AI 의제 조율…베선트 \"매우 성공적\"(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016325868",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높다\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016324904",
+      "title": "\"美, 이란전 피해 중동 에너지시설 재건에 6.8조원 출자 추진\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016328152",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
