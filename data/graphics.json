@@ -1,135 +1,119 @@
 {
-  "generated_at": "2026-09-22T08:49:17.177348+09:00",
-  "window_start": "2026-09-21T15:00:00+09:00",
-  "window_end": "2026-09-22T06:00:00+09:00",
+  "generated_at": "2026-09-23T08:28:16.862307+09:00",
+  "window_start": "2026-09-22T15:00:00+09:00",
+  "window_end": "2026-09-23T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 메달리스트(21일)",
-      "link": "https://www.yna.co.kr/view/GYH20260921001200044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100120004400_P1.jpg",
-      "pubdate": "2026-09-21T22:31:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트(22일)",
+      "link": "https://www.yna.co.kr/view/GYH20260922000900044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200090004400_P1.jpg",
+      "pubdate": "2026-09-22T22:29:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(21일)",
-      "link": "https://www.yna.co.kr/view/GYH20260921001100044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100110004400_P1.jpg",
-      "pubdate": "2026-09-21T22:31:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(22일)",
+      "link": "https://www.yna.co.kr/view/GYH20260922001000044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200100004401_P1.jpg",
+      "pubdate": "2026-09-22T22:29:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "DMZ 수색 작전 중 폭발 사고 발생",
-      "link": "https://www.yna.co.kr/view/GYH20260921001000044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100100004400_P1.jpg",
-      "pubdate": "2026-09-21T21:00:00+09:00",
+      "title": "사우디아라비아 원유 수송망 가동 재개",
+      "link": "https://www.yna.co.kr/view/GYH20260922000800044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200080004400_P1.jpg",
+      "pubdate": "2026-09-22T20:42:00+09:00",
       "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "'계엄 가담' 군지휘관들 1심 선고",
-      "link": "https://www.yna.co.kr/view/GYH20260921000900044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100090004400_P1.jpg",
-      "pubdate": "2026-09-21T16:57:00+09:00",
+      "title": "우버 배달의민족 인수 추진",
+      "link": "https://www.yna.co.kr/view/GYH20260922000700044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200070004400_P1.jpg",
+      "pubdate": "2026-09-22T17:20:00+09:00",
       "image": "images/graphics/연합뉴스_04.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "경찰청 특수단 '장윤기' 부실수사 책임자 송치 현황",
-      "link": "https://www.yna.co.kr/view/GYH20260921000800044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100080004400_P1.jpg",
-      "pubdate": "2026-09-21T16:47:00+09:00",
+      "title": "김건희 '매관매직' 2심 선고 결과(종합)",
+      "link": "https://www.yna.co.kr/view/GYH20260922000600044?section=graphic/index",
+      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200060004400_P1.jpg",
+      "pubdate": "2026-09-22T16:57:00+09:00",
       "image": "images/graphics/연합뉴스_05.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "경기 고양시 대장·의왕시 오전·왕곡 공공주택지구 조성",
-      "link": "https://www.yna.co.kr/view/GYH20260921000600044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100060004405_P1.jpg",
-      "pubdate": "2026-09-21T15:46:00+09:00",
+      "title": "국민참여성장펀드 2차 판매 개요",
+      "link": "https://www.yna.co.kr/view/GYH20260922000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200050004400_P1.jpg",
+      "pubdate": "2026-09-22T16:08:00+09:00",
       "image": "images/graphics/연합뉴스_06.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "중장년층 부모 부양 인식 변화",
-      "link": "https://www.yna.co.kr/view/GYH20260921000700044?section=graphic/index",
-      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/21/GYH2026092100070004401_P1.jpg",
-      "pubdate": "2026-09-21T15:03:00+09:00",
+      "title": "김건희 '매관매직' 2심 선고 결과",
+      "link": "https://www.yna.co.kr/view/GYH20260922000400044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200040004402_P1.jpg",
+      "pubdate": "2026-09-22T16:01:00+09:00",
       "image": "images/graphics/연합뉴스_07.jpg"
     },
     {
-      "source": "뉴시스",
-      "title": "2030년까지 공적주택 119만호 공급…수도권에 92만호",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260921_0002245124&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/21/NISI20260921_0002245124_web.jpg?rnd=20260921164847",
-      "pubdate": "2026-09-21T16:48:47+09:00",
-      "image": "images/graphics/뉴시스_08.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "9월 1~20일 수출 714억 달러…반도체 260% 증가",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260921_0002245517&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/21/NISI20260921_0002245517_web.jpg?rnd=20260921154606",
-      "pubdate": "2026-09-21T15:46:06+09:00",
-      "image": "images/graphics/뉴시스_09.jpg"
+      "source": "연합뉴스",
+      "title": "사망자 수 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260922000300044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/22/GYH2026092200030004400_P1.jpg",
+      "pubdate": "2026-09-22T15:49:00+09:00",
+      "image": "images/graphics/연합뉴스_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 오늘의 메달리스트(21일)",
-      "link": "https://www.news1.kr/photos/8119484",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8119484/no_water.jpg",
-      "pubdate": "2026-09-22T03:49:17.177348+09:00",
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 펜싱 에페 여자 금메달-송세라",
+      "link": "https://www.news1.kr/photos/8122276",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8122276/no_water.jpg",
+      "pubdate": "2026-09-23T05:28:16.862307+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 김건희 여사 '현대판 매관매직' 2심 판단",
+      "link": "https://www.news1.kr/photos/8121661",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121661/no_water.jpg",
+      "pubdate": "2026-09-23T01:28:16.862307+09:00",
       "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 남자 50m 자유형 금메달 - 김영범",
-      "link": "https://www.news1.kr/photos/8119311",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8119311/no_water.jpg",
-      "pubdate": "2026-09-22T02:49:17.177348+09:00",
+      "title": "[오늘의 증시] 9월 22일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8121548",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121548/no_water.jpg",
+      "pubdate": "2026-09-23T01:28:16.862307+09:00",
       "image": "images/graphics/뉴스1_11.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] '계엄 가담' 장성들 1심 중형 선고",
-      "link": "https://www.news1.kr/photos/8119120",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8119120/no_water.jpg",
-      "pubdate": "2026-09-22T02:49:17.177348+09:00",
+      "title": "[그래픽] 노원·관악 아파트 평균 매매가격 추이",
+      "link": "https://www.news1.kr/photos/8120133",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8120133/no_water.jpg",
+      "pubdate": "2026-09-22T23:28:16.862307+09:00",
       "image": "images/graphics/뉴스1_12.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의증시]9월 21일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8118860",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8118860/no_water.jpg",
-      "pubdate": "2026-09-22T01:49:17.177348+09:00",
+      "title": "[오늘의 그래픽] 추석 귀성길 자가용 대신 KTX 타면 탄소 78% ↓",
+      "link": "https://www.news1.kr/photos/8121014",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121014/no_water.jpg",
+      "pubdate": "2026-09-22T23:28:16.862307+09:00",
       "image": "images/graphics/뉴스1_13.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 추석연휴 귀성길 24일 오전 혼잡 최고  버스·기차·항공·배 85만3000석 만석",
-      "link": "https://www.news1.kr/photos/8118885",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8118885/no_water.jpg",
-      "pubdate": "2026-09-22T01:49:17.177348+09:00",
+      "title": "[그래픽] 1인 가구 유형별 현황",
+      "link": "https://www.news1.kr/photos/8120514",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8120514/no_water.jpg",
+      "pubdate": "2026-09-22T20:28:16.862307+09:00",
       "image": "images/graphics/뉴스1_14.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8117177",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8117177/no_water.jpg",
-      "pubdate": "2026-09-21T17:49:17.177348+09:00",
-      "image": "images/graphics/뉴스1_15.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8117176",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/21/8117176/no_water.jpg",
-      "pubdate": "2026-09-21T17:49:17.177348+09:00",
-      "image": "images/graphics/뉴스1_16.jpg"
     }
   ]
 }
