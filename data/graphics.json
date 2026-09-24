@@ -1,103 +1,47 @@
 {
-  "generated_at": "2026-09-24T08:26:35.223718+09:00",
-  "window_start": "2026-09-23T15:00:00+09:00",
-  "window_end": "2026-09-24T06:00:00+09:00",
+  "generated_at": "2026-09-25T08:45:46.907444+09:00",
+  "window_start": "2026-09-24T15:00:00+09:00",
+  "window_end": "2026-09-25T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 메달리스트(23일)",
-      "link": "https://www.yna.co.kr/view/GYH20260923001300044?section=graphic/index",
-      "image_url": "https://img9.yna.co.kr/etc/graphic/YH/2026/09/23/GYH2026092300130004400_P1.jpg",
-      "pubdate": "2026-09-23T22:14:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트(24일)",
+      "link": "https://www.yna.co.kr/view/GYH20260924000400044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/24/GYH2026092400040004400_P1.jpg",
+      "pubdate": "2026-09-24T22:31:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(23일)",
-      "link": "https://www.yna.co.kr/view/GYH20260923001200044?section=graphic/index",
-      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/23/GYH2026092300120004400_P1.jpg",
-      "pubdate": "2026-09-23T22:14:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(24일)",
+      "link": "https://www.yna.co.kr/view/GYH20260924000300044?section=graphic/index",
+      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/24/GYH2026092400030004400_P1.jpg",
+      "pubdate": "2026-09-24T22:31:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "주요 기관별 한국 경제성장률 전망",
-      "link": "https://www.yna.co.kr/view/GYH20260923001100044?section=graphic/index",
-      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/23/GYH2026092300110004401_P1.jpg",
-      "pubdate": "2026-09-23T17:11:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "아이치·나고야 아시안게임 한국 종합 3위 유지…오상욱·추가은 金 추가",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260923_0002248215&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/23/NISI20260923_0002248215_web.jpg?rnd=20260923221954",
-      "pubdate": "2026-09-23T22:19:54+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "OECD, 올해 韓 성장률 3.7%로 상향…G20 중 최대폭",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260923_0002247796&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/23/NISI20260923_0002247796_web.jpg?rnd=20260923205150",
-      "pubdate": "2026-09-23T20:51:50+09:00",
-      "image": "images/graphics/뉴시스_05.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "8월 인구이동 53년 만에 최소…주택거래 줄고 고령화 겹쳐",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260923_0002247308&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/23/NISI20260923_0002247308_web.jpg?rnd=20260923160940",
-      "pubdate": "2026-09-23T16:09:40+09:00",
-      "image": "images/graphics/뉴시스_06.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "서울 소형 아파트 상승률, 대형의 2배…'소형 쏠림' 뚜렷",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260923_0002247361&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/23/NISI20260923_0002247361_web.jpg?rnd=20260923160932",
-      "pubdate": "2026-09-23T16:09:32+09:00",
-      "image": "images/graphics/뉴시스_07.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 기계체조 여자 도마 금메달-여서정",
+      "link": "https://www.news1.kr/photos/8125362",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/24/8125362/no_water.jpg",
+      "pubdate": "2026-09-25T04:45:46.907444+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 펜싱 남자 사브르 개인전 금메달-오상욱",
-      "link": "https://www.news1.kr/photos/8124576",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/23/8124576/no_water.jpg",
-      "pubdate": "2026-09-24T04:26:35.223718+09:00",
-      "image": "images/graphics/뉴스1_08.jpg"
+      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 카누 스프린트 남자 카약 4인승 500m 금메달-김효빈·장상원·조광희·최민규",
+      "link": "https://www.news1.kr/photos/8125046",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/24/8125046/no_water.jpg",
+      "pubdate": "2026-09-24T21:45:46.907444+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 코스피 코스닥(9월 23일)",
-      "link": "https://www.news1.kr/photos/8123974",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/23/8123974/no_water.jpg",
-      "pubdate": "2026-09-24T01:26:35.223718+09:00",
-      "image": "images/graphics/뉴스1_09.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 사격 여자 10m 공기권총 개인 금메달-추가은",
-      "link": "https://www.news1.kr/photos/8123528",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/23/8123528/no_water.jpg",
-      "pubdate": "2026-09-23T22:26:35.223718+09:00",
-      "image": "images/graphics/뉴스1_10.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[오늘의 그래픽] 李 \"갈라진 세계 다시 잇자\"…유엔서 K-이니셔티브 제시",
-      "link": "https://www.news1.kr/photos/8123211",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/23/8123211/no_water.jpg",
-      "pubdate": "2026-09-23T21:26:35.223718+09:00",
-      "image": "images/graphics/뉴스1_11.jpg"
-    },
-    {
-      "source": "뉴스1",
-      "title": "[그래픽] 주요 기관 2026년 한국 경제성장률 전망",
-      "link": "https://www.news1.kr/photos/8122688",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/23/8122688/no_water.jpg",
-      "pubdate": "2026-09-23T18:26:35.223718+09:00",
-      "image": "images/graphics/뉴스1_12.jpg"
+      "title": "[오늘의 그래픽] 기업 10곳 중 8곳 추석 연휴 '나흘'… 61% \"상여금 지급\"",
+      "link": "https://www.news1.kr/photos/8121048",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121048/no_water.jpg",
+      "pubdate": "2026-09-24T15:45:46.907444+09:00",
+      "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
 }

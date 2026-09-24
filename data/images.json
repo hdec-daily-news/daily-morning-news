@@ -1,167 +1,167 @@
 {
-  "generated_at": "2026-09-24T08:26:34.983405+09:00",
-  "date_label": "9/24(목)",
+  "generated_at": "2026-09-25T08:45:46.646309+09:00",
+  "date_label": "9/25(금)",
   "articles": [
     {
-      "title": "‘국민 속였다’ 유시민 발언에…與 지도부 “강한 유감, 진심 의심해서야”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004664915",
+      "title": "유용원 의원 기자회견…\"북 포로 2명 며칠전 한국 도착\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002410854",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "장동혁 \"이렇게 대법권 제청에 모든 것 거는 이유가 뭔가\" [현장영상+]",
-      "link": "https://n.news.naver.com/mnews/article/052/0002410585",
+      "title": "강신철, 추석 맞아 최전방 육군 7사단 방문…대비태세 점검, 장병 격려",
+      "link": "https://n.news.naver.com/mnews/article/008/0005418204",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“27%가 법 밖 농지?”…송미령 “전수조사는 단속 아닌 농업 개혁 기회”",
-      "link": "https://n.news.naver.com/mnews/article/009/0005739343",
+      "title": "李대통령, 최태원·구광모 등 멕시코 진출 기업인들과 현지 간담회",
+      "link": "https://n.news.naver.com/mnews/article/421/0009190967",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "민주당, 대법원 항의 방문…“당장 대법관 후보 재제청 하라”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012262437",
+      "title": "靑, 유시민 작가에 \"근거 없는 비난성 주장 계속돼…대통령 검찰 개혁 의지 왜곡 유감\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0014212390",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "강신철, 주한미국대사 접견…전작권 전환·광주 군공항 등 논의(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016333940",
+      "title": "野, 'DMZ 지뢰 폭발' 현장조사 촉구‥\"고의 지연은 이적 행위\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001525706",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "NH농협은행, 예적금 금리 0.2~0.25%p 인상",
-      "link": "https://n.news.naver.com/mnews/article/629/0000536477",
+      "title": "추석 지나면 '청약 대어' 온다…4분기 7만3000가구 분양",
+      "link": "https://n.news.naver.com/mnews/article/421/0009189983",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_06_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "메리츠증권, 단기금융업 인가…9호 발행어음 사업자 지정",
-      "link": "https://n.news.naver.com/mnews/article/088/0001030368",
+      "title": "“추석 지나면 도로 24만전자?” 안절부절 개미들…31%의 확률이었다는데 [내가샀다]",
+      "link": "https://n.news.naver.com/mnews/article/081/0003683398",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"조물조물 행복해\" MZ 사로잡은 '왁뿌볼'‥안전성 우려",
-      "link": "https://n.news.naver.com/mnews/article/214/0001525634",
+      "title": "코인과세 D-100, 정부 \"예정대로\"…해외 유출, 환율 급등 우려",
+      "link": "https://n.news.naver.com/mnews/article/417/0001159210",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "홍지선 국토부 장관 “주거안정에 정책역량 집중할 것”…취임사에서 밝혀",
-      "link": "https://n.news.naver.com/mnews/article/082/0001399667",
+      "title": "[단독] '레버리지 ETF' 손실 규모 첫 확인…개인 투자자, 증권사 1곳서만 4200억 잃어",
+      "link": "https://n.news.naver.com/mnews/article/448/0000641179",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "API로 초단기 시세조종… 금융당국, 가상자산 불공정거래 고발",
-      "link": "https://n.news.naver.com/mnews/article/003/0014211177",
+      "title": "‘6억 성과급’ 삼성 반도체, ‘200만원 의자’에 앉아서 일한다…복지 어떻길래",
+      "link": "https://n.news.naver.com/mnews/article/081/0003683389",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "상어 ‘부캉이’가 해운대에 출몰했다면…남해, 상어 조사 ‘0’",
-      "link": "https://n.news.naver.com/mnews/article/056/0012262764",
+      "title": "비구름에 숨은 한가위 보름달…25일 전국에 빗방울",
+      "link": "https://n.news.naver.com/mnews/article/028/0002824603",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "독감 의심환자 8주째 증가…작년의 4배",
-      "link": "https://n.news.naver.com/mnews/article/422/0000909272",
+      "title": "[속보] 연휴 첫날 고속도로 정체 극심…서울→부산 최대 9시간 30분",
+      "link": "https://n.news.naver.com/mnews/article/009/0005739754",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "쿠팡은 어느 나라 기업인가? 이 질문이 재판에서 중요한 이유",
-      "link": "https://n.news.naver.com/mnews/article/308/0000038795",
+      "title": "‘아침은 사골우거지국’ 윤석열·김건희 세 번째 ‘부부 옥중 명절’…특식·접견·전화 없다 [세상&]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002701565",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_13_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "연휴에 아프면 어디로?… 문 여는 병원·약국 '응급똑똑'·'이젠'서 확인",
-      "link": "https://n.news.naver.com/mnews/article/469/0000955840",
+      "title": "여수 섬박람회, 부캉이 게 섰거라...26일 QWER K팝 콘서트",
+      "link": "https://n.news.naver.com/mnews/article/014/0005580622",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이정현 대검 차장 “李대통령 공소취소, 진상조사 결과 살펴봐야”",
-      "link": "https://n.news.naver.com/mnews/article/005/0001874708",
+      "title": "탈세 유튜버에 칼 빼든 국세청…작년 17명에 239억원 부과",
+      "link": "https://n.news.naver.com/mnews/article/001/0016335470",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이란 '美 군사압박 낮추면 7일 내 호르무즈 재개방'…대화 재개 손짓",
-      "link": "https://n.news.naver.com/mnews/article/014/0005579970",
+      "title": "미중 정상회담 D-1…AI 개발 속도·안전관리 접점 찾을까",
+      "link": "https://n.news.naver.com/mnews/article/092/0002438711",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 \"말이 아닌 행동\"…유엔서 '힘을 통한 평화' 전면에",
-      "link": "https://n.news.naver.com/mnews/article/014/0005580049",
+      "title": "김선경 北외무성 부상 뉴욕 도착…28일 유엔총회서 연설",
+      "link": "https://n.news.naver.com/mnews/article/056/0012262956",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "백악관 \"트럼프·이재명 대통령, 조선협력 등 여러사안 논의\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016334126",
+      "title": "시진핑, 트럼프 면전서 대만 '레드라인'…“독립 반대 견지하라” [미중정상회담]",
+      "link": "https://n.news.naver.com/mnews/article/119/0003136253",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "중국, 일본 '적국 조항' 삭제 요구에 \"여전히 중요\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002410646",
+      "title": "3시간 20분 백악관 머문 시진핑 \"미국, 대만 독립 반대해야\"",
+      "link": "https://n.news.naver.com/mnews/article/469/0000955923",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "러 \"푸틴·트럼프 회담, 준비 제대로 안하면 시간낭비\"",
-      "link": "https://n.news.naver.com/mnews/article/422/0000909225",
+      "title": "트럼프, \"위대한 지도자\" 1시간 기다려 '황제 의전'…시진핑, 건강이상설 불식",
+      "link": "https://n.news.naver.com/mnews/article/057/0001970650",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
