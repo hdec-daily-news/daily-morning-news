@@ -1,257 +1,56 @@
 [
   {
     "presses": [
-      "MBC",
-      "SBS",
+      "YTN",
       "경향신문",
       "국민일보",
       "노컷뉴스",
-      "뉴스1",
-      "동아일보",
-      "머니투데이",
-      "문화일보",
       "서울신문",
-      "세계일보",
-      "이데일리",
-      "조선일보",
-      "중앙일보",
-      "한겨레"
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "李대통령, 젤렌스키 직격… \"北포로 비공개 합의 어겨\"",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/24/34BOMJ6TTZCUPKX6P76H5DTBO4/",
-        "score": 2
-      },
-      {
         "press": "중앙일보",
-        "title": "李 “우크라, 北포로 송환 비공개 합의 어겨”",
-        "link": "https://www.joongang.co.kr/article/25464706",
-        "score": 2
-      },
-      {
-        "press": "중앙일보",
-        "title": "젤렌스키 “북한군 포로 2명, 한국에 보내” icon_video",
-        "link": "https://www.joongang.co.kr/article/25464629",
-        "score": 2
-      },
-      {
-        "press": "동아일보",
-        "title": "李 “젤렌스키, 北포로 송환 춤추며 광고…비공개합의 위반”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260925/134732424/1",
-        "score": 2
-      },
-      {
-        "press": "한겨레",
-        "title": "“북한군 포로 2명 한국 도착 확인”…젤렌스키도 유엔서 밝혀",
-        "link": "https://www.hani.co.kr/arti/politics/defense/1279385.html",
-        "score": 2
-      },
-      {
-        "press": "한겨레",
-        "title": "이 대통령 “북한 포로 송환 비공개 합의 어긴 우크라에 아쉬워”",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279421.html",
+        "title": "靑 “새 루트서 지뢰 폭발” icon_video",
+        "link": "https://www.joongang.co.kr/article/25464767",
         "score": 2
       },
       {
         "press": "경향신문",
-        "title": "젤렌스키 “북한군 포로 2명, 최근 한국에 보냈다”…정부 사실상 인정",
-        "link": "https://www.khan.co.kr/article/202609240759011/?nv=stand",
+        "title": "청와대 “지뢰 폭발 조사에 추호도 은폐·흑막 없다…위험성 높아 조심히 접근 중”",
+        "link": "https://www.khan.co.kr/article/202609251532001/?nv=stand",
         "score": 2
       },
       {
         "press": "국민일보",
-        "title": "우크라서 잡힌 북한군 포로 2명, 한국 송환…“본인 의사”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017136&code=61111611&sid1=pol",
-        "score": 2
-      },
-      {
-        "press": "국민일보",
-        "title": "“목숨 바치는 북한군, 김정은이 화폐처럼 이용”… 젤렌스키 비판",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017099&code=61131611&sid1=int",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "우크라 \"북한군 포로 한국행. 한국과 직접 대화\"",
-        "link": "https://www.segye.com/newsView/20260924509201",
-        "score": 2
-      },
-      {
-        "press": "세계일보",
-        "title": "李대통령 \"北포로 송환, 우크라가 비공개 합의 어기고 공개\"",
-        "link": "https://www.segye.com/newsView/20260924510160",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "자진해 한국 온 북한군 포로, 만일 ‘北으로 가겠다’ 하면?",
-        "link": "https://www.munhwa.com/article/11619387",
+        "title": "靑 “지뢰폭발 조사, 흑막·은폐 없다…신속하고 철저하게 조사”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017240&code=61111211&sid1=pol",
         "score": 2
       },
       {
         "press": "서울신문",
-        "title": "이 대통령 “북한 포로 송환, 우크라 비공개 합의 어기고 공개”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/25/20260925500001",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "우크라 북한군 포로 며칠전 한국 도착…유용원 “정착 도와야”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/24/20260924500043",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "李, 젤렌스키·野 직격…\"北포로 송환 …",
-        "link": "https://www.news1.kr/politics/president/6301385",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "이재명 대통령은 24일(현지시간) 북한군 포로 2명의 한국 송환 사실을 전 세…",
-        "link": "https://www.news1.kr/politics/president/6301385",
-        "score": 3
-      },
-      {
-        "press": "노컷뉴스",
-        "title": "북한군 포로 2명 \"무사히 한국 도착\" 확인, 北 반응은?",
-        "link": "https://www.nocutnews.co.kr/news/6583108",
+        "title": "靑 “지뢰폭발 조사, 흑막 없었다…북한군 송환 자유의사 따라 처리”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/25/20260925500053",
         "score": 2
       },
       {
         "press": "노컷뉴스",
-        "title": "4 북한군 포로 2명 \"무사히 한국 도착\" 확인, 北 반응은?",
-        "link": "https://www.nocutnews.co.kr/news/6583108",
+        "title": "靑 \"지뢰폭발 현장, 위험성 높아…추호도 감추는 것 없다\"",
+        "link": "https://www.nocutnews.co.kr/news/6583240",
         "score": 2
-      },
-      {
-        "press": "이데일리",
-        "title": "李대통령 “北포로 송환 공개, 잔인하고 무책임”…野 비판에 반박",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01561286645583728",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "李대통령, 北포로 한국행 공개에 \"비공개 합의 어긴 우크라, 아쉽다\"",
-        "link": "https://www.mt.co.kr/politics/2026/09/25/2026092502384751019?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "SBS",
-        "title": "러시아 \"우크라이나 북한군 포로 한국행 관련 정보 없어\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769287&plink=STAND&cooper=NAVER",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "이 대통령, 젤렌스키 직격‥\"북한 포로 송환 징치고 춤추며 광고, 잔인·무책임\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6854004_36911.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "YTN",
-      "뉴스1",
-      "동아일보",
-      "디지털타임스",
-      "서울신문",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "韓-멕시코 정상회담…李대통령 “원유·공급망 협력채널출범”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260925/134732463/1",
-        "score": 2
-      },
-      {
-        "press": "한겨레",
-        "title": "이 대통령 “멕시코와 원유·핵심자원 공급망 대화채널 출범”",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279424.html",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "한·멕시코 정상회담…이 대통령 “원유·핵심 자원 논의 채널 출범”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/25/20260925500007",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "李대통령 \"한-멕시코 투자보장협정 체결…무…",
-        "link": "https://www.news1.kr/politics/president/6301448",
-        "score": 2
-      },
-      {
-        "press": "디지털타임스",
-        "title": "李대통령, 韓-멕시코 기업인 간담회… 최태원·구광모 등 참석",
-        "link": "https://www.dt.co.kr/article/12085763",
-        "score": 0
       },
       {
         "press": "YTN",
-        "title": "이 대통령 \"멕시코와 원유·공급망 협력 채널 출범\"",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609250701520482_005.html",
+        "title": "청와대 \"DMZ 폭발 새 루트 개척하다 발생\" 조사 지연 일축",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609252211545393_005.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "MBC",
-      "SBS",
-      "뉴스1",
-      "머니투데이",
-      "서울신문",
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "이 대통령 “모든 국민 삶에 환한 빛 비추겠다”…유튜브로 한가위 인사",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279423.html",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "李대통령 부부 추석 인사 “행복을 나누는 귀한 한가위 보내시길”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/25/20260925500006",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "李대통령 부부, 추석 명절 인사…\"…",
-        "link": "https://www.news1.kr/politics/president/6301214",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "李대통령 부부 추석 인사…\"국민 삶에 환한 빛 비춰지게 더 힘껏 뛸 것\"",
-        "link": "https://www.mt.co.kr/politics/2026/09/25/2026092504154596666?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "SBS",
-        "title": "한복 입고 등장한 이 대통령 부부…유튜브서 추석 인사",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769687&plink=STAND&cooper=NAVER",
-        "score": 0
-      },
-      {
-        "press": "MBC",
-        "title": "이 대통령 \"모든 국민께 환한 빛 비치게 노력\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854037_37012.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
       "경향신문",
+      "국민일보",
       "문화일보",
       "세계일보",
       "조선일보"
@@ -259,20 +58,113 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "\"李가 국민 속였다\" 유시민에…靑 \"근거 없는 비난성 주장\"",
-        "link": "https://www.chosun.com/politics/politics_general/2026/09/24/PJ6SUC6ISJE5NGMZ5JMCTMDET4/",
+        "title": "우크라 \"北포로 이송, 비공개 합의 없었다\"",
+        "link": "https://www.chosun.com/international/international_general/2026/09/26/VJXLDFMGLVA7DJQFLSX4Q55PVE/",
         "score": 2
       },
       {
         "press": "경향신문",
-        "title": "\"대통령이 국민 속였다\" 유시민 발언에···청와대 \"검찰개혁 의지 왜곡 유감, 법적 대응 여부는 미정”",
-        "link": "https://www.khan.co.kr/article/202609241630001/?nv=stand",
+        "title": "청와대, ‘북한 포로 한국행’ 공개에 “젤렌스키 연설 전 알려 왔다…우크라 입장 나중에 바뀌어”",
+        "link": "https://www.khan.co.kr/article/202609251505001/?nv=stand",
+        "score": 2
+      },
+      {
+        "press": "국민일보",
+        "title": "靑 “아무것도 모른 채 젤렌스키 연설 들은 것 아냐…명료하진 않아”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017239&code=61111211&sid1=pol",
         "score": 2
       },
       {
         "press": "세계일보",
-        "title": "\"국민 속였다\" 유시민 발언에…靑, 법적 대응 강경 검토",
-        "link": "https://www.segye.com/newsView/20260924506666",
+        "title": "北 포로 송환 공개에 여야 설전…野 “김정은 심기 건드리는 것 두",
+        "link": "https://www.segye.com/newsView/20260925508510",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "靑 “北포로 송환 발표 전 한국에 알리긴 했다…명료하진 않아”",
+        "link": "https://www.munhwa.com/article/11619476",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS",
+      "MBC",
+      "뉴스1",
+      "동아일보",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "李대통령 “韓-멕시코 무역협정 논의 재개해야”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260926/134733567/1",
+        "score": 2
+      },
+      {
+        "press": "한겨레",
+        "title": "이 대통령 “한-멕시코 경제는 상호보완…포괄적 무역협정 나아가야”",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279488.html",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "李대통령 \"한-멕시코 무역협정으로 호혜적 경…",
+        "link": "https://www.news1.kr/politics/president/6301788",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "이 대통령 “한·멕시코 무역협정 통해 경제협력 고도화 필요”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671783",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "이 대통령 \"한-멕시코 무역협정, 양국 경제협력 고도화 기반\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6854171_36911.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문",
+      "문화일보",
+      "세계일보",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "이 대통령 “2030년 6월2일 넘기는 일 절대 없어”…연임 개헌 재차 일축",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279443.html",
+        "score": 2
+      },
+      {
+        "press": "경향신문",
+        "title": "[속보] 이 대통령 “2030년 6월 2일 넘기는 일 절대 없어”…단임 재차 언급",
+        "link": "https://www.khan.co.kr/article/202609250957001/?nv=stand",
+        "score": 4
+      },
+      {
+        "press": "경향신문",
+        "title": "이 대통령 “한꺼번에, 화끈하게 해치우기 쉽지 않다”…국가보안법 ‘개혁 실패’ 언급",
+        "link": "https://www.khan.co.kr/article/202609251226001/?nv=stand",
+        "score": 2
+      },
+      {
+        "press": "세계일보",
+        "title": "李대통령 “임기 2030년 6월 2일 절대 안 넘겨…걱정 마시길”",
+        "link": "https://www.segye.com/newsView/20260925506336",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "李대통령 “2030년 6월 2일 넘기는 일은 절대 없어”…임기 재차 강조",
+        "link": "https://www.munhwa.com/article/11619472",
         "score": 2
       },
       {
@@ -280,51 +172,132 @@
         "title": "‘결국 갈라서나’ 靑, 유시민에 법적 대응 검토…“대통령 검찰 개혁 의지 왜곡”",
         "link": "https://www.munhwa.com/article/11619368",
         "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "유시민 발언에 청와대 \"근거 없는 비난성 주장‥검찰개혁 의지 왜곡에 유감\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853964_37004.html",
-        "score": 2
       }
     ]
   },
   {
     "presses": [
-      "동아일보",
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "캐나다 총리 “美 군사행동 가능성 대비”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260924/134731848/1",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "캐나다 총리, 미국의 침공 가능성 질문에 “극단적 위험도 대비”",
-        "link": "https://www.seoul.co.kr/news/international/2026/09/24/20260924500075",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보",
+      "MBC",
+      "국민일보",
       "한겨레"
     ],
     "articles": [
       {
         "press": "한겨레",
-        "title": "미-중 정상 백악관 회담 돌입…트럼프 “시진핑과 안보·AI 논의”",
-        "link": "https://www.hani.co.kr/arti/international/america/1279422.html",
+        "title": "장동혁 “한동훈 복당, 당원게시판 수사 끝날 때까지 언급 부적절”",
+        "link": "https://www.hani.co.kr/arti/politics/assembly/1279461.html",
+        "score": 5
+      },
+      {
+        "press": "국민일보",
+        "title": "장동혁 “한동훈 복당 언급 부적절” 한동훈 “보수가 이기는 게 싫나”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017228&code=61111511&sid1=pol",
+        "score": 5
+      },
+      {
+        "press": "MBC",
+        "title": "장동혁 \"한동훈 당원게시판 수사 진행 중‥복당 언급 자체 부적절\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6854066_36911.html",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279442.html",
         "score": 2
       },
       {
-        "press": "세계일보",
-        "title": "트럼프 \"시진핑과 안보·기술·슈퍼지능 논의…평화번영 증진\" 도널드 트럼프 미국 대통령은 24일(현지시간) 시진핑 중국 국가주석과의 미중 정상회담에서 \"안보와 기술, 슈퍼지능(SI·트럼프 대통령이 AI를 바꿔 부르는 말)과 관련한 시급한 문제들을 논의할 것\"이라고 밝혔다. 트럼프 대통령은 이날 백악관에서 열린 시 주석을 위한 국빈 환영식 연설에서 이같이 언급한 뒤 \"오늘 우리가 이 분야에서 내릴 결정은 수십 년에 걸쳐 평화와 번영을 증진할 수 있다\"고 말했다.그는 이어 \"우리가 공동의 이익에 집중한다면",
-        "link": "https://www.segye.com/newsView/20260924510210",
+        "press": "노컷뉴스",
+        "title": "李대통령 '급진개혁' 우려하며 '국보법' 소환…유시민 저격?",
+        "link": "https://www.nocutnews.co.kr/news/6583242",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "문화일보",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "우크라가 공개한 ‘북한군 포로 송환’…민주 “정쟁 확대 말라” 국힘 “북한에 굴종”",
+        "link": "https://www.hani.co.kr/arti/politics/assembly/1279460.html",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "자진해 한국 온 북한군 포로, 만일 ‘北으로 가겠다’ 하면?",
+        "link": "https://www.munhwa.com/article/11619387",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC",
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "조국 “조희대, 이 대통령 인정 안 해…대법관 공석 ‘후임 대법원장’과 채워야”",
+        "link": "https://www.hani.co.kr/arti/politics/assembly/1279476.html",
+        "score": 2
+      },
+      {
+        "press": "MBC",
+        "title": "조국 \"조희대 대법원, 이 대통령 인정 안 해‥법원행정처 폐지해야\"",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6854076_36911.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "‘대홍수 한 달째’ 네팔 총리 유엔총회서 “대홍수는 세계에 보낸 경고”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017237&code=61131111&sid1=int",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "네팔 총리 “히말라야 대홍수, 세계 향한 경고”… “무상 지원 필요”",
+        "link": "https://www.seoul.co.kr/news/economy/2026/09/25/20260925500041",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "北 “한국, 미국의 제1용병”…‘집단적 응징’ 위협",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017210&code=61111611&sid1=pol",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "“한국, 미국의 1번 용병 됐다”… 北, 美 사령관 말 한마디에 폭발한 까닭 [밀리터리노트]",
+        "link": "https://www.seoul.co.kr/news/politics/north/2026/09/25/20260925500036",
         "score": 2
       }
     ]
@@ -332,46 +305,20 @@
   {
     "presses": [
       "SBS",
-      "경향신문"
+      "머니투데이"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "정치적 위기마다 ‘추석 반전’ 만든 이 대통령···이번에도 국정 운영 전환점 될까",
-        "link": "https://www.khan.co.kr/article/202609241211001/?nv=stand",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "이 대통령 기자회견 후 “국정 운영 긍정” 39.1% 소폭 반등···민주당 지지율, 다시 국힘 앞질러",
-        "link": "https://www.khan.co.kr/article/202609240933001/?nv=stand",
-        "score": 2
+        "press": "머니투데이",
+        "title": "멕시코시티에 뜬 한강라면…李 대통령 부부, K-엑스포 격려 방문",
+        "link": "https://www.mt.co.kr/politics/2026/09/26/2026092605481490285?STAND=MT",
+        "score": 0
       },
       {
         "press": "SBS",
-        "title": "이 대통령 지지율, 전임 대통령과 비교해 보니 [사실은]",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767800&plink=STAND&cooper=NAVER",
+        "title": "한복 입고 등장한 이 대통령 부부…유튜브서 추석 인사",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769687&plink=STAND&cooper=NAVER",
         "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC",
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "野, 정부 ‘DMZ 지뢰 폭발’ 대응 비판…“증거 유실 우려”",
-        "link": "https://www.segye.com/newsView/20260924507691",
-        "score": 2
-      },
-      {
-        "press": "MBC",
-        "title": "野, 'DMZ 지뢰 폭발' 현장조사 촉구‥\"고의 지연은 이적 행위\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6853940_36911.html",
-        "score": 2
       }
     ]
   },
@@ -382,8 +329,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "“109명보다 잘 싸웠다”⋯‘김승원 낙마’ 한동훈 득실",
-        "link": "https://www.joongang.co.kr/article/25464716",
+        "title": "넉달째 ‘올공’ 장동혁⋯지지율 상승 찜찜한 이유",
+        "link": "https://www.joongang.co.kr/article/25464834",
         "score": 5
       }
     ]
@@ -395,34 +342,21 @@
     "articles": [
       {
         "press": "한겨레",
-        "title": "‘파워풀 대구’ 홍준표와 다른 추경호의 ‘소통 행보’…사법 리스크 ‘발등 불’",
-        "link": "https://www.hani.co.kr/arti/area/yeongnam/1279420.html",
+        "title": "‘김승원 저격수’로 존재감 키운 한동훈…정치적 득실은?",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1279490.html",
         "score": 5
       }
     ]
   },
   {
     "presses": [
-      "문화일보"
+      "디지털타임스"
     ],
     "articles": [
       {
-        "press": "문화일보",
-        "title": "‘진짜 거리로 나선 한동훈’ 왜?…이번엔 국방부 지뢰사건 겨냥 ‘1인시위’",
-        "link": "https://www.munhwa.com/article/11619372",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "뉴스1",
-        "title": "'최장수 대표' 눈앞 장동혁…당심으로…",
-        "link": "https://www.news1.kr/politics/assembly/6300889",
+        "press": "디지털타임스",
+        "title": "“제2의 윤석열” vs “이재명 탄핵”… 대법원장 재제청 거부에 정국 ‘얼음판’",
+        "link": "https://www.dt.co.kr/article/12085811",
         "score": 5
       }
     ]
@@ -442,6 +376,45 @@
   },
   {
     "presses": [
+      "디지털타임스"
+    ],
+    "articles": [
+      {
+        "press": "디지털타임스",
+        "title": "사라진 서울 아파트 43만호… 박원순 탓? 오세훈 탓?",
+        "link": "https://www.dt.co.kr/article/12085812",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "presses": [
+      "조선일보"
+    ],
+    "articles": [
+      {
+        "press": "조선일보",
+        "title": "회담 끝났는데 발표할 게 없다…美·中 '빈손 의전 외교'",
+        "link": "https://www.chosun.com/international/international_general/2026/09/26/J2ZXQ7UPXVD5PKNNPHWOVSNNNQ/",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "외교결례 ‘中 쪽지 사건’⋯中 파견무관 16명 알게 됐다",
+        "link": "https://www.joongang.co.kr/article/25464824",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
       "중앙일보"
     ],
     "articles": [
@@ -455,91 +428,13 @@
   },
   {
     "presses": [
-      "동아일보"
-    ],
-    "articles": [
-      {
-        "press": "동아일보",
-        "title": "靑 “유시민 유감…대통령의 검찰개혁 의지 왜곡”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260924/134731809/1",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1279383.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
       "경향신문"
     ],
     "articles": [
       {
         "press": "경향신문",
-        "title": "국회의원의 장관 ‘청문회 패스’는 옛말···수사 기로에 의원직까지 위태",
-        "link": "https://www.khan.co.kr/article/202609241729011/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "민주당 “조희대 출근기록 없다? 윤석열 ‘가짜 출근’ 떠올라”",
-        "link": "https://www.khan.co.kr/article/202609241520001/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "북한, 한·미·일 ‘완전한 비핵화’ 성명에 “실현불가능한 망상”",
-        "link": "https://www.khan.co.kr/article/202609241139001/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "박지원 “조희대는 제2의 윤석열, 대선 나오려 할지도…탄핵하자”",
-        "link": "https://www.khan.co.kr/article/202609240952001/?nv=stand",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "李, 北포로송환 논쟁에 “국익안보 해치는 사람이 살인자”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017164&code=61111211&sid1=pol",
+        "title": "“미국과 분리” 23년 전 노무현 ‘파병’ 친필메모…이 대통령도 파병 고심",
+        "link": "https://www.khan.co.kr/article/202609250906001/?nv=stand",
         "score": 2
       }
     ]
@@ -551,8 +446,8 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "與 “조희대 ‘제제청 거부’, 정치 행위”…野 “사법부 길들이기 안 돼”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/24/20260924500060",
+        "title": "李대통령 “멕시코와 무역 협정, 양국 경제 협력 더 고도화할 것”…현지 비즈니스포럼 개최",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/26/20260926500004",
         "score": 2
       }
     ]
@@ -564,8 +459,8 @@
     "articles": [
       {
         "press": "서울신문",
-        "title": "日국회의원은 몇 선 해야 장관 될까…사라진 ‘5선 공식’ [와쿠와쿠 도쿄]",
-        "link": "https://www.seoul.co.kr/news/plan/WakuWaku-TOKYO/2026/09/23/20260923500104",
+        "title": "北, 한미 군사협력 비난… “한국, 집단응징 목표 될 것”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/25/20260925500030",
         "score": 2
       }
     ]
@@ -577,47 +472,21 @@
     "articles": [
       {
         "press": "뉴스1",
-        "title": "'서울·2030' 민심에 긴장한 與…추석 화두는 '…",
-        "link": "https://www.news1.kr/politics/assembly/6300832",
+        "title": "'쉿→의견 제시'…달라진 與 부동산 …",
+        "link": "https://www.news1.kr/politics/assembly/6300503",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "노컷뉴스"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "노컷뉴스",
-        "title": "李대통령, '존중·안정·세계평화' 한반도 평화공존안 제시",
-        "link": "https://www.nocutnews.co.kr/news/6582409",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "'여서정 도마 1위 투혼에도' 여자 기계체조 단체전 4위…北은 동메달",
-        "link": "https://www.nocutnews.co.kr/news/6583001",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "靑 \"대법관 임명권이 제청권에 기속된다는 건 위헌해석\"",
-        "link": "https://www.nocutnews.co.kr/news/6582895",
+        "press": "뉴스1",
+        "title": "\"정부와 대통령님의 부동산 공급 확대 기조와 세제 개편 방향에 원칙적으로 공감…",
+        "link": "https://www.news1.kr/politics/assembly/6300503",
         "score": 2
       }
     ]
@@ -629,8 +498,8 @@
     "articles": [
       {
         "press": "YTN",
-        "title": "오픈AI·앤트로픽 등 AI 리더, 유엔 안보리 회의 총출동…\"AI 통제 국제 공조\" 한목소리",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609242259191510_005.html",
+        "title": "'위성정당' 질문 남긴 청문 정국…개혁 적기 잡을까",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609260526401076_005.html",
         "score": 2
       }
     ]
@@ -642,8 +511,8 @@
     "articles": [
       {
         "press": "KBS",
-        "title": "이 대통령 “농지조사 꼭 필요”…여 “투기만 걸러낼 것” 야 “농지 수탈”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671279",
+        "title": "유엔 안보리 “후티 반군의 사우디 공격 강력 규탄” 공동성명",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671774",
         "score": 2
       }
     ]
@@ -655,22 +524,22 @@
     "articles": [
       {
         "press": "MBC",
-        "title": "이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6853867_36911.html",
+        "title": "李, '북한 눈치 보고 숨겼나' 野 비판에 \"징 치고 광고할 일 아냐\" 직접 반박",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854127_37004.html",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "조선일보"
+      "MBC"
     ],
     "articles": [
       {
-        "press": "조선일보",
-        "title": "김선경 北외무성 부상 美도착… 유엔 연설서 비핵화 말할까",
-        "link": "https://www.chosun.com/international/international_general/2026/09/25/IWZUST47URA3JGNYCMRQYD2R5I/",
-        "score": 0
+        "press": "MBC",
+        "title": "'청렴'하라더니 조마카세?‥조희대 대법원장의 수상한 업무추진비 [국회M부스]",
+        "link": "https://imnews.imbc.com/newszoomin/newsinsight/6854061_29123.html",
+        "score": 2
       }
     ]
   },
@@ -694,8 +563,8 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "韓 도마여왕, 北 라이벌에게 손을 내밀었다",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260924/134731986/1",
+        "title": "강훈식 사의 표명에…與 서울시장 보궐 후보군 다시 주목",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260923/134729236/1",
         "score": 0
       }
     ]
@@ -715,26 +584,26 @@
   },
   {
     "presses": [
-      "세계일보"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "靑·조희대 갈등, 출구 찾을 수 있나… 내년까지 대치 전망도",
-        "link": "https://www.segye.com/newsView/20260923518055",
+        "press": "뉴스1",
+        "title": "수사와 기소가 분리되는 형사사법체계 개편에 맞춰 검사 수를 줄여야 한다는 주…",
+        "link": "https://www.news1.kr/society/court-prosecution/6301347",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "뉴스1"
+      "이데일리"
     ],
     "articles": [
       {
-        "press": "뉴스1",
-        "title": "추석 이후 여야, 국감·예산 전쟁 …",
-        "link": "https://www.news1.kr/politics/assembly/6299656",
+        "press": "이데일리",
+        "title": "대통령이 된 검찰총장…검찰청 폐지의 씨앗이었다",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01722006645584056",
         "score": 0
       }
     ]
@@ -759,8 +628,34 @@
     "articles": [
       {
         "press": "SBS",
-        "title": "러시아, 키이우에 또 미사일 공격…젤렌스키는 유엔서 외교전",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769245&plink=STAND&cooper=NAVER",
+        "title": "이 대통령 지지율, 전임 대통령과 비교해 보니 [사실은]",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767800&plink=STAND&cooper=NAVER",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "북한, 서해 남포·동해 청진서 나란히 신형 군함 건조 착수 정황",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671650",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "MBC"
+    ],
+    "articles": [
+      {
+        "press": "MBC",
+        "title": "프랑스, 사우디 석유 수출항 보호 위해 파병·군사지원 결단",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6854047_36925.html",
         "score": 0
       }
     ]

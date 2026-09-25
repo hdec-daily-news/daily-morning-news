@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-09-25T08:45:46.907444+09:00",
-  "window_start": "2026-09-24T15:00:00+09:00",
-  "window_end": "2026-09-25T06:00:00+09:00",
+  "generated_at": "2026-09-26T08:47:45.382077+09:00",
+  "window_start": "2026-09-25T15:00:00+09:00",
+  "window_end": "2026-09-26T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 메달리스트(24일)",
-      "link": "https://www.yna.co.kr/view/GYH20260924000400044?section=graphic/index",
-      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/24/GYH2026092400040004400_P1.jpg",
-      "pubdate": "2026-09-24T22:31:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트(25일)",
+      "link": "https://www.yna.co.kr/view/GYH20260925000600044?section=graphic/index",
+      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/25/GYH2026092500060004400_P1.jpg",
+      "pubdate": "2026-09-25T23:15:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(24일)",
-      "link": "https://www.yna.co.kr/view/GYH20260924000300044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/24/GYH2026092400030004400_P1.jpg",
-      "pubdate": "2026-09-24T22:31:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황(25일)",
+      "link": "https://www.yna.co.kr/view/GYH20260925000500044?section=graphic/index",
+      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/25/GYH2026092500050004400_P1.jpg",
+      "pubdate": "2026-09-25T23:14:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 기계체조 여자 도마 금메달-여서정",
-      "link": "https://www.news1.kr/photos/8125362",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/24/8125362/no_water.jpg",
-      "pubdate": "2026-09-25T04:45:46.907444+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
+      "source": "연합뉴스",
+      "title": "러시아 총선 결과",
+      "link": "https://www.yna.co.kr/view/GYH20260925000400044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/25/GYH2026092500040004400_P1.jpg",
+      "pubdate": "2026-09-25T22:45:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 카누 스프린트 남자 카약 4인승 500m 금메달-김효빈·장상원·조광희·최민규",
-      "link": "https://www.news1.kr/photos/8125046",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/24/8125046/no_water.jpg",
-      "pubdate": "2026-09-24T21:45:46.907444+09:00",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 기계체조 여자 평균대 금메달-황서현",
+      "link": "https://www.news1.kr/photos/8126167",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/25/8126167/no_water.jpg",
+      "pubdate": "2026-09-26T01:47:45.382077+09:00",
       "image": "images/graphics/뉴스1_04.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 기업 10곳 중 8곳 추석 연휴 '나흘'… 61% \"상여금 지급\"",
-      "link": "https://www.news1.kr/photos/8121048",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121048/no_water.jpg",
-      "pubdate": "2026-09-24T15:45:46.907444+09:00",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 카누 스프린트 2인승 500m 금메달-김효빈·조광희",
+      "link": "https://www.news1.kr/photos/8125992",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/25/8125992/no_water.jpg",
+      "pubdate": "2026-09-25T21:47:45.382077+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
     }
   ]
