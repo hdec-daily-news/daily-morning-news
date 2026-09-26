@@ -1,172 +1,172 @@
 {
-  "generated_at": "2026-09-26T08:47:45.117505+09:00",
-  "date_label": "9/26(토)",
+  "generated_at": "2026-09-27T08:22:29.498841+09:00",
+  "date_label": "9/27(일)",
   "articles": [
     {
-      "title": "\"자신들 선명함 위해 과한 주장 …개혁 방해\"",
-      "link": "https://n.news.naver.com/mnews/article/055/0001391092",
+      "title": "배현진 \"박진영, 진짜 무보수인지도 확인하겠다…국감에서 보자\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009192165",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "JYP, ‘패노메논’ 해외 상표권 독점?…대중문화교류위 “전담 법인에 이관할 것”",
-      "link": "https://n.news.naver.com/mnews/article/009/0005739905",
+      "title": "이재명 대통령, 한-멕시코 비즈니스 포럼 참석",
+      "link": "https://n.news.naver.com/mnews/article/009/0005740041",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "합참, 'DMZ 지뢰폭발' 늑장조사 논란에 \"안전대책 사전 확보돼야\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014212733",
+      "title": "우크라 北포로 한국 송환 공개 논란에…청와대 “원칙 따라 대응”",
+      "link": "https://n.news.naver.com/mnews/article/011/0004665484",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한동훈 \"李정권 안보 기준은 '김정은'…대북송금 받아 약점 잡혀\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000641388",
+      "title": "軍·유엔사 합동 현장조사 준비…닷새 만에 DMZ 진입, 기동로 확보",
+      "link": "https://n.news.naver.com/mnews/article/014/0005580993",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "민주당 “젤렌스키 ‘北포로 한국 송환’ 공개에 유감”",
-      "link": "https://n.news.naver.com/mnews/article/023/0004000380",
+      "title": "국힘 '지뢰사고' 공세 지속 \"대통령 침묵만…증거유실 기다리나\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016336833",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "전월세난도 서러운데… “전세대출 못 갚는 서민 급증”",
-      "link": "https://n.news.naver.com/mnews/article/029/0003049788",
+      "title": "\"추석 끝나면 30만전자?\"...삼성전자, '배당 낙수효과' 증권가 전망은?",
+      "link": "https://n.news.naver.com/mnews/article/123/0002390836",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美금리 악재에 버티기…숏청산에 8.4만달러 회복[코인 모닝콜]",
-      "link": "https://n.news.naver.com/mnews/article/018/0006375436",
+      "title": "온체인 금융, 시장 열린 뒤 준비하면 늦는다[기고]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006375765",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미-이란 협상 기대감에 2%대 하락…WTI, 주간 8% 급락[국제유가]",
-      "link": "https://n.news.naver.com/mnews/article/014/0005580883",
+      "title": "'레버리지 ETF' 도입을 결정한 '누군가'는?...수십조 손해 책임론",
+      "link": "https://n.news.naver.com/mnews/article/052/0002411418",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "전국 주유소 기름값 19주 연속 하락…휘발유 L당 1858원",
-      "link": "https://n.news.naver.com/mnews/article/011/0004665428",
+      "title": "이번주 공모주 청약, 멜콘·진코스텍 2개사",
+      "link": "https://n.news.naver.com/mnews/article/119/0003136379",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산",
-      "link": "https://n.news.naver.com/mnews/article/052/0002411093",
+      "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
+      "link": "https://n.news.naver.com/mnews/article/001/0016336627",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_10_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "“내 휴대폰!” 상어 있는 줄 알면서 ‘풍덩’…불과 5분 뒤 벌어진 ‘아찔한 일’",
-      "link": "https://n.news.naver.com/mnews/article/011/0004665410",
+      "title": "여수섬박람회 추석 당일 6만7천명 방문…개막 이후 최다",
+      "link": "https://n.news.naver.com/mnews/article/001/0016337058",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"빌라에 누가 휘발유를 뿌려요\"‥신고 5분도 안 돼 '폭발' 1명 사망",
-      "link": "https://n.news.naver.com/mnews/article/214/0001525859",
+      "title": "고속도로 귀경길 정체 본격화…부산→서울 7시간 10분",
+      "link": "https://n.news.naver.com/mnews/article/020/0003750700",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "추석 전국 흐리고 곳곳 비…한가위 보름달 보기 어려워[오늘날씨]",
-      "link": "https://n.news.naver.com/mnews/article/119/0003136296",
+      "title": "“제 선물이에요” 초6이 건넨 손뜨개 키링에 아파트 이웃들 '미소'",
+      "link": "https://n.news.naver.com/mnews/article/030/0003469961",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "제한속도 시속 80km 국도서 157km 질주… 난폭운전 50대 검거",
-      "link": "https://n.news.naver.com/mnews/article/022/0004161790",
+      "title": "\"나나가 날 죽이려 했다\" 황당 주장한 강도…결국 '무고' 추가 기소",
+      "link": "https://n.news.naver.com/mnews/article/448/0000641582",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "교사들이 직접 경험한 학생들 도박 현실…뮤지컬로 '경고음' 울려",
-      "link": "https://n.news.naver.com/mnews/article/001/0016335476",
+      "title": "추석 연휴에 안산서 노모 살해한 50대 딸 검거",
+      "link": "https://n.news.naver.com/mnews/article/081/0003683592",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프, 사흘 내내 '레드카펫' 깔았지만…\"中 지위만 보다 격상\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000641485",
+      "title": "젤렌스키 “미국, 러시아와 종전 3자 회담 장소로 UAE 제안”",
+      "link": "https://n.news.naver.com/mnews/article/025/0003553796",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "미 무역대표 “중국과 협상 진전…내주 월요일 발표할 것”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012263434",
+      "title": "오픈AI AI 에이전트, 미국 증권거래위 웹사이트 '무단접근'",
+      "link": "https://n.news.naver.com/mnews/article/001/0016337249",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "美 ‘1호 헬기’ 올라탄 시진핑...대만·이란· AI는 ‘평행선’[이태규의 워싱턴 플레이북]",
-      "link": "https://n.news.naver.com/mnews/article/011/0004665297",
+      "title": "\"호르무즈 말고 트럼프 해협\" 지도 올린 트럼프",
+      "link": "https://n.news.naver.com/mnews/article/469/0000956062",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
       "infographics": [
         {
-          "image": "images/infographics/article_18_6.png",
+          "image": "images/infographics/article_18_1.png",
           "caption": ""
         }
       ]
     },
     {
-      "title": "2.3조달러 '엔캐리'의 덫…日, 금리 올려도 못 올려도 딜레마",
-      "link": "https://n.news.naver.com/mnews/article/421/0009192024",
+      "title": "시진핑, 미국 국빈 방문 일정 마무리하고 귀국길",
+      "link": "https://n.news.naver.com/mnews/article/052/0002411221",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_19_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "우크라이나 \"북한군 포로 한국행, 한국과 직접 대화\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001525731",
+      "title": "농산물·희토류 소득... AI·안보 갈등 덮은 미중 담판",
+      "link": "https://n.news.naver.com/mnews/article/469/0000956010",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
