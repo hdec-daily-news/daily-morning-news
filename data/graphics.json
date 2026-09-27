@@ -1,55 +1,79 @@
 {
-  "generated_at": "2026-09-27T08:22:29.734995+09:00",
-  "window_start": "2026-09-26T15:00:00+09:00",
-  "window_end": "2026-09-27T06:00:00+09:00",
+  "generated_at": "2026-09-28T08:36:34.149660+09:00",
+  "window_start": "2026-09-27T15:00:00+09:00",
+  "window_end": "2026-09-28T06:00:00+09:00",
   "items": [
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황 (26일)",
-      "link": "https://www.yna.co.kr/view/GYH20260926000200044?section=graphic/index",
-      "image_url": "https://img5.yna.co.kr/etc/graphic/YH/2026/09/26/GYH2026092600020004400_P1.jpg",
-      "pubdate": "2026-09-26T22:44:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트 (27일)",
+      "link": "https://www.yna.co.kr/view/GYH20260927000400044?section=graphic/index",
+      "image_url": "https://img3.yna.co.kr/etc/graphic/YH/2026/09/27/GYH2026092700040004400_P1.jpg",
+      "pubdate": "2026-09-27T22:38:00+09:00",
       "image": "images/graphics/연합뉴스_01.jpg"
     },
     {
       "source": "연합뉴스",
-      "title": "2026 아이치·나고야 아시안게임 메달리스트 (26일)",
-      "link": "https://www.yna.co.kr/view/GYH20260926000300044?section=graphic/index",
-      "image_url": "https://img4.yna.co.kr/etc/graphic/YH/2026/09/26/GYH2026092600030004400_P1.jpg",
-      "pubdate": "2026-09-26T22:44:00+09:00",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황 (27일)",
+      "link": "https://www.yna.co.kr/view/GYH20260927000500044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/27/GYH2026092700050004400_P1.jpg",
+      "pubdate": "2026-09-27T22:38:00+09:00",
       "image": "images/graphics/연합뉴스_02.jpg"
     },
     {
-      "source": "연합뉴스",
-      "title": "미국-중국 정상회담 주요 내용",
-      "link": "https://www.yna.co.kr/view/GYH20260926000100044?section=graphic/index",
-      "image_url": "https://img0.yna.co.kr/etc/graphic/YH/2026/09/26/GYH2026092600010004402_P1.jpg",
-      "pubdate": "2026-09-26T16:31:00+09:00",
-      "image": "images/graphics/연합뉴스_03.jpg"
-    },
-    {
-      "source": "뉴시스",
-      "title": "금리인상에도 집값 상승 기대 여전…전망CSI 125",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260926_0002248856&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/26/NISI20260926_0002248856_web.jpg?rnd=20260926213238",
-      "pubdate": "2026-09-26T21:32:38+09:00",
-      "image": "images/graphics/뉴시스_04.jpg"
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 펜싱 여자 사브르 단체전 금메달-김정미·서지연·전하영·최세빈",
+      "link": "https://www.news1.kr/photos/8128027",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8128027/no_water.jpg",
+      "pubdate": "2026-09-28T05:36:34.149660+09:00",
+      "image": "images/graphics/뉴스1_03.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2026 아이치·나고야 아시안 게임 펜싱 남자 사브르 단체전 금메달-오상욱·박상원·도경동·황희근",
-      "link": "https://www.news1.kr/photos/8127038",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/26/8127038/no_water.jpg",
-      "pubdate": "2026-09-27T05:22:29.734995+09:00",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 핸드볼 여자 대표팀-금메달",
+      "link": "https://www.news1.kr/photos/8127969",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127969/no_water.jpg",
+      "pubdate": "2026-09-28T05:36:34.149660+09:00",
+      "image": "images/graphics/뉴스1_04.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 요일별 주요 일정(28~2일)",
+      "link": "https://www.news1.kr/photos/8127728",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127728/no_water.jpg",
+      "pubdate": "2026-09-28T03:36:34.149660+09:00",
       "image": "images/graphics/뉴스1_05.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 추석연휴 낮시간 전기차 충전 반값…자가충전은 0원",
-      "link": "https://www.news1.kr/photos/8121604",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/22/8121604/no_water.jpg",
-      "pubdate": "2026-09-26T15:22:29.734995+09:00",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 스케이트보드 남자 스트리트 금메달-강준이",
+      "link": "https://www.news1.kr/photos/8127718",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127718/no_water.jpg",
+      "pubdate": "2026-09-28T00:36:34.149660+09:00",
       "image": "images/graphics/뉴스1_06.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 승마 마장마술 개인 금메달-남동헌",
+      "link": "https://www.news1.kr/photos/8127592",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127592/no_water.jpg",
+      "pubdate": "2026-09-27T22:36:34.149660+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[그래픽] 의원급 의료기관 인플루엔자 의사환자 분율 추이",
+      "link": "https://www.news1.kr/photos/8127402",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127402/no_water.jpg",
+      "pubdate": "2026-09-27T21:36:34.149660+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
+    },
+    {
+      "source": "뉴스1",
+      "title": "[오늘의 그래픽] 올가을 단풍 조금 늦어요…설악산 10월 20일 '절정'",
+      "link": "https://www.news1.kr/photos/8127409",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/27/8127409/no_water.jpg",
+      "pubdate": "2026-09-27T19:36:34.149660+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
     }
   ]
 }

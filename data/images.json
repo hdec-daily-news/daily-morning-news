@@ -1,172 +1,187 @@
 {
-  "generated_at": "2026-09-27T08:22:29.498841+09:00",
-  "date_label": "9/27(일)",
+  "generated_at": "2026-09-28T08:36:33.973958+09:00",
+  "date_label": "9/28(월)",
   "articles": [
     {
-      "title": "배현진 \"박진영, 진짜 무보수인지도 확인하겠다…국감에서 보자\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009192165",
+      "title": "영화 ‘암살자(들)’, 거장 박찬욱 “영리하고 스마트하다”는데 보수층은 왜 반발하나",
+      "link": "https://n.news.naver.com/mnews/article/033/0000052414",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이재명 대통령, 한-멕시코 비즈니스 포럼 참석",
-      "link": "https://n.news.naver.com/mnews/article/009/0005740041",
+      "title": "[단독] 폭발 현장 장병들 “北 목함지뢰 봤다”",
+      "link": "https://n.news.naver.com/mnews/article/023/0004000684",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "우크라 北포로 한국 송환 공개 논란에…청와대 “원칙 따라 대응”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004665484",
+      "title": "이 대통령, 귀국길 美앵커리지에서 청와대 출입기자단과 티타임",
+      "link": "https://n.news.naver.com/mnews/article/003/0014215401",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "軍·유엔사 합동 현장조사 준비…닷새 만에 DMZ 진입, 기동로 확보",
-      "link": "https://n.news.naver.com/mnews/article/014/0005580993",
+      "title": "李 \"참여와 실천이 개혁세상 만든다…국민과 함께 이뤄져야\"",
+      "link": "https://n.news.naver.com/mnews/article/079/0004193109",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_04_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "국힘 '지뢰사고' 공세 지속 \"대통령 침묵만…증거유실 기다리나\"",
-      "link": "https://n.news.naver.com/mnews/article/001/0016336833",
+      "title": "與, 오늘 법사위 긴급현안질의…'재제청 거부' 조희대 공세",
+      "link": "https://n.news.naver.com/mnews/article/003/0014216372",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"추석 끝나면 30만전자?\"...삼성전자, '배당 낙수효과' 증권가 전망은?",
-      "link": "https://n.news.naver.com/mnews/article/123/0002390836",
+      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
+      "link": "https://n.news.naver.com/mnews/article/055/0001391275",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "온체인 금융, 시장 열린 뒤 준비하면 늦는다[기고]",
-      "link": "https://n.news.naver.com/mnews/article/018/0006375765",
+      "title": "특정 연령·출신 학교 제한?…한화에어로, ‘경력직 채용 지침’ 사과",
+      "link": "https://n.news.naver.com/mnews/article/016/0002702173",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_07_1.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "'레버리지 ETF' 도입을 결정한 '누군가'는?...수십조 손해 책임론",
-      "link": "https://n.news.naver.com/mnews/article/052/0002411418",
+      "title": "예금 수익 2%일 때 '코스피200 ETF'는 81%…올해 재테크 수익률 1위",
+      "link": "https://n.news.naver.com/mnews/article/003/0014215713",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이번주 공모주 청약, 멜콘·진코스텍 2개사",
-      "link": "https://n.news.naver.com/mnews/article/119/0003136379",
+      "title": "갈아타면 싸진다더니…가계대출 조이자 대환 금리 역전(종합)",
+      "link": "https://n.news.naver.com/mnews/article/018/0006375934",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
-      "infographics": []
-    },
-    {
-      "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
-      "link": "https://n.news.naver.com/mnews/article/001/0016336627",
-      "section": "101",
-      "image": "images/article_10.png",
-      "ok": true,
       "infographics": [
         {
-          "image": "images/infographics/article_10_2.png",
+          "image": "images/infographics/article_09_1.png",
           "caption": ""
         }
       ]
     },
     {
-      "title": "여수섬박람회 추석 당일 6만7천명 방문…개막 이후 최다",
-      "link": "https://n.news.naver.com/mnews/article/001/0016337058",
-      "section": "102",
-      "image": "images/article_11.png",
+      "title": "수출·내수 동반 호조… 4분기 제조업 경기 전망 개선",
+      "link": "https://n.news.naver.com/mnews/article/081/0003683831",
+      "section": "101",
+      "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "고속도로 귀경길 정체 본격화…부산→서울 7시간 10분",
-      "link": "https://n.news.naver.com/mnews/article/020/0003750700",
+      "title": "성인 3명 중 1명 \"백신 망설여\"…틱톡·유튜브 알고리즘이 키운 '백신 불신'",
+      "link": "https://n.news.naver.com/mnews/article/277/0005821276",
+      "section": "102",
+      "image": "images/article_11.png",
+      "ok": true,
+      "infographics": [
+        {
+          "image": "images/infographics/article_11_2.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "13.6만 vs 6.7만…부산 '부캉이' 한 마리가 여수섬박람회 눌렀다",
+      "link": "https://n.news.naver.com/mnews/article/082/0001399937",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“제 선물이에요” 초6이 건넨 손뜨개 키링에 아파트 이웃들 '미소'",
-      "link": "https://n.news.naver.com/mnews/article/030/0003469961",
+      "title": "안민석, OECD서 '경기교육대전환' 소개…폰프리·문예체·벽깨기",
+      "link": "https://n.news.naver.com/mnews/article/421/0009193633",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"나나가 날 죽이려 했다\" 황당 주장한 강도…결국 '무고' 추가 기소",
-      "link": "https://n.news.naver.com/mnews/article/448/0000641582",
+      "title": "정원도 못 채우고 수장 없이 출발하는 중수청, 초기 혼란 '불가피'",
+      "link": "https://n.news.naver.com/mnews/article/008/0005418565",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "추석 연휴에 안산서 노모 살해한 50대 딸 검거",
-      "link": "https://n.news.naver.com/mnews/article/081/0003683592",
+      "title": "절정 지난 귀경길 고속도로 정체 완화…오후 10시부터 해소 전망",
+      "link": "https://n.news.naver.com/mnews/article/421/0009193628",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_15_2.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "젤렌스키 “미국, 러시아와 종전 3자 회담 장소로 UAE 제안”",
-      "link": "https://n.news.naver.com/mnews/article/025/0003553796",
+      "title": "미 주식 매수 해외자금...1년간 1,280조원 순매수 '역대 최대'",
+      "link": "https://n.news.naver.com/mnews/article/052/0002411611",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "오픈AI AI 에이전트, 미국 증권거래위 웹사이트 '무단접근'",
-      "link": "https://n.news.naver.com/mnews/article/001/0016337249",
+      "title": "\"미군 사용 영 남부 공군기지 근처서 폭발물 관련해 수 명 붙잡혀\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0014216008",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"호르무즈 말고 트럼프 해협\" 지도 올린 트럼프",
-      "link": "https://n.news.naver.com/mnews/article/469/0000956062",
+      "title": "파타야서 한국인 추정 男 홍수에 휩쓸려 실종…경찰 수색",
+      "link": "https://n.news.naver.com/mnews/article/021/0002821399",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_18_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "시진핑, 미국 국빈 방문 일정 마무리하고 귀국길",
-      "link": "https://n.news.naver.com/mnews/article/052/0002411221",
+      "title": "한국 여자핸드볼, 8년 만에 금메달",
+      "link": "https://n.news.naver.com/mnews/article/056/0012263730",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "농산물·희토류 소득... AI·안보 갈등 덮은 미중 담판",
-      "link": "https://n.news.naver.com/mnews/article/469/0000956010",
+      "title": "트럼프 “이란 ‘호르무즈 해협 재개방’ 제안 거절해”",
+      "link": "https://n.news.naver.com/mnews/article/366/0001194494",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
