@@ -1,15 +1,10 @@
 [
   {
     "presses": [
-      "KBS",
       "MBC",
-      "YTN",
-      "경향신문",
       "뉴스1",
       "뉴시스",
       "동아일보",
-      "머니투데이",
-      "문화일보",
       "서울신문",
       "세계일보",
       "이데일리",
@@ -18,92 +13,50 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "靑 “우크라가 송환 보안 요구…합의 없다는 허위 공보 사과하라”",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260928/134740518/1",
+        "title": "젤렌스키 “북한군 8000명 러 주둔…1만명 추가 파병”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260929/134748829/1",
         "score": 2
       },
       {
         "press": "한겨레",
-        "title": "청와대 “‘포로 송환 비공개합의 없었다’는 거짓 발표…우크라 사과하라”",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279670.html",
-        "score": 2
-      },
-      {
-        "press": "경향신문",
-        "title": "청와대 “‘북한군 포로송환 비공개 합의 없었다’는 허위 공보…우크라에 강력 유감·사과 요구”",
-        "link": "https://www.khan.co.kr/article/202609280000001/?nv=stand",
+        "title": "젤렌스키 “러시아에 북한군 8천명…1만명 추가 배치 준비”",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1279893.html",
         "score": 2
       },
       {
         "press": "세계일보",
-        "title": "靑 “북한군 포로 송환 비공개 합의 위반“…우크라에 해명·사과 요",
-        "link": "https://www.segye.com/newsView/20260928500104",
-        "score": 2
-      },
-      {
-        "press": "문화일보",
-        "title": "北포로 송환 놓고 韓·우크라 ‘정면충돌’…“거짓 발표, 공식 사과하라” 靑 발끈",
-        "link": "https://www.munhwa.com/article/11619673",
+        "title": "우크라 \"러에 북한군 8000명 있어…1만명 추가 배치 준비중\"",
+        "link": "https://www.segye.com/newsView/20260929501219",
         "score": 2
       },
       {
         "press": "서울신문",
-        "title": "靑 “우크라의 ‘北포로 일방공개·허위공보’… 사과 요구”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/27/20260927500101",
-        "score": 2
-      },
-      {
-        "press": "서울신문",
-        "title": "“쇼한다”…한국 뒤통수 친 젤렌스키에, 우크라도 북한군 포로 송환 공개 놓고 설전",
-        "link": "https://www.seoul.co.kr/news/international/2026/09/27/20260927500055",
+        "title": "젤렌스키 “러에 북한군 8000명”…한반도 안보위협 경고",
+        "link": "https://www.seoul.co.kr/news/2026/09/29/20260929500006",
         "score": 2
       },
       {
         "press": "뉴시스",
-        "title": "靑 \"우크라가 먼저 비공개 요구 거짓발표 유감…공식사과 촉구\"",
-        "link": "https://www.newsis.com/view/NISX20260927_0003804491",
+        "title": "젤렌스키 \"러에 북한군 8천명 주둔 北, 러 기술로 공격 드론 생산 시작\"",
+        "link": "https://www.newsis.com/view/NISX20260929_0003806152",
         "score": 2
       },
       {
         "press": "뉴스1",
-        "title": "靑 \"우크라가 송환 비공개 요구…허위 공보, 해…",
-        "link": "https://www.news1.kr/politics/president/6302570",
-        "score": 2
-      },
-      {
-        "press": "뉴스1",
-        "title": "靑 \"우크라가 송환 비공개 요구…허위…",
-        "link": "https://www.news1.kr/politics/president/6302570",
+        "title": "젤렌스키 \"北, 러에 1만명 추가 파병 준비\"……",
+        "link": "https://www.news1.kr/world/europe/6303926",
         "score": 2
       },
       {
         "press": "이데일리",
-        "title": "靑, 우크라에 北포로 송환 공개 사과 요구…“비공개 합의 부인은 거짓”",
-        "link": "https://www.edaily.co.kr/news/read?newsId=02050006645584384",
-        "score": 2
-      },
-      {
-        "press": "머니투데이",
-        "title": "'北 포로, 비공개 합의 없었다' 우크라에 靑 \"거짓 발표, 강력한 유감\"",
-        "link": "https://www.mt.co.kr/politics/2026/09/27/2026092723321868834?STAND=MT",
-        "score": 2
-      },
-      {
-        "press": "YTN",
-        "title": "청와대 \"우크라 '비공개 합의 없었다' 거짓 발표…공식 사과 요구\"",
-        "link": "https://www.ytn.co.kr/_cs/_ln_0101_202609280425076668_005.html",
-        "score": 2
-      },
-      {
-        "press": "KBS",
-        "title": "청와대 “‘비공개 합의 없었다’ 우크라 측 허위 공보…공식 해명·사과 요구”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672262",
+        "title": "젤렌스키 \"북한군 8000명 러 주둔…1만명 추가 배치 준비중\"",
+        "link": "https://www.edaily.co.kr/news/read?newsId=02292726645585040",
         "score": 2
       },
       {
         "press": "MBC",
-        "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6854395_36911.html",
+        "title": "젤렌스키 \"러에 북한군 8천 명\"‥포로 송환 언급은 안 해",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854639_37012.html",
         "score": 2
       }
     ]
@@ -111,80 +64,141 @@
   {
     "presses": [
       "KBS",
-      "노컷뉴스",
-      "뉴스1",
-      "세계일보",
-      "한겨레"
+      "SBS",
+      "YTN",
+      "국민일보",
+      "서울신문",
+      "세계일보"
     ],
     "articles": [
       {
-        "press": "한겨레",
-        "title": "이 대통령, 미국·멕시코 순방 귀국길에 기자들과 차담회 [포토]",
-        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279572.html",
-        "score": -3
+        "press": "국민일보",
+        "title": "북한, 유엔총회서 “핵보유국 지위 되돌릴 수 없다”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000018046&code=61111611&sid1=pol",
+        "score": 2
       },
       {
         "press": "세계일보",
-        "title": "트럼프, 기조연설도 미루고 李와 회담 연장 지난주 유엔총회를 계기로 한·미 간 ‘깜짝’ 정상회담이 성사된 가운데 도널드 트럼프 미국 대통령이 예정된 일정을 미뤄가며 한국과의 정상회담에 임했던 것으로 전해졌다. 트럼프 대통령은 이재명 대통령과 골프 회동을 위한 구체적인 스케줄을 잡으라고 지시한 것으로도 알려졌다.이 대통령의 미국·멕시코 순방을 수행 중인 청와대 관계자는 26일(현지시간) 취재진과 만나 “한·미 정상회담을 미국 측에서 7시20분에 하자고 했고, 트럼프 대통령의 기조연설이 7",
-        "link": "https://www.segye.com/newsView/20260927510837",
-        "score": 5
+        "title": "북한 대표, 유엔서 “핵보유국 지위 무엇으로도 되돌릴 수 없다” 북한 대표가 유엔총회 연설에서 핵보유국 지위는 “무엇으로도 되돌릴 수 없다”고 주장했다. 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과의 대화를 추진하려는 상황에서 북한 비핵화는 대화 의제가 될 수 없다는 점을 강조한 것으로 풀이된다. 김선경 북한 외무성 부상(차관)은 28일(현지시간) 미국 뉴욕 유엔본부에서 열린 제81차 유엔총회 일반토의 연설에서 “핵보유국 지위는 그 어떤 경우에도 그 무엇으로도 되돌릴 수 없다는 공식 입장을 다시금",
+        "link": "https://www.segye.com/newsView/20260929502963",
+        "score": 2
       },
       {
-        "press": "뉴스1",
-        "title": "이재명 대통령의 국정수행 지지율이 2주 연속 상승하면서 37.9%를 기록했다. 정당 …",
-        "link": "https://www.news1.kr/politics/president/6302607",
-        "score": 3
+        "press": "세계일보",
+        "title": "北외무성 부상 \"핵보유국 지위, 무엇으로도 되돌릴 수 없어\"",
+        "link": "https://www.segye.com/newsView/20260929500757",
+        "score": 2
       },
       {
-        "press": "뉴스1",
-        "title": "李대통령, 순방 끝 내치 복귀…강…",
-        "link": "https://www.news1.kr/politics/president/6302436",
-        "score": 0
+        "press": "서울신문",
+        "title": "北 “핵보유국 되돌릴 수 없어” 트럼프‧김정은 언급 안해",
+        "link": "https://www.seoul.co.kr/news/international/2026/09/29/20260929500005",
+        "score": 2
       },
       {
-        "press": "노컷뉴스",
-        "title": "추석연휴에 美·멕시코 순방 마친 李대통령…남은 과제는",
-        "link": "https://www.nocutnews.co.kr/news/6583493",
-        "score": 0
+        "press": "YTN",
+        "title": "북한, 유엔에서 \"비핵화 불가\"…트럼프 '기선제압' 성격",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609290504439777_005.html",
+        "score": 2
+      },
+      {
+        "press": "SBS",
+        "title": "북한, 유엔서 '핵보유국' 강변…\"되돌릴 수 없다\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773810&plink=STAND&cooper=NAVER",
+        "score": 2
       },
       {
         "press": "KBS",
-        "title": "트럼프, 유엔총회 리셉션 연설 늦춰 이 대통령과 30분 회담…“12월 골프 일정 잡아보라”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672239",
+        "title": "북한, 2년 연속 유엔 연설…“핵보유국 지위, 되돌릴 수 없어”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673303",
         "score": 2
       }
     ]
   },
   {
     "presses": [
+      "KBS",
       "MBC",
-      "국민일보",
-      "노컷뉴스",
-      "뉴스1"
+      "SBS",
+      "뉴스1",
+      "중앙일보"
     ],
     "articles": [
       {
-        "press": "국민일보",
-        "title": "공화당 의원은 “이란 전쟁 끝내라” 트럼프는 ‘마이웨이’…“트럼프 역류 ‘방사능’ 수준",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017673&code=61131111&sid1=int",
-        "score": 2
+        "press": "중앙일보",
+        "title": "북한군 지뢰 추정 icon_video",
+        "link": "https://www.joongang.co.kr/article/25465325",
+        "score": 0
       },
       {
         "press": "뉴스1",
-        "title": "트럼프 \"11월 중간선거 전 이란 추가 …",
-        "link": "https://www.news1.kr/world/usa-canada/6302595",
-        "score": 2
+        "title": "국회 국방위원회는 29일 서부전선 비무장지대(DMZ) 내 지뢰 추정 폭발 사고 …",
+        "link": "https://www.news1.kr/politics/assembly/6303583",
+        "score": 0
       },
       {
-        "press": "노컷뉴스",
-        "title": "이란 외무 \"전쟁 맞서는 동시에 외교·협상 준비도 돼 있어\"",
-        "link": "https://www.nocutnews.co.kr/news/6583503",
+        "press": "SBS",
+        "title": "[속보] 청와대 \"지뢰 사고 현장조사, 군사적 판단…대통령 유엔 연설과 무관\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774160&plink=STAND&cooper=NAVER",
+        "score": 4
+      },
+      {
+        "press": "KBS",
+        "title": "[영상] 군 “DMZ 폭발, 북한 지뢰 가능성 매우 높아”…중간조사 브리핑",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673507",
         "score": 2
       },
       {
         "press": "MBC",
-        "title": "\"미 공화당 선거 전망 최악\"‥트럼프 조사 예고",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854435_37012.html",
+        "title": "\"목함 지뢰 형태와 유사‥북한군 가능성 높다\" ◀ 앵커 ▶ 서부전선 비무장 지대 내 폭발 사고 원인이, 북한군 지뢰일 가능성이 높다는 우리 군의 조사 결과가 나왔습니다. ◀ 앵커 ▶ 파편 등 폭발 흔적이 우리 군 지뢰와 달랐고, 현장 근처에서 북한군 지뢰를 목격했다는 장병들 진술이 나왔기 때문입니다. 김윤미 기자입니다. ◀ 리포트 ▶ 지뢰 추정 폭발 사고가 발생한 지 일주일 만에 폭발 현장 2미터 이내까지 접근한 현장 조사팀은 웅덩이 형태의 화구 2개를 발견했습니다. 1차 폭발로 후미에 있던 중사가 다치고, 1분 뒤 안전 조치를 위해 수색대대장이 접근하다 2차 폭발이 일어났다는 장병들의 진술과 정확히 일치합니다. 장병들은 또 폭발 지점에서 약 1미터 떨어진 곳에서 북한군의 '수지 반보병지뢰'를 목격했다고 진술했습니다. 사고 당시 지뢰 2발이 연속 폭발한 뒤, 작전 병력이 철수하는 과정에서 미폭발 지뢰 1발을 추가로 발견한 겁니다. 수지 반보병지뢰는 외형이 플라스틱 재질로 되어 있어 일반 금속탐지기에는 잘 포착되지 않습니다. 국립과학수사연구원도 우리 군 지뢰가 아닌 걸로 판단했습니다. 부상 장병들이 당시 착용했던 장구류를 화학 분석한 결과, TNT 성분과 갈색 계열의 이물질이 검출된 겁니다. 북한군이 주로 사용하는 목함지뢰에는 약 220g의 TNT 폭약이 들어가는 것으로 알려져 있습니다. 폭발 후 파편도 우리 군 지뢰와 달랐습니다. [권대원/합동참모차장] \"철제 파편이 없는 것을 고려 시 폭발 원인은 아군 지뢰가 아닌 것이 확실한 점…\" 군은 유엔군사령부와의 합동 분석 결과에서도 북한군 지뢰로 최종 판명될 경우 이에 상응하는 조치를 취할 것이며, 이번 사태의 모든 책임은 북한에 있음을 분명히 했습니다. 또 현장 조사에 폭발 당시 현장에 있던 장병들이 다시 들어가겠다고 자원해 조사를 앞당길 수 있었다며, 고의 지연 의혹은 전혀 사실이 아니라고 일축했습니다. MBC뉴스 김윤미입니다.",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854635_37012.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "국민일보",
+      "노컷뉴스",
+      "뉴스1",
+      "문화일보",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "국민일보",
+        "title": "‘DMZ 폭발’ 콕 짚더니 “북한군 참전으로 한반도 상황 악화”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000018036&code=61111611&sid1=pol",
+        "score": 2
+      },
+      {
+        "press": "국민일보",
+        "title": "“DMZ 폭발 北 지뢰 가능성… 확인 땐 北 책임”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017969&code=11121400&sid1=pol",
+        "score": 2
+      },
+      {
+        "press": "문화일보",
+        "title": "“지뢰 폭발 사고 누가 봐도 北 도발… 비겁한 늑장 대응” 합참 DMZ 폭발 발표에 국힘 맹공",
+        "link": "https://www.munhwa.com/article/11619977",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "軍 “DMZ 폭발, 北 지뢰 가능성 높아… 상응 조치할 것”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/29/20260929001004",
+        "score": 2
+      },
+      {
+        "press": "뉴스1",
+        "title": "국회 국방위, 오늘 DMZ 지뢰 사고 현안…",
+        "link": "https://www.news1.kr/politics/assembly/6303583",
+        "score": 0
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "5 '北지뢰 가능성' 안보 이슈 수세 몰린 與…때리는 野는 꽃놀이패",
+        "link": "https://www.nocutnews.co.kr/news/6584124",
         "score": 2
       }
     ]
@@ -192,127 +206,147 @@
   {
     "presses": [
       "SBS",
+      "YTN",
       "뉴스1",
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "대통령 지지 37.9%… 호남 13.7%p상승",
-        "link": "https://www.munhwa.com/article/11619716",
-        "score": 0
-      },
-      {
-        "press": "뉴스1",
-        "title": "李대통령 지지율 37.9% 2주 연속↑…민…",
-        "link": "https://www.news1.kr/politics/president/6302607",
-        "score": 0
-      },
-      {
-        "press": "SBS",
-        "title": "이 대통령 지지율, 전임 대통령과 비교해 보니 [사실은]",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767800&plink=STAND&cooper=NAVER",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "경향신문",
-      "뉴스1"
-    ],
-    "articles": [
-      {
-        "press": "경향신문",
-        "title": "김민석은 사고 현장으로, 장동혁은 강신철 국방 장관 접견···여야 ‘지뢰 추정 사고’ 대치",
-        "link": "https://www.khan.co.kr/article/202609280740001/?nv=stand",
-        "score": 5
-      },
-      {
-        "press": "뉴스1",
-        "title": "여야 'DMZ 지뢰사고' 대치…김민석 현장점검·…",
-        "link": "https://www.news1.kr/politics/assembly/6302420",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴시스",
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "“한동훈 때문에 미치겠다”는 이하늘…韓이 남긴 네 글자",
-        "link": "https://www.munhwa.com/article/11619633",
-        "score": 5
-      },
-      {
-        "press": "뉴시스",
-        "title": "이하늘 \"한동훈 때문에 미칠 것 같아\"…한동훈 \"한잔해요\"",
-        "link": "https://www.newsis.com/view/NISX20260927_0003804139",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "SBS",
       "한겨레"
     ],
     "articles": [
       {
         "press": "한겨레",
-        "title": "이 대통령 ‘심란한 귀국’…인사·재제청·내란 특수본 ‘난제 겹겹’",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1279665.html",
+        "title": "국힘 ‘운명의 일주일’…397억 토해낼라, 오세훈·추경호 직 잃을라",
+        "link": "https://www.hani.co.kr/arti/society/society_general/1279822.html",
+        "score": 5
+      },
+      {
+        "press": "뉴스1",
+        "title": "'국힘 397억' 걸린 윤석열 선거법 항소…",
+        "link": "https://www.news1.kr/society/court-prosecution/6303502",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "'국힘 397억 반환' 걸린 윤석열 선거법 2심 오늘 결심…1심은 당선무효형",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0103_202609290834429654_005.html",
         "score": 2
       },
       {
         "press": "SBS",
-        "title": "이 대통령, 순방 마치고 귀국…'인선' 등 국내 현안 산적",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771930&plink=STAND&cooper=NAVER",
+        "title": "'국힘 397억' 걸린 윤석열 선거법 2심 오늘 마무리",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773909&plink=STAND&cooper=NAVER",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "경향신문",
-      "국민일보"
+      "노컷뉴스",
+      "동아일보",
+      "서울신문"
     ],
     "articles": [
       {
-        "press": "경향신문",
-        "title": "조희대 ‘재제청 거부’에 대응책 없는 민주당···‘법원행정처 폐지’ 법원조직법 개정 ‘만지작’",
-        "link": "https://www.khan.co.kr/article/202609272041005/?nv=stand",
+        "press": "동아일보",
+        "title": "與 “조희대, 임명권 침해” 국감증인 채택…대법 “曺격노설 거짓”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260929/134747869/2",
         "score": 2
       },
       {
-        "press": "국민일보",
-        "title": "“조희대, 재제청 의견 묵살”…與, 새 의혹 제기하며 “직권남용” 공격",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017645&code=11121100&sid1=pol",
+        "press": "서울신문",
+        "title": "與, 조희대 ‘국감 일반 증인’ 채택… 曺 “국감서 말할 것”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/29/20260929006004",
+        "score": 2
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "조희대, 국감 증인으로…與 단독 채택에 野 퇴장",
+        "link": "https://www.nocutnews.co.kr/news/6584050",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS",
+      "MBC",
+      "이데일리"
+    ],
+    "articles": [
+      {
+        "press": "이데일리",
+        "title": "지방선거 신규 선출직 평균재산 13.5억…350억 자산가는",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01082406645585040",
+        "score": 0
+      },
+      {
+        "press": "KBS",
+        "title": "지방선거 신규 당선자 평균 재산 13억 5천만 원…봉화군수 349억 원",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673249",
+        "score": 0
+      },
+      {
+        "press": "MBC",
+        "title": "靑 신임 참모 평균 재산 43억‥박지영 92억·김경자 다주택",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6854688_36911.html",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보",
+      "서울신문"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "與, 내달초 ‘조작기소 특검법’ 본회의 처리 검토",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260929/134748516/2",
+        "score": 2
+      },
+      {
+        "press": "서울신문",
+        "title": "조작기소 특검법 이르면 이번주 처리…與 “필버 대비 일정 조정”",
+        "link": "https://www.seoul.co.kr/news/politics/2026/09/29/20260929008004",
         "score": 2
       }
     ]
   },
   {
     "presses": [
-      "MBC",
+      "KBS",
       "노컷뉴스"
     ],
     "articles": [
       {
         "press": "노컷뉴스",
-        "title": "'매국'부터 '탄핵'까지…DMZ 사고에 거칠어진 與野",
-        "link": "https://www.nocutnews.co.kr/news/6583471",
+        "title": "北포로 송환 마쳤는데…한·우크라 '비공개 합의' 공개충돌",
+        "link": "https://www.nocutnews.co.kr/news/6584130",
         "score": 2
       },
       {
-        "press": "MBC",
-        "title": "민주 \"추석 화두는 민생\"‥국힘, DMZ 폭발에 \"탄핵\"",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854410_37012.html",
+        "press": "KBS",
+        "title": "포로 이송 공개에 우크라 언론도 “외교적 실책” 비판",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673306",
         "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "노컷뉴스"
+    ],
+    "articles": [
+      {
+        "press": "노컷뉴스",
+        "title": "단독 민주당, '김민석 저격' 59만 유튜버 시사타파 비상징계 검토",
+        "link": "https://www.nocutnews.co.kr/news/6584129",
+        "score": 5
+      },
+      {
+        "press": "노컷뉴스",
+        "title": "1 [단독]민주당, '김민석 저격' 59만 유튜버 시사타파 비상징계 검토",
+        "link": "https://www.nocutnews.co.kr/news/6584129",
+        "score": 7
       }
     ]
   },
@@ -323,48 +357,9 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "장동혁 “이 대통령, 김정은 심기경호” icon_video",
-        "link": "https://www.joongang.co.kr/article/25465005",
+        "title": "강경파 ‘멸칭 자제령’ 내린 김민석⋯김어준은?",
+        "link": "https://www.joongang.co.kr/article/25465448",
         "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "“李대통령, ‘때려잡아야 할 대상’ 국민에서 찾지 말라…오세훈, 농지조사 비판",
-        "link": "https://www.munhwa.com/article/11619597",
-        "score": 5
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "[단독] 폭발 현장 장병들 \"北 목함지뢰 봤다\"",
-        "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/28/O2RKD7EP7NGVRHBK4YNUKMIFOA/",
-        "score": 4
-      }
-    ]
-  },
-  {
-    "presses": [
-      "한겨레"
-    ],
-    "articles": [
-      {
-        "press": "한겨레",
-        "title": "한동훈이 자초한 3개의 수사, 뿌린 대로 거둘 시간 [논썰]",
-        "link": "https://www.hani.co.kr/arti/politics/politics_general/1279370.html",
-        "score": 3
       }
     ]
   },
@@ -388,8 +383,8 @@
     "articles": [
       {
         "press": "조선일보",
-        "title": "김승원 35가지 회계부정 의혹 \"與·선관위, 제보받고 뭉개\"",
-        "link": "https://www.chosun.com/politics/assembly/2026/09/28/57N5HM22GRCJVKPK7HYRYZF27A/",
+        "title": "스위스, 안보 위기… '200년 절대 중립' 푼다",
+        "link": "https://www.chosun.com/international/international_general/2026/09/29/LTKZB4RCDJG7DJPBPQB65LATGI/",
         "score": 2
       }
     ]
@@ -401,8 +396,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "“김정일, 내 취임식 오려해” MB가 푼 北 황당 조건",
-        "link": "https://www.joongang.co.kr/article/25465113",
+        "title": "전신 깁스 뒤 강제북송⋯중국서 북한판 ‘여우사냥’",
+        "link": "https://www.joongang.co.kr/article/25465515",
         "score": 2
       }
     ]
@@ -414,21 +409,8 @@
     "articles": [
       {
         "press": "중앙일보",
-        "title": "“유시민 골칫덩이” 집토끼 들쑤시는데 與 속수무책, 왜",
-        "link": "https://www.joongang.co.kr/article/25464992",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "중앙일보"
-    ],
-    "articles": [
-      {
-        "press": "중앙일보",
-        "title": "‘軍대인지뢰 28g, 北 목함지엔 200g’⋯발견된 곳은?",
-        "link": "https://www.joongang.co.kr/article/25465117",
+        "title": "[조민근] ‘청와대 정부’의 함정",
+        "link": "https://www.joongang.co.kr/article/25465398",
         "score": 2
       }
     ]
@@ -440,8 +422,47 @@
     "articles": [
       {
         "press": "동아일보",
-        "title": "‘모란꽃 문양 바지’ ‘전통 칼라 드레스’… 美中 정상부인 의상 외교",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260927/134739507/2",
+        "title": "北 적반하장 “韓 핵잠수함 추진, 핵 보유로 이어질것”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260929/134748963/1",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "동아일보"
+    ],
+    "articles": [
+      {
+        "press": "동아일보",
+        "title": "李 “농수축산업은 안보전략산업…FTA 기금 1조 정부 재정 투입”",
+        "link": "https://www.donga.com/news/NewsStand/article/all/20260929/134749114/1",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "이 대통령 “거짓과 음해 당당히 대응”…여권 강경파 겨눴나",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1279854.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "한겨레"
+    ],
+    "articles": [
+      {
+        "press": "한겨레",
+        "title": "청와대 “젤렌스키 엄청난 외교 결례”…외교부, 주한우크라 대사대리 초치",
+        "link": "https://www.hani.co.kr/arti/politics/politics_general/1279833.html",
         "score": 2
       }
     ]
@@ -453,8 +474,8 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "‘김건희에 로저비비에 선물’ 김기현 부부, 오늘 1심 결심···특검 구형 주목",
-        "link": "https://www.khan.co.kr/article/202609280754001/?nv=stand",
+        "title": "“주중 북한대사관 내 ‘지하 비밀 감옥’ 있다…탈북 시도자 감금·취조 후 북송”",
+        "link": "https://www.khan.co.kr/article/202609290757011/?nv=stand",
         "score": 2
       }
     ]
@@ -466,8 +487,34 @@
     "articles": [
       {
         "press": "경향신문",
-        "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호",
-        "link": "https://www.khan.co.kr/article/202609272046005/?nv=stand",
+        "title": "내란특검·종합특검 이어 ‘내란 특수본’까지?···“과유불급” 비판",
+        "link": "https://www.khan.co.kr/article/202609290600031/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "군 “북한군 수지 반보병지뢰 발견 진술…최종 판정 시 상응 조치”",
+        "link": "https://www.khan.co.kr/article/202609282151001/?nv=stand",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "이 대통령 “누군가 글 인용한다고 과거 주장 모두 동조하는 것 아냐”···김어준에 반박?",
+        "link": "https://www.khan.co.kr/article/202609282101001/?nv=stand",
         "score": 2
       }
     ]
@@ -479,9 +526,138 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "젤렌스키가 전한 ‘北포로 한국행’…李 ‘대북 유화책’ 흔드나",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017631&code=11121100&sid1=pol",
+        "title": "[단독] 北포로 1명 귀순 거부, 우크라는 무기 요청…끝까지 설득했다",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017959&code=11121100&sid1=pol",
         "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "뉴스1"
+    ],
+    "articles": [
+      {
+        "press": "뉴스1",
+        "title": "베이징 北대사관에 '비밀감옥'…\"…",
+        "link": "https://www.news1.kr/nk/politics-diplomacy/6303603",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "디지털타임스"
+    ],
+    "articles": [
+      {
+        "press": "디지털타임스",
+        "title": "李대통령 “코리아 디스카운트 해소…아시아 최고 매력 시장 만들 것”",
+        "link": "https://www.dt.co.kr/article/12086206",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "YTN"
+    ],
+    "articles": [
+      {
+        "press": "YTN",
+        "title": "매설이냐, 유실이냐, '흙' 보면 알 수 있다?…北 지뢰 수상한 단서 [이슈톺]",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0134_202609290901571729_005.html",
+        "score": 2
+      },
+      {
+        "press": "YTN",
+        "title": "시리즈 매설이냐, 유실이냐, '흙' 보면 알 수 있다?...北 지뢰 수상한 단서 [이슈톺]",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0134_202609290901571729_005.html",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "이 대통령 “농축수산업 전략안보산업 중요성 잘 알아…CPTPP 관련 의견 수렴 지시”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673508",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "“음료수병 링거·할머니 얼굴 아이”…CNN, 북한 희귀 영상 공개",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673330",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "KBS"
+    ],
+    "articles": [
+      {
+        "press": "KBS",
+        "title": "선거 급한 트럼프 “아이오와에 사상 최대 제철소 건설”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673307",
+        "score": 2
+      },
+      {
+        "press": "KBS",
+        "title": "선거 전인데 변호사부터 구한다…‘트럼프 거래’ 기업들 긴장",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673479",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "北 확성기, 11년 전 목함지뢰 땐 결론 내자마자 켰다",
+        "link": "https://www.joongang.co.kr/article/25465437",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "중앙일보"
+    ],
+    "articles": [
+      {
+        "press": "중앙일보",
+        "title": "[박종승] 자주국방, 적 압도할 무기와 인재에 달렸다",
+        "link": "https://www.joongang.co.kr/article/25465397",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "presses": [
+      "경향신문"
+    ],
+    "articles": [
+      {
+        "press": "경향신문",
+        "title": "비상계엄 사태는 잘 정리되고 있을까",
+        "link": "https://www.khan.co.kr/article/202609282027005/?nv=stand",
+        "score": 0
       }
     ]
   },
@@ -492,35 +668,9 @@
     "articles": [
       {
         "press": "국민일보",
-        "title": "‘왜 우리 대통령 거짓말쟁이 만드나’…청, 이례적 강경 대응",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017664&code=61111411&sid1=pol",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "국민일보"
-    ],
-    "articles": [
-      {
-        "press": "국민일보",
-        "title": "野 “北 눈치보기…李 탄핵 사유” 與 “총풍 공작당…음모론 양산”",
-        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017589&code=11121100&sid1=pol",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "세계일보"
-    ],
-    "articles": [
-      {
-        "press": "세계일보",
-        "title": "與 “야당 공세는 정쟁” 野 “국민 폭발 직전”… ‘아전인수’ 민심 해석",
-        "link": "https://www.segye.com/newsView/20260927508493",
-        "score": 2
+        "title": "리스크에 기민 대응… 청와대가 달라졌다",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000018013&code=11121100&sid1=pol",
+        "score": 0
       }
     ]
   },
@@ -531,229 +681,47 @@
     "articles": [
       {
         "press": "문화일보",
-        "title": "조국 “대통령에 부담만 안겼다”…민주당에 ‘공취모’ 즉각 해산 요구",
-        "link": "https://www.munhwa.com/article/11619648",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "李대통령·군 수뇌부 고발당해…“지뢰 문제, 두 달 방치 끝에 DMZ 폭발” 시민단체 주장",
-        "link": "https://www.munhwa.com/article/11619618",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "문화일보"
-    ],
-    "articles": [
-      {
-        "press": "문화일보",
-        "title": "트럼프에 다시 드리우는 ‘탄핵 그림자’…민주당 중간선거 이기면 “아무것도 배제 안 해”",
-        "link": "https://www.munhwa.com/article/11619676",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "與 “정치판 선 조희대”… 野 “청와대 ‘양김’ 나와라”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/28/20260928008003",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "서울신문"
-    ],
-    "articles": [
-      {
-        "press": "서울신문",
-        "title": "추석 밥상 달군 농지전쟁… 與 “죄송스럽다” 野 “수탈 멈춰라”",
-        "link": "https://www.seoul.co.kr/news/politics/2026/09/28/20260928008004",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "미중정상회담 '북한 비핵화' 표현 왜 빠졌을까?",
-        "link": "https://www.nocutnews.co.kr/news/6583500",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "4 '확 때려버릴라' 日에 또 비매너? 北 축구, 8강 패배 뒤 인사 거부…3년 전엔 강탈+폭행 위협",
-        "link": "https://www.nocutnews.co.kr/news/6583340",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "\"나 비판하면 대통령 전용기 못 타\"‥윤석열 따라하는 트럼프?",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854373_37004.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "이 대통령 \"개혁의 동력은 국민‥악의 가진 소수가 다수 좌지우지하기도\"",
-        "link": "https://imnews.imbc.com/news/2026/politics/article/6854381_36911.html",
-        "score": 2
-      }
-    ]
-  },
-  {
-    "presses": [
-      "조선일보"
-    ],
-    "articles": [
-      {
-        "press": "조선일보",
-        "title": "北포로들, 활동 제한에 우울증",
-        "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/28/DRBN2WAXEBFNPK7JB6JEXXKSRI/",
+        "title": "대통령 지지 37.9%… 호남 13.7%p상승",
+        "link": "https://www.munhwa.com/article/11619716",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "연휴때 美-멕시코 순방한 李, 靑 인선-내란특수본 설치 속도낼듯",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260928/134740368/2",
+        "press": "뉴스1",
+        "title": "순방 마친 李대통령, 반도체 챙긴다…삼성·SK…",
+        "link": "https://www.news1.kr/politics/president/6303479",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "동아일보"
+      "뉴스1"
     ],
     "articles": [
       {
-        "press": "동아일보",
-        "title": "김현지 제1부속실장 부친상… 靑에도 안알려",
-        "link": "https://www.donga.com/news/NewsStand/article/all/20260928/134739500/2",
+        "press": "뉴스1",
+        "title": "20대 대통령 선거를 앞두고 허위 사실을 공표한 혐의로 1심에서 당선무효형을 선…",
+        "link": "https://www.news1.kr/society/court-prosecution/6303502",
         "score": 0
       }
     ]
   },
   {
     "presses": [
-      "세계일보"
+      "YTN"
     ],
     "articles": [
       {
-        "press": "세계일보",
-        "title": "국회 국방위, 오늘 DMZ서 폭발사고 조사상황 점검…국힘 불참",
-        "link": "https://www.segye.com/newsView/20260928500681",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "뉴시스"
-    ],
-    "articles": [
-      {
-        "press": "뉴시스",
-        "title": "與, 오늘 법사위 긴급현안질의…조희대 공세",
-        "link": "https://www.newsis.com/view/NISX20260927_0003804269",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "노컷뉴스"
-    ],
-    "articles": [
-      {
-        "press": "노컷뉴스",
-        "title": "장관도, 총장도, 청장도 없다…김승원 낙마에 혼란 장기화",
-        "link": "https://www.nocutnews.co.kr/news/6582914",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "SBS"
-    ],
-    "articles": [
-      {
-        "press": "SBS",
-        "title": "북한 송국향, 세계 신기록 3개…여자 역도 69㎏급서 금",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771689&plink=STAND&cooper=NAVER",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "밀고 뛰쳐나가고‥일본 만나 또 거칠었던 북한 축구",
-        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854416_37012.html",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "presses": [
-      "MBC"
-    ],
-    "articles": [
-      {
-        "press": "MBC",
-        "title": "현직 검사, 수사권 박탈한 국회 상대로 헌재 권한쟁의심판 청구",
-        "link": "https://imnews.imbc.com/news/2026/society/article/6854345_36918.html",
+        "press": "YTN",
+        "title": "이 대통령이 젤렌스키 뺨을?…한국·우크라 갈등 부추기는 러시아 매체 [앵커리포트]",
+        "link": "https://www.ytn.co.kr/_cs/_ln_0104_202609290839221369_005.html",
         "score": 0
       }
     ]

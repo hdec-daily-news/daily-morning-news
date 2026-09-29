@@ -1,187 +1,181 @@
 {
-  "generated_at": "2026-09-28T08:36:33.973958+09:00",
-  "date_label": "9/28(월)",
+  "generated_at": "2026-09-29T09:49:43.964957+09:00",
+  "date_label": "9/29(화)",
   "articles": [
     {
-      "title": "영화 ‘암살자(들)’, 거장 박찬욱 “영리하고 스마트하다”는데 보수층은 왜 반발하나",
-      "link": "https://n.news.naver.com/mnews/article/033/0000052414",
+      "title": "군 \"북한군 지뢰 가능성 매우 커\"…'상응 조치' 경고",
+      "link": "https://n.news.naver.com/mnews/article/422/0000910559",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[단독] 폭발 현장 장병들 “北 목함지뢰 봤다”",
-      "link": "https://n.news.naver.com/mnews/article/023/0004000684",
+      "title": "정점식 \"저열한 北 도발 드러나…대북 확성기 즉시 재설치해야\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009196915",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "이 대통령, 귀국길 美앵커리지에서 청와대 출입기자단과 티타임",
-      "link": "https://n.news.naver.com/mnews/article/003/0014215401",
+      "title": "김어준 “李대통령, ‘알고리즘 감옥’ 갇혔다…리트윗하지 마세요”[이슈픽]",
+      "link": "https://n.news.naver.com/mnews/article/081/0003684101",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
-      "infographics": []
-    },
-    {
-      "title": "李 \"참여와 실천이 개혁세상 만든다…국민과 함께 이뤄져야\"",
-      "link": "https://n.news.naver.com/mnews/article/079/0004193109",
-      "section": "100",
-      "image": "images/article_04.png",
-      "ok": true,
       "infographics": [
         {
-          "image": "images/infographics/article_04_2.png",
+          "image": "images/infographics/article_03_3.png",
           "caption": ""
         }
       ]
     },
     {
-      "title": "與, 오늘 법사위 긴급현안질의…'재제청 거부' 조희대 공세",
-      "link": "https://n.news.naver.com/mnews/article/003/0014216372",
+      "title": "세 차례 타협 무산 뒤 재제청 거부한 대법원장…대법관 공석 끝낼 출구 있나",
+      "link": "https://n.news.naver.com/mnews/article/469/0000956477",
+      "section": "100",
+      "image": "images/article_04.png",
+      "ok": true,
+      "infographics": []
+    },
+    {
+      "title": "\"합의 어기고 거짓 발표까지\"…우크라 해명·사과 요구",
+      "link": "https://n.news.naver.com/mnews/article/055/0001391417",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
-      "link": "https://n.news.naver.com/mnews/article/055/0001391275",
+      "title": "[속보] 은행 9시 30분 문연다…내년 4월부터 ‘영업시간 30분 단축’",
+      "link": "https://n.news.naver.com/mnews/article/025/0003554244",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "특정 연령·출신 학교 제한?…한화에어로, ‘경력직 채용 지침’ 사과",
-      "link": "https://n.news.naver.com/mnews/article/016/0002702173",
+      "title": "5년내 두 번 담합 땐 시장서 퇴출",
+      "link": "https://n.news.naver.com/mnews/article/015/0005336781",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_07_1.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "예금 수익 2%일 때 '코스피200 ETF'는 81%…올해 재테크 수익률 1위",
-      "link": "https://n.news.naver.com/mnews/article/003/0014215713",
+      "title": "삼성전기, AI 호조에 영업이익률 10% 후반 찍나…실적 눈높이 높아진다",
+      "link": "https://n.news.naver.com/mnews/article/029/0003050087",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "갈아타면 싸진다더니…가계대출 조이자 대환 금리 역전(종합)",
-      "link": "https://n.news.naver.com/mnews/article/018/0006375934",
+      "title": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002702533",
       "section": "101",
       "image": "images/article_09.png",
-      "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_09_1.png",
-          "caption": ""
-        }
-      ]
-    },
-    {
-      "title": "수출·내수 동반 호조… 4분기 제조업 경기 전망 개선",
-      "link": "https://n.news.naver.com/mnews/article/081/0003683831",
-      "section": "101",
-      "image": "images/article_10.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "성인 3명 중 1명 \"백신 망설여\"…틱톡·유튜브 알고리즘이 키운 '백신 불신'",
-      "link": "https://n.news.naver.com/mnews/article/277/0005821276",
-      "section": "102",
-      "image": "images/article_11.png",
+      "title": "명륜진사갈비, 오너일가 대부업체에 3000억 저리대출…이종근 회장 檢고발",
+      "link": "https://n.news.naver.com/mnews/article/018/0006376302",
+      "section": "101",
+      "image": "images/article_10.png",
       "ok": true,
       "infographics": [
         {
-          "image": "images/infographics/article_11_2.png",
+          "image": "images/infographics/article_10_2.png",
+          "caption": ""
+        },
+        {
+          "image": "images/infographics/article_10_3.png",
           "caption": ""
         }
       ]
     },
     {
-      "title": "13.6만 vs 6.7만…부산 '부캉이' 한 마리가 여수섬박람회 눌렀다",
-      "link": "https://n.news.naver.com/mnews/article/082/0001399937",
+      "title": "부산 ‘부캉이’ 오늘 먼 바다로 내보낸다… 물대포 쏴 생기는 진동으로 유도",
+      "link": "https://n.news.naver.com/mnews/article/023/0004000781",
+      "section": "102",
+      "image": "images/article_11.png",
+      "ok": true,
+      "infographics": []
+    },
+    {
+      "title": "추미애 \"창릉 입주 늘면 교통·녹지도 더 늘려야\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005336626",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "안민석, OECD서 '경기교육대전환' 소개…폰프리·문예체·벽깨기",
-      "link": "https://n.news.naver.com/mnews/article/421/0009193633",
+      "title": "‘불영어’ 논란 뒤 난도 낮춘 9월 모평…영어 1등급 15.5%",
+      "link": "https://n.news.naver.com/mnews/article/011/0004666185",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정원도 못 채우고 수장 없이 출발하는 중수청, 초기 혼란 '불가피'",
-      "link": "https://n.news.naver.com/mnews/article/008/0005418565",
+      "title": "\"국민연금에 반도체 초과세수 활용을 … 초기 투입땐 복리효과 극대화\"",
+      "link": "https://n.news.naver.com/mnews/article/009/0005741002",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "절정 지난 귀경길 고속도로 정체 완화…오후 10시부터 해소 전망",
-      "link": "https://n.news.naver.com/mnews/article/421/0009193628",
+      "title": "‘온통대전’ 10~11월 최대 15% 캐시백 펼친다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004666254",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_15_2.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "미 주식 매수 해외자금...1년간 1,280조원 순매수 '역대 최대'",
-      "link": "https://n.news.naver.com/mnews/article/052/0002411611",
+      "title": "젠슨 황·이재용·최태원 뉴욕 회동 예정…“반도체·AI 협력 논의될 듯”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012264585",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"미군 사용 영 남부 공군기지 근처서 폭발물 관련해 수 명 붙잡혀\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014216008",
+      "title": "“AI가 AI를 개발한다면”…22명 연구자 경고 “수년의 진보, 수개월로 압축될 수도”",
+      "link": "https://n.news.naver.com/mnews/article/029/0003050326",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "파타야서 한국인 추정 男 홍수에 휩쓸려 실종…경찰 수색",
-      "link": "https://n.news.naver.com/mnews/article/021/0002821399",
+      "title": "佛극우 또 세력 확장…국민연합, 사상 첫 상원 교섭단체 구성",
+      "link": "https://n.news.naver.com/mnews/article/001/0016339756",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
-      "infographics": []
+      "infographics": [
+        {
+          "image": "images/infographics/article_18_3.png",
+          "caption": ""
+        }
+      ]
     },
     {
-      "title": "한국 여자핸드볼, 8년 만에 금메달",
-      "link": "https://n.news.naver.com/mnews/article/056/0012263730",
+      "title": "이란 미사일에 호르무즈서 美해병대원 8명 부상…10일 뒤 집계",
+      "link": "https://n.news.naver.com/mnews/article/421/0009196755",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "트럼프 “이란 ‘호르무즈 해협 재개방’ 제안 거절해”",
-      "link": "https://n.news.naver.com/mnews/article/366/0001194494",
+      "title": "우크라 드론에 속수무책…러, 민간기업에 방어책임 떠넘겼다",
+      "link": "https://n.news.naver.com/mnews/article/025/0003554030",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
