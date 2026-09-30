@@ -1,55 +1,95 @@
 {
-  "generated_at": "2026-09-29T09:49:44.187972+09:00",
-  "window_start": "2026-09-28T15:00:00+09:00",
-  "window_end": "2026-09-29T06:00:00+09:00",
+  "generated_at": "2026-09-30T09:04:22.224441+09:00",
+  "window_start": "2026-09-29T15:00:00+09:00",
+  "window_end": "2026-09-30T06:00:00+09:00",
   "items": [
     {
+      "source": "연합뉴스",
+      "title": "2026 아이치·나고야 아시안게임 메달리스트 (29일)",
+      "link": "https://www.yna.co.kr/view/GYH20260929000900044?section=graphic/index",
+      "image_url": "https://img6.yna.co.kr/etc/graphic/YH/2026/09/29/GYH2026092900090004400_P1.jpg",
+      "pubdate": "2026-09-29T22:36:00+09:00",
+      "image": "images/graphics/연합뉴스_01.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2026 아이치·나고야 아시안게임 국가별 메달 현황 (29일)",
+      "link": "https://www.yna.co.kr/view/GYH20260929000800044?section=graphic/index",
+      "image_url": "https://img1.yna.co.kr/etc/graphic/YH/2026/09/29/GYH2026092900080004400_P1.jpg",
+      "pubdate": "2026-09-29T22:33:00+09:00",
+      "image": "images/graphics/연합뉴스_02.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "보이스피싱 피해 현황",
+      "link": "https://www.yna.co.kr/view/GYH20260929000700044?section=graphic/index",
+      "image_url": "https://img2.yna.co.kr/etc/graphic/YH/2026/09/29/GYH2026092900070004400_P1.jpg",
+      "pubdate": "2026-09-29T20:10:00+09:00",
+      "image": "images/graphics/연합뉴스_03.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국·OECD 학생 1인당 공교육비 지출액",
+      "link": "https://www.yna.co.kr/view/GYH20260929000600044?section=graphic/index",
+      "image_url": "https://img7.yna.co.kr/etc/graphic/YH/2026/09/29/GYH2026092900060004400_P1.jpg",
+      "pubdate": "2026-09-29T18:01:00+09:00",
+      "image": "images/graphics/연합뉴스_04.jpg"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융엘리트 '미공개정보 공유' 부당이득 취득 개요",
+      "link": "https://www.yna.co.kr/view/GYH20260929000500044?section=graphic/index",
+      "image_url": "https://img8.yna.co.kr/etc/graphic/YH/2026/09/29/GYH2026092900050004402_P1.jpg",
+      "pubdate": "2026-09-29T15:52:00+09:00",
+      "image": "images/graphics/연합뉴스_05.jpg"
+    },
+    {
       "source": "뉴시스",
-      "title": "2027학년도 수능 9월 모의평가 등급별 점수",
-      "link": "https://www.newsis.com/photo/graview/?id=NISI20260928_0002249397&cid=photo&page=1",
-      "image_url": "https://image.newsis.com/2026/09/28/NISI20260928_0002249397_web.jpg?rnd=20260928164147",
-      "pubdate": "2026-09-28T16:41:47+09:00",
-      "image": "images/graphics/뉴시스_01.jpg"
+      "title": "대학 1인당 공교육비, OECD 72% 수준",
+      "link": "https://www.newsis.com/photo/graview/?id=NISI20260929_0002250558&cid=photo&page=1",
+      "image_url": "https://image.newsis.com/2026/09/29/NISI20260929_0002250558_web.jpg?rnd=20260929202030",
+      "pubdate": "2026-09-29T20:20:30+09:00",
+      "image": "images/graphics/뉴시스_06.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 증시] 9월 28일 코스피 코스닥",
-      "link": "https://www.news1.kr/photos/8129925",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/28/8129925/no_water.jpg",
-      "pubdate": "2026-09-29T01:49:44.187972+09:00",
-      "image": "images/graphics/뉴스1_02.jpg"
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 배드민턴 여자 단식 금메달-안세영",
+      "link": "https://www.news1.kr/photos/8132400",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/29/8132400/no_water.jpg",
+      "pubdate": "2026-09-30T02:04:22.224441+09:00",
+      "image": "images/graphics/뉴스1_07.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 2027학년도 수능 9월 모의평가 채점 결과",
-      "link": "https://www.news1.kr/photos/8128730",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/28/8128730/no_water.jpg",
-      "pubdate": "2026-09-28T23:49:44.187972+09:00",
-      "image": "images/graphics/뉴스1_03.jpg"
+      "title": "[오늘의 증시] 9월 29일 코스피 코스닥",
+      "link": "https://www.news1.kr/photos/8132256",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/29/8132256/no_water.jpg",
+      "pubdate": "2026-09-30T01:04:22.224441+09:00",
+      "image": "images/graphics/뉴스1_08.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[오늘의 그래픽] 서울 유주택 신혼부부 10쌍 중 3쌍 '6억 초과'…9년 새 3배",
-      "link": "https://www.news1.kr/photos/8128883",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/28/8128883/no_water.jpg",
-      "pubdate": "2026-09-28T19:49:44.187972+09:00",
-      "image": "images/graphics/뉴스1_04.jpg"
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 쿠라시 여자 +87㎏급 금메달-김민영",
+      "link": "https://www.news1.kr/photos/8132225",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/29/8132225/no_water.jpg",
+      "pubdate": "2026-09-30T01:04:22.224441+09:00",
+      "image": "images/graphics/뉴스1_09.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 정당 지지도 추이",
-      "link": "https://www.news1.kr/photos/8128413",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/28/8128413/no_water.jpg",
-      "pubdate": "2026-09-28T17:49:44.187972+09:00",
-      "image": "images/graphics/뉴스1_05.jpg"
+      "title": "[그래픽] 2026 아이치·나고야 아시안게임 배드민턴 여자 복식 금메달-백하나·이소희",
+      "link": "https://www.news1.kr/photos/8131489",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/29/8131489/no_water.jpg",
+      "pubdate": "2026-09-30T00:04:22.224441+09:00",
+      "image": "images/graphics/뉴스1_10.jpg"
     },
     {
       "source": "뉴스1",
-      "title": "[그래픽] 이재명 대통령 국정수행 평가",
-      "link": "https://www.news1.kr/photos/8128412",
-      "image_url": "https://image.news1.kr/system/photos/2026/9/28/8128412/no_water.jpg",
-      "pubdate": "2026-09-28T17:49:44.187972+09:00",
-      "image": "images/graphics/뉴스1_06.jpg"
+      "title": "[오늘의 그래픽] 60만명 불러모은 상어 '부캉이'…12일만에 바다로",
+      "link": "https://www.news1.kr/photos/8131675",
+      "image_url": "https://image.news1.kr/system/photos/2026/9/29/8131675/no_water.jpg",
+      "pubdate": "2026-09-29T23:04:22.224441+09:00",
+      "image": "images/graphics/뉴스1_11.jpg"
     }
   ]
 }

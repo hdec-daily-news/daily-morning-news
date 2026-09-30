@@ -1,87 +1,82 @@
 {
-  "generated_at": "2026-09-29T09:49:43.964957+09:00",
-  "date_label": "9/29(화)",
+  "generated_at": "2026-09-30T09:04:22.001138+09:00",
+  "date_label": "9/30(수)",
   "articles": [
     {
-      "title": "군 \"북한군 지뢰 가능성 매우 커\"…'상응 조치' 경고",
-      "link": "https://n.news.naver.com/mnews/article/422/0000910559",
+      "title": "\"절감 효과 겨우 50억\"… 항만공사 노조, 정부 통합안에 '총력 투쟁'",
+      "link": "https://n.news.naver.com/mnews/article/031/0001061725",
       "section": "100",
       "image": "images/article_01.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "정점식 \"저열한 北 도발 드러나…대북 확성기 즉시 재설치해야\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009196915",
+      "title": "李대통령 “명절 할인지원 1조원으로”…미래대응기금 활용 언급",
+      "link": "https://n.news.naver.com/mnews/article/658/0000156993",
       "section": "100",
       "image": "images/article_02.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "김어준 “李대통령, ‘알고리즘 감옥’ 갇혔다…리트윗하지 마세요”[이슈픽]",
-      "link": "https://n.news.naver.com/mnews/article/081/0003684101",
+      "title": "추미애 \"162조 규모 미래대응기금…세수 기여 지역에 재투자 돼야\"",
+      "link": "https://n.news.naver.com/mnews/article/008/0005419758",
       "section": "100",
       "image": "images/article_03.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_03_3.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "세 차례 타협 무산 뒤 재제청 거부한 대법원장…대법관 공석 끝낼 출구 있나",
-      "link": "https://n.news.naver.com/mnews/article/469/0000956477",
+      "title": "강신철 \"北지뢰 유실 아닌 매설…국경선 요새화 관련 추정\" [종합]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005337285",
       "section": "100",
       "image": "images/article_04.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"합의 어기고 거짓 발표까지\"…우크라 해명·사과 요구",
-      "link": "https://n.news.naver.com/mnews/article/055/0001391417",
+      "title": "李대통령 \"'광주 군공항 2028년 임시이전' 늦어…최대한 당겨야\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016344933",
       "section": "100",
       "image": "images/article_05.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "[속보] 은행 9시 30분 문연다…내년 4월부터 ‘영업시간 30분 단축’",
-      "link": "https://n.news.naver.com/mnews/article/025/0003554244",
+      "title": "이재용 “축하해, 친구”…뉴욕 타임스스퀘어에 젠슨황 띄운 사연",
+      "link": "https://n.news.naver.com/mnews/article/020/0003751327",
       "section": "101",
       "image": "images/article_06.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "5년내 두 번 담합 땐 시장서 퇴출",
-      "link": "https://n.news.naver.com/mnews/article/015/0005336781",
+      "title": "삼성전자, 능률협 평가서 25년 연속 최다 부문 1위",
+      "link": "https://n.news.naver.com/mnews/article/082/0001400435",
       "section": "101",
       "image": "images/article_07.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "삼성전기, AI 호조에 영업이익률 10% 후반 찍나…실적 눈높이 높아진다",
-      "link": "https://n.news.naver.com/mnews/article/029/0003050087",
+      "title": "은행 영업 30분 단축…“연차 써야하나”",
+      "link": "https://n.news.naver.com/mnews/article/449/0000362444",
       "section": "101",
       "image": "images/article_08.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
-      "link": "https://n.news.naver.com/mnews/article/016/0002702533",
+      "title": "고속도로 출구 잘못 나갔어도 괜찮다…15분 내 재진입하면 기본요금 면제",
+      "link": "https://n.news.naver.com/mnews/article/025/0003554494",
       "section": "101",
       "image": "images/article_09.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "명륜진사갈비, 오너일가 대부업체에 3000억 저리대출…이종근 회장 檢고발",
-      "link": "https://n.news.naver.com/mnews/article/018/0006376302",
+      "title": "ISA 가입자 1000만명 돌파…성인 4명 중 1명 가입",
+      "link": "https://n.news.naver.com/mnews/article/016/0002702995",
       "section": "101",
       "image": "images/article_10.png",
       "ok": true,
@@ -89,93 +84,84 @@
         {
           "image": "images/infographics/article_10_2.png",
           "caption": ""
-        },
-        {
-          "image": "images/infographics/article_10_3.png",
-          "caption": ""
         }
       ]
     },
     {
-      "title": "부산 ‘부캉이’ 오늘 먼 바다로 내보낸다… 물대포 쏴 생기는 진동으로 유도",
-      "link": "https://n.news.naver.com/mnews/article/023/0004000781",
+      "title": "檢, \"이재명 아들 군 면제\" 허위글 이수정 항소 기각 요청",
+      "link": "https://n.news.naver.com/mnews/article/001/0016343546",
       "section": "102",
       "image": "images/article_11.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "추미애 \"창릉 입주 늘면 교통·녹지도 더 늘려야\"",
-      "link": "https://n.news.naver.com/mnews/article/015/0005336626",
+      "title": "코인거래소 묶인 피싱 피해금, 주인 찾았다",
+      "link": "https://n.news.naver.com/mnews/article/009/0005741570",
       "section": "102",
       "image": "images/article_12.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘불영어’ 논란 뒤 난도 낮춘 9월 모평…영어 1등급 15.5%",
-      "link": "https://n.news.naver.com/mnews/article/011/0004666185",
+      "title": "‘2.5조 재산분할’ 권혁빈, 이혼소송 불복 항소…스마일게이트 지분 ‘35%’ 다시 법정으로",
+      "link": "https://n.news.naver.com/mnews/article/016/0002702902",
       "section": "102",
       "image": "images/article_13.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "\"국민연금에 반도체 초과세수 활용을 … 초기 투입땐 복리효과 극대화\"",
-      "link": "https://n.news.naver.com/mnews/article/009/0005741002",
+      "title": "'내란가담' 박성재 2심서 징역 25년 구형…朴 \"사법 살인\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016344816",
       "section": "102",
       "image": "images/article_14.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "‘온통대전’ 10~11월 최대 15% 캐시백 펼친다",
-      "link": "https://n.news.naver.com/mnews/article/011/0004666254",
+      "title": "'397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기",
+      "link": "https://n.news.naver.com/mnews/article/214/0001526334",
       "section": "102",
       "image": "images/article_15.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "젠슨 황·이재용·최태원 뉴욕 회동 예정…“반도체·AI 협력 논의될 듯”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012264585",
+      "title": "후티·알샤바브 협력 확대…홍해 교역로 양면 압박",
+      "link": "https://n.news.naver.com/mnews/article/015/0005337444",
       "section": "104",
       "image": "images/article_16.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "“AI가 AI를 개발한다면”…22명 연구자 경고 “수년의 진보, 수개월로 압축될 수도”",
-      "link": "https://n.news.naver.com/mnews/article/029/0003050326",
+      "title": "트럼프, 7개월 이란전에 또 \"짧은 소풍\"…\"곧 끝나고 유가급락\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016345149",
       "section": "104",
       "image": "images/article_17.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "佛극우 또 세력 확장…국민연합, 사상 첫 상원 교섭단체 구성",
-      "link": "https://n.news.naver.com/mnews/article/001/0016339756",
+      "title": "젤렌스키 \"러에 북한군 8천 명 이상 있어\"...포로 송환 추가 언급 안해",
+      "link": "https://n.news.naver.com/mnews/article/052/0002412220",
       "section": "104",
       "image": "images/article_18.png",
       "ok": true,
-      "infographics": [
-        {
-          "image": "images/infographics/article_18_3.png",
-          "caption": ""
-        }
-      ]
+      "infographics": []
     },
     {
-      "title": "이란 미사일에 호르무즈서 美해병대원 8명 부상…10일 뒤 집계",
-      "link": "https://n.news.naver.com/mnews/article/421/0009196755",
+      "title": "트럼프, 중간선거 앞두고 제철소 투자 발표…20조원 규모",
+      "link": "https://n.news.naver.com/mnews/article/374/0000535185",
       "section": "104",
       "image": "images/article_19.png",
       "ok": true,
       "infographics": []
     },
     {
-      "title": "우크라 드론에 속수무책…러, 민간기업에 방어책임 떠넘겼다",
-      "link": "https://n.news.naver.com/mnews/article/025/0003554030",
+      "title": "이란, 카타르 통해 미국에 호르무즈 재개방 조건 다시 전달",
+      "link": "https://n.news.naver.com/mnews/article/214/0001526308",
       "section": "104",
       "image": "images/article_20.png",
       "ok": true,
