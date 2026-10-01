@@ -57,12 +57,10 @@ def main():
     with open("data/links.json", encoding="utf-8") as f:
         data = json.load(f)
     os.makedirs("output", exist_ok=True)
-    date_compact = data["window_end"][:10].replace("-", "")[2:]  # e.g. 260709
-    out_path = f"output/{date_compact}__일일_정치_정당_경제_주요_기사_정리.xlsx"
-    build(data, out_path)
-    # 최신본 고정 파일명도 함께 생성 (페이지 다운로드 링크용)
+    # 사이트는 output/latest.xlsx만 참조하므로 날짜별 파일은 더 이상 만들지 않음
+    # (매일 누적되어 git 저장소 용량만 불리고 실제로는 쓰이지 않았음 — 2026-10-01)
     build(data, "output/latest.xlsx")
-    print(f"[OK] 엑셀 생성: {out_path}")
+    print("[OK] 엑셀 생성: output/latest.xlsx")
 
 
 if __name__ == "__main__":
