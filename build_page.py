@@ -18,7 +18,9 @@ TEMPLATE = """<!DOCTYPE html>
   <p class="date">{date_label} · 기준 {window_start} ~ {window_end}</p>
   <p class="download">
     <a href="output/latest.xlsx">엑셀 다운로드</a>
+    <button id="refresh-btn" class="refresh-btn" type="button">🔄 지금 업데이트</button>
   </p>
+  <p id="refresh-note" class="hint" hidden></p>
 </header>
 
 <section class="infographics">
@@ -93,6 +95,98 @@ TEMPLATE = """<!DOCTYPE html>
       }}
     }});
   }});
+}})();
+</script>
+<script>
+(function () {{
+  var REPO = "hdec-daily-news/daily-morning-news";
+  var WORKFLOW = "daily-update.yml";
+  var TOKEN_KEY = "gh_pat_daily_news";
+  var LAST_RUN_KEY = "gh_pat_daily_news_last_run";
+  var COOLDOWN_MS = 3 * 60 * 1000;
+
+  var btn = document.getElementById("refresh-btn");
+  var note = document.getElementById("refresh-note");
+  if (!btn) return;
+
+  function showNote(text) {{
+    note.textContent = text;
+    note.hidden = false;
+  }}
+
+  function resetBtn(label) {{
+    btn.disabled = false;
+    btn.textContent = label || "🔄 지금 업데이트";
+  }}
+
+  function getToken() {{
+    try {{ return localStorage.getItem(TOKEN_KEY); }} catch (e) {{ return null; }}
+  }}
+
+  function promptToken() {{
+    var t = window.prompt(
+      "GitHub 개인 토큰(최초 1회만 입력, 이 브라우저에만 저장됨)을 붙여넣으세요.\\n\\n" +
+      "만드는 법: GitHub 로그인 → 우측상단 프로필 → Settings → Developer settings → " +
+      "Personal access tokens → Fine-grained tokens → Generate new token\\n" +
+      "- Repository access: hdec-daily-news/daily-morning-news 만 선택\\n" +
+      "- Permissions: Actions = Read and write"
+    );
+    if (t && t.trim()) {{
+      try {{ localStorage.setItem(TOKEN_KEY, t.trim()); }} catch (e) {{}}
+      return t.trim();
+    }}
+    return null;
+  }}
+
+  function triggerUpdate() {{
+    try {{
+      var last = parseInt(localStorage.getItem(LAST_RUN_KEY) || "0", 10);
+      if (Date.now() - last < COOLDOWN_MS) {{
+        showNote("방금 요청했어요. 잠시 후 다시 눌러주세요.");
+        return;
+      }}
+    }} catch (e) {{}}
+
+    var token = getToken();
+    if (!token) {{
+      token = promptToken();
+      if (!token) return;
+    }}
+
+    btn.disabled = true;
+    btn.textContent = "⏳ 요청 중...";
+    note.hidden = true;
+
+    fetch("https://api.github.com/repos/" + REPO + "/actions/workflows/" + WORKFLOW + "/dispatches", {{
+      method: "POST",
+      headers: {{
+        "Authorization": "Bearer " + token,
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json"
+      }},
+      body: JSON.stringify({{ ref: "main" }})
+    }}).then(function (r) {{
+      if (r.status === 204) {{
+        try {{ localStorage.setItem(LAST_RUN_KEY, String(Date.now())); }} catch (e) {{}}
+        showNote("✅ 업데이트 요청됨 — 2~3분 후 새로고침 해주세요.");
+        resetBtn();
+      }} else if (r.status === 401 || r.status === 403) {{
+        try {{ localStorage.removeItem(TOKEN_KEY); }} catch (e) {{}}
+        showNote("토큰이 유효하지 않습니다. 다시 눌러서 새 토큰을 입력해주세요.");
+        resetBtn();
+      }} else {{
+        r.text().then(function (t) {{
+          showNote("요청 실패(status " + r.status + "). 잠시 후 다시 시도해주세요.");
+        }});
+        resetBtn();
+      }}
+    }}).catch(function () {{
+      showNote("네트워크 오류로 요청에 실패했습니다.");
+      resetBtn();
+    }});
+  }}
+
+  btn.addEventListener("click", triggerUpdate);
 }})();
 </script>
 </body>
