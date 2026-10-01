@@ -12,10 +12,16 @@ on:
         default: ''
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -59,10 +65,28 @@ jobs:
       - name: Build page
         run: python build_page.py
 
-      - name: Commit and push
+      - name: Assemble site (매일 생성되는 이미지/엑셀은 git에는 커밋하지 않고 배포 아티팩트로만 사용)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Daily update $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
-          git push
+          mkdir -p _site/output _site/images
+          cp index.html style.css _site/
+          cp output/latest.xlsx output/images.zip _site/output/
+          cp -r images/. _site/images/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,3 +1,10 @@
 .env
 __pycache__/
 *.pyc
+
+# 매일 생성되는 산출물 — 이제 git에 커밋하지 않고 GitHub Pages 배포 아티팩트로만 사용 (2026-10-01)
+/data/
+/images/
+/output/
+/index.html
+/_site/
