@@ -37,7 +37,7 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium --with-deps
 
-      - name: Fetch previous links (재실행 시 기존 기사 보존용, 없으면 무시)
+      - name: "Fetch previous links (재실행 시 기존 기사 보존용, 없으면 무시)"
         run: |
           mkdir -p data
           curl -sf "https://hdec-daily-news.github.io/daily-morning-news/data/links.json" -o data/prev_links.json || rm -f data/prev_links.json
@@ -54,7 +54,7 @@ jobs:
           NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python collect_newsstand.py
 
-      - name: Merge previous links (수동 업데이트만: 같은 윈도우면 기존 기사 유지 + 신규만 추가)
+      - name: "Merge previous links (수동 업데이트만, 같은 윈도우면 기존 기사 유지 + 신규만 추가)"
         if: github.event_name != 'schedule'
         run: python merge_previous.py
 
