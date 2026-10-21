@@ -35,6 +35,30 @@ header .download a {
   cursor: pointer;
 }
 .refresh-btn:disabled { opacity: 0.6; cursor: default; }
+.progress { margin-top: 10px; max-width: 480px; }
+.progress[hidden] { display: none; }
+.progress-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: #444;
+  margin-bottom: 4px;
+}
+.progress-track { height: 8px; background: #e5e7eb; border-radius: 4px; overflow: hidden; }
+.progress-fill { height: 100%; width: 0; background: #2563eb; border-radius: 4px; transition: width 0.3s ease; }
+.progress-fill.failed { background: #dc2626; }
+.progress-reload {
+  font-size: 12px;
+  font-family: inherit;
+  color: #fff;
+  background: #2563eb;
+  border: 0;
+  padding: 3px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-left: 6px;
+}
 section { margin-top: 32px; }
 section h2 { font-size: 18px; border-bottom: 2px solid #2563eb; padding-bottom: 6px; }
 .section-head {

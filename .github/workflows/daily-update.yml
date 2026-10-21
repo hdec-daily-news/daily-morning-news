@@ -37,6 +37,11 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium --with-deps
 
+      - name: Fetch previous links (재실행 시 기존 기사 보존용, 없으면 무시)
+        run: |
+          mkdir -p data
+          curl -sf "https://hdec-daily-news.github.io/daily-morning-news/data/links.json" -o data/prev_links.json || rm -f data/prev_links.json
+
       - name: Collect links (project 1)
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
@@ -48,6 +53,10 @@ jobs:
         env:
           NOW_OVERRIDE: ${{ github.event.inputs.now_override }}
         run: python collect_newsstand.py
+
+      - name: Merge previous links (수동 업데이트만: 같은 윈도우면 기존 기사 유지 + 신규만 추가)
+        if: github.event_name != 'schedule'
+        run: python merge_previous.py
 
       - name: Build Excel (project 1)
         run: python build_excel.py
@@ -67,8 +76,9 @@ jobs:
 
       - name: Assemble site (매일 생성되는 이미지/엑셀은 git에는 커밋하지 않고 배포 아티팩트로만 사용)
         run: |
-          mkdir -p _site/output _site/images
+          mkdir -p _site/output _site/images _site/data
           cp index.html style.css _site/
+          cp data/links.json _site/data/
           cp output/latest.xlsx output/images.zip _site/output/
           cp -r images/. _site/images/
 

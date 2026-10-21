@@ -21,6 +21,13 @@ TEMPLATE = """<!DOCTYPE html>
     <button id="refresh-btn" class="refresh-btn" type="button">🔄 지금 업데이트</button>
   </p>
   <p id="refresh-note" class="hint" hidden></p>
+  <div id="refresh-progress" class="progress" hidden>
+    <div class="progress-head">
+      <span id="progress-label">대기 중</span>
+      <span><span id="progress-pct">0%</span> <button id="progress-reload" class="progress-reload" type="button" hidden>새로고침</button></span>
+    </div>
+    <div class="progress-track"><div id="progress-fill" class="progress-fill"></div></div>
+  </div>
 </header>
 
 <section class="infographics">
@@ -168,8 +175,9 @@ TEMPLATE = """<!DOCTYPE html>
     }}).then(function (r) {{
       if (r.status === 204) {{
         try {{ localStorage.setItem(LAST_RUN_KEY, String(Date.now())); }} catch (e) {{}}
-        showNote("✅ 업데이트 요청됨 — 2~3분 후 새로고침 해주세요.");
+        showNote("✅ 업데이트 요청됨 — 진행률이 100%가 되면 새로고침 해주세요.");
         resetBtn();
+        watchProgress(true);
       }} else if (r.status === 401 || r.status === 403) {{
         try {{ localStorage.removeItem(TOKEN_KEY); }} catch (e) {{}}
         showNote("토큰이 유효하지 않습니다. 다시 눌러서 새 토큰을 입력해주세요.");
@@ -186,7 +194,169 @@ TEMPLATE = """<!DOCTYPE html>
     }});
   }}
 
+  // ---- 업데이트 진행률 바: GitHub Actions 실행의 step 상태를 읽어 표시 ----
+  var bar = document.getElementById("refresh-progress");
+  var fill = document.getElementById("progress-fill");
+  var pctEl = document.getElementById("progress-pct");
+  var labelEl = document.getElementById("progress-label");
+  var reloadBtn = document.getElementById("progress-reload");
+  var API = "https://api.github.com/repos/" + REPO + "/actions";
+  var POLL_MS = 8000;
+  var MAX_WATCH_MS = 15 * 60 * 1000;
+  var DEPLOY_EST = 20;
+  // [step 이름 접두어, 예상 소요(초), 표시 문구]
+  var STEPS = [
+    ["Install dependencies", 45, "환경 준비 중"],
+    ["Collect links", 25, "기사 수집 중"],
+    ["Collect newsstand", 10, "뉴스스탠드 수집 중"],
+    ["Build Excel", 2, "엑셀 생성 중"],
+    ["Capture screenshots", 50, "메인화면 캡쳐 중"],
+    ["Capture agency", 20, "통신사 그래픽 수집 중"],
+    ["Build page", 2, "페이지 생성 중"],
+    ["Assemble", 3, "게시 준비 중"],
+    ["Upload Pages", 5, "게시 준비 중"],
+    ["Deploy to GitHub Pages", 15, "게시 중"]
+  ];
+
+  var watching = false, runId = null, jobs = [], shown = 0, finished = null;
+  var pollTimer = null, tickTimer = null, watchStart = 0, failCount = 0;
+
+  function stepInfo(name) {{
+    for (var i = 0; i < STEPS.length; i++) {{
+      if (name.indexOf(STEPS[i][0]) === 0) return STEPS[i];
+    }}
+    return [name, 2, null];
+  }}
+
+  function apiGet(path) {{
+    var headers = {{ "Accept": "application/vnd.github+json" }};
+    var token = getToken();
+    if (token) headers["Authorization"] = "Bearer " + token;
+    return fetch(API + path, {{ headers: headers }}).then(function (r) {{
+      return r.ok ? r.json() : null;
+    }}).catch(function () {{ return null; }});
+  }}
+
+  // 현재 jobs 스냅샷으로 진행률(pct)과 문구(label)를 계산. step 진행 중이면 예상 소요시간 기준으로 부드럽게 증가.
+  function computeProgress() {{
+    var total = 0, done = 0, label = "대기 중", hasDeploy = false;
+    jobs.forEach(function (job) {{
+      if (job.name === "deploy") hasDeploy = true;
+      (job.steps || []).forEach(function (s) {{
+        var info = stepInfo(s.name);
+        total += info[1];
+        if (s.status === "completed") {{
+          done += info[1];
+        }} else if (s.status === "in_progress") {{
+          var elapsed = s.started_at ? (Date.now() - Date.parse(s.started_at)) / 1000 : 0;
+          done += info[1] * Math.min(0.9, Math.max(0, elapsed / info[1]));
+          if (info[2]) label = info[2];
+        }}
+      }});
+    }});
+    if (!jobs.length) return {{ pct: 2, label: "대기 중 (앞선 실행 완료 후 시작)" }};
+    if (!hasDeploy) total += DEPLOY_EST;
+    var pct = total ? Math.floor(done / total * 100) : 0;
+    return {{ pct: Math.max(2, Math.min(pct, 99)), label: label }};
+  }}
+
+  function render(pct, label) {{
+    fill.style.width = pct + "%";
+    pctEl.textContent = Math.round(pct) + "%";
+    if (label) labelEl.textContent = label;
+  }}
+
+  function tick() {{
+    if (finished) return;
+    var p = computeProgress();
+    // 표시값은 목표값을 향해 천천히 따라가며 절대 뒤로 가지 않음
+    if (p.pct > shown) shown = Math.min(p.pct, shown + Math.max(0.3, (p.pct - shown) * 0.2));
+    render(shown, p.label);
+  }}
+
+  function stopWatch() {{
+    watching = false;
+    clearInterval(pollTimer);
+    clearInterval(tickTimer);
+  }}
+
+  function finish(ok, runUrl) {{
+    finished = ok ? "ok" : "fail";
+    stopWatch();
+    if (ok) {{
+      shown = 100;
+      fill.classList.remove("failed");
+      render(100, "✅ 업데이트 완료 — 새로고침 하세요");
+      reloadBtn.hidden = false;
+    }} else {{
+      fill.classList.add("failed");
+      render(shown, "❌ 업데이트 실패 — 잠시 후 다시 시도해주세요");
+    }}
+  }}
+
+  function poll() {{
+    if (Date.now() - watchStart > MAX_WATCH_MS) {{ stopWatch(); bar.hidden = true; return; }}
+    var req;
+    if (runId) {{
+      req = apiGet("/runs/" + runId + "/jobs").then(function (d) {{ return d && d.jobs; }});
+    }} else {{
+      req = apiGet("/runs?per_page=10").then(function (d) {{
+        if (!d) return null;
+        var active = d.workflow_runs.filter(function (r) {{ return r.status !== "completed"; }});
+        if (!active.length) return [];
+        var run = active.filter(function (r) {{ return r.status === "in_progress"; }})[0] || active[0];
+        runId = run.id;
+        return apiGet("/runs/" + runId + "/jobs").then(function (j) {{ return j && j.jobs; }});
+      }});
+    }}
+    req.then(function (list) {{
+      if (list === null || list === undefined) {{
+        if (++failCount >= 5) {{ stopWatch(); bar.hidden = true; }}
+        return;
+      }}
+      failCount = 0;
+      if (!runId) {{
+        // 진행 중인 실행이 아직 없음 (요청 직후 등록 지연) → 클릭 직후에만 계속 대기
+        if (!watching || !clickedRecently || Date.now() - watchStart > 60000) {{ stopWatch(); bar.hidden = true; }}
+        return;
+      }}
+      jobs = list;
+      var failed = jobs.some(function (j) {{ return j.conclusion === "failure" || j.conclusion === "cancelled"; }});
+      var allDone = jobs.length >= 2 && jobs.every(function (j) {{ return j.status === "completed"; }});
+      if (failed) finish(false);
+      else if (allDone) finish(true);
+    }});
+  }}
+
+  var clickedRecently = false;
+  function watchProgress(fromClick) {{
+    if (watching) return;
+    watching = true;
+    clickedRecently = !!fromClick;
+    finished = null; runId = null; jobs = []; shown = 0; failCount = 0;
+    watchStart = Date.now();
+    reloadBtn.hidden = true;
+    fill.classList.remove("failed");
+    if (fromClick) {{
+      bar.hidden = false;
+      render(2, "요청 접수 중");
+    }}
+    poll();
+    pollTimer = setInterval(poll, POLL_MS);
+    tickTimer = setInterval(function () {{
+      if (!runId) return;
+      bar.hidden = false;
+      tick();
+    }}, 300);
+  }}
+
+  reloadBtn.addEventListener("click", function () {{
+    window.location.href = window.location.pathname + "?v=" + Date.now();
+  }});
+
   btn.addEventListener("click", triggerUpdate);
+  // 페이지를 열었을 때 이미 진행 중인 업데이트가 있으면 진행률을 이어서 보여줌
+  watchProgress(false);
 }})();
 </script>
 </body>
